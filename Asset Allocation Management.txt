@@ -1,0 +1,618 @@
+6
+Asset Allocation Management
+The fundamental objective of portfolio management is faithful implementation of long-term
+asset allocation targets. If investors allow actual portfolio holdings to differ materially from
+asset class targets, the resulting portfolio fails to reflect the risk and return preferences
+determined by the asset allocation process. By holding assets in proportion to policy targets and
+generating asset class returns commensurate with market levels, investors achieve investment
+goals without slippage.
+Only the most basic portfolios, consisting entirely of marketable securities, allow investors
+to implement investment policies precisely, holding asset classes at targeted levels and using
+passive investment vehicles to mirror market returns. Disciplined investors maintain targeted
+levels by following a systematic program of rebalancing, using proceeds from selling assets
+exhibiting relative strength to fund purchases of assets showing relative weakness. The use of
+low cost, passive investment vehicles facilitates the seamless implementation of policy asset
+allocation targets in marketable security portfolios. Serious pursuit of rebalancing ensures that
+portfolios maintain target levels, exposing the fund to the desired risk and return
+characteristics.
+Unfortunately, for all except the simplest structures, when implementing an investment
+program, real world complexities drive a wedge between the clearly defined ideal and the messy
+reality. Investment in illiquid vehicles, pursuit of active management strategies, and use of
+explicit or implicit leverage cause actual performance to differ from the theoretical returns
+associated with the policy portfolio.
+Less liquid asset types introduce the likelihood that actual allocations deviate from target
+levels. Shortfalls or surpluses in private assets require offsetting positions in more liquid assets,
+driving portfolio characteristics away from desired levels. Since by their very nature private
+holdings take substantial amounts of time to buy or sell efficiently, actual portfolios usually
+exhibit some functional misallocation. Dealing with the over- or underallocation resulting
+from illiquid positions creates challenges for thoughtful investors.
+Even when actual portfolio allocations match long-term targets, active management
+techniques usually cause asset class returns to differ from index returns. If inefficiencies exist in
+the pricing of individual securities, market participants might be rewarded for uncovering
+attractive investment opportunities with risk-adjusted excess returns. Portfolio managers
+willingly accept risks associated with active management, expecting that investment skill will
+ultimately provide material rewards. But because the expected excess returns arrive in
+unpredictable fashion, if at all, the actively managed asset class might suffer from periods of
+material underperformance, opening a gap between a disappointing reality and the hoped-for
+positive active management result.
+Leverage, both implicit and explicit, poses another challenge to the faithful implementation
+of policy asset allocation targets. By magnifying investment outcomes, both good and bad,
+leverage fundamentally alters the risk and return characteristics of investment portfolios.
+Unless fiduciaries pay close attention to investment activities, leverage exposes funds to
+unanticipated outcomes. Implicit leverage, often found in derivatives positions, lurks in many
+portfolios, coming to light only when investment disaster strikes. Explicit leverage, such as that
+embodied in security lending programs, contains potential to alter portfolio risk characteristics
+in unwelcome ways. Understanding and controlling the degree of leverage in particular policies
+and strategies allows investors to fashion investment portfolios appropriate to their tolerance
+for risk.
+Many market participants treat risk with little sophistication. Portfolio managers spend
+enormous amounts of time, energy, and resources on asset allocation projects, implement the
+recommendations, and then let portfolio allocations drift with the markets. Some investors
+pursue active management programs by cobbling together a variety of specialist managers,
+without understanding the sector, size, or style bets created by the more-or-less random
+portfolio construction process. Other participants hire managers based on strong past
+performance, forgetting to evaluate the investment program, unaware of hidden leverage likely
+to provide volatile performance. A thoughtful portfolio management process ensures that
+funds accept only those risks that comport with the asset allocation targets and that promise
+sufficient incremental rewards.
+The Greek author Palladas may have had portfolio management in mind when he wrote
+that "there be many a slip 'twixt the cup and the lip." Asset allocation drift and active
+management risk contain the potential to create outcomes measurably different from
+expectations based on the policy asset allocation portfolio. Moreover, exposure to implicit and
+explicit leverage moves portfolios to risk levels materially different from baseline expectations,
+dramatically altering expected investment outcomes. Disciplined implementation of asset
+allocation policies avoids altering the risk and return profile of an investment portfolio,
+allowing investors to accept only those active management risks expected to add value.
+Concern about risk represents an integral part of the portfolio management process,
+requiring careful monitoring at the overall portfolio, asset class, and manager levels.
+Understanding investment and implementation risks increases the chances that an investment
+program will achieve its goals.
+REBALANCING
+Proper use of mean-variance optimization and forward looking simulations places risk
+considerations at the heart of the investment management process. By evaluating the likelihood
+that investment policies fail to meet articulated goals, investors confront directly the critical
+financial risks facing an institution. The asset allocation targets selected through thoughtful
+application of quantitative tools and informed judgment define with reasonable precision a
+portfolio of assets likely to satisfy institutional needs.
+After establishing asset allocation policies, risk control requires regular rebalancing to policy
+targets. Movements in prices of financial assets inevitably cause asset class allocations to deviate
+from target levels. For instance, a decline in stock prices and an increase in bond prices leads
+stocks to be underweight and bonds to be overweight, causing the portfolio to have lower than
+desired expected risk and return characteristics. To restore the portfolio to target allocations,
+rebalancing investors purchase stocks and sell bonds.
+Rebalancing facilitates reshaping of marketable security portfolios, providing an impetus to
+examine manager allocations. Investors improve portfolio returns by giving funds to managers
+expected to outperform, and withdrawing money from those with less rosy prospects. In the
+absence of fundamental reasons to change manager allocations, positive results might be
+expected from following the strategy of withdrawing money from managers posting strong
+recent performance and supplying money to those with weak numbers. When in doubt, lean
+against the wind.
+Psychology of Rebalancing
+Contrarian behavior lies at the heart of many successful investment strategies. Unfortunately
+for investors, human nature craves the positive reinforcement that comes from running with
+the crowd. The conventional attitude comes through loud and clear in the words of Cabaret's
+Sally Bowles: "Everybody loves a winner, so nobody loved me. Contrarian investment
+behavior requires shunning the loved and embracing the unloved. Most people prefer the
+opposite.
+In fact, the world of commerce (as opposed to the world of investment) generally rewards
+following the trend. Feeding winners and killing losers leads to commercial successes.
+Executives who hyper-charge winners produce attractive results. Managers who starve losers
+conserve scarce resources. In the Darwinian world of business, success breeds success.
+In the world of investments, failure sows the seeds of future success. The attractively priced,
+out-of-favor strategy provides much better prospective returns than the highly valued, of-the-
+moment alternative. The discount applied to unloved assets enhances expected returns, even as
+the premium assigned to favored assets reduces anticipated results.
+stors find mainstream positions comfortable, in part because of the feeling of
+safety in numbers. The attitudes and activities of the majority create the consensus. By
+definition, only a minority of investors find themselves in the uncomfortable position of
+operating outside of the mainstream. Once a majority of players adopts a heretofore contrarian
+position, the minority view becomes the widely held perspective. Only an unusual few
+consistently take positions truly at odds with conventional wisdom.
+Initiating and maintaining out-of-the-mainstream positions requires great conviction and
+substantial fortitude. Friends and acquaintances describe fundamentally different investment
+programs. The media push a dramatically divergent world view. Brokers urge the sale of
+yesterday's losers and the purchase of today's hot prospects. Advertisements proclaim a new
+paradigm. In the face of a seemingly overwhelming consensus, successful contrarian investors
+turn a deaf ear to the blandishments of the multitudes.
+Establishing a contrarian position constitutes only half of the battle. Failure awaits the
+contrarian investor who loses nerve. Suppose an investor initially avoids the flavor of the
+month. Months become quarters and quarters become years. Ultimately, the weak-kneed
+contrarian capitulates, buying into the new-era reasoning. Of course, the buy-in comes just as
+the mania peaks, causing the realization of pain without the offset of gain. Taking a contrarian
+tack in the absence of the ability to persevere leads to poor results.
+Rebalancing represents supremely rational behavior. Maintaining portfolio targets in the
+face of market moves dictates sale of strong relative performers and purchase of poor relative
+performers. Stated differently, disciplined rebalancers sell what's hot and buy what's not.
+Under normal circumstances, rebalancing asks for modest degrees of fortitude. When markets
+make extreme moves, rebalancing requires substantial amounts of courage.
+Rebalancing Frequency
+Investors debate the frequency with which portfolios should be rebalanced. Some follow the
+calendar, transacting monthly, quarterly, or annually. Others attempt to control transactions
+costs, setting broad limits and trading only when allocations exceed specified ranges. A small
+number pursue continuous rebalancing, a strategy that provides greater risk control with
+potentially lower costs than either the calendar or trading range approaches.
+Continuous rebalancing requires daily valuation of portfolio assets. If asset class values
+deviate by as much a one or two tenths of a percent from target values, managers trade
+securities to achieve targeted levels. Trades tend to be small and accommodating to the market.
+Since rebalancing requires sale of assets experiencing relative price strength and purchase of
+assets experiencing relative price weakness, the immediacy of continuous rebalancing causes
+managers to sell what others are buying and buy what others are selling, thereby providing
+liquidity to the market. In contrast, rebalancing strategies not as responsive to the market
+require larger and less accommodating transactions, increasing market impact and transactions
+costs.
+To the extent that markets exhibit excess volatility, continuous rebalancing generates excess
+returns. Market activity on October 27 and 28, 1997 provides a dramatic example. On October
+27, a 6.9 percent drop in stock prices accompanied a rally in the bond market. The following
+day's reversal saw stocks rebound by 5.1 percent with bonds suffering from selling pressure.
+Rebalancing a 60 percent equity and a 40 percent bond portfolio on those two October days
+added ten basis points to returns, providing a bonus for an activity dedicated fundamentally to
+risk control.
+Even though rebalancing profits represent a nice bonus for investors, the fundamental
+motivation for rebalancing concerns adherence to long-term policy targets. In the context of a
+carefully considered policy portfolio, rebalancing maintains the desired risk level. Thoughtful
+investors employ rebalancing strategies to meet policy asset allocation targets.
+Rebalancing and Illiquidity
+Owners of private assets face a particular challenge in rebalancing activity. At any point in time,
+illiquid holdings of private equity and real assets are unlikely to match targeted levels. An
+amount of assets equivalent to the aggregate illiquid portfolio shortfall (or surplus) must be
+invested in (or withdrawn from) liquid securities portfolios. Appropriate candidates for
+investing private asset under-allocations include shorter duration, low risk assets, since funds
+may be required on short notice to make investments to bring private portfolios closer to target
+levels. Cash, bonds, and absolute return investments provide reasonable temporary alternatives
+for private asset underallocations.
+The strategy of investing underallocations of private assets in apparently similar marketable
+securities holds superficial appeal. For instance, while attempting to build a venture capital
+portfolio, allocation shortfalls might be invested in a portfolio of small technology stocks.
+Unfortunately, the strategy exposes investors to the risk that venture partnerships call funds
+when technology stocks trade at depressed levels, causing sales to be made at an inopportune
+time. In the final analysis, private assets constitute separate asset classes because they behave in a
+fundamentally different fashion from marketable securities, making dependence on high short-
+run correlation between private and public markets an internally inconsistent, potentially
+dangerous strategy.
+When private allocations exceed target levels, as might be the case when marketable
+securities prices decline relative to private asset values, investors face a difficult problem.
+Reducing allocations to higher risk marketable securities and relying on correlations between
+marketable and private assets poses substantial risks. Yet, reducing allocations to lower risk
+assets to accommodate excessive levels of private equity further increases an already elevated
+portfolio risk level. Choosing the least bad alternative, investors should fund overallocations to
+private assets by reducing holdings of risky marketable assets, thereby controlling overall
+portfolio risk levels.
+Using short duration, lower risk assets to substitute for generally higher return private assets
+decreases expected portfolio return and risk levels, while the opposite result occurs when
+reducing marketable security positions to accommodate a private equity overweighting
+Because differences may be substantial between characteristics of target and actual portfolios,
+investors must analyze thoroughly the investment and spending implications of both target
+asset allocations and actual portfolio allocations.
+The potential for material differences between actual and target asset allocation argues for
+gradualism in altering targets for illiquid asset classes. Keeping the reality close to the goal
+facilitates analysis of appropriate spending and asset management possibilities. Avoiding large
+differences between actual and target allocations reduces the size of the mismatch requiring
+temporary placement in an alternative investment vehicle, limiting the impact of a decision
+fraught with problems.
+Rebalancing helps investors achieve the risk and return profile embodied in the policy
+portfolio. Institutions that follow no particular rebalancing policy engage in a peculiar form of
+market timing. By allowing portfolio allocations to drift with the whims of the market,
+portfolio risk and return characteristics change unpredictably, introducing more noise into an
+already highly uncertain process. In fact, over long periods of time, without rebalancing.
+portfolio allocations move toward the highest return asset, increasing the overall risk level of
+the portfolio. Ultimately, disciplined rebalancing provides risk control, increasing the
+likelihood that investors achieve investment goals.
+ACTIVE MANAGEMENT
+After establishing policy asset allocation targets, investors face individual asset class
+management issues. In the marketable securities arena, passive investment vehicles provide near
+certainty that investment results mirror market activity. To the extent that investors pursue
+active strategies, actual results will likely differ from the market, causing asset class
+characteristics to differ from those of the market as a whole. In the alternative asset arena, lack
+of passive investment vehicles inevitably causes active results to vary, sometimes dramatically,
+from baseline return expectations.
+Investing in passively managed vehicles representing individual asset classes effectively
+eliminates variance from market results. Index funds cost little to implement, present far fewer
+agency issues than do actively managed portfolios, and promise faithful replication of market
+portfolios. What explains the fact that few institutional portfolios employ passive management
+exclusively? Certainly, the game of active management entices players to enter, offering the
+often false hope of excess returns. Perhaps those few smart enough to recognize that passive
+strategies provide a superior alternative believe themselves to be smart enough to beat the
+market. In any event, deviations from benchmark returns represent an important source of
+portfolio risk.
+Investors embarking on active management strategies introduce portfolio biases, either
+purposeful or inadvertent. Among the powerful ways in which asset classes might differ from
+benchmarks are with respect to size, sector, and style. Size refers to market capitalization of
+securities holdings, sector concerns the nature of corporate business activities, and style relates
+to the general approach taken by an active manager (value vs. growth).
+Deliberate portfolio biases create potential for significant value added. For instance, an
+investor might believe that value strategies dominate growth strategies, consciously choosing
+only managers with a value orientation. Others believe that small-capitalization stocks provide
+superior stock picking opportunities, moving portfolios toward an explicit overweighting in
+securities of smaller companies. Purposeful, thoughtful strategic bets might generate risk-
+adjusted excess returns for the portfolio.
+Portfolio biases come with potential costs. Hiring managers specializing in particular market
+segments sometimes skews portfolio characteristics dramatically. Consequently, fiduciaries face
+the possibility of meaningful underperformance as short-term costs (poor relative performance
+from small stocks) overwhelm long-term opportunities (less efficient pricing of small-
+capitalization securities). Strategic portfolio biases add value only if implemented in a
+disciplined fashion, after thoughtful analysis, with an appropriately long investment horizon.
+Some portfolio bets result from sloppy management. If portfolio construction simply
+involves collecting enough domestic equity managers to fill the slots in the portfolio's roster,
+the resulting asset class characteristics almost certainly contain significant inadvertent biases.
+Unintended portfolio bets often come to light only after being directly implicated as a cause for
+substandard performance.
+Completeness Funds and Normal Portfolios
+The investment management tools of normal portfolios and completeness funds allow
+managers to evaluate and control portfolio biases. A normal portfolio defines the universe of
+securities from which a manager selects holdings. As such, a normal portfolio represents a fair
+benchmark for measuring manager performance. If the aggregate of the normal portfolios
+within an asset class matches size, style, and sector distributions of that asset class, the resulting
+portfolio contains no deliberate bets relative to size, style, or sector. Bets resulting from active
+manager decisions still influence portfolio returns, but those bets ought to be welcomed as part
+of a deliberate active management strategy.
+If the aggregate of normal portfolios within an asset class fails to match important asset class
+characteristics, portfolio managers introduce biases. One way to offset inadvertent biases is
+through the use of completeness funds. A completeness fund simply represents the portfolio of
+securities, complementary to the aggregate of an asset class's normal portfolios, that causes the
+sum of the normal portfolios plus the completeness fund hatch relevant asset class
+characteristics.
+By offsetting gaps left by the aggregate of a fund's normal portfolios, completeness funds
+cause portfolio returns to be driven by deliberate choice, not inadvertently assumed residual
+risk. A danger in using completeness funds lies in the imprecision inherent in identifying
+normal portfolios. Poorly defined normal portfolios lead to poorly structured completeness
+funds, which may fail to fill unidentified portfolio gaps or may offset deliberate security
+selection bets.
+Because deviations from asset class characteristics cause performance to differ from the
+market, fund managers must ensure that deliberate choice drives portfolio structure, not
+sloppy construction. Normal portfolios and completeness funds assist investors with asset class
+management, but precise application of these tools remains a theoretical goal, not a practical
+reality.
+LEVERAGE
+Leverage appears in portfolios explicitly and implicitly. Explicit leverage involves the use of
+borrowed funds for pursuit of investment opportunities, magnifying portfolio results, good
+and bad. When investment returns exceed borrowing costs, portfolios benefit from leverage.
+When investment returns match borrowing costs, no impact results. When investment returns
+fail to meet borrowing costs, portfolios suffer from leverage.
+Implicit leverage stems from holding positions that embody greater risk than contemplated
+by the asset class within which they are categorized. Simply holding riskier-than-market equity
+securities leverages the portfolio. Unless risk levels of securities within an asset class match asset
+allocation risk assumptions, the portfolio either becomes leveraged from holding riskier assets
+or deleveraged from holding less risky assets. For example, the common practice of holding cash
+in portfolios of common stocks causes the equity portfolio to exhibit less risk than the market,
+effectively deleveraging returns.
+Derivatives provide a common source of implicit leverage. Suppose an S&P 500 futures
+contract requires a margin deposit of 10 percent of the value of the position. If an investor
+holds a futures position in the domestic equity portfolio, complementing every dollar of
+futures with nine dollars of cash creates a position equivalent to holding the underlying equity
+securities directly. If, however, the investor holds five dollars of futures and five dollars of cash,
+the resulting implicit leverage causes the position to be five times as sensitive to market
+fluctuations.
+Derivatives do not create risk per se, as they can be used to reduce risk, simply replicate cash
+positions, or increase risk. To continue with the S&P 500 futures example, selling futures
+against a portfolio of equity securities reduces risks associated with equity market exposure.
+Alternatively, using appropriate combinations of cash and futures creates a risk-neutral
+replication of the underlying securities. Finally, holding futures without risk-neutralizing cash
+positions increases market exposure. Responsible fiduciaries understand and control the use of
+derivatives in investment activity.
+Leverage magnifies portfolio outcomes, containing the potential to benefit or to harm
+portfolio assets. In extreme cases, inconsistency between the risk profile of asset class
+characteristics and investment activity leads to significant losses. In less extreme cases,
+differences in risk profile cause portfolio attributes to vary meaningfully from targeted levels,
+leading to deviations from policy goals. Sensible investors employ leverage with great care,
+guarding against introducing material excess risk into portfolio characteristics.
+Harvard University
+Harvard University's endowment employs leverage in a variety of ways. Consider the
+university's June 2005 portfolio. By establishing an unusual asset allocation target of negative 5
+percent to cash, the university hopes to enhance portfolio results by generating returns in
+excess of borrowing costs. Over long periods of time, Harvard's borrowing strategy promises
+superior results as portfolio returns should exceed leverage costs represented by the return of
+cash, the lowest-expected-return asset class. Of course, if returns fall below the cost of funds,
+results of a bad year will be made worse. In the case of Harvard's negative allocation to cash,
+careful disciplined analysis of portfolio considerations led to the use of leverage.
+Harvard's second form of explicit leverage involves borrowing substantial amounts of funds
+to establish positions exploiting mispricings between securities. At June 30, 2005, the
+university's $29.4 billion investment pool supported long positions of $49.7 billion offset by
+short positions of $20.3 billion. By altering fundamental asset class risk characteristics, the use
+of leverage magnifics security selection bets. In contrast to the asset allocation process's direct
+consideration of the consequences of the negative allocation to cash, by grossing up positions
+on the balance sheet Harvard alters portfolio risk outside of the mean-variance framework.
+On top of explicit balance sheet leverage, Harvard employs implicit leverage to magnify
+further the impact of investment decisions. A careful reading of the footnotes to Harvard's
+financial statements shows off balance sheet market exposure of more than $19 billion in long
+positions and more than $28 billion in short positions. As a consequence of substantial explicit
+and implicit leverage, Harvard dramatically increases risk levels, enhancing positive and
+negative outcomes alike.
+Sowood Capital
+Harvard suffered the consequences of excessive leverage in the July 2007 collapse of Sowood
+Capital. Managed by former Harvard Management Company partner Jeff Larson, Sowoo
+began operations in July 2004 with fourteen employees and $700 million of Harvard's funds.
+The firm's pitch book promised investors strictly market neutral, event-driven investments,
+quantitative-based arbitrage and value-oriented investments.2 According to the Wall Street
+Journal, Sowood "gained around 10% annually during its first three years, often through savvy
+bets on debt investments," delivering on its promises to investors and growing assets to more
+than $3 billion.3
+In early 2007, Jeff Larson's portfolio contained a substantial bet on the relative values of
+senior corporate debt and Junior corporate securities. He owned the safer senior securities and
+sold short the riskier junior securities, establishing what he expected to be a profitable hedge
+against adverse market conditions.
+Had Sowood simply attempted to exploit the price differential between the senior and
+Junior securities, the firm would have avoided the attention of the Wall Street Journal and the
+New York Times. But because the price differential alone provided inadequate recompense,
+Sowood levered the portfolio by "as much as six times," hoping to transform a small price
+discrepancy into big returns. The leverage transferred the fate for the firm from Sowood's
+principals to its banks.
+In June, the first cracks started to appear, as the fund lost 5 percent for the month. To take
+advantage of the now-more-attractive opportunity, according to the Wall Street Journal,
+Sowood doubled the portfolio's leverage to twelve times.
+In July, as debt markets grew increasingly unsettled, Sowood's trades should have paid off
+with safer positions (that Sowood owned) maintaining value and riskier positions (that
+Sowood sold short) losing value. Instead, perverse market forces caused the safer positions that
+Sowood owned to lose value without an offsetting gain from the positions that Sowood sold
+short.
+In a July 30 letter to investors, Jeff Larson described the force that finished his fund:
+... given the extreme market volatility, our counterparties began to severely mark down
+the value of the collateral that had been posted by the funds. In addition, liquidity
+became extremely limited for the credit portion of our portfolio making it difficult to
+cxit positions. We, therefore, reached the conclusion over the weekend that, in the
+interest of preserving our investors' capital, the appropriate course of action was to sell
+the funds' portfolio.5
+Leverage and a perverse market combined forces to finish Sowood Capital.
+Sowood started the month of July with more than $3 billion and after suffering investment
+losses of more than 50 percent finished the month with approximately $1.5 billion. In the
+hectic final days of Sowood's life, the firm reportedly sought assistance from Harvard
+Management Company. Harvard refused. Sowood Capital-seeded by Harvard, staffed by
+Harvard, and ultimately spurned by Harvard-taught Harvard a $350 million lesson on the
+perils of leverage.
+Granite Capital
+Granite Capital's David Askin suffered devastating losses while pursuing an apparently
+sophisticated strategy of identifying, hedging, and leveraging pricing anomalies in mortgaged-
+backed securities derivatives. Based on a record of generating mid-teens returns with low
+variability, Askin attracted funds from an impressive list of investors, including the Rockefeller
+Foundation and McKinsey & Company. Unfortunately, explicit and implicit leverage caused
+the firm's entire $600 million portfolio to be wiped out in a matter of weeks.
+Askin invested in collateralized mortgage obligation derivatives with exotic names such as
+super inverse interest only strips. As intimidating as the names might be, the securities
+essentially constituted pieces of pools containing ordinary home mortgages. By combining
+securities expected to respond in opposite ways to interest rate movements, Askin hoped to be
+hedged-when rates move, profits on one part of the portfolio would more or less offset losses
+on the other. If Askin correctly identified pricing anomalies, profits would exceed losses by a
+margin equal to the mispricing.
+Because mispricings in fixed income markets tend to be small, investors frequently use
+leverage to magnify the portfolio impact of trades. At the time of his denouement, Askin
+employed leverage of approximately two-and-one-half times, running positions of $2 billion on
+$600 million of equity.
+Askin's portfolio failed to weather the trauma created by the Federal Reserve's decision to
+increase interest rates in early 1994. What appeared to be well-hedged positions in a benign
+interest rate environment turned out to be wildly mismatched positions in a bearish bond
+market. As Askin's portfolio accumulated losses, investment banks that had loaned money to
+fund the positions seized the bonds, selling positions to cover their exposure. The combination
+of poor portfolio structure and leverage led to Askin's downfall.
+Askin sustained major losses because his hedges failed to perform. And yet, had he not been
+leveraged, he likely would have survived the 1994 interest rate debacle. Losses of 30 percent on
+a leveraged $2 billion portfolio wiped out $600 million of equity. Losses of 30 percent on a
+$600 million unlevered portfolio would have reduced equity by a painful $180 million, but
+investors would live to fight another day. In fact, subsequent to Askin's demise, prices of the
+liquidated bonds recovered smartly. But by that time, Askin was no longer a player.!
+Long-Term Capital Management
+If the Guinness Book of World Records contained a category for hubris, the principals of Long-
+Term Capital Management (LTCM) would top the list. Staffed by a combination of Wall Street
+wizards and academic superstars (including two Nobel laureates), LTCM concocted a toxic
+blend of arrogance and leverage that nearly brought down the world's financial system.
+LTCM's business model involved investing in a broadly diversified pool of arbitrage
+strategies, which attempted to exploit anomalies in the markets for equities, bonds, swaps,
+futures, and a broad range of other derivatives. Using sophisticated financial models to
+diversify overall portfolio risk, the firm believed that it had reduced risk to such a low level so as
+to justify an extraordinarily high level of leverage.
+LTCM's use of leverage defies imagination. In January 1998, well before the firm's July
+collapse, LTCM's $4.8 billion of equity supported $120 billion of balance sheet positions,
+representing leverage of approximately twenty-five to one. In fact, the irresponsible levels of
+explicit leverage on the balance sheet represented only the tip of the iceberg.
+LTCM's investment activities focused in large part on mispricings that could be exploited
+through the use of derivative contracts. In many cases, the firm could obtain the desired
+exposure with either cash instruments or derivatives, but used derivatives because of the
+imbedded leverage. As a result, LTCM took on massive off-balance sheet positions. On a
+market exposure basis, combining holdings both on balance sheet and off, LTCM had a total of
+more than $1.4 trillion of positions supported by less than $5 billion of equity, representing
+leverage of more than 290 to one.
+When trouble arrived in the form of Russia's financial meltdown, LTCM's staggering
+leverage quickly took the firm down. Even though a Wall Street bailout mitigated the damage,
+the fund's losses were enormous. Roger Lowenstein, in his classic When Genius Failed,
+described the ugly math:
+Through April 1998, the value of a dollar invested in Long-Term quadrupled to $4.11.
+By the time of the bailout, only five months later, precisely 33 cents of that total
+remained. After deducting the partners' fees, the results were even sorrier: each invested
+dollar, having grown to $2.85, shrank to a meager 23 cents. In net terms, the greatest
+fund ever-surely the one with the highest IQs-had lost 77 percent of its capital while
+the ordinary stock market investor had been more than doubling his money.
+LTCM produced a portfolio of generally sensible investment positions. The fatal flaw in the
+firm's strategy came from a nearly unimaginable degree of leverage; massive leverage magnified
+the positive experience on the upside and similarly exaggerated the negative experience on the
+downside. In contrast to LTCM, sensible investors employ leverage with great care, guarding
+against a degree of risk that could threaten the viability of an investment program.
+Security Lending
+Some types of leverage, such as negative cash positions and explicit borrowing to increase
+positions, exhibit themselves openly. Investment staff's prepare papers that investment
+committees discuss, creating awareness of the general nature and magnitude of the borrowing.
+Other forms of leverage remain hidden until trouble arises, causing damage to the portfolio too
+late for corrective action.
+Most large institutional investors conduct security loan programs, which involve lending
+equity and debt securities to third parties, providing modest incremental income to the
+investor. Security borrowers, generally Wall Street financial concerns, require the loans to create
+short positions or cover failed trades. The security lender receives cash collateral to secure the
+asset on loan, making that aspect of the transaction quite safe. The lender pays a below market
+rate of interest on the cash collateral, expecting to reinvest the cash at a higher rate. The act of
+reinvestment places the entire amount of the security lending transaction at risk in an effort to
+generate the hoped-for spread between the below-market-rate borrowing and at-market-rate
+lending.
+Because the security lender retains ownership of securities on loan, along with the attendant
+economic consequences, security lending activity produces little disruption to the portfolio.
+Investors find it easy to forget about security lending, relegating it to back-office status. Security
+lending rarely appears on investment committee agendas, treated like other functions
+performed by custodian banks. If considered at all, committees likely view the process as a low
+risk method of offsetting a portion of the bank custody fee.
+Typical institutional deal structures exacerbate the unimpressive economics of security
+lending. Custodian banks generally run security lending programs, splitting income with
+investors on a seventy-thirty or sixty-forty basis, with the larger share accruing to security
+lenders. Such profit sharing arrangements cause banks to seek risk, since they share in returns
+without sharing in losses. The bank gets a good deal, carning a significant share of the profits
+generated by putting client assets at risk. Investors get a raw deal, earning little in return for
+exposing portfolio assets to meaningful downside.
+The Common Fund
+The Common Fund, an organization providing investment services to educational
+institutions, learned in 1995 that its security lending program managed by First Capital
+Strategists had incurred estimated losses of $128 million. Transgressions by a rogue trader,
+Kent Ahrens, caused the losses that later calculations showed to be nearly $138 million.
+According to Ahrens, in early 1992 he lost $250,000 on an equity index "arbitrage" trade.
+Instead of closing out the position, he tried to offset the loss with speculative trading. After
+more than three years of deception and fraud, Ahrens's cumulative losses reached a staggering
+level.
+The Common Fund security lending debacle hurt the firm in meaningful ways, tarnishing
+its sterling reputation and causing large numbers of client defections. At June 30, 1995, the
+Common Fund had $18.1 billion of marketable equity and fixed income assets under
+management. One year later, assets amounted to $15.5 billion, a dramatic $5.2 billion, or 25
+percent, less than would have been expected had asset levels simply kept pace with markets.
+The First Capital Strategists story tells much more than the tale of a rogue trader. It
+illustrates the risks in pursuing investment strategies with poor payoff structures, highlights
+problems of monitoring certain types of trading activity, and shows dangers of inventive
+schemes inappropriate for the nature of the investment activity.
+Security lending activity at its best involves "make a little, make a little, make a little..." as
+investors carn small positive spreads on security loans. Unfortunately, to "make a little" an
+investor exposes a lot creating the possibility of "make a little, make a little, make a little, lose a
+lot." This negatively skewed return pattern exhibits limited upside (make a little) with
+substantial downside (lose a lot), representing an unattractive distribution of outcomes for
+investors.
+Decades ago, security lending exhibited more favorable characteristics. In the 1970s, when
+security lenders paid no interest on cash collateral, extremely handsome returns resulted from
+the activity. Since cash collateral secured the value of the asset on loan and the collateral could
+be reinvested in U.S. Treasury bills, security lending participants faced essentially no risk.
+*Make something, make something, make something" described the activity, while "lose a lot"
+failed to register.
+Structural changes and increased competition forced security lenders to pay interest on cash
+collateral, ultimately causing reinvestment risk to enter the equation. When security lenders
+could no longer create positive spreads by simply investing collateral in Treasury bills,
+generating returns required accepting credit risk, interest rate risk, or even more exotic risks.
+The Common Fund, through its relationship with First Capital Strategists, accepted these
+risks with enthusiasm. Table 6.1 lists the wide range of authorized collateral reinvestment
+strategies that the Common Fund employed beginning in the early 1980s. Alternatives ranged
+from extremely conservative to quite aggressive. Equity index arbitrage, properly implemented,
+poses little risk to invested assets. On the other end of the spectrum, Mexican broker
+repurchase agreements embody substantial risks.
+By following standard Wall Street practice of referring to many reinvestment strategies as
+"arbitrages," the Common Fund promoted a false sense of security. Webster's Dictionary
+defines arbitrage as "the often simultaneous purchase and sale of the same or equivalent
+security (as in different markets) in order to profit from price discrepancies." In today's security
+markets, occasional mispricings of futures contracts for stocks and bonds relative to cash
+markets provide truc (albeit flecting) arbitrage opportunities. Other so-called arbitrages do not
+involve "the same or equivalent security," thereby exposing assets to much more substantial
+risk.
+Table 6.1 The Common Fund Exposed Participant Assets to Material Risk
+Approved Investment Strategies, 1994
+Equity index arbitrage
+Fixed income arbitrage
+OTC option arbitrage
+Treasury/Eurodollar (TED) spread arbitrage
+Dividend reinvestment arbitrage
+Corporate restructuring arbitrage (risk arbitrage)
+Forward and reversible equity arbitrage
+Convertible security arbitrage
+Warrant arbitrage
+Equity and corporate bond repurchase agreements
+Repurchase agreements with Mexican brokers collateralized with Mexican government securities
+Matched positions
+Triparty repurchase agreements
+Interest rate and cross currency swaps
+Fixed income securities called for redemption
+For example, convertible arbitrage involves owning a convertible bond and selling short the
+stock of the issuing company to exploit perceived mispricings between relatively cheap bonds
+and relatively expensive stock. Implementing convertible arbitrage requires dynamic hedging,
+which may or may not be feasible, and assumption of unhedged residual interest rate and credit
+risks. Under certain circumstances, convertible arbitrage offers attractive risk reward
+relationships. Under no circumstance does convertible arbitrage create riskless returns.
+At best, referring to risky strategies as arbitrages is a Wall Street conceit, an attempt to create
+an aura of mystery and sophistication surrounding the investment process. At worst, the
+practice constitutes deceptive advertising, an effort to lessen investor concerns surrounding
+fundamentally risky activities.
+A further problem with security lending activity concerns the high level of trading required.
+Monitoring high levels of activity poses considerable challenges to the trading organization,
+outside investors, and other responsible professionals, such as lawyers and accountants. When
+investment positions turn over several times daily, supervisors can only trust that traders
+faithfully implement strategies and follow guidelines. Investors can only trust that supervisors
+monitor the process carefully. High levels of trading activity create difficult control issues.
+In contrast, long-term investment activity raises fewer monitoring issues. Security positions
+held for months or years generate far less control risk than positions held for minutes or hours.
+Moreover, the temptation to hide losing trade tickets in a drawer or to violate guidelines to
+trade out of losses seems more consistent with the speculative mindset of a trader than with the
+temperate attitude of an investor. In fact, many of the 1990s' most sensational losses resulted
+from the activity of rogue traders such as Nicholas Leeson, who brought down Barings PLC;
+Toshihide Igushi, who caused Daiwa Bank to be exiled from the United States; and Robert
+Citron, who forced Orange County into bankruptcy. While avoiding trading strategies
+provides no guarantee against fraud, pursuing longer term investment programs lessens control
+risks for fiduciaries.
+Poor deal structure contributed to the dangers of the Common Fund's security lending
+program. First Capital Strategists earned between 25 percent and 33 percent of profits
+generated by putting the Common Fund member institutions' funds at risk. In essence, First
+Capital flipped coins in a "heads I win, tails you lose" game. Since the firm did not share in
+losses, employees had strong incentive to recommend and pursue risky strategies.
+Poor incentives provide only a partial explanation of the problem. The Common Fund
+knowingly participated in First Capital Strategists' risk-secking activity. Prior to the Kent
+Ahrens debacle, two events brought the risky nature of the reinvestment vehicles to the fore. In
+August 1987, First Capital incurred a loss of $2.5 million by speculating on an aborted hostile
+takeover of Caesar's World. While First Capital reimbursed the Common Fund for the loss, the
+transaction highlighted risks involved in corporate restructuring "arbitrage." Later, beginning
+in September 1989, First Capital accumulated a position in the ill-fated employee-led attempt
+to take over United Airlines. Ultimately liquidated at a loss of $2.6 million to the Common
+Fund, the trade caused security lending for fiscal year 1990 to show a loss of $577,600. The
+Caesar's World and United Airlines incidents forced trustees of the Common Fund to be
+acutely aware of the risks associated with the firm's security lending program.
+In essence, the Common Fund leveraged its assets by participating in security lending,
+borrowing funds (the cash collateral), and securing the loans with Common Fund member
+institution stocks and bonds. First Capital invested proceeds from the loans in risky vehicles,
+hoping to generate positive returns. While dangers inherent in trading activities and problems
+associated with poor deal structure provide the most visible contribution to the Common
+Fund's disaster, the root of the problem originates with the inappropriate use of the leverage
+implicit in the security lending program.
+CONCLUSION
+Placing asset allocation targets at the center of the portfolio management process increases the
+likelihood of investment success. Disciplined rebalancing techniques produce portfolios that
+reflect articulated risk and return characteristics. Less rigorous approaches to portfolio
+management almost guarantee that actual asset allocation differs from desired levels, leading to
+outcomes less likely to satisfy institutional goals.
+Attractive investment opportunities frequently contain elements of illiquidity, introducing
+some rigidities into a portfolio's asset allocation. By inducing investors to hold positions
+inconsistent with targeted levels, illiquid assets cause overall portfolio characteristics to deviate
+from desired levels, creating challenges for disciplined rebalancing activity.
+Pursuit of active management introduces friction between investment results and
+benchmark returns. Sensible investors take great care in identifying portfolio biases, ensuring
+that differences result from deliberate choices, not inadvertent consequences of portfolio
+construction. Normal portfolios and completeness funds assist managers in understanding and
+controlling active management bets.
+While successful active management programs eventually create value, investors face the
+interim possibility of experiencing periods of underperformance. Many sensible investment
+strategies require time horizons of three to five years, introducing the likelihood that even
+ultimately correct decisions appear foolish in the short run. When market prices move against
+already established positions, investors with strong hands add to holdings, increasing the
+benefit from active management. Conversely, sensible investors trim winning positions,
+preventing excessive exposure to recently successful strategies. Leaning against the wind proves
+to be an effective risk control measure.
+Leverage contains the potential to add substantial value and create great harm, posing
+particular danger to investors pursuing long-term strategies. Keynes warns that "... an investor
+who proposes to ignore market fluctuations... must not operate on so large a scale, if at all,
+with borrowed money." Fiduciaries strive to identify and assess sources of explicit and implicit
+portfolio leverage, seeking to ensure that the leverage influences the portfolio in an acceptable
+manner.
+Many high profile investment disasters of recent years stem from leverage lurking beneath
+the superficial portfolio characteristics. The Common Fund made explicit use of leverage in its
+risk-seeking security lending program, exposing educational institution assets to high levels of
+risk in exchange for modest expected returns. David Askin employed explicit leverage on top of
+the implicit leverage inherent in his mortgage-backed securities derivatives positions, turning
+an otherwise serious impairment of value into a total wipcout. Avoiding headline grabbing
+disaster requires thorough understanding of the sources and magnitude of exposure to
+leverage.
+Serving institutional goals requires disciplined implementation of asset allocation policies,
+centered on regular rebalancing to ensure that portfolio characteristics match targeted levels.
+Many activities pursued by institutional fund managers create frictions that cause portfolio
+results to differ from expectations. Illiquid investments often provide attractive active
+management opportunities, while posing significant challenges to the rebalancing process.
+Investors employing active management strategies expose funds to the impact of performance
+differentials relative to benchmark results. Use of leverage magnifies investment results,
+potentially altering portfolio characteristics in a manner unanticipated by asset allocation
+analyses. Sensible investors rebalance regularly, carefully consider active management, and limit
+leverage.
+1. Even though with an unlevered portfolio Askin may not have gone out of business, without leverage Askin never
+would have been in business. Leverage boosted the underlying returns on his strategy to the mid teens level necessary
+to attract investment capital.

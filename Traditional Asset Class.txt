@@ -1,0 +1,839 @@
+7
+Traditional Asset Classes
+The definition of an asset class employs both art and science in an attempt to combine like
+with like, secking as an end result a relatively homogenous collection of investment
+opportunities. Appropriately defined asset classes include groups of positions that collectively
+provide a coherent contribution to an investor's portfolio.
+Traditional asset classes share a number of critical attributes. First, traditional asset classes
+contribute basic, valuable, differentiable characteristics to an investment portfolio. Second,
+traditional holdings rely fundamentally on market-generated returns, not on active
+management of portfolios. Third, traditional asset classes derive from broad, deep, investable
+markets.
+The basic, valuable, differentiable characteristics contributed by traditional asset classes
+range from provision of substantial expected returns to protection against financial crises.
+Careful investors define asset class exposures narrowly enough to ensure that the investment
+vehicle accomplishes its expected task, but broadly enough to encompass a critical mass of
+assets.
+Traditional asset classes rely fundamentally on market-generated returns, providing
+reasonable certainty that various portfolio constituents fulfill their appointed missions. In
+those cases where active management proves essential to the success of a particular asset class,
+the investor relies on unusual ability or good fortune to produce results. If an active manager
+exhibits poor skill or experiences bad luck, the investor suffers as the asset class fails to achieve
+its goals. Because traditional asset classes depend on market-driven returns, investors need not
+rely on serendipity or the supposed expertise of market players.
+Traditional holdings trade in broad, decep, investable markets. Market breadth promises an
+extensive array of choices. Market depth implics a substantial volume of offerings for individual
+positions. Market investability assures access by investors to investment opportunities.
+Traditional asset classes occupy well-established, enduring marketplaces.
+Traditional asset classes encompass stocks and bonds. Asset classes that investors employ to
+drive portfolio returns include domestic equity, forcign developed market cquity, and emerging
+market equity. Equity exposure can be diversified by holdings of U.S. Treasury bonds, which
+promise protection from financial catastrophe. Traditional asset classes provide several of the
+basic building blocks required by investors to create a well-diversified portfolio.
+Descriptions of traditional asset classes help investors understand the role that various
+investment vehicles play in a portfolio. By assessing an asset class's expected returns and risks,
+likely response to inflation, and anticipated interaction with other asset classes, investors
+develop the knowledge required to build a portfolio. An outline of issues surrounding
+alignment of interests between issuers of securities and owners of securities illustrates the
+potential pitfalls and possible benefits of participating in certain asset categories.
+DOMESTIC EQUITY
+Investment in domestic equities represents ownership of a piece of corporate America.
+Holdings of U.S. stocks constitute the core of most institutional and individual portfolios,
+causing Wall Street's ups and downs to drive investment results for many investors. While a
+large number of market participants rely far too heavily on marketable equitics, U.S. stocks
+deserve a prominent position in investment portfolios.
+Domestic stocks play a central role in investment portfolios for good theoretical and
+practical reasons. The expected return characteristics of equity instruments match nicely with
+the need to generate substantial portfolio growth over the sweep of time. To the extent that
+history provides a guide, long-term returns encourage investors to own stocks. Jeremy Siegel's
+203 years of data show U.S. stocks earning 8.4 percent per annum, while Roger Ibbotson's
+eighty years of data show stocks earning 11.1 percent per annum.! No other asset class
+possesses such an impressive record of long-term performance.
+The long-term success of equity-dominated portfolios matches expectations formed from
+fundamental financial principles. Equity investments promise higher returns than bond
+investments, although in the short run the prospect of higher returns sometimes remains
+unfulfilled. Not surprisingly, the historical record of generally strong equity market returns
+contains several extended periods that remind investors of the downside of equity ownership.
+In the corporate capital structure, equity represents a residual interest that exhibits value only
+after accounting for all other claims against the company. The higher risk of equity positions
+leads rational investors to demand higher expected returns.
+Stocks exhibit a number of attractive characteristics that stimulate investor interest.
+Interests of shareholders and corporate management tend to be aligned, allowing outside
+owners of shares some measure of comfort that corporate actions will benefit both
+shareholders and management. Stocks generally provide protection against unexpected
+increases in inflation, although the protection proves notoriously unreliable in the short run.
+Finally, stocks trade in broad, deep, liquid markets, affording investors access to an impressive
+range of opportunities. Equity investments deserve a thorough discussion, since in many
+respects they represent the standard against which market observers evaluate all other
+investment alternatives.
+Equity Risk Premium
+The equity risk premium, defined as the incremental return to equity holders for accepting risk
+above the level inherent in bond investments, represents one of the investment world's most
+critically important variables. Like all forward-looking metrics, the expected risk premium
+stands shrouded in the uncertainties of the future. To obtain clues about what tomorrow may
+have in store, thoughtful investors examine the characteristics of the past.
+Yale School of Management Professor Roger Ibbotson produces a widely used set of capital
+market statistics that reflect an eighty-year stock-and-bond return differential of 5.7 percent per
+annum.1 Wharton Professor Jeremy Siegel's 203 years of data show a risk premium of 3.0
+percent per annum.2 Regardless of the precise number, historical risk premia indicate that
+equity owners enjoyed a substantial return advantage over bondholders."
+The size of the risk premium proves critically important in the asset allocation decision.
+While history provides a guide, careful investors interpret past results with care. Work on
+survivorship bias by Phillipe Jorion and William Goetzmann demonstrates the unusual nature
+of the U.S. equity market experience. The authors examine the experience of thirty-nine
+markets over a seventy-five-year period, noting that "(m)ajor disruptions have afflicted nearly all
+of the markets in our sample, with the exception of a few such as the United States."3
+The more-or-less uninterrupted operation of the U.S. stock market in the nineteenth and
+twentieth centuries contributed to superior results. Jorion and Goetzmann find that the U.S.
+market produced 4.3 percent annualized real capital appreciation from 1921 to 1996. In
+contrast, the other countries, many of which experienced economic and military trauma,
+posted a median real appreciation of only 0.8 percent per year. Thoughtful market observers
+place the exceptional experience of the U.S. equity markets in a broader, less-compelling
+context.
+Even if investors accept U.S. market history as definitive, reasons exist to doubt the value of
+the past as a guide to the future. Consider stock market performance over the past two
+hundred years. The returns consist of a combination of dividends, inflation, real growth in
+dividends, and rising valuation levels. According to an April 2003 study by Robert Arnott,
+aptly titled "Dividends and the Three Dwarfs," dividends provide the greatest portion of long-
+term equity returns. Of the Arnott study's two-hundred-year 7.9 percent annualized total
+return from equities, fully 5.0 percentage points come from dividends. Inflation accounts for
+1.4 percentage points, real dividend growth accounts for 0.8 percentage points, and rising
+evaluation accounts for 0.6 percentage points. Arnott points out that the overwhelming
+importance of dividends to historical returns "is wildly at odds with conventional wisdom,
+which suggests that ... stocks provide growth first and income second."
+Arnott uses his historical observations to draw some inferences for the future. He
+concludes, with dividend yields below 2.0 percent (in April 2003), that unless real growth in
+dividends accelerates or equity market valuations rise, investors face a future far less
+remunerative than the past. (Note that in August 2007 the dividend yield of the S&P 500
+stood at 1.75 percent). Observing that real dividends showed no growth from 1965 to 2002,
+Arnott holds out little hope of dividend increases driving future equity returns. The alternative
+of relying on increases in valuations assigned to corporate carnings for future equity market
+growth serves as a thin reed upon which to build a portfolio.
+Simple extrapolation of past returns into the future assumes implicitly that past valuation
+changes will persist in the future. In the specific case of the U.S. stock market, expectations that
+history provides a guide to the future suggest that dividends will grow at unprecedented rates
+or ever-higher valuations will be assigned to corporate earnings. Investors relying on such
+forecasts depend not only on the fundamental earning power of corporations, but also on the
+stock market's continued willingness to increase the price paid for corporate profits.
+As illogical as it seems, one popular bull market tome published in 1999 espoused the view
+that equity valuation would continue to increase unabated, arguing for a zero equity risk
+premium. Advancing the notion that over long periods of time equities always outperform
+bonds, in Dow 36,000: The New Strategy for Profiting from the Coming Rise in the Stock
+Market, James Glassman and Kevin Hassett conclude that equities exhibit no more risk than
+bonds.5 The authors ignore the intrinsic differences between stocks and bonds that clearly
+point to greater risk in stocks. The authors fail to consider experiences outside of the United
+States where equity markets have on occasion disappeared, leading to questions about the
+inevitability of superior results from long-term equity investment. Perhaps most important,
+the authors overestimate the number of investors that operate with twenty- or thirty-year time
+horizons and underestimate the number of investors that fail to stay the course when equity
+markets falter.
+Finance theory and capital markets history provide analytical and practical underpinnings
+to the notion of a risk premium. Without expectations of superior returns for risky assets, the
+financial world would be turned on its head. In the absence of higher expected returns for
+fundamentally riskier stocks, market participants would shun equitics. For example, in a world
+where bonds and stocks share identical expected returns, rational investors would opt for the
+equal-expected-return, lower-risk bonds. No investor would hold equal-expected-return,
+higher-risk stocks. The risk premium must exist for capital markets to function effectively.
+While an expected risk premium proves necessary for well-functioning markets, Jorion and
+Goetzmann highlight the influence of survivorship bias on perceptions of the magnitude of the
+risk premium. Arnott's deconstruction of equity returns and analysis of historical trends
+suggest a diminished prospective return advantage for stocks over bonds. Regardless of the
+future of the risk premium, sensible investors prepare for a future that differs from the past,
+with diversification providing the most powerful protection against errors in forecasts of
+expected asset class attributes.
+Stock Prices and Inflation
+Stocks tend to offer long-term protection against generalized price inflation. A simple, yet
+elegant, means of understanding stock prices developed by Nobel laureate James Tobin
+compares the replacement cost of corporate assets to the market value of those assets. In
+equilibrium, Tobin argued that the ratio of replacement-cost-to-market value, which he named
+"q" should equal one. If replacement cost exceeds market valuc, economic actors find it
+cheaper to buy assets on the stock exchange than in the real economy. Conversely, if market
+value exceeds replacement cost, economic actors generate profits by building companies and
+floating shares on the stock exchange. Clearly, in rational markets, the value of corporate assets
+on a stock exchange should equal the real world replacement cost of those selfsame assets.
+To the extent that general price inflation increases the replacement cost of corporate assets,
+that inflation should be reflected in increasing stock prices. If inflation did not result in higher
+equity prices, the newly inflated replacement cost of assets would exceed market value, allowing
+investors to purchase companies on the stock exchange at below intrinsic value. Until and
+unless stock prices reflect price inflation, publicly traded companies represent bargain
+basement merchandise.
+In spite of the clear theoretical link between stock prices and inflation, the stock market
+presents a mixed record on incorporating inflation into equity prices. The 1970s provide a
+dramatic example of equity market failure to reflect rising price levels in stock prices. In 1973
+and 1974, inflation croded purchasing power by 37 percent and stock prices decreased by a
+total of 22 percent, hitting equity investors with a double whammy that caused losses of 51
+percent in inflation-adjusted terms.
+Jeremy Siegel observes that stock prices "provide excellent long-run hedges against inflation"
+and weak short-term protection against rising prices. Presumably, the positive long-term
+relationship between inflation and stock prices stems from rational behavior, as market
+participants weigh the costs of acquiring assets in the real economy against the costs of
+acquiring similar assets on the financial exchanges. Possibly, the negative short-term
+relationship between inflation and stock prices results from irrational behavior, as investors
+respond to unanticipated inflation by increasing the discount rate applied to future cash flows
+without adjusting those future flows for the increases in inflation. While capital markets
+history supports Siegel's observation, the difference in short-run and long-run responses by
+equity prices to inflation creates a paradox. Because the long run consists of a series of short
+runs, no theory explains both the poor short-term record and the strong long-term record of
+stock price protection against price increases. In any event, investors seeking short-term shelter
+from inflation need to look beyond holdings of marketable equities.
+Alignment of Interests
+Stocks exhibit a number of characteristics that tend to serve investor goals. The general
+alignment of interests between corporate managers and shareholders bodes well for stock
+investors. In most instances, company executives benefit from enhancing shareholder value,
+serving the financial aspirations of management and investor alike. For example, corporate
+managers often share in gains associated with greater corporate profitability, indirectly through
+increased compensation and directly through increased values for personal shareholdings.
+Unfortunately, the separation of ownership (by shareholders) and control (by management)
+in publicly traded companies introduces agency problems that occur when managements (the
+agents) benefit at the expense of shareholders (the principals). The most common wedge
+between interests of shareholders and management stems from compensation arrangements for
+management. High levels of salary and benefits accrue to management regardless of the level of
+underlying company achievement. Because larger companies provide larger compensation
+packages than smaller enterprises, corporate managers pursue corporate growth simply to
+achieve higher levels of personal earnings regardless of the impact of corporate size on
+enterprise profitability.
+Managements divert funds to purposes that satisfy personal preferences at the expense of
+corporate performance. Company art collections, business jets, lavish offices, and corporate
+apartments confer benefits on senior managers at the expense of legitimate company goals.
+Investors cringe upon reading stories regarding WorldCom chief executive Bernard Ebbers's
+receipt of more than $400 million of personal loans from the company and Tyco chief
+executive Dennis Kozlowski's diversion of $600 million of company assets for personal
+purposes, including the purchase of a $6,000 shower curtain. Outsized financial and
+nonfinancial rewards for management, whether legitimate or otherwise, come directly from the
+pockets of company shareholders.
+Yet, the most troubling scandal lies not with the chief executives that crossed the line, but
+with those that feathered their beds while following the rules. Former General Electric chief
+executive Jack Welch brought shame on himself and his company with a retirement package
+filled with personal perquisites. Beginning with lifetime use of a $15 million apartment bought
+by General Electric, the list includes access to the company's Boeing 737 jets, corporate
+helicopters, and a car and driver for him and his wife. No doubt worried that the hundreds of
+millions of dollars paid to Mr. Welch during his tenure at General Electric proved inadequate
+to support his retirement, the company provided "wine, flowers, cook, housekeeper and other
+amenities, including tickets to "top sporting events and the opera," to cater to the former
+chief executive's needs.7 Even the reliably business-friendly editorial pages of the Wall Street
+Journal characterized Mr. Welch's retirement package as "the playthings of corporate
+opulence."8
+The compensation excess exemplified by Ebbers, Kozlowski, and Welch represents the tip of
+the iceberg. The deeper problem, as described by William McDonough, president of the
+Federal Reserve Bank of New York, lies in the fact that rapid increases in chief executive
+compensation in the past two decades represent "terribly bad social policy and perhaps even
+bad morals." McDonough suggested that corporate boards "should simply reach the
+conclusion that corporate pay is excessive and adjust it to more reasonable and justifiable
+levels."9
+Stock Options
+The use of stock options to reward corporate management produces a subtle disconnect
+between the interests of management and shareholders. Options-based compensation schemes
+work effectively when company share prices increase, as both management and shareholders
+gain. The alignment of interests breaks down when share prices decrease, as management loses
+only the opportunity to benefit from stock price increases. In fact, management fails to suffer
+at all when corporate boards reset option prices to reflect the newly diminished stock price. In
+sharp contrast to management's loss of a mere opportunity, when share prices decrease
+shareholders lose cold, hard cash. Options-based compensation schemes represent a no-lose
+game for management of publicly traded companics.
+Microsoft provides a textbook example of using option grants to insulate employees from
+share price declines. In April 2000, Chief Executive Steve Ballmer faced a problem of low
+morale among employees concerned about the consequences of the Justice Department's
+antitrust activity and a four-month, 44 percent stock price decline. To boost spirits, Ballmer
+awarded more than 34,000 Microsoft employees stock options priced at the then current stock
+price. The chief executive wrote in an email to employees that we know stock options are an
+important part of our compensation. Even while asserting that preexisting options "will have
+valuc long run," Ballmer expressed his hope that "these new grants will let people see returns
+much sooner."10 By setting the option strike price near the stock's fifty-two week low, the
+company effectively insulated employees from the dramatic decline in Microsoft's shares. The
+company provided no such succor to shareholders.
+In response to the all-too-numerous abuses of trust in the late 1990s, many corporations
+began to review options-based compensation. In a particularly notable move, in July 2003,
+Microsoft announced plans to climinate its options program and substitute a program of
+restricted stock awards. Unlike the asymmetric option payoff, restricted stock produces a
+congruence of outcomes in which management and shareholders profit and suffer together.
+Chief Executive Steve Ballmer remarked, "whether it's dividend policy or how much risk to
+take, it's always good to have the employees thinking as much like the shareholders as
+possible. If substantial numbers of corporations follow Microsoft's lead, corporate
+management will likely better serve shareholder interests in the future.
+In spite of a general alignment of interests between shareholders and company managers,
+too many abuses exist. Excessive executive compensation, whether in the direct form of inflated
+salaries or the indirect form of unreasonable corporate perquisites, lines the pockets of
+corporate managers at the expense of shareholders. Sometimes, as in the case of options-based
+compensation, a disconnect exists between management and shareholders. One sure way to
+reduce the conflict between the owners of shares and the managers of companies involves
+ownership of stock by corporate management. Savvy investors seek companies with high levels
+of insider ownership.
+Market Characteristics
+At December 31, 2006, the U.S. stock market boasted assets in excess of $18.2 trillion, making
+it the largest liquid capital market in the world. More than 6,190 securities constituted the
+market, as defined by the (misnamed) Wilshire 5000. The enormous size of the U.S. stock
+market prompts many participants to divide the whole into any number of parts. Typical
+categories include size of market capitalization (small, medium, and large), character of security
+(growth or value), and nature of business (utility, technology, and health care, for example). At
+year-end 2006, the U.S. stock market traded at a dividend yield of 1.7 percent, a price-carnings
+ratio of 19.5 and a price-book ratio of 2.5.12
+Summary
+U.S. domestic equities represent the asset of choice for many long-term investors. Finance
+theory predicts and practical experience demonstrates that stocks provide superior returns over
+reasonably long holding periods. The general alignment of interests between shareholders and
+management serves both the goals of outside owners and the aspirations of inside managers.
+Holdings of equitics provide protection against inflation in the intermediate and long run.
+Attractive characteristics of equity holdings arguc for a significant role in most portfolios.
+Yet investors must guard against relying on equities to exhibit their general characteristics in
+any specific time frame or allowing equities to account for too large a portion of the target
+portfolio. History may overstate the attractiveness of U.S. stocks. Returns of bonds and cash
+may exceed returns of stocks for years on end. For example, from the market peak in October
+1929, it took stock investors fully twenty-one years and three months to match returns
+generated by bond investors. 13 Alignment of interests between shareholders and management
+breaks down with distressing frequency. Stock prices often fail to reflect underlying price
+inflation, at times for extended periods. Although equity markets do not deliver returns in a
+steady, stable, inflation-hedging fashion and corporate managements sometimes fail to serve
+shareholder interests, equity investments remain a central part of thoughtfully assembled, long-
+term-oriented investment portfolios.
+U.S. TREASURY BONDS
+Purchasers of U.S. Treasury bonds own a portion of the public debt of the United States
+government. Holdings of government bonds play a prominent role in well-structured fixed
+income portfolios, reflecting the attractive investment characteristics of full-faith-and-credit
+obligations of the government and the significant volume of debt securities issued by the
+government.
+Because U.S. Treasury bonds enjoy the full-faith-and-credit backing of the U.S.
+government, bondholders face no risk of default. Holders of government debt sleep secure in
+the knowledge that interest and principal payments will be made in full and in a timely
+manner. Lack of default risk does not, however, liberate bondholders from exposure to price
+fluctuations. When interest rates risc, bond prices fall, as purchasers of existing assets need an
+adjustment to reflect the now-higher rates available on newly issued debt. When interest rates
+fall, bonds prices rise, as sellers of existing assets require greater compensation for their now-
+more-attractive fixed stream of future payments. Of all risky investments, investors expect the
+lowest returns from U.S. Treasury bonds, due to the high degree of security intrinsic in
+obligations of the U.S. government.
+Interest Rate Risk
+Bonds confuse investors. The inverse relationship between interest rates and bond prices (rates
+up, prices down and vice versa) proves central to understanding the role of fixed income in an
+investment portfolio. Yet surveys show that a large majority of investors fail to grasp even the
+most basic elements of bond math. Even highly respected market observers sometimes get it
+wrong. An article in the New York Times business section ironically entitled "Better
+Understanding of Bonds" asserted that "duration and bond prices move in lockstep with
+interest rates. A bond with a duration of seven years would gain 7 percent of its price when
+interest rates moved up one percentage point. The same bond would lose 7 percent when rates
+moved down that amount."14 Of course, the Times described the relationship between prices
+and yields in perfectly perverse prose. Increases in interest rates cause price declines, not price
+increases. If a highly regarded, financially sophisticated New York Times business reporter
+cannot get it right, what chance does an ordinary investor have?
+Duration measures the effective maturity of a bond, considering the timing and present
+value of individual cash flows received over the term of the instrument. V Longer duration
+bonds exhibit greater sensitivity to interest rate changes than do shorter duration bonds. By
+increasing a portfolio's duration, investors gain greater exposure to interest rate moves, creating
+a roughly equivalent choice between more assets with lower duration and fewer assets with
+higher duration. Portfolio managers wishing to reduce the opportunity costs of holding fixed
+income assets might rely on a small allocation to a long duration portfolio, in essence buying
+the diversifying power of bonds on the cheap.
+In the realm of U.S. Treasury bond investing, risk relates primarily to time horizon. An
+investor with a six-month time horizon finds six-month Treasury bills riskless, as no doubt
+exists about the timely payment of the face value of the bill at maturity. That same six-month-
+time-horizon investor finds ten-year Treasury notes quite risky. As interest rates change, the
+value of the note might vary materially, even over a six-month holding period. An increase in
+rates leaves the investor with a loss, while a decline in rates provides the investor with an
+unexpected windfall.
+Similarly, an investor with a ten-year time horizon faces significant risk with six-month
+Treasury bill investments. The six-month bills must be rolled over nineteen times to generate a
+ten-year holding period return. At the outset, the investor knows the rate only on the first six-
+month bill. The nineteen future rollover rates hold considerable uncertainty. Unless investors
+match holding period with maturity, price changes or rate changes may cause returns to diverge
+from expected levels.
+Diversifying Power
+U.S. Treasury securities provide a unique form of diversification for investor portfolios,
+protecting against financial crisis and economic distress. In the stock market collapse of
+October 1987, when the U.S. stock market plummeted more than 20 percent in a single day,
+investors sought the safe haven of U.S. Treasury obligations. Even as stock prices fell off of a
+cliff, Treasury bonds staged an impressive rally. During the economic distress surrounding the
+confluence of the 1998 Asian, Russian, and American capital markets crises, investors engaged
+in a "flight to quality," favoring the security of U.S. Treasury obligations. Similarly, amid the
+credit crunch of August 2007, Treasury bill yields dropped two full percentage points in a
+matter of days to an intraday low of 2.5 percent. At that time, the spread between LIBOR and
+Treasury bills amounted to a stunning three percentage points, fully four times the average
+spread that prevailed for the month of June 2007. In times of crisis, government securities
+provide the greatest degree of protection to investor portfolios.
+The protection to portfolio values provided by government bonds comes at a high price.
+Expected returns for fixed income instruments fall short of expected returns for equity-
+oriented investments. Some investors attempt to mitigate the opportunity costs of owning
+government bonds by holding higher-yielding corporate paper. Unfortunately,
+nongovernment bonds exhibit characteristics such as credit risk, illiquidity, and optionality
+that reduce effectiveness as a hedge against financial distress. The purity of noncallable, long-
+term, default-free Treasury bonds provides the most powerful diversification to investor
+portfolios.
+Panic of 1998
+In the summer and early fall of 1998, the Asian financial crisis painted a bleak backdrop for
+securities markets. A mid-July slump in cquity markets accelerated in August when
+devaluation and default in Russia contributed to investor anxiety. The near collapse in
+September of the insanely levered Long-Term Capital Management hedge fund fueled bearish
+sentiment, causing market participants to demand immediate liquidity and safety.
+During the worldwide collapse in equity prices, as shown in Figure 7.1, the broad-based
+Wilshire 5000 declined 22 percent from its all time peak on July 17th to the market bottom on
+October 8th. Reflecting a strong preference for quality and size, large-capitalization stocks
+outperformed small securities in dramatic fashion with the S&P 500 outpacing the Russell
+2000 by a margin of 14 percent, or-19 percent to -33 percent. Developed foreign and emerging
+equity returns provided little solace for diversified portfolios, with the markets falling 21
+percent and 27 percent, respectively.
+Amid the market tumult, long-term Treasuries posted solid gains, returning 8 percent and
+besting the results of every major asset class. Credit risk and optionality dampened the
+performance of high quality corporate bonds and mortgages, limiting returns to 5 percent and
+2 percent, respectively. Junk bonds and emerging debt produced losses, reflecting the high
+degree of equity exposure implicit in risky bond positions. High yield posted a-7 percent
+return and emerging markets generated a dismal -24 percent result over the period.
+Asset class performance surrounding the 1998 market panic illustrates the superior
+diversifying power of pure fixed income-long-term, noncallable, default-free. Under normal
+circumstances, credit exposure and option risk increase returns; in times of crisis, U.S. Treasury
+bonds provide the protection that investors require.
+Figure 7.1 Treasury Bonds Protect Portfolios in Turbulent Markets
+Various Asset Class Returns, July 17, 1998 to October 8, 1998
+Bond Prices and Inflation
+To add a further measure of complexity to the world of bond investing, investors in traditional
+U.S. Treasury bonds observe only nominal returns. In some instances, investors care primarily
+about nominal returns. For example, if a debtor desires to pay off a fixed obligation, the debtor
+requires only the amount of the debt, nothing more and nothing less. Nominally denominated
+investments, like Treasury bonds, match nominal liabilities nicely. If, on the other hand, an
+institution hopes to maintain the purchasing power of endowment assets, that institution
+needs to keep pace with inflation. Inflation-sensitive investments, unlike Treasury bonds, fulfill
+inflation-sensitive requirements. For holders of traditional Treasury debt securities, changes in
+inflation rates influence after-inflation returns in unpredictable ways, leading to potential
+variation between anticipated and actual outcomes.
+Investors price fixed income instruments to generate positive inflation-adjusted rates of
+return. When the inflation rates experienced by investors more or less match the expectations
+formed at the beginning of the holding period, bondholders receive the anticipated after-
+inflation return. When inflation rates exceed expectations, the unanticipated inflation crodes
+the purchasing power of the promised stream of fixed payments, causing investors to receive
+disappointing after-inflation returns. When inflation rates fall short of expectations, the lower
+rate of general price inflation provides investors with a purchasing power boost. Deviations
+between original inflationary expectations and actual experience contain the potential to cause
+dramatic changes in real returns for fixed income investors.
+When inflationary expectations fail to match actual experience, bonds tend to behave
+differently from other financial assets. Unanticipated inflation crushes bonds, while ultimately
+benefiting equities. Unanticipated deflation boosts bonds, while undermining stocks. Bonds
+provide the greatest diversification relative to equities in cases where actual inflation differs
+dramatically from expected levels.
+Alignment of Interests
+Interests of Treasury bond investors and the U.S. government prove to be better aligned than
+interests of corporate bond investors and corporate issuers. The government sees little reason
+to disfavor bondholders. In essence, action taken to reduce the value of government bonds
+represents a transfer from bondholders to non-bondholders. In fact, if all debt were held
+domestically, advantages or disadvantages accruing to the government from changes in bond
+values would balance equal-and-offsetting disadvantages or advantages accruing to
+bondholders, leading to transfers from one group of citizens (taxpayers or bondholders) to
+another group of citizens (bondholders or taxpayers). Moreover, were the government to
+disadvantage bond investors, future access to credit markets might be impaired. Worry over
+misalignment of interests causes little lost sleep for owners of Treasury bonds.
+Investors in Treasury bonds generally perceive the government as a neutral player in the debt
+management process. Unlike corporate debtholders, who sit squarely across the table from the
+issuers of corporate obligations, government bondholders expect fair treatment. Consider the
+fact that from 1975 to 1984, the U.S. Treasury offered a dozen issues of thirty-year bonds that
+contained call provisions for the final five years of the issue's life. A call provision allows the
+debt issuer to redeem a debt issue at a fixed price. Economically motivated issuers exercise call
+provisions only when the fixed-call price stands below the value of the bond calculated in
+absence of a call provision. Exercise of a call provision eliminates debt with high coupons
+relative to current market levels, benefiting the issuer and hurting the investor.
+Because of the special nature of the government's role in debt markets, bond market
+participants debated whether the government would employ the call option for debt
+management purposes or for economic refundings. If the government used the call option for
+debt management, then bondholders faced an idiosyncratic risk as likely to provide a benefit as
+a cost. If the government used the call option for economic refundings, then bondholders faced
+a risk of economic loss.
+Government bondholders received the answer to the question of how the Treasury would
+behave on January 14, 2000 when the Treasury "announced the call for redemption at par on
+May 15, 2000 of the 8-1/4% Treasury Bonds of 2000-05."15 The government responded to
+economic incentives, calling high-interest debt to reduce financing charges.
+In later refundings, the U.S. Treasury explicitly cited an economic motivation for calling
+bonds. In the unimaginatively titled January 15, 2004 Public Debt News release, "Treasury Calls
+9-1/8 Percent Bonds of 2004-09," the government noted that "these bonds are being called to
+reduce the cost of debt financing. The 9-1/8 percent interest rate is significantly above the
+current cost of securing financing for the five years remaining to their maturity. In current
+market conditions, Treasury estimates that interest savings from the call and refinancing will be
+about $544 million."16 In other words, the ability to refinance the 9-percent-plus-coupon
+bonds at an interest cost of between 3 percent and 4 percent resulted in substantial interest
+savings for the government.
+Even though the government acted in an economic fashion by exercising the call provision
+on the 9-1/8s Treasury bonds of 2004-09, the fact that investors debated whether the
+government would exercise the call provision to generate interest savings signifies the unusual
+relationship between the government and its creditors. In fact, the program of callable Treasury
+issuance lasted a mere ten years and involved a relatively small portion of overall government
+bond issuance. Moreover, the call provisions affected only the last five years of the thirty-year
+bond's life, in contrast to the much more aggressive call provisions typically included in issues
+of long-term corporate debt. Perhaps the U.S. Treasury stopped selling callable bonds to
+improve the character of securities offered to government bond market participants. In any
+event, of all debt issuers, the government promotes the greatest alignment of interests with its
+creditors.
+At December 31, 2006, roughly 31 percent of U.S. government bond issues represented
+debt issued by government-sponsored enterprises (GSEs). (The Government National
+Mortgage Association, known as "Ginnic Mac," the Federal Home Loan and Mortgage
+Corporation, known as "Freddie Mac," and the Federal National Mortgage Association,
+known as "Fannic Mac," constitute the largest GSEs.) Many market participants treat debt
+issued by GSEs as close substitutes for U.S. Treasury obligations. In fact, credit quality of GSES
+ranges from the full-faith-and-credit status enjoyed by Ginnie Mac to the less exalted status of
+Fannie Mac and Freddie Mac. Many GSEs operate in a nether land between the certainty of
+government guarantees and the uncertainty of corporate promises to pay. While chances of
+default by GSEs seem quite low to most market observers, many GSE obligations contain
+options that may disadvantage bondholders.
+Investors seeking the purity of U.S. Treasury debt face a surprisingly daunting task. Many
+high quality bond investment vehicles hold large quantities of GSE debt, as fund managers
+pursue the time-honored investment practice of hoping to get something for nothing in the
+form of incremental yield on GSE paper (the something) without exposing the portfolio to
+additional risk (the nothing). The twin possibilitics of credit deterioration and exercise of
+options by the GSEs carry the potential to harm bondholder interests. Investors secking high
+quality fixed income exposure avoid GSE debt and opt for the purity of U.S. Treasury bonds,
+the full-faith-and-credit obligations of the U.S. government.
+Cash
+Investors frequently divide fixed income assets into cash and bonds, with the former consisting
+of instruments maturing within one year, and the latter including instruments with more than
+a year to maturity. For investors with short investment horizons, cash represents the riskless
+asset as market participants know nominal and real returns with reasonable certainty. Certainty
+of return comes with a high price as returns over the eighty-one years through December 31,
+2006 amount to a mere 3.7 percent per annum for cash, which falls to a paltry 0.7 percent per
+year after adjustment for inflation.
+Because investors frequently employ one-year horizons when conducting portfolio analysis,
+cash naturally enters the matrix of capital markets returns, causing many long-term investors to
+misidentify cash holdings as a riskless asset. If investors conducted analysis over periods
+consistent with an appropriate investment horizon, cash would appear as a substantially riskier
+asset.
+Some investors argue that cash provides necessary liquidity for endowment funds, ignoring
+the massive amounts of liquidity resident in institutional portfolios. Interest income, dividend
+payments, and rental streams provide liquid cash flows, facilitating the ability of the investment
+fund to meet spending distribution requirements. Natural turnover of assets provides another
+source of funds. Bonds mature, companies merge, and private assets become liquid, serving as
+sources of cash flow. Manager sell decisions create yet another set of liquidity events. Finally, if
+income flows, natural asset turnover and manager sales create insufficient liquidity to meet
+spending requirements, investors retain the ability to direct sales of assets to provide for current
+consumption. The modest transactions costs incurred in selling assets pale in comparison to
+the drag on returns created by holding cash as a standard part of an institutional portfolio.
+Based on delivery of poor real returns and failure to serve as a riskless asset for long-term
+investors, cash plays no significant role in a well-constructed endowment portfolio.
+Market Characteristics
+At December 31, 2006, U.S. government bonds totaled $3.2 trillion, of which $2.2 trillion
+represented full-faith-and-credit obligations of the U.S. Treasury and $1.0 trillion represented
+debt of government sponsored enterprises. U.S. Treasury bonds trade in the deepest, most
+efficient market in the world.
+The universe of Treasury bonds sported a yield to maturityVI of 4.9 percent at year-end
+2006 with an average maturity of 6.9 years and a duration of 5.0 years. Agency issues promised
+a yield of 5.1 percent with a 5.1-year average maturity and 3.5-year duration.
+Summary
+U.S. Treasury bonds provide a unique form of portfolio diversification, serving as a hedge
+against financial accidents and unanticipated deflation. No other asset type comes close to
+matching the diversifying power created by long-term, noncallable, default-free, full-faith-and-
+credit obligations of the U.S. government.
+Investors pay a price for the diversifying power of Treasury bonds. The ironclad security of
+Treasury debt causes investors to expect (and deserve) low returns relative to those expected
+from riskier assets. While holders of long-term Treasury bonds stand to benefit from declining
+price inflation, in an environment of unanticipated inflation Treasury bondholders lose.
+Treasury bonds' modest expected returns and adverse reaction to inflation argue for modest
+allocations to the asset class by long-term investors.
+FOREIGN DEVELOPED EQUITY
+Investments in developed economy equity markets provide the same expected returns as U.S.
+equity investments. But overseas investments exhibit two critical differentiating characteristics
+relative to domestic holdings. First, markets in different regions respond to different economic
+forces, causing returns to behave differently from one region of the world to the next. Second,
+investment in non-U.S. markets exposes investors to foreign currency fluctuations, adding
+another variable to the investment equation.
+Developed economy equity markets share similar levels of expected return. Comparability
+in economic infrastructure, commonality in drivers of economic performance, and secular
+liberalization in flows of labor, goods, and services across national boundaries combine to cause
+investors to expect similar long-run results from investments in developed equity markets.
+Although investor enthusiasm for individual countries waxes and wanes along with strong or
+weak recent market performance, over reasonably long periods of time, investors might expect
+the developed markets in North America, Europe, and Asia to produce roughly comparable
+returns.
+In fact, in the thirty-seven years since the 1970 inception of the Morgan Stanley Capital
+International (MSCI) Europe, Australasia and Far East (EAFE) Index that tracks non-U.S.
+equity market performance, EAFE countries generated 10.8 percent per annum returns relative
+to 11.2 percent per annum returns for the U.S. dominated S&P 500 Index. While the domestic
+and international results fall in the same neighborhood, the United States enjoys a slight
+margin of superiority. Because such market performance comparisons exhibit a high degree of
+sensitivity to beginning and ending dates, the most reasonable conclusion supports the
+assumption of approximate equivalence between expected returns for domestic and
+international equitics.
+Diversifying Power
+The lack of correlation between foreign markets and the U.S. market provides valuable
+diversification to investors. Some observers speculate that the process of global economic
+integration has caused individual country equity markets to behave increasingly one like the
+other, leading to less prospective diversification. As evidence of increasing correlation between
+markets, diversification skeptics point to the behavior of equity markets in the crash of 1987
+and in the financial dislocations during the crisis of 1998. In both instances, stock markets
+worldwide exhibited similar, extraordinary declines. Yet, market declines in 1987 and 1998
+constituted short-term events in which market players expressed extreme preferences for
+liquidity and quality. After brief periods during which many developed equity markets moved
+in concert, individual country markets reverted to fluctuation in response to country-specific
+drivers of local market performance.
+Consider the relative returns of equity markets in the United States and Japan. In the 1980s,
+Japan dominated all other world stock markets, returning 28.4 percent per annum versus 16.5
+percent per annum for other non-U.S. markets and 17.4 percent per annum for the U.S. equity
+markets. Near the end of the extraordinary bull run in Japanese stocks, Japan boasted the
+largest market capitalization in the world, surpassing even the massive U.S. market in size.
+In the 1990s, Japan's fortunes reversed. During the last decade of the twentieth century,
+Japan's economy collapsed, contributing to a market decline of 0.9 percent per annum for the
+decade. In contrast, other non-U.S. markets returned 13.5 percent per annum and the United
+States market produced an astonishing 18.2 percent return per annum. As Japan's stock
+market declined, the country lost its dominant equity market position, falling so far behind the
+United States that at one point Japan's cquity market capitalization amounted to less than one-
+fifth of the U.S.'s market capitalization. Clearly, investments in individual equity markets
+behave differently, generating returns that differ one from the other, thereby providing
+diversification to portfolio holdings.
+Foreign Currency Exposure
+Investors in foreign equities assume foreign exchange risk as an unavoidable part of overseas
+equity exposure. Realistic investors expect foreign currency translation neither to add to nor to
+subtract from investment results. Even though much ink spills and many trees fall in the service
+of market prognosticators who fill reams of pages in attempts to divine the future of foreign
+exchange rates, no one really knows where currencies will go. Sensible investors avoid
+speculating on currencies.
+Some observers suggest that holders of foreign cquities should routinely hedge foreign
+exchange exposure. Unfortunately, hedges prove difficult to fashion as foreign equity managers
+face uncertain holding periods and unknowable future position sizes, creating issues regarding
+the appropriate term and magnitude of the hedge. As a result, foreign equity investors
+necessarily assume at least some foreign exchange risk along with commitments to the asset
+class.
+Fortunately, finance theorists conclude that some measure of foreign exchange exposure
+adds to portfolio diversification. Unless foreign currency positions constitute more than 20
+percent or 25 percent of portfolio assets, currency exposure serves to reduce overall portfolio
+risk. Beyond 20 percent to 25 percent of portfolio assets, the currency exposure constitutes a
+source of incremental risk, suggesting consideration of some corrective action.
+Performance Chasing
+Investors tend to seek diversification when the core portfolio asset disappoints, either in
+absolute or in relative terms. For instance, from 1998 to 2003, a period during which foreign
+markets underperformed, returning a cumulative -18.5 percent relative to a cumulative -6.4
+percent for the broad U.S. market, college endowments maintained a relatively stable allocation
+to non-U.S. equities. The fact that foreign stock allocations fell in a narrow range of between
+12.5 percent and 13.8 percent for the period indicates that investors were engaged in rational
+rebalancing activity. In contrast to the rational rebalancing in the face of poor relative
+performance, as foreign markets took off in 2004, allocations to foreign equitics took off, too.
+In the three years from 2004 to 2006, non-U.S. equitics posted returns of 23.9 percent per
+annum and emerging markets generated returns of 35.8 percent per annum, completely
+dominating the U.S. market returns of 13.1 percent per annum. In response, college
+endowment managers chased performance, boosting foreign equity allocations from 13.8
+percent in 2003 to 15.6 percent in 2004 to 17.4 percent in 2005 and finally to 20.1 percent in
+2006. Momentum strategies generally end badly.
+Strong relative performance of foreign equities caused endowment managers to
+dramatically increase non-U.S. equity holdings, with investors frequently citing diversification
+as the rationale for boosting foreign allocations. Disappointing performance from the
+diversifying asset may cause investors to reduce allocations at an inopportune time. Sensible
+investors pursue diversification as a policy to reduce risk, not as a tactic to chase performance.
+By following a disciplined policy of maintaining a well-diversified set of portfolio exposures,
+regardless of market zigs and zags, investors establish the conditions for long-run success. In
+fact, when taking market conditions into account, investors increase the odds of success by
+diversifying into asset classes after they suffer poor performance. In any case, foreign equitics
+provide an important tool for reducing portfolio risk without sacrificing expected returns.
+Foreign Equity Prices and Inflation
+Investors in domestic equities face an inflationary paradox-stocks appear to provide good
+long-term protection against inflation, while they seem to offer poor short-term protection.
+Foreign stock investors encounter no such conundrum. The tenuous link between (2)
+domestic inflation and (b) the returns of foreign stocks translated into dollars proves so remote
+as to render foreign equities useless as a hedge against inflation.
+Alignment of Interests
+As a first approximation, alignment of interests between U.S. investors and foreign
+corporations resembles the relationship between U.S. investors and U.S. corporations.
+Generally speaking, both domestically and overseas, equity investors expect corporate
+management to look after shareholder interests.
+Even though the corporate scandals at Enron and WorldCom, among others, highlighted
+the shortcomings of American corporate governance, the fact remains that in the United States
+a strong coincidence of interest exists between shareholders and management. As a broad
+generalization, elsewhere in the world corporate managements focus less single-mindedly on
+profit generation. In some countries, cultural norms lead to greater concern for the needs of
+other stakeholders, including workers, lenders, and the broader community. In other countries,
+poor governance structures allow controlling shareholders to divert resources from minority
+shareholders. While a lesser coincidence of interests between overseas managements and their
+shareholders constitutes a disadvantage to owners of foreign shares, the advantages of
+increasing the investment opportunity set argue for inclusion of nonU.S. securities in
+individual investor portfolios.
+Market Characteristics
+At December 31, 2006, developed foreign markets totaled $23.8 trillion, as measured by
+Morgan Stanley Capital International. The sum of the twenty-two countries included by
+MSCI in the non-U.S. developed world exceeded the market capitalization of the U.S. market,
+which stood at $18.2 trillion as of year-end 2006. Japan led the non-U.S. world with $5.0
+trillion in assets. Other large markets include the United Kingdom ($3.8 trillion), France ($2.4
+trillion), Canada ($1.8 trillion), and Germany ($1.6 trillion). Europe accounted for 63 percent
+of the non-U.S. world, Asia for 26 percent, Canada for 7 percent and Australia/New Zealand
+for 5 percent.
+Overall, foreign developed equity markets sported a dividend yield of 2.4 percent, a price-
+carnings ratio of 16.0, and a price-book ratio of 27. Regional variations matter. Europe yielded
+27 percent at year-end 2006 relative to 1.1 percent for Japan, while European securities posted
+a price-earnings ratio of 14.5 and a price-book ratio of 2.6 relative to respective ratios of 21.2
+and 2.1 for Japan.
+Summary
+Since expected returns from foreign developed markets roughly approximate expected returns
+from U.S. markets, investors establish positions in foreign developed equity markets primarily
+to provide portfolio diversification. The most important source of diversification stems from
+the fact that forces driving returns in equity markets outside of the United States differ from
+forces driving returns in the United States. Foreign currency exposure adds a further measure
+of diversification to investor portfolios.
+Sensible investors invest in foreign equity markets through thick and thin, regardless of
+recent past performance. All too often, market players seek the diversification promised by
+foreign stocks following a period of strong relative foreign market returns. When the
+diversifying strategies fail to produce returns superior to domestic market results, investors
+abandon the disappointing diversifying assets. Performance-chasing players use international
+equities to whipsaw portfolios, locking in poor relative returns and damaging investment
+results.
+EMERGING MARKETS EQUITY
+Emerging markets represent a high-risk, high-expected-return segment of the marketable
+equities universe. Defined as a group of countries with economies in an intermediate stage of
+development, neither undeveloped nor developed, emerging markets present a formidable
+array of fundamental risks for investors. On a macro level, investors concern themselves with
+the development of the overall economy and the maturation of the securities markets
+infrastructure. On a micro level, investors worry about quality of management and profit
+orientation of nascent enterprises.
+Market observers frequently confuse strong economic growth with strong equity market
+prospects. Consider the extreme case of a command economy with resource allocation rules
+that operate without the benefit of securities markets. Clearly, economic growth occurs
+without any impact on stock prices, as equity securities do not exist. In the less extreme case of
+market-oriented economies with poor resource allocation, providers of equity capital might
+receive consistently poor returns. Corporate revenues may accrue disproportionately to
+corporate management (through salaries), to labor (through wages), or to government entities
+(through taxes), leaving inadequate recompense for capital. In well-functioning economics,
+prices and returns adjust to reflect financial market conditions. Not all emerging market
+economics function well. Profitable equity market investments require profitable enterprises,
+for investors ultimately share in corporate earnings. Therein lies the primary microeconomic
+risk for emerging market investors. In emerging markets, as elsewhere, economic growth may
+not lead to corporate profitabil which in turn translates i stock market success.
+Economic history contains many examples of emerging markets that submerged. In an
+article dramatically entitled "Survival," Stephen Brown, William Goetzmann, and Stephen
+Ross identify thirty-six stock exchanges operating at the beginning of the twentieth century. Of
+the thirty-six, "more than half suffered at least one major hiatus in trading... usually due to
+nationalizations or war." More distressingly to investors who believe in the inevitability of
+progress, of the thirty-six markets that operated in 1900, fully fifteen remained classified as
+emerging markets more than 100 years later. One market, located in Serbia's Belgrade, fails
+even to make the twenty-first century list of emerging markets. The authors dryly note that "in
+fact, the very term 'emerging markets' admits the possibility that these markets might fail."17
+In recent years, investors enjoyed the opportunity to invest in an ever-expanding set of
+developing markets. Morgan Stanley Capital International, the leading constructor of non-
+U.S. market indices, began tracking emerging markets in 1988 with an index of eight countries
+ranging from Mexico to Jordan to Thailand. Five years later, the population stood at nineteen
+with notable additions of India, Korca, and Portugal. By 1998, the total reached twenty-eight
+as South Africa, Russia, and a number of central European countries joined MSCI's coverage
+universe. In 2001, Egypt and Morocco joined the index, while Sri Lanka departed. Because of
+investment restrictions and lack of liquidity, Venezuela left the index in 2006, bringing the
+emerging market country population to twenty-five.
+On occasion, countries move out of the emerging world to the developed world. In 1997
+Portugal made the leap, and in 2001 Greece followed. As emerging economies make progress,
+more countries will advance to the ranks of the developed world.
+The Bull Case for Emerging Markets
+Antoine van Agtmael, longtime investor in emerging markets, articulates a bullish perspective
+on emerging markets in his excellent book, The Emerging Markets Century.
+As we enter the Emerging Markets Century, the time has come to rethink what we mean
+by "risk." Gazing back in the rearview mirror, we once regarded emerging markets as
+crisis-prone, volatile, desperately poor, small in the global economy to the point of
+irrelevancy, dependent on Western consumer markets, and heavily protected. Stock
+markets were poorly regulated and prone to manipulation; a lack of participation by
+institutional investors and pension funds left much room for speculation and insider
+trading; corporate disclosure was notoriously poor.
+More developed markets, in contrast, led in economic stability, technology, market
+size, and transparency. A better legal framework and corporate governance protected
+investors while domestic pension funds and a large mutual funds industry were ready
+buyers of stocks and bonds. And, of course, a huge gap remained in the size,
+sophistication, and quality of companies between the West and "the Rest."
+lay, the case for emerging market investing is different precisely because (1) these
+markets themselves are less different and more global than before and (2) a growing
+number of companies are becoming world-class. While emerging markets were until
+fairly recently regarded as a small yet risky niche, the increasing importance of these
+countries and the importance of these companies has propelled emerging markets from
+being the spice of an investment portfolio to a more central role that is more mainstream
+and less of a gamble. The practical implications of this broad-based shift both in real and
+perceived risk are that emerging markets should be a core component of investors
+portfolios rather than an afterthought but that they will also be less exciting going
+forward, 18
+While Antoine van Agtmacl's work supports the role of emerging markets equities as a core
+asset class, their relatively immature regulatory environments argue for special care on the part
+of investment managers. Emerging markets may be "less exciting going forward," but they will
+continue to be exciting.
+Emerging Market Equity Prices and Inflation
+The link between inflation in the United States and emerging market stock returns suffers from
+the same issues as the link between U.S. inflation and foreign developed stock returns. That
+said, basic commodities play an important role in a number of emerging markets economies.
+To the extent that the U.S. suffers commodity-price-induced inflationary pressures,
+investments in emerging markets stocks may provide partial protection against the inflation.
+Alignment of Interests
+Development of market infrastructure in emerging economics proceeds in fits and starts as
+legislators, regulators, and corporate managements learn the rules of the game. Investors
+accustomed to the protections afforded in the United States find most emerging markets quite
+inhospitable. Quality of securities legislation ranges from poor to good, enforcement of
+regulations varies from inadequate to adequate, and fidelity of managements to shareholders'
+interests falls all over the lot. Caveat emptor.
+Government policies sometimes interfere with investor interests, occasionally in dramatic
+fashion. In 1998, during the Asian crisis, Malaysia restricted the convertibility of the ringgit,
+effectively prohibiting foreign investors from repatriating funds. Because of bad behavior
+regarding capital controls, MSCI removed Malaysia from one of the firm's emerging market
+indices. Not until Malaysia removed capital controls in late 1999 did the country reestablish its
+credentials as a full-fledged member of the MSCI roster.
+In emerging markets, corporate actions resemble, at times, the Wild West. One market
+observer suggested that Russian equity investors put money in enterprises where management
+attempts grand theft and avoid commitments to companies where management engages in
+petty larceny. The rationale for the superficially contradictory advice lay in the notion that
+managements of truly valuable enterprises attempted to steal the entire entity, while
+managements of less valuable enterprises simply sought to pilfer small pieces.
+The inferior alignment of interests facing investors in emerging markets represents one of
+the critical risk factors that cause investors to demand higher rates of return for emerging
+markets equity investments. Since investors operate in an environment with less-evolved
+frameworks for the definition and resolution of legal and regulatory issues, the resulting
+uncertainty forces sensible investors to seek premium returns.
+Emerging markets governments occasionally drive wedges between the interests of
+shareholders and managements. Controls on the ownership and voting rights of local shares
+sometimes lead to the creation of two classes of share owners, with attendant problems for the
+second-class foreign investor. Capital controls, although infrequently imposed, interfere with
+the ability of foreign investors to transfer funds freely. Government regulation in the emerging
+markets contains the potential to harm foreign investor interests.
+In other instances, corporate managements fail to act in shareholder interests. A particularly
+prevalent problem in many Asian countries involves family-controlled companies satisfying
+family desires at the expense of external minority shareholder wishes. An absence of
+transparency compounds the problem as outside investors often lack the information required
+to identify and address insider-dealing issues.
+As emerging markets mature and as global capital markets liberalize, structural problems
+with misalignment of interests become less severe. Nonetheless, rational investors require a
+substantial return premium to expose assets to companies that operate in the less-than-ideal
+emerging markets legal and regulatory framework.
+Market Characteristics
+At December 31, 2006, emerging markets equities totaled $7.2 trillion according to MSCI.
+Ranging from India ($824 billion) and China ($816 billion), which by market-capitalization
+would rank in the middle of the developed market cohort, to the much smaller markets of Peru
+($38 billion) and Jordan ($30 billion), the emerging markets universe encompasses a broad
+range of countries. Asia accounts for 53 percent of emerging market equity assets, Latin
+America for 20 percent, Europe for 16 percent, and Africa and the Middle East for 12 percent.
+Emerging market valuations trumped those of the United States at year-end 2006 (at least
+for investors seeking valuc). The emerging markets dividend yield amounted to 2.1 percent
+relative to 1.7 percent for the United States. The price-earnings ratio stood at 15.6,
+representing a substantial discount to the U.S. market level of 19.5. Emerging markets traded
+at a price-book ratio of 2.5, identical to the U.S. level.
+Summary
+Investors in emerging markets equities require substantial expected returns to compensate for
+the high level of fundamental investment risk. During the period for which good data exist,
+investors received inadequate compensation for risks incurred. From 1985, when the World
+Bank's International Finance Corporation began measuring emerging markets equity returns,
+to December 2006, emerging markets equities produced 12.0 percent per annum returns (as
+measured by the IFC Global Composite) relative to 13.1 percent for the S&P 500 and 12.4
+percent for EAFE. The deficit relative to developed market returns indicates that emerging
+market investors accepted higher fundamental risks than developed market investors without
+earning excess returns. Investors in emerging markets hope the future treats them better than
+the past.
+Because of macroeconomic and microeconomic concerns, emerging markets equities
+promise high expected returns with commensurately high levels of risk. An allocation to
+emerging markets stocks contains the potential to enhance the risk and return characteristics of
+well-structured investment portfolios.
+CONCLUSION
+Investors find a number of essential components of a well-diversified, equity-oriented portfolio
+in the traditional asset classes of domestic equity, U.S. Treasury bonds, foreign developed
+market equity, and foreign emerging market equity. Domestic and foreign equities drive
+portfolio returns, while Treasury bonds provide diversifying power. By employing traditional
+asset classes in a well-diversified portfolio, investors build a strong foundation for investment
+success.
+In the course of providing basic, valuable, differentiable characteristics to investor
+portfolios, traditional asset classes rely on market-generated returns. By investing in asset classes
+in which market forces drive returns, investors achieve a high level of confidence that the
+various asset classes will produce the expected long-term results, dramatically reducing the risk
+of active-management slippage between hoped-for asset class performance and actual
+outcomes.
+Traditional asset classes trade in broad, deep, investable markets, ensuring substantial levels
+of commitment by a range of Wall Street firms. The resulting competition leads to market
+transparency and efficiency, increasing the likelihood that investors transact on fair terms.
+Investors without active management expertise rely primarily on traditional asset classes for
+portfolio construction, perhaps, adding exposure to Treasury Inflation-Protected Securities
+and an index of real estate investment trusts to round out the portfolio. Investors with active
+management expertise not only enjoy the possibility of producing market-beating returns for
+domestic and foreign equitics, but also benefit from the inclusion of asset classes that depend
+on active management, including absolute return, real assets, and private equity.
+1. The 203-year history reflects the 200 years of data in Siegel's Stocks for the Lang Ran, grown by the three years of
+subsequent returns in Ibbotson's data set.
+II. See pages 55-58 for Ibbotson's and Siegel's stock and bond return data.
+III. A price earnings ratio measures valuation by comparing a company's stock price per share to its earnings per share.
+IV. price book ratio measures valuation by comparing a company's stock price per share to its book value (assets minus
+liabilities) per share.
+V. The term duration was first used in 1938 by Macaulay, who developed a formula to measure the average economic
+life of a security. Duration constitutes a weighted average of the proportions of the present value of the expected cash
+flows from a bond, with each payment weighted by the period in which the payment is expected to be received.
+VI. Yield to maturity represents the rate of return anticipated by holding a bond to its maturity date.

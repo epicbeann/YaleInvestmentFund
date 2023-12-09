@@ -1,0 +1,1846 @@
+8
+Alternative Asset Classes
+Alternative asset classes-absolute return, real assets, and private equity-contribute to the
+portfolio construction process by pushing back the efficient frontier, allowing creation of
+portfolios with higher returns for a given level of risk or with lower risk for a given level of
+return. Investors who employ alternative assets as legitimate tools in the portfolio allocation
+process reduce dependence on traditional marketable securities, facilitating the structuring of
+truly diversified portfolios.
+As separate asset classes, each alternative investment category adds something distinctive
+and important to portfolio characteristics. Absolute return and real assets provide
+diversification, generating returns driven by factors materially different from those determining
+results of other asset classes. In contrast, private equity returns depend on many factors
+common to the determination of marketable equity returns. Although private investments
+provide little diversification, well-selected private holdings contain the potential to make a
+dramatic contribution to portfolio returns.
+Prices for many alternative assets lack the efficiency typical of prices for traditional
+marketable securities, leading to opportunities for astute managers to add substantial value in
+the investment process. In fact, investors in alternative asset classes must pursue active
+management since market returns do not exist in the sense of an investable passive option. Even
+if investors could purchase the median result in an alternative asset class, the results would
+likely disappoint. Longer term median historical returns have lagged comparable marketable
+security results, both in absolute and risk-adjusted terms. Only by generating superior active
+returns do investors realize the promise of investing in alternative assets.
+ABSOLUTE RETURN
+Absolute return investing consists of inefficiency-exploiting marketable securities positions
+that exhibit little or no correlation to traditional stock and bond investments. Well-structured
+absolute return portfolios provide equity-like returns with powerful diversifying
+characteristics.
+situations
+Absolute return managers reduce market risk by investing in event-driven or value-driven
+cted to behave independently of market forces. Event-driven positions depend
+on the completion of a specific corporate finance transaction such as the consummation of a
+merger or the emergence of a company from bankruptcy. Value-driven strategies employ
+hedged portfolios in which short positions offset long positions, dramatically reducing the
+investor's systematic risk. Absolute return managers seek to generate high levels of returns,
+independent of market results, in contrast to the relative benchmark-beating returns sought by
+active marketable security managers.
+The short duration of absolute return strategies makes the short-term cost of funds a fair
+starting point for evaluating manager performance. The basic math of hedged positions implies
+that (in the absence of skill and fees) investors deserve a money market rate of return.! If
+managers add value, returns will exceed short-term rates. If managers fail to add value, returns
+will fall short of money market rates.
+Without active management, absolute return does not exist. The fundamental notion of
+absolute return investing rests on identification and successful exploitation of inefficiencies in
+pricing marketable securities. In the absence of value added by active managers, investors
+receive money market rates of return, appropriate compensation for creating positions without
+material market exposure.
+Event-driven Investing
+Event-driven opportunities exist because of the complexities inherent in business combinations
+and corporate reorganizations. Mainstream portfolio managers recognize that the determinants
+of the merger endgame and the bankruptcy resolution differ materially from the factors that
+predominate in day-to-day security valuation. The legal and regulatory environment changes
+upon announcement of a proposed combination or reorganization, giving the informed
+specialist an advantage over the competent generalist. Superior analytical skills create a
+meaningful edge for active event-driven investors.
+The opportunity exploited by event-driven investors stems in part from sales of securities by
+investors unwilling to commit the resources to develop a thorough understanding of the
+circumstances surrounding complex corporate finance transactions. In the case of distressed
+securities, selling pressure comes from investors unable or unwilling to hold securities of failing
+or failed companies. The sometimes massive supply of securities from holders uncomfortable
+with positions in companies undergoing basic structural change allows event-driven investors
+to establish positions with attractive embedded returns.
+Merger arbitrage represents a typical event-driven absolute return strategy, with results
+related to the manager's ability to predict the probability that a deal will close, the likely timing
+and the expected consideration for the transaction. Upon announcement of a stock-for-stock
+deal, the price of the target company's stock generally rises to a level somewhat below the
+acquirer's offer, creating an opportunity for the merger arbitrageur to profit. Uncertainty
+regarding the ultimate outcome of the transaction causes many holders to sell, motivated by
+the concern that gains stimulated by the merger offer might disappear for any of a number of
+reasons. After careful assessment of deal-specific factors, merger arbitrage investors buy the
+stock of the target company and sell shares of the acquiring company, hoping to profit from the
+elimination of the spread when the transaction closes. Because the arbitrageur holds long
+positions offset by short positions, the direction of the overall market plays little role in
+determining the position's returns. Instead, results depend on the merger arbitrageur's ability
+to assess correctly the factors relevant to the ultimate conclusion of the transaction.
+Newell Rubbermaid Merger Arbitrage
+The March 1999 combination of Newell and Rubbermaid illustrates some of the market
+dynamics underpinning event-driven investment opportunities. After the October 1998
+announcement of the proposed merger, Rubbermaid shares responded by rising nearly 25
+percent as shown in Figure 8.1. Trading volumes increased more than ten-fold, from an average
+of 566,000 shares per day in the week prior to the announcement to 5,960,000 shares per day
+in the week following. Taking advantage of the merger induced price rise, traditional long-only
+investors exited the stock and created an opportunity for merger arbitrageurs to establish
+positions.
+The terms of the definitive agreement called for a tax-free exchange of shares in which
+holders of Rubbermaid would receive 0.7883 shares of Newell upon closing, expected in early
+1999. By buying a share of Rubbermaid at the post announcement price of $31.81 and selling
+0.7883 of a share of Newell at $43.25, arbitrageurs generated net proceeds of $2.28 per share. If
+the companies were to complete the transaction on the originally proposed terms, arbitrageurs
+would have equivalent valuc positions at the closing. Upon consummation of the deal, merger
+arbitrageurs would close out positions by delivering Newell shares received from the
+Rubbermaid exchange to cover the original Newell short sale.
+Figure 8.1 Merger Arbitrage Spread Narrows as Closing Date Nears
+Merger Between Newell and Rubbermaid October 12, 1998-March 15, 1999
+11e
+Back-of-the-envelope calculations illustrate the return characteristics of the transaction.
+When the deal closed on March 24, 1999, merger arbitrageurs earned the $2.28 post
+announcement spread between the two stocks and a short rebate of about $0.57 for a total of
+approximately $2.85. Cash flow yield played essentially no role in the return calculation since
+the dividends earned on the Rubbermaid shares offset the dividends paid on the Newell shares.
+Based on an initial capital commitment of $31.81 per share, the position delivered a gross
+return of about 9 percent over a five month period, equivalent to an annualized return in the
+low 20 percent range.1
+The Newell Rubbermaid combination proceeded without a hitch, as the spread between
+Rubbermaid and Newell shares narrowed week-by-weck until the scheduled closing. Not all
+merger arbitrage transactions proceed as smoothly. The September 1998 combination of
+World Com and MCI Communications began in November 1996 as a proposal by British
+Telecommunications plc to acquire MCI in the largest cross border transaction ever. Between
+the initiation of merger discussions and the ultimate resolution, merger arbitrageurs wrestled
+with a laundry list of problems, including antitrust concerns, regulatory approvals, changes in
+company business strategy, corporate operating difficulties, international political issues, and
+competition from competing bidders." Regardless of whether deals take a simple path from
+inception to resolution or follow a convoluted route, the returns to merger arbitrage investors
+depend far more on the specific event than on the general direction of the market.
+...
+In the distressed securities area, event-driven investors look for opportunity in securities of
+companies undergoing reorganization. Because of the complexity of the issues surrounding
+bankruptcy, many market participants sell positions regardless of price, creating an
+opportunity for hard working investors to profit. By assessing the timing of the company's
+emergence from bankruptcy and valuing the expected package of securities, players in the
+distressed securities arena generate returns more dependent on events important to the
+bankruptcy process than on the level of the overall stock market.
+Event-driven strategies lack the power to insulate investors completely from financial
+market moves. In the case of merger arbitrage, factors influencing the stock market or the
+financing market may alter the likelihood either that a particular merger will be completed or
+that mergers in general will move forward, causing a commonality of influence. In the case of
+distressed investing, to the extent that investors receive equity interests as part of a package of
+securities distributed upon a company's reorganization, the market exerts direct influence on
+the ultimate return to a distressed securities investment. In spite of identifiable links between
+event-driven investing and market moves, under a wide range of circumstances event-driven
+strategies provide meaningful portfolio diversification.
+In times of financial crisis, the correlation between event-driven strategies and market
+activity increases to uncomfortable levels. During the stock market crash in October 1987,
+merger arbitrage positions fell in step with the general market, providing little protection in the
+short run against the dramatic market decline. As time passed, investors recognized that
+companies continued to meet contractual obligations, ultimately completing all merger deals
+previously announced. The return of confidence improved merger arbitrage results, providing
+handsome returns relative to the market.
+Results of two prominent merger arbitrage firms, which later formed the base for Yale's
+absolute return portfolio, illustrate the importance of evaluating performance over reasonable
+time horizons. Pursuing the conservative approach of investing only in announced deals, the
+two firms reported combined results of -17.9 percent for the fourth quarter of 1987, somewhat
+ahead of the S&P 500 return of -22.5 percent but well behind expectations for event-driven
+strategies. Even though no merger deals "broke," the market turmoil caused investors to
+demand higher compensation for merger arbitrage risk, resulting in a dramatic widening of
+spreads. In the first quarter of 1988 the arbitrage managers rebounded, posting results of 16.3
+percent, far ahead of the S&P 500 returns of 5.7 percent. Viewed in isolation, the last quarter
+of 1987 provided disappointing double digit losses coincident with the stock market crash,
+failing to protect the portfolio during the period of crisis. Viewed as a package, the fourth
+quarter of 1987 with the worst results ever for both firms and the first quarter of 1988 with the
+best results ever for both firms, essentially preserved assets and provided meaningful
+diversification relative to the equity market's losses.
+Not all periods of financial trauma end as happily as the aftermath of the crash of October
+1987. In August 2007, an extraordinary credit crisis called into question the viability of an
+estimated $400 billion of merger-related financing. As a result, prospective returns on the First
+Data and TXU merger arbitrage deals skyrocketed from low double digit levels in June 2007 to
+more than 70 percent in mid-August 2007. Both First Data and TXU closed, providing
+handsome returns to intrepid investors who made late summer bets on the deals. In contrast to
+the 1987 experience, however, a number of 2007 vintage deals failed to close. The link,
+however unusual, between markets and merger deals lessens the diversifying power of merger
+arbitrage. That said, even though diversifying financial assets, including absolute return
+strategies, may show high correlation to marketable securities for short time periods, over
+reasonable investment horizons assets driven by fundamentally different factors produce
+fundamentally different patterns of returns.
+Because event-driven investors strive to hit singles and doubles, creating a broadly diversified
+portfolio makes sense. In an environment without huge potential winners to offset inevitable
+costly mistakes, careful investors limit the costs that any one position might impose on the
+portfolio.
+Event-driven portfolios benefit from engaging managers with a broad set of investment
+tools. Hiring a specialist focused only on one aspect of the business, say merger arbitrage, forces
+investors to ride a return rollercoaster. When opportunities abound, investors reap attractive
+returns from the niche strategy. If high returns attract capital to the activity, or if the supply of
+investment opportunities wanes, specialized investors continue to commit funds to their sole
+area of expertise, ultimately reaping poor returns from funds invested at inopportune times.
+In contrast, if a manager develops expertise in more than one event-driven strategy, when
+returns appear sparse in one segment funds flow natura more attractive segments. The
+ability to target areas of relative opportunity dampens the inevitable fluctuations experienced
+by focused funds and creates the possibility of structuring higher return, lower risk portfolios.
+Value-Driven Investing
+Value-driven absolute return strategies rest on the manager's ability to identify undervalued
+and overvalued securities, establish positions, and reduce market exposure through hedging
+activity. If an investor purchases a portfolio of attractively priced stocks and sells short an
+equivalent amount of expensively priced stocks, the offsetting long and short positions
+eliminate systematic exposure to the equity market. Results depend entirely on stock-picking
+ability, with the long/short investor enjoying the opportunity to add value with both long ideas
+and short ideas. Skillful value-driven managers win on both sides of the portfolio.
+While value-driven and event-driven strategies share a lack of correlation with traditional
+marketable securities, value-driven portfolios require a longer time horizon than do event-
+driven portfolios. Expected holding periods for merger arbitrage and distressed securities
+correspond to the anticipated date of corporate combination or bankruptcy resolution,
+implying a reasonably short duration for event-driven strategies. In contrast, value-driven
+positions lack the clear triggers present in event-driven investing. To the consternation of fund
+managers, undervalued stocks frequently decline, while overvalued positions often risc, leading
+to poor near-term performance relative to expectations. Even without adverse price moves in
+the short run, mispricings identified by long/short investors may take years to resolve.
+Value-driven managers share much in common with active managers of traditional
+marketable securities. On the long side, concentrated portfolios of thoroughly researched
+securities provide the underpinnings for investment success. On the short side, the same
+bottom-up techniques of fundamental analysis used to evaluate long positions provide the
+basis for identifying overvalued securities. Adding the flexibility to exploit overvalued positions
+-through short sales-doubles the opportunity for a manager to add value. While short
+selling shares a common foundation with long investing, a successful short portfolio represents
+more than a richly priced inverse of a long portfolio.
+Short Selling Challenges
+Management of the short side of the portfolio poses several challenges peculiar to selling
+securities short. First, investors frequently underestimate the resilience of corporate
+management. Even when the facts and figures indicate that a company deserves classification as
+one of the "living dead," managers frequently find a way to escape the seemingly inevitable
+consequences of their circumstances. Second, the portfolio management implications of
+adverse price movements require greater diversification of short positions. If a stock moves
+against a short seller by increasing in price, the position increases in size. To take advantage of
+the now more attractively priced short opportunity the investor faces the uncomfortable
+prospect of further increasing the position. Starting with a modest allocation to a particular
+short idea allows an increase in position size without creating an uncomfortable concentration
+in a single stock. Contrast the dynamics of a losing short position with the behavior of a losing
+long position. As the long's price declines it becomes a smaller portion of the portfolio,
+reducing its impact on returns and facilitating new purchases at the newly discounted,
+relatively more attractive price. The simple math of price behavior argues for running
+reasonably diversified portfolios of short positions. Short sellers face challenges from success, as
+well as from failure. When the stock price of a fundamentally troubled company crashes, the
+short seller benefits, but the size of the short position declines dramatically, requiring
+identification of attractive replacement candidates. While long managers often run with
+successful investments for years, short managers hope to operate on a treadmill, with frequent
+turnover of holdings caused by the exit of winning positions from the portfolio. The price
+dynamics of short selling cause successful short managers to follow and hold a large number of
+securities.
+Aside from a peculiar set of investment challenges, short sellers face some unusual technical
+problems in managing portfolio positions. To execute trades, short sellers borrow securities to
+deliver to the buyer on the other side of the transaction. (Buyers purchasing shares, whether
+from a short seller or a natural seller, expect to receive securities on the trade's settlement date.)
+As long as short sellers maintain the borrow, the position remains intact. If the short seller loses
+the borrow because the security lender recalls the security, the short seller must replace the
+borrow or lose the position. When the market for borrowing a particular security becomes
+tight, short sellers face a short squeeze. Security borrowers tend to have most trouble with
+small, less liquid companies, exactly the type of security likely to present interesting short
+opportunities.
+The unusual set of problems confronting short sellers places an effective limit on portfolio
+size, forcing managers to constrain the level of assets under management. A reasonable
+portfolio size constitutes a necessary precondition for the potential to add value, as excessive
+levels of assets amount to a nearly insurmountable barrier to success. Even though the
+aggressive assumption that value-driven managers might outperform the market by as much as
+several percentage points cach on the long and short sides seems to fly in the face of traditional
+active manager experience, limits on portfolio size provide hope for significant outperformance
+by long/short managers.
+Return Expectations
+Hedge fund managers who attempt to produce truly independent returns generally articulate
+reasonably modest goals. Consider a fund manager with a portfolio consisting of equal
+measures of long positions and short positions. From a market perspective, the longs offset the
+shorts. In a rising market, losses from the shorts offset gains from the longs. In a falling market,
+losses from the longs offset gains from the shorts. Balanced long/short investing takes the
+market out of the equation.
+Security selection represents the primary source of return for disciplined long/short
+investors. To the extent that managers identify undervalued long positions and overvalued
+short positions, the portfolio stands to benefit from twice the security selection power available
+to long-only managers.
+A secondary source of returns for long/short managers comes from the rebate earned from
+establishing short positions. Short sales generate cash proceeds that carn close to a money-
+market rate of interest. While the short rebate adds to the return of the long/short investor, a
+short rebate proves insufficient in and of itself to justify pursuing a long/short investment
+strategy. If an investor wishes to earn a money-market return, buying a money-market fund
+provides a more direct, less costly, and less risky route to generating cash returns.
+Suppose long/short fund managers exhibit security selection skill consistent with top-
+quartile, long-only domestic equity managers. For the ten years ending December 31, 2006,
+one widely used universe of active managers showed top quartile returns of 2.6 percent per
+annum above the market. If a long/short manager produces top quartile results on each of
+the long and short sides of the portfolio, security selection generates a return of 5.2 percent.
+The expected magnitude of gains available from astute security selection falls far short of
+double digits.
+Adding a short-term interest rate (reflecting the short rebate) to the value added from
+security selection produces the gross return for long/short investing. Over the ten years ending
+December 31, 2006, short-term interest rates averaged 3.7 percent per annum. Combining the
+top-quartile security selection return of 5.2 percent with the money-market return yields a
+total return of 8.9 percent, before fees.
+Fees create a substantial burden for hedge fund investors. A management fee of one percent
+and a profits interest of 20 percent combine to subtract 2.6 percent from the gross return,
+leaving a net return of 6.3 percent for the investor.IV Even with substantial active management
+success (as defined by two top-quartile results), net returns to long/short hedge fund investors
+show only a modest increment over money-market rates.
+In cases where long/short managers exhibit mediocre stock picking skill, results disappoint.
+Consider the results of the median equity manager. For the ten years ending December 31,
+2006, the median active domestic equity manager produced gross returns of 1.1 percent per
+annum above the market return. Doubling the median active management return produces a
+2.2 percent return for security selection. Incorporating the cash return of 3.7 percent generates
+a gross return of 5.9 percent. The fee burden shaves the net return to 3.9 percent, a result
+disturbingly close to the 3.7 percent return of simply holding cash!
+Finally, contemplate the poor position of an underperforming manager. Over the ten years
+ending December 31, 2006, third-quartile managers underperformed the market by 0.1
+percent before fees. With an active management deficit, long/short investors earned 3.5
+percent, which falls short of the return for holding cash. Fees take the gross return to a 2.0
+percent net result, bringing the misery of below-cash returns to investors suffering the
+consequences of poor active management.
+Even though average and below-average investment results sting investors, the investment
+manager makes out nicely in all cases. Regardless of performance, the manager collects a one
+percent fee, representing more-or-less standard compensation for traditional long-only money
+management. Adding the profits interest allows the skillful top-quartile manager to earn 2.6
+percent, a hefty load on a single-digit return. Total fees for median stock pickers amount to 2.0
+percent. Even in instances where net returns to investors fail to reach the returns available on
+cash, the manager profits handsomely. Fees for third-quartile performers total 1.5 percent,
+adding the insult of excessive fees to the injury of poor performance.
+The example of balanced long/short cquity management provides a powerful illustration of
+the central role that active management plays in absolute return investing. In the absence of
+superior active results, investors face certain disappointment. Long/short equity managers
+must consistently produce better than top-quartile returns to justify the fee structure accepted
+by hedge fund investors. Investors unable to identify the best of the best should pursue passive
+investment strategies.
+Yale's absolute return portfolio provides an example of the potential of the asset class and
+conforms to the expectations generated by considering the fundamental investment attributes
+of absolute return strategies. Established as a separate asset class in 1990, the pioneering
+portfolio produced 13.2 percent per annum returns for the seventeen years ending June 30,
+2007. With a remarkably low risk level of 5.7 percent standard deviation of returns, the
+risk/reward relationship indicates that managers exploited some rewarding market anomalies. V
+The absolute return portfolio's diversifying power exceeded expectations, showing essentially
+no correlation to domestic equities (0.02 vs. the Wilshire 5000 Index) and domestic fixed
+income (0.02 vs. the Lehman Brothers Government Corporate Index).
+Survivorship Bias and Backfill Bias
+Like other alternative assets, absolute return investments lack an investable benchmark, forcing
+investors to look elsewhere for defining characteristics of the asset class. Because of absolute
+return's limited institutional history, understanding its quantitative attributes proves more
+difficult than understanding those of real estate, leveraged buy-outs, and venture capital.
+Students of more longstanding alternative investment approaches enjoy the benefit of more
+than three decades of data on active manager results that describe the experience of
+institutional investors and provide intriguing clues about the character of fund performance.
+The paucity of data regarding absolute return strategies requires investors to seek alternative
+methods for estimating asset class attributes.
+Survivorship bias and backfill bias present a serious problem for investors in marketable
+securities. Liquidity facilitates the hiring and firing of stock and bond managers, leading to
+churning in the population of active managers. Poor performers leave (survivorship bias) and
+strong firms enter (backfill bias), constantly altering the character of the standards implicit in
+the collection of returns used for assessing active managers.
+Manager churn presents less of a problem for investors in illiquid assets. Managers of private
+assets taint the data pool with considerably less frequency than their marketable security
+counterparts. Institutions tend to select real estate, venture capital, and leveraged buyout funds
+from a reasonably well-defined list of acceptable alternatives, leading to a fairly coherent
+definition of any given year's institutional cohort. The partnership vehicles through which
+investors conduct most private investing preclude easy departure from the business. Private
+investing results-good, bad, or indifferent-play out over the term of the partnership
+regardless of the degree of confidence investors express in the fund managers.
+Absolute return suffers from particularly acute forms of survivorship bias and backfill bias,
+related to the combination of fairly high liquidity and relative immaturity. As large numbers of
+new (and not-so-new) entrants fail, the firms and their mediocre records disappear. Immaturity
+suggests a substantial amount of flux, as managers posting attractive risk-adjusted returns enter
+the realm of institutional acceptability, adding sometimes eye-popping records to the store of
+absolute return information. Liquidity allows easy entry and exit, creating instability beneath
+the surface of the pool used to evaluate manager returns.
+Statistics on past performance of hedge funds fail to provide much insight into the
+character of this relatively new segment of the investment world. Survivorship bias presents a
+pervasive problem for gatherers of historical return data. The fact that poorly performing firms
+fail at higher rates than well-performing firms causes data on manager returns to overstate past
+results, since compilations of data at any point in time from the current group of managers
+inevitably lack complete performance numbers from firms that failed in the past. In the well-
+established, comprehensively documented world of traditional marketable securities,
+survivorship bias presents a significant, albeit quantifiable problem. In the less-well-established,
+less comprehensively documented arena of hedge fund investing, survivorship bias creates a
+much more substantial informational challenge.
+Even when database managers attempt to include results from failed firms, the history of
+returns often lacks completeness. Because most compilers of data rely on self-reporting of
+results by hedge funds, the integrity of the history depends on the fidelity of the hedge funds.
+As struggling hedge funds fight to stay in business, reporting of results to third-party database
+providers takes a back burner to the day-to-day challenges of crisis management.
+Consider the record of Long-Term Capital Management (LTCM), the infamous hedge
+fund that nearly brought down the world's financial system. According to the New York Times,
+the database of Tremont Capital Management, a leading purveyor of hedge fund data, contains
+LTCM's performance only through October 1997, nearly a year prior to the firm's collapse.
+Inception-to-date-of-reporting-cessation performance (March 1994 through October 1997)
+for LTCM stood at 32.4 percent per year net to investors, representing an impressive return on
+a large amount of capital. Obviously, Long-Term Capital's early record inflated the hedge fund
+industry's aggregate results. From the point in October 1997 when Long-Term Capital
+stopped reporting results to the point of the firm's October 1998 demise, returns (if they can
+be called returns) amounted to -91.8 percent. The staggering loss appears nowhere in
+Tremont's treasure trove of data.
+The yawning chasm between Tremont's reported 32.4 percent per annum and LTCM's
+actual -27.0 percent per annum produces a staggering gap between perception and reality. The
+statistical omission of the implosion of LTCM inflates history in a manner that fundamentally
+misleads investors regarding the true character of hedge fund investing.
+Statistical descriptions of hedge fund returns frequently suffer not only from survivorship
+bias, but also from backfill bias. As hedge funds became popular in the 1990s, only those funds
+with successful track records rose above the fray, attracting attention from market observers
+and money from investors. Funds with mediocre records languished in obscurity. Funds with
+strong returns garnered assets and acclaim, entering the consultants' manager universes and
+generating a substantial positive spin on the reported returns. In many instances, the keepers of
+the numbers added the past results of newly found strong performers to the ranks of the
+reporting managers, providing an unrepresentative boost to past performance data. Backfill
+bias causes data on hedge fund performance to overstate the realities of the hedge fund
+marketplace.
+Academic studies that analyze the impact of survivorship bias and backfill bias come to
+some stunning conclusions. In a study of 3,500 hedge funds over more than ten years, Roger
+Ibbotson of the Yale School of Management concluded that survivorship bias added 2.9
+percent annually to returns and backfill bias added an additional 4.6 percent annually to
+returns.2 In aggregate, data-gathering errors inflated reported returns by fully 7.5 percent per
+annum, an enormous increment in a world where the difference between success and failure
+often depends on a few tenths of a percentage point. Burton Malkiel of Princeton University,
+in examining a well-known database, observed that of 331 hedge funds that reported results in
+1996, more than 75 percent disappeared by 2004.3 As expected, the returns of the live funds
+exceeded the returns of the dead funds. Perhaps not so expected was the 7.4 percent annual
+return differential between the two groups of funds. For the eight-year period, Malkiel
+estimates survivorship bias inflated returns by an average of 4.4 percent per annum and backfill
+bias boosted results by an average of 7.3 percent per annum. Ibbotson and Malkicl's studies call
+into question the usefulness of hedge fund databases. Survivorship bias and backfill bias
+matter.
+Hedge Funds with Market-Related Risk
+Consider two broad categories of hedge funds-those that avoid market risk and those that
+accept market risk. In cases where funds steer clear of market risk, investors without skill
+deserve to earn only money-market levels of return. The argument that supports a cash-like
+return for investors who do not accept market risk depends on the line of reasoning
+underpinning the analysis of long/short manager returns: those hedge fund strategies that do
+not expose assets to systematic market risk depend solely on strong active results to achieve
+gross results in excess of cash returns.
+Many hedge fund strategies expose assets to various types of systematic risk. In fact,
+Goldman Sachs and Merrill Lynch cach created and marketed synthetic hedge funds to mimic
+the systematic risk components of the hedge fund world. Merrill Lynch's Factor Index, which
+employs the S&P 500, Russell 2000, MSCI Emerging Markets, U.S. Dollar Index, and One-
+Month LIBOR, weights each of the components to produce returns similar to those of the
+Hedge Fund Research Weighted Composite Index (HFRI). Merrill Lynch touts the strong
+relationship between the Factor Index and HFRI, noting a 95 percent correlation between
+June 2003 and June 2006. In marketing materials, the investment bank suggests that the Factor
+Index produces hedge fund exposure "in a less expensive, more transparent and more liquid
+manner."
+The notion of a passive hedge fund investment turns logic on its head. Hedge funds rest on
+the premise of hedging, or offsetting, market exposure. The idea that hedge fund returns could
+be explained and replicated by a collection of passive market indices suggests that managers are
+not doing their job and that investors are being sold a bill of goods. If investors really want to
+vary exposure to Merrill Lynch's Factor Index components, they should simply alter their
+allocations to the S&P 500, Russell 2000, et al. The oxymoron of passive hedge fund exposure
+belongs in no serious investor's portfolio.
+Perhaps the most blatant example of hedge fund exposure to market forces lies in the long-
+only manager that simply establishes a private partnership, calls it a hedge fund, and charges a
+20 percent profits interest. In such situations, the manager receives 20 percent of the market's
+return, an egregiously high fee for a factor over which the manager exerts no control. Fair fee
+structures reward managers for adding value by manipulating variables under the managers'
+control. In the case of a fully invested, long-only equity fund, a manager might be reasonably
+rewarded with 20 percent of the incremental return over an appropriate market benchmark,
+such as the S&P 500 for a large-capitalization domestic equity manager or EAFE for a foreign-
+stock specialist. In situations where managers receive a portion of gains over and above a fair
+benchmark, the managers receive a reward for adding value. Unfortunately, hedge fund
+structures almost universally pay managers a share of the profits after returning capital,
+equivalent to no hurdle at all. Without a market-sensitive hurdle rate, managers receive a
+percentage of the gains generated by market exposure. The substantial toll imposed by typical
+hedge fund fee structures causes the overwhelming number of hedge funds to fail to serve
+investor interests.
+Evaluating the returns of market-sensitive hedge funds poses nearly insurmountable
+problems, challenging to even the most sophisticated of investors. Separating the impact of the
+wind at the back (or the wind in the face) contributed by market forces from the influence of
+the skill (or lack thereof) exhibited in security selection proves incredibly difficult, particularly
+in instances where the manager invests in a broad range of markets and frequently adjusts
+market exposure. Regardless of the insight garnered by investors investigating market-sensitive
+hedge funds, the investment manager with an industry-standard deal structure receives a share
+of the returns generated by market action, representing unreasonable compensation for gains
+over which the manager exercises no control.
+Absolute Return and Inflation
+Since short duration characterizes absolute return investments, well-structured absolute return
+portfolios exhibit high sensitivity to the short-term cost of money. In event-driven merger
+arbitrage and distressed security transactions, investors generally expect resolution within
+months, with longer term deals extending to no more than a year or two. Since event-driven
+investors factor the cost of funds into the investment equation, as investors enter new deals the
+calculations reflect the then-current cost of funds. Similarly, the short rebate earned by the
+value-driven long/short investor represents a short-term cost of money. Just as money market
+rates tend to track inflation rates, so does the short-duration, cost-of-funds-sensitive absolute
+return portfolio.
+Alignment of Interests
+The profits interest typically paid by investors in hedge fund structures creates an option for
+managers that threatens investor interests. In the event of hedge fund gains, the manager shares
+in a substantial portion of profits. In the event of hedge fund losses, the investor bears the
+burden alone. The asymmetry of the profits-interest structure clearly favors the fund manager.
+Significant co-investment on the part of the manager works to reduce, if not climinate, the
+dysfunction of the incentive-compensation option. In the case where the hedge fund
+experiences good performance, the manager reaps rewards both from the co-investment and
+from the profits interest. In the case where the fund loses money, the manager's co-investment
+causes a sharing of the investor's pain. A meaningful side-by-side commitment of investment
+manager capital substantially reduces the misalignment of manager and investor interests.
+Market Characteristics
+At December 31, 2006, the hedge fund industry contained an estimated 12,500 firms,
+controlling more than $1.5 trillion in equity capital.5 Moreover, because many hedge funds
+employ significant leverage, their actual buying power exceeds their equity capital. Of the $1.5
+trillion in capital, approximately $880 billion in assets pursue strategies that might be classified
+as absolute return.
+Summary
+Absolute return strategies require active management, since without accepting market risk or
+identifying security mispricings investors expect to earn only the risk-free rate. Since the very
+definition of absolute return rests on lack of correlation with traditional marketable securities,
+exploitation of individual security valuation anomalies forms the basis of the asset class. Event-
+driven managers generate returns by conducting thorough research in complex corners of the
+investment opportunity set, an area often avoided by mainstream analysts. Value-driven
+managers attempt to add value by identifying undervalued and overvalued securities, creating
+portfolios with roughly offsetting long and short market exposures. Well-managed absolute
+return portfolios provide a high return, low risk source of diversification.
+Absolute return investing appeals to investors who believe that providing funds to superior
+managers operating with few constraints will lead to impressive investment results regardless of
+the upswings and downswings of traditional marketable securities. Indeed, the experience of a
+number of sophisticated institutional investors indicates that well-structured absolute return
+portfolios produce high, uncorrelated returns with low risk, adding an extremely valuable
+diversifying stream of returns to investor portfolios. Of course, successful absolute return
+investors devote an extraordinary amount of resources to identifying, engaging, and managing
+high quaility managers.
+Purveyors of hedge fund statistics paint a rosy picture wildly at odds with reality. Academic
+studies show that survivorship bias and backfill bias combine to inflate reported returns by
+anywhere from high single digits to low double digits. A clear view of hedge fund returns
+would discourage many thoughtful investors from entering the hedge fund arena.
+On top of the enormous difficulties in identifying a group of genuinely skilled investment
+managers and overcoming the obstacle of extremely rich fee arrangements, investors confront a
+fundamental misalignment of interests created by the option-like payoff embedded in most
+hedge fund fee arrangements. Investors find coincidence of interests only in those situations
+where the absolute return manager invests substantial personal assets side-by-side with investor
+monics.
+Casual approaches to fund selection lead to almost certain disappointment. Absolute
+return investing belongs in the domain of sophisticated investors who commit significant
+resources to the manager evaluation process. While the promise of hedge funds proves
+attractive to many market participants, those investors who fail to identify truly superior active
+managers face a dismal reality. In the absence of superior security selection, investment
+strategies that avoid market exposure deliver money-market-like expected returns. The hefty fee
+arrangements typical of absolute return funds crode the already low cash-like return to a truly
+unacceptable level, especially after adjusting for risk. Absolute return investors find generating
+risk-adjusted excess returns a daunting task.
+REAL ASSETS
+Real assets consist of ownership interests in investment vehicles that exhibit a high correlation
+to inflation. Many investors, including educational endowments, seck protection against
+inflation in order to offset inflation-sensitive liabilities. Real assets include Treasury Inflation-
+Protected Securities, real estate, timber, and oil and gas.
+The strength of inflation protection varies with the type of real asset. Treasury Inflation-
+Protected Securities (TIPS, also known as Treasury Inflation-Indexed Securities) track inflation
+precisely, at least as the Consumer Price Index measures inflation. Oil and gas reserves change
+in value in direct response to changes in energy prices, which represent a substantial
+component of broad inflation gauges. Timber products bear a similar relationship to price
+indices, although timber plays a far less important role than does energy in overall price
+inflation. Real estate holdings correlate with inflation less directly than primary inputs like
+energy and timber, although when property markets operate in equilibrium a strong link exists
+between real estate and inflation.
+Aside from protecting portfolios against inflation, real assets produce high levels of current
+cash flow and (in most cases) attractive expected total returns. Unlike commodity indices,
+which give investors simple price exposure, well-chosen and well-structured real assets
+investments provide price exposure plus an intrinsic rate of return. For example, oil and gas
+reserve purchases in the past two decades generated low double-digit rates of return above and
+beyond the return from holding period increases in energy prices. Price exposure plus an
+intrinsic rate of return trumps price exposure alone.
+In the future, the population of real assets alternatives might expand beyond the
+conservative investments of TIPS and the high-return alternatives of real estate, oil and gas, and
+timber. Pure commodity price exposure holds little interest to sensible investors, as long-term
+returns approximately equal inflation rates. TIPS provide inflation-like returns with
+substantially less risk than commodity investments. Oil and gas reserve purchases and timber
+investments provide investors with commodity price exposure and an intrinsic rate of return,
+thereby dominating price exposure alone. If markets provide other commodity-based
+opportunities to gain price exposure and to earn an intrinsic rate of return, then those assets
+could join the rank of sensible real assets alternatives.
+Real assets play an important role in portfolios, particularly for investors who seek to satisfy
+inflation-sensitive liabilities. The diversifying power derived from correlation with inflation
+and the intrinsic rate of return generated above simple price exposure argues for a significant
+allocation to real assets.
+Inflation-Linked Bonds
+In January 1997, the U.S. Treasury began issuing TIPS, creating an important new tool for
+U.S.-dollar-based investors. TIPS protect investors from increases in the general level of prices
+by adjusting the principal amount of the security for inflation. Since the fixed coupon rate on
+TIPS applies to the inflation-adjusted principal of the bonds, both interest and principal
+payments reflect changes in inflation rates.
+The combination of extraordinary credit quality and precise protection against inflation
+causes TIPS to produce modest real returns. During the period that Lehman Brothers tracked
+TIPS' real yields, inflation adjusted returns ranged from 1.3 percent to 2.5 percent, averaging
+1.9 percent. VI Investors pay a high price in the form of low expected returns from the double-
+barreled conservatism of TIPS.
+Just as standard U.S. Treasury bonds provide a riskless instrument for investors wishing to
+generate certain nominal returns, TIPS provide a riskless instrument for investors wishing to
+generate certain real returns. Based on commonality of issuer, default-free status, and structural
+similarities in payment of interest and principal, many market observers group standard U.S.
+Treasury bonds with TIPS. In fact, when the U.S. Treasury began issuing TIPS, Lehman
+Brothers, architect of the most widely used debt market indices, placed TIPS in a cohort that
+included regular-issue Treasury bonds.
+The error of grouping regular Treasuries with TIPS lies in the fundamentally different
+response of the two types of bonds to unanticipated changes in the p level. Unanticipated
+inflation harms regular bonds by reducing the purchasing power of the fixed stream of
+payments. In contrast, unanticipated inflation benefits TIPS in the form of higher returns as
+payments adjust for increases in the price level. Unexpected deflation helps regular bonds by
+increasing the purchasing power of the fixed stream of payments. In contrast, unexpected
+deflation hurts TIPS by reducing the stream of periodic interest payments, even though
+deflation fails to reduce the final principal payment. TIPS, far from belonging with standard
+bonds, belong in the real assets category.
+A comparison of a traditional U.S. Treasury note and a TIPS security illustrates critical
+differences in the two instruments. Consider the U.S. Treasury 4.25 percent Note duc January
+15, 2011 and the U.S. Treasury Inflation-Indexed Security 3.5 percent Note duc January 15,
+2011. At year-end 2006, the straight bond and the inflation-protected bond boasted yields to
+maturity of 4.7 percent and 2.4 percent, respectively. Because the bonds share identical credit
+characteristics and identical maturity dates, the difference in yields stems solely from inflation
+expectations. The 2.3 percent difference between the straight bond yield and the inflation-
+protected bond yield represents the market's best estimate of inflation over the bonds' term. If
+inflation exceeds 2.3 percent, the TIPS holder wins. If inflation falls short of 2.3 percent, the
+straight bond owner wins.
+At maturity, TIPS investors receive a possible bonus, as the bonds pay the greater of the
+inflation-adjusted principal or the original face value. In a deflationary world, investors benefit
+from the payment of the nondiscounted par amount of the bonds. In an environment of
+general price inflation, the right to receive par for the TIPS at maturity carries the greatest valuc
+at the time of issuance. In concert with price increases, the indexed value of the bond's
+principal increases, creating a surplus over the par value of the bond. Were deflationary
+conditions to develop, the accumulated surplus would deplete before the par protection kicked
+in. Investors wishing to enjoy the maximum protection of the par put constantly roll holdings
+of TIPS into the most recently issued securities.
+Some foreign governments issue inflation-protected securities. As with standard bond
+issues, U.S.-domiciled investors approach nonU.S. Treasury debt with caution. The United
+Kingdom, Canada, Sweden, France, Italy, Germany, Greece, Japan, Australia, and New
+Zealand boast substantial programs of inflation-indexed bond issuance. Because foreign
+government bonds generally make payments in the currency of the realm, U.S. investors face
+foreign exchange risk. The combination of divergent future domestic and foreign inflation
+rates and unknown future foreign exchange translations serve to render non-U.S. government
+inflation-indexed bonds useless as a hedge against U.S. inflation.
+U.S. corporate issuance of inflation-protected securities poses a different set of issues. As is
+the case with straight corporate debt, inflation-indexed corporate securities generally suffer
+from credit risk, illiquidity, and unattractive call provisions. In addition, investors might
+consider the implications of holding corporate inflation-protected securities in a high-inflation
+environment. Just when the protection against price increases proves most valuable, the ability
+of a corporation to make good on its promises to pay might prove least likely.
+TIPS and Inflation
+TIPS produce the perfect hedge against inflation, because bond-payment mathematics dictate
+direct correspondence between returns and changes in inflation rates. The combination of the
+default-free character of full-faith-and-credit obligations of the U.S. government and the
+mathematically certain protection against inflation provide investors with a powerful portfolio
+tool.
+Alignment of Interests
+TIPS share with standard-issue Treasury offerings a balance in alignment of interests between
+creditor and debtor. Unlike relationships between private borrowers and lenders, in which the
+borrower seeks gains at the lender's expense, the government attempts to fashion a fair deal for
+partics on both sides of the borrowing transaction.
+In promoting TIPS, the Department of the Treasury highlights advantages to both the
+creditor and the debtor. From the creditor's perspective, TIPS "provide a distinctive
+contribution to any diversified portfolio." From the debtor's perspective, TIPS "allow Treasury
+to broaden its investor base and diversify its funding risks."6 The evenhanded approach to
+debtor and creditor separates the U.S. government from profit-secking private-sector
+borrowers.
+Market Characteristics
+At December 31, 2006, outstanding issues of TIPS amounted to only $369 billion. First issued
+by the U.S. Treasury in January 1997, the program provides a valuable, diversifying alternative
+for investors. At year-end 2006, TIPS promised a real (after-inflation) yield of 2.4 percent with
+an average maturity of 9.6 years and a duration of 6.4 years.
+Summary
+Although TIPS amount to only around 17 percent of the value of standard Treasury bonds,
+inflation-sensitive TIPS constitute a compelling addition to the tool set available to investors.
+Bolstered by the default-free, full-faith-and-credit backing of the U.S. government, TIPS serve
+as a benchmark against which to measure other inflation-sensitive investments.
+Real Estate
+Investments in real estate provide investors with exposure to the benefits and risks of owning
+office properties, apartment complexes, industrial warehouses, and retail establishments. High
+quality real estate holdings produce significant levels of current cash flow generated by long-
+term, in-place lease arrangements with creditworthy tenants. Properties that produce sustained
+levels of high cash flow exhibit stable valuations, as a substantial portion of asset value stems
+from relatively predictable cash flows. In contrast, properties that produce uncertain cash
+flows, as in the case where leases approach expiration and owners face re-leasing risk, show near-
+term variability in residual value. In the extreme case of properties that produce no cash flow,
+real estate takes on a speculative aura as valuation depends entirely on prospective leasing
+activity.
+Real estate assets combine characteristics of fixed income and equity. Fixed income
+attributes stem from the contractual obligation of tenants to make regular payments as
+specified in the lease contract between tenant and landlord. Properties encumbered by long-
+term lease obligations exhibit predominantly bond-like qualitics. Equity attributes stem from
+the residual value associated with leases expected to be executed for currently vacant space or
+for anticipated future vacancies. Properties without tenants or with tenants on short leases
+exhibit predominantly equity-like qualities.
+Archetypal real estate investments consist of well-lo ed, well-leased, high quality
+properties that allow investors to anticipate regular receipt of rental income from leased space
+and to expect income within a reasonable time frame from vacant space. Real estate with a
+significant operating component fails to meet the set of core investment criteria, as the
+operational attributes largely determine the investment outcome, creating an equity-like
+investment play. Core investments do not include raw land, ground-up development activity
+and hotel operations, primarily because these investments rely substantially on operating
+expertise to produce cash flows.
+Risk and Return Characteristics
+Real estate returns and risks fall between those of bonds and equities. With bond-like rental
+streams and equity-like residual values, investors expect real estate to produce results
+somewhere between the results of the bond market and the stock market. Ibbotson Associates
+data for the past eighty years indicate that stocks returned 10.4 percent annually and
+government bonds 5.4 percent annually. Splitting the difference suggests that real estate
+investors might realistically expect returns in the neighborhood of 2.5 percent per annum
+above bonds.
+Nearly two decades of data confirm the notion that real estate returns fall between stocks
+and bonds. Returns covering 1987 to 2006 for a broad-based index of real estate holdings stand
+at 8.4 perce
+per annum, poised between the 11.8 perc
+per annum return for the S&P 500
+and the 6.5 percent per annum return for intermediate-term U.S. Treasury bonds.7 Capital
+markets history confirms expectations regarding relative returns for real estate.
+Valuation of real estate poses less of a challenge than does valuation of many other risky
+assets. Consider the fact that, with markets in equilibrium, replacement cost for existing assets
+constitutes an important determinant of market value. In fact, the real estate market provides a
+powerful example of the efficacy of Tobin's "q," the ratio between market value and
+replacement cost of an asset. If the market value of a particular real estate asset exceeds
+replacement cost, nearby real estate development of a similar product type makes economic
+sense. Clearly, under such circumstances, the income yield expressed as a percentage of cost of a
+newly constructed building would exceed the income yield on the more highly valued existing
+asset, creating incentives to build new, high-yielding buildings. Conversely, if replacement cost
+exceeds market value, real estate development makes no economic scnsc. In such a situation,
+the income yield on cost falls short of the income yield on less highly valued existing assets.
+Instead of building new buildings, rational market participants buy existing properties, thereby
+driving market values toward replacement cost.
+Tobin's "q" proves particularly useful in the real estate market, because replacement cost
+constitutes a readily determinable, easily observable variable. While in the stock market Tobin's
+"q" produces insight into valuation of individual companies, broad market sectors, and even
+the entire equity market, the challenges of determining replacement cost of today's complex,
+far-flung corporate entities proves daunting. In contrast, assessing the cost of constructing a
+suburban retail mall or a downtown office building proves far more manageable. In fact, many
+knowledgeable investors assess an asset's cost of replication and then use discount to
+replacement cost as an important investment criterion when making real estate acquisitions.
+Public versus Private Holdings
+Real estate investments hold the unusual distinction of offering large numbers of investment
+vehicles in both publicly traded and privately held categories. The distinction between public
+and private positions in real estate lies in form, not substance. Both public and private holdings
+of real estate assets expose investors to the benefits and perils of property positions.
+Many investors in real estate benefit from an unusual investment vehicle, the real estate
+investment trust, or REIT. A REIT, unlike a typical corporate entity, pays no income taxes as
+long as the REIT distributes at least 90 percent of its taxable income and generates at least 75
+percent of that income from rents, mortgages, and sales of property. REITs serve as a pass-
+through structure in which income passes through the security, without being taxed, to the
+security holders who take responsibility for the tax liability, if any. REITs exist in both publicly
+traded and privately held forms.
+Even though both publicly traded and privately held real estate vehicles expose investors to
+real estate assets, public-market securities frequently trade at prices that deviate from fair value.
+Green Street Advisors, a highly regarded research firm that concentrates on publicly traded real
+estate securities, routinely examines discrepancies between market price and fair value. The
+results give short-term investors pause. At one point in 1990, by Green Street's estimate, real
+estate securities traded at more than a 36 percent discount to fair value. By 1993, the stock
+market reversed itself, valuing real-estate-related holdings at a 28 percent premium to fair value.
+The yin and yang continued. In late 1994, the discount reached 9 percent, while in 1997, stock
+market investors paid more than a 33 percent premium to fair value. In the late 1990s, a poor
+market for real estate securities (that coincided with a wonderful market for most other
+securities) brought valuations to a deficit of more than 20 percent, a level reached in early 2000.
+As the non-real-estate portion of the stock market entered bear territory, real estate securities
+took on bullish characteristics, leading to a greater-than-22-percent premium to fair value in
+carly 2004. At year-end 2006, security prices stood at a not-too-hot and not-too-cold 2 percent
+premium over fair value. The wide swings between price and fair value in the public securities
+arena produced low correlation between returns of publicly traded and privately held real
+estate assets, 10
+Discrepancies between price and fair value disturb careless short-term players, because any
+premium paid on purchases and any deficit incurred on sales loom large in damaging holding-
+period returns. For canny investors, deviations between price and fair value allow purchases at a
+discount and sales at a premium, buying low and selling high to enhance portfolio returns.
+Longer term investors face fewer issues regarding differences between price and fair valuc,
+because over longer investment horizons the short-term noise in the price/fair-value
+relationship matters less. Careful investors either exploit price/fair-value differences or employ
+dollar-cost averaging to enter and exit markets that deviate measurably from fair value.
+Although exceptions exist, publicly traded real estate securities generally provide reasonably
+low-cost exposure to relatively high quaility pools of real estate assets. Discrepancies between
+market price and fair value create opportunities for investors to build portfolios using relatively
+attractively priced assets. When REITs fall from favor, research analysts explain why the
+publicly traded shares deserve a permanent discount to privately held assets, with justifications
+ranging from illiquidity, management ineptitude, and high overhead costs, to the inflexibility
+of REIT structures. When REITs ride high, the same analysts argue that public vehicles
+command a premium for good reasons, including liquidity, management expertise, economies
+of scale, and advantages of the REIT format. Regardless of the idea of the moment, sensible
+investors favor REITs when portfolios trade at a discount to private market value and avoid
+REITs when shares trade at a premium.
+Active Management
+Inefficiencies in the pricing and operation of real estate assets create opportunity for active
+management. Investors increase return and lower risk by exercising careful judgment in
+selecting assets and by using diligence in managing properties.
+Real estate lends itself to active management because mispricings create opportunities for
+nimble investors to take advantage of market anomalies. The task of identifying underpriced
+and overpriced properties poses surmountable hurdles, since valuations depend largely on
+readily observed variables. Calculation of replacement cost for an asset provides important
+information on the value of a well-located property. Information on leases in place, combined
+with projections of future lease rates and an estimate of residual value, produce an easily
+analyzed stream of cash flows. Sales of comparable properties provide hard numbers reflecting
+the willingness of investors to pay for bricks and mortar or a stream of expected cash flows.
+Active management decisions for real estate rest on the fundamental characteristics of
+replacement cost, discounted cash flows, and sales of similar assets, providing clear reference
+points unavailable for most other asset types.
+Sony Building Acquisition Douglas Emmett's 1993 acquisition of the Sony Building in
+Burbank, California illustrates some important valuation tools. Los Angeles ranked among the
+hardest hit markets in the real estate debacle of the early 1990s, with vacancy rates reaching a
+staggering 24 percent for Class A office space in the metropolitan market. As a result, prices for
+office buildings declined dramatically. In a signature transaction, Sam Zell, the famed "grave
+dancer," bought Two California Plaza for $100 million, approximately one quarter of what it
+cost to build a few years earlier.
+Nearby Burbank, a distinctly different market with substantially stronger underlying
+fundamentals, experienced sympathetic price declines, suffering by association with Los
+Angeles. Amid the tumult, as part of a corporate rationalization program, Coca Cola decided
+to sell the Burbank property housing its former subsidiary, Sony Pictures. The sales price of
+$83 million compared favorably to the building's construction cost of more than $120 million,
+providing the purchaser a 30 percent discount to replacement cost.
+Cash flow from lease payments further supported the acquisition. One hundred percent of
+the space was leased to Sony, at the time a credit rated single A by Standard & Poor's. If the
+investor received only those payments guaranteed by Sony, all invested capital would be repaid
+along with sufficient excess cash flow to generate annual returns of 123 percent. This low
+double digit return included no estimate of residual value for the building upon expiration of
+the lease. With reasonable assumptions regarding lease renewals and residual value, returns
+jumped to the 20 percent to 25 percent range. In an interest rate environment where
+comparable maturity U.S. Treasury Notes yielded about 6.5 percent, the relatively high quality
+Sony payment stream represented a handsome baseline return for a deal with substantial upside
+and little downside.
+Comparable sales data tell less about the attractiveness of the Sony acquisition than about
+the timing. The lack of bids for the Sony Building and other properties in the area signaled a
+contrarian opportunity to buy deeply out-of-favor assets, not a lack of value. Fortified by
+substantial discounts to replacement cost and high levels of investment grade cash flow,
+investors move forward with confidence in the face of dismal market conditions. When the
+tone of the market improves to the point that real estate players pronounce that asset
+irreplacability justifics paying a meaningful premium to replacement cost and that a tight
+leasing environment presages transformation of low current cash yields into higher future cash
+flows, contrarian investors offer properties for sale.
+The striking Sony building, with its handsome tenant finishes, promised a more-than-
+satisfactory baseline return with the protection of a purchase price substantially below
+replacement cost. VII The limited downside of the Sony Building along with substantial
+potential upside created a positively skewed distribution of outcomes, providing extremely
+attractive investment characteristics.
+In fact, the Sony Building's appealing acquisition characteristics translated into an equally
+appealing investment outcome. When Douglas Emmett converted the firm's pool of real estate
+assets into a REIT in October 2006, each of the assets received a third party appraisal to
+support the valuation and allocation of REIT shares. Based on the appraised value, the Sony
+building (now called Studio Plaza) generated a holding period return in excess of 20 percent
+per annum. Ultimately, Douglas Emmett's investors reaped rich rewards for the firm's
+contrarian instincts and real estate management expertise.
+**
+Manager Specialization Investors generally benefit from engaging specialists to manage a
+fund's commitment to real estate. Experts in a particular geography and a particular property
+type-office, retail, residential, industrial-enjoy a substantial edge over generalist managers,
+who suffer from spreading resources an inch deep and a mile wide. Specialization leads to
+greater understanding of the particular dynamics of different markets, allowing one manager to
+focus on the relatively static mass of central business district office buildings and another
+manager to focus on the ever-changing inventory of suburban office properties. Similarly, one
+manager might specialize in massive department store anchored malls and another might
+specialize in smaller infill community retail centers. By concentrating management resources
+on a fairly narrowly defined market segment, fund managers make better buys, better sales, and
+better day-to-day asset management decisions.
+Investors choosing to select a group of valuation-driven specialist managers create more
+powerful portfolios, albeit at the price of a loss of diversification. By pursuing attractive
+investment opportunities, selected on a bottom-up basis, funds develop concentrations in the
+most out-of-favor asset types. For instance, prompted by relative valuations, investors may at
+times hold outsized positions in California retail properties or Southeastern suburban office
+buildings, creating a profile with dramatic deviations from the characteristics of any broad-
+based real estate index. Even though idiosyncratic portfolios tend to exhibit substantial
+tracking error relative to the market, a carefully chosen group of niche managers contains the
+potential to produce outstanding investment results.
+Real Estate Prices and Inflation
+The strong relationship between replacement cost and market value leads to one of real estate's
+most attractive investment attributes, a high correlation with inflation. Since the labor and
+materials used to construct buildings rise in cost along with inflation, the replacement cost of
+real estate tracks inflation closely. Yet even though replacement cost responds to changes in the
+general price level, the nature of an asset's lease structure influences the rate of response of
+changes in market value to inflationary pressures. For example, a property subject to long-term,
+fixed-rate leases shows little near-term correlation to inflation. Only as lease expiration nears
+will inflation influence asset valuation. Alternatively, properties with shorter-term leases exhibit
+much greater inflation sensitivity. Moreover, some leases explicitly allow landlords to pass
+through inflationary increases in expenses or, in the case of retail properties, contractually
+entitle landlords to receive a percentage of sales. Such inflation-responsive lease structures cause
+asset values to reflect inflationary moves.
+The importance of replacement cost both in valuation analysis and in inflation sensitivity
+relies on markets reflecting reasonable equilibrium between supply and demand. In cases where
+supply of real estate space fails to match demand, prices respond to the disequilibrium, not to
+the expected relationship with replacement cost or with inflation. In the late 1980s, investor
+enthusiasm for owning commercial real estate and federal tax incentives for developing
+properties combined to create a vast oversupply of commercial office buildings. The excesses in
+the real estate market contributed to the savings and loan crisis, as many thrifts suffered from
+the burden of underperforming or non-performing real estate loans. High quality, albeit
+poorly leased, properties traded at steep discounts to replacement cost. Prices responded to the
+disconnect between supply and demand, failing to track inflation. Similarly, in the early 2000s,
+a post-Internet-bubble decline in demand for office space led to widespread vacancies and a
+decline in real estate prices, resulting in a disequilibrium that decoupled falling real estate prices
+from consistently positive levels of inflation. Unless markets operate in reasonable equilibrium,
+the relationship between real estate prices and inflation breaks down. Yet when markets exhibit
+equilibrium, sensitivity to changes in the general price level represents a particularly attractive
+characteristic of real estate.
+Alignment of Interests
+In the realm of publicly traded REITs, investors face the same set of questions about alignment
+of interests that apply to other publicly traded equities. Just as in the broader universe of
+marketable stocks, interests of shareholders and managements generally, but imperfectly,
+coincide.
+In the world of private real estate vehicles, investors face a range of investment structures.
+On one end of the continuum, high quality managers receive budgeted fees that reflect
+reasonable costs of running an investment firm, receive profits interests only on returns in
+excess of the opportunity cost of capital, and invest substantial assets side-by-side with
+investors. On the other end of the continuum, low quality managers charge high fees on large
+pools of assets, extract profits interests on returns in excess of investor capital contributions and
+invest O.P.M., other people's money.
+Market Characteristics
+Real estate investors face significant investment opportunities in both public and private
+markets. At December 31, 2006, the National Association of Real Estate Investment Trusts
+tracked a universe of real estate securities that totaled $436 billion. The REIT population
+posted a dividend yield of 3.3 percent and traded at a 2.2 percent premium over fair value.
+At December 31, 2006, the NCREIF National Property Index included unleveraged real
+estate assets valued at an aggregate of $247 billion. The privately held real estate cohort paid a
+dividend yield of 6.2 percent, which represented a premium 1.5 percent over the ten-year U.S.
+Treasury yield.
+Summary
+In terms of risk and return, real estate falls between higher risk equity and lower risk debt. The
+hybrid nature of the expected investment characteristics matches the hybrid nature of the
+fundamental traits of real estate investments. With its inflation-sensitive nature, real estate
+provides powerful diversification to investor portfolios.
+Real estate investors enjoy the opportunity to choose between publicly traded and privately
+held investment vehicles. While sensible alternatives exist in both public and private forms,
+careful investors pay close attention to fee arrangements and look hard at manager quality.
+Oil and Gas
+Oil and gas investments provide claims on future streams of inflation-sensitive income,
+supplying protection against unanticipated inflation and playing an important role in portfolio
+diversification. In addition to furnishing attractive diversifying characteristics, oil and gas assets
+present opportunities for superior managers to add value.
+Market participants gain exposure to energy assets either by acquiring futures contracts or
+by purchasing oil and gas reserves; whether through futures positions or reserve acquisitions,
+investors seek price-driven returns. In order to gain commodity exposure without betting
+exclusively on prices, savvy investors structure portfolios around value-added purchases of well-
+defined energy reserves operated by superior management teams.
+Oil and gas reserve purchases boast a number of advantages over the simple price exposure
+provided by futures contracts. First, reserve acquisitions tend to produce high, cquity-like
+expected returns. Over the past two decades, well-structured investments in low-risk producing
+reserves typically generated low double-digit unleveraged returns, without considering price
+movements. Second, superior active managers add value in the process of acquiring,
+developing, financing, operating, and liquidating assets. Expertise and discipline create more
+value in the complex physical world of natural resources than in the highly efficient financial
+world of commodities markets. Finally, long duration energy reserves provide a long-term
+hedge against sustained periods of high energy prices.
+Public versus Private Holdings
+Ironically, diversified portfolios of public securities produce less transparent and less effective
+exposure to energy prices than do focused private acquisitions of energy reserves. In the realm
+of publicly traded energy companies, investors face questions regarding the degree to which
+integrated oil companies consume oil and gas (as inputs to the refining process, for example)
+and the degree to which companies produce oil and gas (as outputs of the exploration process,
+for example). Even if investors successfully determine the net corporate exposure to energy
+prices, the question of company hedging policies remains. Broadly diversified, publicly traded
+companies provide uncertain exposure to energy prices, leading real assets investors to prefer
+pure private reserve acquisition plays.
+Active Management
+Purchases of oil and gas reserves by high quality active managers provide investors with the
+opportunity to gain exposure to energy prices and to earn a significant baseline rate of return.
+Merit Energy Company, founded in 1989 by Bill Gayden, a former colleague of Ross Perot,
+successfully delivered on the twin promises of handsome returns from disciplined
+underwriting and substantial portfolio diversification from energy price exposure.
+Merit typically acquires low-risk oil and gas reserves using assumptions that produce a 12
+percent to 14 percent return without assuming energy price appreciation or depreciation. In a
+remarkable coincidence between acquisition assumptions and subsequent reality, from 1990 to
+2005, Merit produced net returns of 19.2 percent per annum, which consisted of 12.2 percent
+from acquisition economics, 21 percent from improved operations and development, and 4.9
+percent from price appreciation.
+Presumably, investors in energy price futures would have obtained only the roughly 5
+percent per annum price appreciation. Investors in reserve purchase programs received double-
+digit returns above and beyond the price movement, dominating the results of the commodity
+futures investors.
+Energy Prices and Inflation
+Energy investments belong in the real assets portfolio because of their strong correlation with
+inflation. Energy constitutes roughly nine percent of the Consumer Price Index (CPI), creating
+a direct link to inflation. Unsurprisingly, an Ibbotson Associates study found a positive
+correlation between direct energy production investments and CPI, using data for the period
+from 1970 to 1998,11 In contrast, Ibbotson found a negative correlation between direct energy
+investments and a variety of marketable securities, including domestic stocks, foreign stocks,
+Treasury bonds, and Treasury bills. Both statistics and common sense support the idea of
+energy investments as a hedge against inflation.
+Alignment of Interests
+The old saw-that sensible investors never back an energy partnership touted on Wall Street,
+because all the good deals come together in Houston-contains some truth. Poorly structured
+oil and gas partnerships abound. Unscrupulous operators gain advantage over naïve investors
+by exploiting the complexities of industry-specific concepts such as net profits interests,
+overriding royalty interests, working interests, net revenue interests, and operating interests.
+That said, by following sensible deal structuring principles, including a high level of co-
+investment by the deal's promoter, investors create the opportunity to enjoy the significant
+benefits of investments in producing oil and gas reserves.
+Market Characteristics
+Oil and gas investors confront a broad tableau, including marketable energy equities of $4.6
+trillion, representing 10 percent of global equities as of December 31, 2006. Institutional
+private investments amounted to $28 billion on December 31, 2006, according to Cambridge
+Associates, of which $20 billion pursued energy reserve purchases.
+Summary
+Energy investments provide dramatic diversification to institutional portfolios, as energy prices
+show negative correlation to traditional securities over many time periods. Pure price exposure,
+as obtained through the purchase of energy futures contracts, comes at a high price in the form
+of low expected return. Sensible investors opt for reserve purchase programs that promise price
+exposure (along with the accompanying diversification) and returns in the low double-digit
+range. Perhaps more than in any other investment activity, investors must be wary of low
+quality operators with opaque, egregious deal structures.
+Timber
+Timberland offers strong return potential, steady cash flow, inflation protection, and portfolio
+diversification. Investment returns stem from several sources, the most important being the
+value of timber harvested and changes in the value of residual timber and land. Timber values,
+which relate to the biological growth of trees and changes in timber prices, can be influenced
+by sound silvicultural practices. The sale of conservation casements and land parcels for
+"higher and better use" (HBU) provide the potential to boost returns. Finally, incremental
+revenue can be generated through other activities, including leasing of land for the exploitation
+of mineral deposits, recreational pastimes, and alternative energy uses.
+Historically, timber has performed well as an investment, although accurate data are
+difficult to obtain. The most frequently cited series, first created by Hancock Timber Resource
+Group, combines known timber prices with assumptions about forest growth and value to
+generate a timberland return series beginning in 1960.VIII Hancock/NCREIF estimates that
+U.S. timberland returned 12.7 percent per annum from 1960 through 2005, or roughly 8.1
+percent per annum after i ion. Since 1987, the NCREIF Timberland Property Inde
+produced a cash yield of approximately 6 percent per annum.
+In addition to generating strong returns, timberland provides diversification relative to
+securities markets: the Hancock/NCREIF index exhibited a correlation of -0.17 with the S&P
+500. In part, low correlation stems from the consistent return to timberland from biological
+growth. While the S&P 500 produced a calendar loss cleven times since 1960, the timberland
+index generated a loss in only one of those eleven years and losses on only three years overall.
+Like other real assets, timberland serves as a hedge against unanticipated inflation. Because
+timber is a basic production input for a number of end products, changes in timber prices
+correlate strongly with inflation.
+Timberland Ownership
+The U.S. Forest Service classifics approximately 22 percent of the United States as timberland,
+or land capable of producing industrial wood.ix Federal, state, and local governments own
+nearly 30 percent of U.S. timberland, with a higher ownership percentage in the Pacific
+Northwest and a lower percentage in the South. Nonindustrial users hold approximately 80
+percent of privately owned timberland, much of it not suitable for institutional investment.
+The Hancock Group estimates the investable universe is only 20 percent to 30 percent of
+nonindustrial private timberland, with the remainder consisting of small, low quality or poorly
+located tracts. Combining industrial timberland with investable nonindustrial private
+timberland gives a total U.S. investable timberland base of approximately $125 billion. By
+comparison, the value of investable real estate in the United States is approximately $3.5
+trillion.X
+In recent years, ownership of timberland in the United States shifted from forest products
+companies to institutional investors. At one time, companies viewed timberland ownership as
+essential, providing mills with a captive, dependable source of raw materials. Over time, the
+inefficiencies in ownership and management of forestry assets became apparent as trees were
+cut without regard to economic value to keep a steady supply of wood arriving at the mill.
+Several large companies that separated the mill operations and timber operations into
+independent entities saw dramatic bottom-line improvements in both segments.
+Once companies viewed timberland assets as distinct from the core wood processing
+business, companies became less attached to holding massive wood inventories and more
+focused on the benefits of selling timberlands. First, timberland sales offered a means of raising
+capital to modernize mills, streamline operations, or pay down debt. Second, timberland sales
+offered the opportunity to boost stock prices through the realization of hidden value and by
+raising returns on capital. Finally, some companies divested U.S. holdings to move into lower
+cost, higher productivity timberlands in other regions of the world.
+Over the past decade, approximately 33 million acres of timber-land traded in the United
+States with annual sales averaging 2.6 percent of the investable timberland universe. Most
+timberland on the selling block ended up in the hands of newly created timberland REITs or
+newly interested institutional investors. The new owners often did not own mill assets,
+allowing them to focus exclusively on maximizing the value of the timberlands. As a result, the
+new owners adopted more sophisticated financially driven silvicultural techniques, more
+extensive merchandising operations, and more aggressive monetization strategies for
+nontimber values.
+Timber Pricing
+As with any other product, the locus of supply and demand drives timber prices. Local,
+national, and global dynamics all influence the price a landowner receives for logs.
+At a local level, the supply of timber depends on everything from weather conditions to the
+availability of loggers. Timber demand at a local level derives from mills which purchase
+delivered logs or buy stumpage from timberland owners.XI Because of the high costs of
+transporting logs, proximity to a mill influences the price a timberland owner receives for logs.
+Mill closures diminish local demand for logs, pushing prices lower. On the flip side, new mills
+and mill modernization programs drive prices higher.
+Ultimately, end product demand supports timber prices. Industries important to timber
+demand include construction (both new home construction and renovations), paper and
+packaging, and furnishings. Lumber and wood panel products, for example, which are heavily
+used in construction and remodeling make up over 50 percent of U.S. wood product
+production. Strong levels of new home construction, home renovations, and GDP growth
+translate into strong demand for lumber. The inverse holds true, as weak end product demand
+leads to mill closures and weak timber prices.
+Over short time horizons, timber prices experience swings driven by end product demand
+cyclicality. Over a longer time horizon, timber prices benefit from increasing global demand for
+forest products. However, secular demand trends for certain products do not support
+increased demand for certain types of timber. For example, in recent years, increased use of
+electronic media led to reduced growth in demand for paper, paperboard, and newsprint.
+However, many other timber end products have less obvious or cost effective substitutes.
+Lumber, for example, remains a cheap and efficient construction material, with no serious
+substitutes on the horizon.
+Differences in end product demand drive variations in prices for different timber species
+and grades. Determinants of prices for small, low-quality trees used for pulp differ from those
+that influence prices for large, high quality trees used in furniture production. In addition,
+changing technologies create relative price differentials among types of timber. For example,
+the development of oriented strand board (OSB), a panel of material made from stacked sheets
+of narrow wood strips, has led to a decrease in demand for plywood and the large diameter logs
+required to make plywood.
+International dynamics affect timber supply and demand, as imports and exports of wood
+products play a significant role in determining timber prices. While approximately 11 percent
+of the U.S. harvest is exported, imports, primarily from Canada, account for nearly 25 percent
+of U.S. forest products consumption. U.S. dollar-Canadian dollar currency fluctuations
+strongly influence U.S. forest product and timber prices.
+Active Management
+Investments in timberland follow two principles that underlie attractive real assets investments.
+First, discounted pricing contributes to high risk-adjusted returns. In the case of timber,
+investors seek substantial discounts to the metric of standing timber value. Second,
+opportunities to create value independent of market or commodity price fluctuations add to
+the attractiveness of timber investments.
+Active management plays a somewhat less critical role in real estate, energy, and timber
+investments than it does in illiquid investments in leveraged buyouts and venture capital.
+Because the assets themselves drive a substantial portion of real estate, energy, and timber
+returns, investors receive the asset-based returns even in the absence of stellar active
+management. In contrast, without superb active management, investments in venture capital
+make no sense at all.
+Timber Prices and Inflation
+Timberland shines during periods of high inflation and market turmoil. In the inflationary
+years of 1973 and 1974, for example, the S&P 500 returned an annualized -20.8 percent. After
+adjusting for inflation of 10.5 percent per year, the S&P generated an annualized return of an
+even more dismal -28.3 percent. Over those same two years, however, timberland returned a
+nominal 36.6 percent per year, equating to an annualized real return of 23.7 percent. That said,
+because links to inflation require that markets operate in reasonable equilibrium, secular trends
+that influence end-product demand might overwhelm short-term inflation sensitivity,
+disappointing the inflation hedging aspirations of timberland investors.
+Alignment of Interests
+Timber investment management organizations (TIMOs) provide a vehicle through which
+investors might participate in timberland investments. In the 1990s, when institutional
+investors began to show interest in timber, the existing TIMOs exhibited a variety of problems.
+Many were owned by large banks or insurance companies, creating the potential for conflicts
+between the interests of the financial conglomerate and the interests of the institutional
+timberland investor. Further limiting the set of attractive alternatives, a number of TIMOs
+employed unappealing allocation models, either allocating investments to specific investors on
+a first-come, first-served basis or on a subjective assessment of client needs and preferences. Few
+TIMOs sported sensible structures.
+Today, a number of TIMOs meet reasonable institutional standards, with independent
+organizations offering well-structured com-mingled funds that contain fair deal terms. Even so,
+investors must continue to look out for and avoid the structural deficits that plagued the
+timber management industry in the 1990s.
+Market Characteristics
+According to Cambridge Associates, as of December 31, 2006, thirty TIMOs managed a total
+of $5.9 billion in commingled funds. Separate institutional accounts managed by those same
+TIMOs amount to an additional $14.0 billion. Timber REITs provide a further $11.9 billion
+of investment opportunity.
+Summary
+Timber offers institutional portfolios an opportunity to realize high risk-adjusted returns and a
+degree of protection against unanticipated inflation. Along with real estate and energy
+investments, timber provides a hedge against inflation without the significant opportunity
+costs of investment in TIPS.
+Sustainable harvests of timberland produce substantial cash flows, similar to the high
+income levels characteristic of other real assets investments. The inefficiencies in the illiquid
+markets for timber create opportunities for high quality managers to add substantial value.
+Timber represents a valuable addition to the set of institutional investment alternatives.
+PRIVATE EQUITY
+Properly selected investments in leveraged buyouts and venture capital generate high returns
+relative to other equity alternatives, enhancing overall portfolio results. Superior private equity
+returns come at the price of higher risk levels, as investors expose assets to greater financial
+leverage (in the case of buyouts) and more substantial operating uncertainty (in the case of
+venture capital). Because of the strong fundamental links between private equity investments
+and marketable equities, private equity provides limited diversification to investors.
+Private equity investments overcome the problems associated with divergence of interests
+between shareholders and management evident in many of today's publicly traded companies.
+Separation of ownership (by shareholders) and control (by management) results in a
+substantial gap between the interests of shareholders and the actions of management, since
+without significant equity interests managers often pursue a wide range of activities designed
+to improve their lot at the expense of outside owners. Over-the-top offices, excessive salaries,
+bloated fleets of airplanes, and other unjustified managerial perquisites rarely enter the picture
+in profit-oriented private investments. Private company managements operate with longer time
+horizons and lower risk aversion, aggressively pursuing strategies that promote creation of
+enterprise value. Because private deals generally require management to take material
+ownership stakes, interests of outside owners and operating management align.
+In the venture capital world, entrepreneurial start-ups engage individuals who exhibit a
+single-minded focus on building successful companies. In the realm of buyouts, companies
+attract management devoted to improving the operation's bottom line, addressing the
+challenges of a highly leveraged capital structure with the goal of achieving a profitable exit.
+Managements in buyout and venture deals share the goals and objectives of owners.
+In spite of differences between the technology orientation of traditional venture capital and
+the mature business bias of the leveraged buyout arena, discussions of private equity generally
+include both venture and buyout investments. In addition to the shared characteristics of
+illiquidity and high return potential, venture and buyout investing embrace a scope of activities
+that share important attributes with marketable equities.
+Leveraged buyouts respond to many of the same factors that influence marketable
+securities. In fact, in transactions driven solely by financial engineering, buyouts simply
+represent turbo-charged equity, with leverage magnifying the results-good or bad-produced
+by a particular company. For example, when Warburg Pincus took Bausch & Lomb private in a
+2007 leveraged buyout transaction, the fundamental nature of the company's consumer
+products business remained the same. Bausch & Lomb continued as the self-described "eye
+health company dedicated to perfecting vision and enhancing life for consumers around the
+world."12 Corporate valuation continued to respond to changes in consumer demand,
+commodity prices, production efficiency, and regulatory activity. The underlying similarity
+between the publicly traded Bausch & Lomb and the privately held Bausch & Lomb suggests
+that investors should expect high levels of correlation between marketable securities and
+leveraged buyouts.
+Although early stage venture capital lacks strong links with marketable equities, later stage
+venture investing depends significantly on the stock market. Later stage venture investments
+provide capital for companies ready to go public or to be sold, buying the company time to
+wait for a ready public market or an attractive corporate suitor. Market action influences the
+price at which later stage venture investors enter an investment and plays an even more critical
+role in the price at which investors exit successful positions.
+Even early stage valuations respond somewhat to equity market conditions. When
+entrepreneurs start companies in an industry favored by the equity markets, venture capitalists
+pay premium prices to participate. Conversely, less highly desired enterprises command lower
+entry valuations, providing investors with relatively attractive starting points. As companies
+mature, equity market conditions increasingly influence venture capital valuations.
+In their most basic form, venture and buyout investing represent a riskier means of
+obtaining equity exposure. The high leverage inherent in buyout transactions and the
+corporate immaturity intrinsic to venture investments cause investors to experience greater
+fundamental risk and to expect materially higher investment returns.
+Strangely, historical results generally fail to reflect the hoped-for enhanced returns, while
+both correlation measures and risk levels fall below expectations. Unfortunately, poor returns
+for private investing probably reflect reality while the lower-than-expected correlation and
+lower-than-expected risk constitute a statistical artifact. Illiquidity masks the relationship
+between fundamental drivers of company value and changes in market price, causing private
+equity's diversifying power to appear artificially high. If two otherwise identical companies
+differ only in the form of organization-one private, the other public-the infrequently and
+less aggressively valued private company appears much more stable than the frequently valued
+publicly traded company, particularly in a world where securities markets exhibit excess
+volatility. Even though both companies react in identical fashion to fundamental drivers of
+corporate value, the less volatile private entity boasts superior risk characteristics, based solely
+on mis-measurement of the company's true underlying volatility. Not only does lack of day-to-
+day valuation information reduce reported risk levels, the private company gains spurious
+diversifying characteristics based solely on lack of co-movement with the more frequently
+valued public company.
+While a fair portion of the observed "diversification provided by private equity stems from
+the infrequent valuations accorded illiquid assets, some lack of correlation between marketable
+and private assets results from value-added strategies pursued by private firms. Consider the
+case of an idea, a garage and an entrepreneur financed with venture capital. As the company
+develops its product, initiates sales and becomes profitable, value creation takes place
+independent of the action on the floor of the stock exchange. Because results from company
+building activities loom large relative to results from the original corporate base, venture
+investments provide diversification relative to traditional marketable securities.
+Similar value-added possibilities exist in the leveraged buyout arena, allowing adept private
+investors to enhance returns by achieving operating improvements in portfolio companies.
+Because buyout transactions generally involve companies with a reasonably substantial
+corporate base, market influences play the primary role in valuation, with firm-specific value-
+added opportunities playing a secondary role. Even though when compared to venture capital
+investments the more mature buyout companies offer less dramatic opportunities for business
+growth, value-added strategies contain the potential to offer a source of uncorrelated returns.
+Pure financial engineering holds little interest for serious private equity investors, since
+providing financing represents a commodity-like activity with low barriers to entry. In the
+leveraged buyout business, simply adding leverage to a company increases expected returns and
+boosts risk levels, doing nothing to promote the goal of achieving risk-adjusted returns. In the
+venture capital arena, later stage investors supply little more than cash, hoping to benefit from
+the work of early stage investors and the prospect of achieving rapid liquidity through an initial
+public offering or sale. Private investors offering only capital operate in an extremely
+competitive market with reasonably efficient pricing mechanisms and little opportunity to
+demonstrate an investment edge.
+Private equity opportunities become compelling only when managers pursue well-
+considered value-added strategies. By seeking to improve corporate operations in the context of
+an appropriate financial structure, investors increase the scope of return-generating activity,
+allowing realization of superior results less dependent on the whims of the market.
+Leveraged Buyouts
+Leveraged buyout transactions involve private ownership of mature corporate entities with
+greater-than-usual levels of debt on their balance sheets. The high levels of leverage produce a
+correspondingly high degree of variability in outcomes, both good and bad. Leveraged buyout
+investments, in the absence of value-adding activities by the transaction sponsor, simply
+increase the risk profile of the company.
+The increase in risk generally comes at a high price. Buyout partnerships charge substantial
+management fees (often ranging between 1.5 percent and 2.5 percent of committed funds), a
+significant profits interest (usually 20 percent), and a variety of transactions and monitoring
+fees. The general partners of many buyout funds suggest that they engage in more than simple
+financial engineering, arguing that they bring special value-creation skills to the table. While
+the value added by operationally oriented buyout partnerships may, in certain instances,
+overcome the burden imposed by the typical buyout fund's generous fee structure, in aggregate
+buyout investments fail to match public market alternatives. After adjusting for the higher level
+of risk and the greater degree of illiquidity in buyout transactions, publicly traded equity
+securities gain a clear advantage.
+Performance and Buyout Funds
+In the private equity world, active management success goes hand-in-glove with investment
+success. In asset classes such as domestic equity and fixed income, which contain passive
+investment alternatives, investors can buy the market. By owning a marketable security index
+fund, investors reap market returns in a cost-efficient, reliable manner. In the inefficient private
+equity world, investors cannot buy the market, as no investable index exists. Even if a leveraged
+buyout index existed, based on past performance, index-like results would fail to satisfy investor
+desires for superior risk-adjusted returns. In fact, only top-quartile or top-decile funds produce
+returns sufficient to compensate for private equity's greater illiquidity and higher risk. In the
+absence of truly superior fund selection skills (or extraordinary luck), investors should stay far,
+far away from private equity investments.
+Consider two decades of buyout partnership returns. For funds formed beginning in 1985,
+limited partners received a disappointing 7.3 percent median return. In contrast, the S&P 500
+delivered 11.9 percent returns. First quartile buyout results reach double digits with a 16.1
+percent per annum result, while third quartile performance falls into negative territory at -1.4
+percent per annum. The median buyout result compares unfavorably to the marketable
+security alternative which produced higher returns with less risk. 13
+Academic research backs up the notion that private equity produces generally mediocre
+results. Steven Kaplan of the University of Chicago Graduate School of Business and
+Antoinette Schoar of the Sloan School of Management at MIT, in an August 2005 study on
+private equity performance, conclude that "LBO fund returns net of fees are slightly less than
+those of the S&P 500."14 The study covers the period from 1980 to 2001. Kaplan and Schour's
+results should dismay prospective private equity investors. Because the authors make no
+adjustment for leverage, the failure of LBO funds to match stock market returns adds the
+insult of higher risk to the injury of poor performance.
+Investors in buyout partnerships received miserable risk-adjusted returns over the past two
+decades. Since the only material differences between privately owned buyouts and publicly
+traded companies lic in the nature of ownership (private vs. public) and character of capital
+structure (highly leveraged vs. less highly leveraged), comparing buyout returns to public
+market returns makes sense as a starting point. But, because the riskier, more-leveraged buyout
+positions ought to generate higher returns, sensible investors recoil at the buyout industry's
+deficit relative to public market alternatives. On a risk-adjusted basis, marketable equities win
+in a landslide.
+A Yale Investments Office study provides insight into the additional return required to
+compensate for the risk in leveraged buyout transactions. Examination of 542 buyout deals
+initiated and concluded between 1987 and 1998 showed gross returns of 48 percent per
+annum, significantly above the 17 percent return that would have resulted from comparably
+timed and comparably sized investments in the S&P 500. On the surface, buyouts beat stocks
+by a wide margin. Adjustment for management fees and general partners' profit participation
+bring the estimated buyout result to 36 percent per year, still comfortably ahead of the
+marketable security alternative. Note the extreme positive bias of the buyout sample. Long-
+term studies show that median buyout returns fall in the neighborhood of those produced by
+the S&P 500. In the sample of deals presented to Yale, buy-outs crush marketable securities. XII
+Because buyout transactions by their very nature involve higher-than-market levels of
+leverage, the basic buyout-fund-to-marketable-security comparison fails the apples-to-apples
+standard. To produce a risk-neutral comparison, consider the impact of applying leverage to
+public market investments. Comparably timed, comparably sized, and comparably leveraged
+investments in the S&P 500 produced an astonishing 86 percent annual return. The risk-
+adjusted marketable security result exceeded the buyout result of 36 percent per year by an
+astounding 50 percentage points per year.
+Some part of the failure of buyout managers to produce attractive risk-adjusted returns
+stems from an inappropriate fee structure. Buyout investors generally pay 20 percent of profits
+to the investment firm's partners. Because the incentive compensation fails to consider the
+investor's cost of capital, buyout partnerships capture 20 percent of returns generated by the
+favorable wind at the long-term equity investor's back. Of course, in the case of transactions
+that employ greater-than-market levels of leverage, the investor's cost of capital increases along
+with the degree of leverage. Pure financial engineering represents a commodity, easily available
+to marketable securities investors through margin accounts and futures markets. Buyout
+managers deserve scant incremental compensation for adding debt to corporate balance sheets.
+By paying buyout partnership sponsors 20 percent of all gains, the fund investors compensate
+the fund managers with a significant portion of leveraged market gains over which the fund
+manager exercises no control and for which the fund managers deserves no credit. The large
+majority of buyout funds fail to add sufficient value to overcome a grossly unreasonable fee
+structure.
+Another part of the industry-wide problem of poor returns relates to misalignment of
+incentives in large funds. Buyout firms generally begin with modest amounts of assets under
+management, totaling in the hundreds of millions of dollars, Management fees cover overhead
+and incentive fees reward superior performance. Successful buyout funds almost invariably
+increase fund size, for example, moving from $250 million for Fund I to $500 million for Fund
+II to $1 billion for Fund III to $2 billion for Fund IV and ever more for funds of increasing
+numerals. As fund size increases, management fees as a percentage of assets remain relatively
+constant, resulting in a dramatic increase in the dollar value of fee income. The change in
+compensation structure alters general partner motivation.
+The partners of newer, smaller funds focus predominantly on generating investment
+returns. Since modest levels of fees cover reasonable operating expenses, strong investment
+returns define the only path to wealth. Not only do superior returns lead to large profits
+interests, strong results allow the general partners to raise subsequent, ever larger funds.
+Eventually, as fund size increases, fee income becomes an increasingly significant profit
+center. As fee income grows, general partner behavior changes, focusing on protecting the
+firm's franchise and maintaining the annuity-like character of the stream of fees. Larger buyout
+funds pursue less risky deals, employing lower levels of leverage. Mega funds often exploit their
+franchises by expanding into other (fee-generating) lines of business, including real estate, fixed
+income, and hedge fund management. The big partnerships devote more time to cultivating
+and nourishing limited partner relationships, the source of the funds (and fees). Less time
+remains for investment activity. Returns suffer.
+Past return data provide dramatic support for the notion that larger funds produce inferior
+results. For the ten years ending December 31, 2005, buyout funds with more than $1 billion
+of committed capital produced returns of 9.3 percent per year, falling short of both the overall
+buyout industry return of 9.7 percent per year and the $500 million to $1 billion cohort return
+of 10.3 percent. Buyouts in the range of $250 million to $500 million performed even better,
+posting results of 11.4 percent per annum.15 Large size correlates with
+returns.
+Academic work supports the negative relationship between size and performance. Josh
+Lerner of Harvard Business School and Antoinette Schoar of MIT's Sloan School found "a
+strong relationship between fund growth and returns-the more dramatic the increase
+between two funds, the sharper the decline in return between the funds."16 Increases in fund
+size benefit the general partner at the limited partners' expense.
+Casual observers might draw the superficial conclusion that the key to success in buyout
+investing involves concentrating on smaller buyout funds. While smaller funds undoubtedly
+offer greater alignment of interests between the general partners and the passive providers of
+funds, a policy of simply choosing to invest in smaller funds may not lead to satisfactory
+results.
+First, after adjusting the returns of smaller buyout funds to account for higher levels of risk,
+excess returns may disappear. Smaller buyout funds invest in smaller companics, which
+necessarily carry higher levels of operational risk. Adding greater operational risk to higher
+financial risk creates a substantial risk-adjusted hurdle for the small-company-buyout investor.
+Investors must receive material compensation for the heightened risk and additional illiquidity
+in small company buyout investing.
+Second, an investor backing smaller buyout funds solely based on historical performance
+makes the mistake of investing while looking through the rearview mirror. Superior absolute, if
+not risk-adjusted, returns attract flows of capital. As market participants conclude that small
+buyouts outperform large buyouts, the market responds by creating large numbers of
+partnerships devoted to pursuing middle-market buyout transactions. Any excess returns that
+may have existed will be threatened by the influx of new capital and new participants. Be wary
+of the market's ability to eliminate sources of superior risk-adjusted returns.
+Yale's Experience Yale's buyout portfolio returns provide a ray of hope to investors secking
+risk-adjusted excess returns. The university attempts to invest only with firms that place central
+importance on enhancing the effectiveness of corporate operations. Company building
+strategies permit buyout fund managers to add value beyond the increase in returns expected
+from adopting higher risk capital structures. By identifying managers that implement
+operationally oriented strategies, Yale creates the possibility of winning in a tough arena.
+Consider the data in the study of buyout transactions presented to Yale between 1987 and
+1998, as shown in Table 8.1. Yale participated in 118 of 542 transactions in the sample,
+generating gross returns of 63 percent relative to a risk equivalent benchmark of 41 percent. If
+the risk adjustment appropriately captures the return expected from financial engineering, the
+premium return earned by Yale represents value added by the fund manager. Even though fund
+manager fees take an estimated 15 percentage points of annual return, the university's net
+returns of 48 percent still comfortably exceed the risk-adjusted marketable securities bogey.
+Yale's buyout results rely far less on leverage than do the results of the broad pool of buyout
+transactions. Contrast the broad pool's nearly 70 percentage point difference between the
+unlevered S&P return and the risk-adjusted benchmark with Yale's 21 percentage point
+difference. Less reliance on leverage and more attention to operations lead to superior risk-
+adjusted results. By employing an approach that emphasizes operating improvements and
+employs lower leverage, Yale's buyout portfolio manages to produce handsome absolute and
+risk-adjusted returns.
+Table 8.1 Buyout Managers Fail to Create Excess Returns
+Completed Deals, 1987-1998
+Buyout return
+Risk-equivalent marketable security benchmark
+S&P 500 benchmark
+Number of deals
+Source: Yale University Investments Office.
+Entire Sample
+Yale's Portfolio
+Retum Debt/Equity Ratio Return Debe/Equity Ratio
+48%
+5.2
+63%
+28
+86%
+5.2
+41%
+28
+17%
+0.8
+07
+542
+118
+Active Management
+No sensible investor manages private assets passively. Even if participation in a broadly
+diversified market alternative were available, investors would face nearly certain
+disappointment. Burdened by staggering fees and characterized by well above marketable
+equity risk levels, a broad collection of private funds would likely produce returns far from
+sufficient to compensate for the risk incurred. Investors justify the inclusion of private equity
+in portfolios only by selecting top quality managers pursuing value-added strategies with
+appropriate deal structures.
+Due Diligence The character of a private equity fund's investment principals constitutes the
+single most important criterion in evaluating the merits of an investment. Driven, intelligent,
+ethical individuals operating in a cohesive partnership possess an edge likely to translate into
+superior investment results. On the other end of the spectrum, individuals willing to cut
+corners, operationally, intellectually, or ethically, place an investor's funds and reputation at
+risk.
+The central importance of choosing strong investment partners places enormous weight on
+the due diligence process. Concluding that a private equity firm consists of credible,
+professionally qualified individuals in pursuit of interesting investment opportunities serves
+merely as a starting point. Before making a commitment, careful investors determine that the
+fund's principals exhibit the characteristics necessary to justify entrusting institutional assets to
+their care. Because of the long-term nature of private equity contracts, investors ultimately rely
+on the good faith of fund managers to behave in the best interests of the limited partners.
+While negotiating appropriate deal terms remains important, contractual arrangements almost
+invariably fail to deal with all of the important issues that ultimately arise in the general
+partner/limited partner relationship. Good people can overcome bad contracts, but good
+contracts cannot overcome bad people.
+Comprehensive due diligence requires substantial effort. Personal and professional
+references provided by prospective fund managers provide an initial set of contacts. Because of
+the inevitable selection bias in a hand-picked reference list, sensible investors seek candid,
+confidential assessments from other individuals, including both business colleagues and
+personal acquaintances. Over time, investors develop networks that facilitate reference
+checking and increase the quality of decision making. Careful investors make skeptical calls,
+actively looking for potential issues. Going through the motions by conducting superficial
+checks adds nothing to the due diligence process.
+Careful investors evaluate the fund manager's investment operation by spending sufficient
+time at the firm's offices to assess the character of the workplace. Firms exhibit distinct
+personalities that influence the quality of operations in fundamental ways, suggesting that
+investors favor those groups deemed a good personality fit. Spending time in informal, social
+settings further enhances the information set used to evaluate the decision makers. Selecting
+individuals driven to produce superior results in a high quality manner constitutes the central
+challenge of manager selection.
+In spite of the enormous importance of conducting thorough due diligence, many investors
+fail to devote the time and energy necessary to make well-informed judgments. In 1999, one of
+the principals of a $2 billion buyout fund reported that only one investor took the time to meet
+the firm's full team before committing funds. By foregoing the opportunity to assess the
+quality of an investment operation's personnel, prospective investors fail to execute the most
+important task.
+Long-Term Commitments Private investment addresses Keynes's notion that the job of
+investment might be done better if decisions were "permanent and indissoluble, like marriage,
+except by reason of death or other grave cause..."17 While falling somewhat short of the
+gravity of the decision to marry, funding a private equity firm represents a long-term
+commitment. In contrast to the termination of a marketable securities manager where the
+vestiges of any relationship quickly disappear, evidence from terminated private investment
+funds remains on the books for years to come. Knowledge that private investment decisions
+represent long-term commitments forces sensible investors to establish high hurdles for
+initiating investment relationships.
+The illiquid nature of private investing allows private equity managers to make the longer
+term decisions necessary to pursue successful investment strategies. Marketable securities
+managers know that clients possess little patience for performance shortfall, pulling the trigger
+quickly when the numbers fail to meet expectations. As a result, stock jockeys learn to
+overdiversify portfolios, holding small positions in securities selected as much to avoid
+disappointment as to generate exciting returns. In contrast, private fund managers "lock in"
+assets for long periods of time, with partnership terms that often span a decade or more. While
+the typical fundraising cycle of two to three years might pressure managers to shorten
+investment time frames, investors frequently accept the argument that "it's too early to judge
+the most recent fund," allowing private asset managers to make truly long-term decisions.
+In fact, when evaluating private funds, investors face little choice but to focus on changes in
+corporate operations, not minute-by-minute fluctuations in market value. By emphasizing an
+investment's intrinsic valuc, investors assess factors under the manager's control, liberating
+private fund managers from the frequently fickle judgments of the equity markets and
+allowing pursuit of sensible investment strategies.
+Strong private equity groups use the long investment horizon to pursue strategies that add
+substantial value to corporate activities. Fund managers providing only capital operate at a
+competitive disadvantage to groups that improve company operations in a fundamental way.
+In the leveraged buyout arena, supplying money to purchase a well-run company constitutes a
+commodity, as all major investment funds boast the financial skills necessary to complete plain
+vanilla transactions. Low barriers to entry allow former investment bankers to respond to mid-
+career crises by abandoning the life of an agent and embracing the glories of an investment
+principal, flooding the market with capital to pursue "clean" deals. In contrast, buyout firms
+that demonstrate the ability to deal with substantial operating issues carve out a special
+transactional niche, creating the potential for less competitive, proprietary deal flow. The
+combination of less competition for operationally oriented transactions and potential benefits
+from addressing operational issues provides a compelling investment opportunity.
+Clayton, Dubilier & Rice and WESCO Clayton, Dubilier & Rice (CDR), a firm with a long
+distinguished track record, focuses its efforts on "messy" deals-transactions that require a
+high degree of intervention by the principals. The firm implements its value-added investment
+strategy by bringing individuals with operating backgrounds into the partnership. These
+partners provide valuable perspective during the due diligence process, identifying acquisition
+candidates that might benefit from the firm's unusual skills. Once CDR acquires a company,
+operating partners take a "hands on" approach to improving corporate operations. One
+subclass of transactions that CDR pursues involves corporate divestitures. Frequently, the
+divested subsidiary lacks basic corporate organizational structure, having relied on the parent
+company to provide a variety of essential business services. Value creation results as CDR uses
+its combination of operational and financial expertise to create a stand-alone company from
+the erstwhile corporate division.
+In February 1993, CDR principals began evaluating a spin-off of WESCO, Westinghouse's
+electrical equipment and supplies distribution arm. Within a short time, the buyout firm
+identified several major business issues: (1) transition from corporate subsidiary to a market-
+driven business; (2) improvement of inventory and logistics management; and (3) reduction of
+corporate overhead. More than one-half of WESCO's 250 branches posted losses in 1993,
+contributing to firm-wide red ink totaling more than $3 million on a revenue base of $1.6
+billion.
+On top of material business issues, WESCO suffered from sleepy management that let the
+company drift. The company required a more aggressive team to instill a sense of corporate
+mission, repair damaged morale, and improve lackluster performance.
+After Westinghouse rejected CDR's initial bid as inadequate, the firm continued to work
+on the project. Operating partner Chuck Ames drove the process, identifying a management
+plan and preparing to run the company, if necessary. By February 1994, when Westinghouse
+came back to CDR, Ames had identified a chief executive, Roy Haley, with the ability to create
+and manage the new company.
+When CDR acquired WESCO for $330 million, the company lacked basic corporate
+infrastructure. Creating information technology, finance, and internal control divisions from
+scratch provided the basic building blocks necessary for corporate existence. Implementing the
+operating plan crafted prior to acquisition created substantial additional value, moving the
+company from losses to meaningful profits.
+By 1997, when a financial buyer purchased WESCO, the firm generated $90 million of
+operating income on $2.7 billion of revenue. The turnaround in performance produced great
+results for CDR. The buyout firm's original $83 million of equity generated proceeds of $511
+million, providing annual returns of nearly 47 percent to the firm's limited partners. The
+extraordinary results stem from one measure of financial engineering and several measures of
+operating improvement.
+Few firms possess the skill set required to address the severe operating problems and
+company building challenges found at WESCO. By combining operational and financial skills,
+CDR exemplifies the potential for unusual value creation.
+Buyouts and Inflation
+Because buyout valuations correlate strongly with marketable equity valuations, buyouts tend
+to exhibit the poor short-term inflation hedging characteristics typical of marketable equities.
+That said, since a buyout's more highly leveraged balance sheet contains substantial levels of
+fixed rate liabilities, which lose value in an environment of unanticipated inflation, buyouts
+may perform somewhat better than less levered companies in an inflationary period.
+Alignment of Interests
+Investors in buyout funds benefit from structural forces that serve to align the interests of
+corporate management and providers of capital. High degrees of balance sheet leverage force
+company managers to manage assets efficiently, with energies focused on generating cash flows
+to satisfy debt service obligations. The lure of shareholder-unfriendly corporate perquisites
+pales in comparison to the specter of default and the grail of profit participation. Buyout
+transactions serve to align interests of managers and investors.
+Unfortunately, investors in buyout partnerships face the same set of issues that confront
+investors in any scheme where the sponsor receives a profits interest. Profit-sharing
+arrangements create options that may lead to behavior that benefits the fund operator and
+disadvantages the provider of funds. To offset the optionality of the profits interest, substantial
+levels of co-investment by the sponsor of the buyout partnership create a symmetry regarding
+gains and losses that goes a long way toward keeping interests aligned.
+In the ideal world, management fees cover reasonable firm overhead while profits interests
+provide attractive incentive compensation. In the real world, excessive management fees, a
+particularly acute problem for larger buyout funds, drive a wedge between the interests of the
+general partners and the limited partners. Deal fees, which many funds charge upon successful
+consummation of a transaction, represent an egregious means by which fund managers enrich
+themselves at the expense of their capital-contributing partners. The rationale for deal fees
+mystifies thoughtful investors. Since investors pay management fees to compensate the fund
+managers for day-to-day work on the fund, what role do transaction fees play? Monitoring fees
+represent a similarly superfluous charge. Why do buyout firms assess a fee for monitoring
+investments when they already collect a more than adequate management fee? In fact, buyout
+funds, particularly large funds that produce fees of hundreds of millions of dollars, represent
+an unfortunate example of misalignment of interests between fund managers and investors.
+Academic research on fees gives buyout investors pause. Using data on terms for 144
+buyout funds formed between 1992 and 2006, Andrew Metrick and Ayako Yasuda of the
+University of Pennsylvania's Wharton School estimate that the present value of fees consumes
+an average of nearly $20 of every $100 under management. Little wonder that limited partners
+so often fail to achieve reasonable returns!
+The researchers examine the absolute level and relative size of fixed revenues (management
+fees and entry transaction fees) and variable revenues (carried interest, monitoring fees, and exit
+transaction fees). The mix between fixed revenues, which buyout mavens pocket simply for
+showing up, and variable revenues, which depend on investment performance, further
+discourages thoughtful investors. Fully 62 percent of revenues come from fixed fees, leaving
+only 38 percent to reward performance. In fact, a portion of fees classified as variable by
+Metrick and Yasuda, namely monitoring fees and the exit transaction fee (on the amount for
+the original investment), accrue to the general partner in the instance of no investment
+performance, painting a dismal picture indeed.18
+Market Characteristics
+At December 31, 2006, the U.S. leveraged buyout industry controlled approximately $342
+billion in capital, of which approximately 57 percent was invested in companies with the
+remainder committed by investors, but undrawn. More than 360 buyout partnerships were
+active in the United States at the end of 2006.19
+Summary
+Buyout funds constitute a poor investment for casual investors. The underlying company
+investments in buyout funds differ from their public market counterparts only in degree of
+balance sheet risk and liquidity. The higher debt and lower liquidity of buyout deals demand
+higher compensation in the form of superior returns to investors. Unfortunately for private
+equity investors, in recent decades buyout funds delivered lower returns than comparable
+marketable securities positions, even before adjusting for risk.
+Fees create a hurdle that proves extremely difficult for buyout investors to clear. Aside from
+substantial year-to-year management fees, buyout funds command a significant share of deal
+profits, usually equal to one-fifth of the total. On top of the management fee and incentive
+compensation, buyout managers typically charge deal fees and often charge monitoring fees.
+The cornucopia of compensation ensures a feast for the buyout manager, while the buyout
+investor hopes at best for a hearty serving of leftovers.
+As with other forms of investment that depend on superior active management, sensible
+investors look at buyout partnerships with a high degree of skepticism. Unless investors
+identify top-quartile, or even top-decile managers, results almost certainly fail to compensate
+for the degree of risk incurred.
+Venture Capital
+Venture capital partnerships provide financing and company building skills to start-up
+operations with the goal of developing companies into substantial, profitable enterprises.
+Providers of funds to venture capital partnerships respond to multiple sources of attraction:
+driving an important element of the capitalist system, savoring the glitz surrounding the
+celebrity of the venture capital industry, and garnering a share of the gains generated by
+entrepreneurial activity.
+Part of the attraction of venture capital investing lies in the option-like character of
+individual investments. Downside losses cannot exceed the amount invested. Upside gains can
+multiply the original stake many fold. The combination of limited downside and substantial
+upside produces an investor-friendly, positively skewed distribution of outcomes.
+Unfortunately for investors, the promise of venture capital exceeds the reality. Over
+reasonably long periods of time, aggregate venture returns more or less match marketable
+equity returns, indicating that providers of capital fail to receive compensation for the
+substantial risks inherent in start-up investing.
+Aside from the dismal picture provided by historical experience, all but the most
+longstanding investors in venture partnerships face a problem in adverse selection. The highest
+quality, top-tier venture firms generally refuse to accept new investors and ration capacity even
+among existing providers of funds. Venture firms willing and able to accept money from new
+sources frequently represent relatively unattractive, second-tier (or worse) investment
+opportunities.
+Prior to the technology bubble of the late 1990s, investors in venture partnerships received
+returns inadequate to compensate for the risks incurred. In a few glorious years, the Internet
+mania allowed venture investors to share in a staggering flood of riches. Yet the bubble-induced
+enthusiasm for private technology investing produced an unanticipated problem for venture
+investors. Indiscriminate demand allowed the managing partners of venture funds to increase
+the flow of management fees and take a greater share of profits. After the post-bubble collapse,
+venture capital partnerships maintained their newly fashioned investor-unfriendly terms,
+creating an even higher hurdle for investment success.
+Although investing in venture capital partnerships promises participation in the substance
+and glamor of backing start-up enterprises, investors providing capital to the venture industry
+receive returns inadequate to compensate for the high degree of risk. Only if investors generate
+top-quartile, or even top-decile, results do returns suffice to compensate for the risks incurred.
+The Glamorous Appeal of Venture Capital
+In September 1995, Pierre Omidyar, a French-born Iranian immigrant, started an online
+auction site, ostensibly to help his girlfriend sell her collection of Pez dispensers. Even though
+by late 1996, the business expanded nicely and produced solid profits, the company's founder
+decided to seek outside assistance. Two years after the humble beginnings of the company now
+named eBay, Omidyar invited venture capital provider Benchmark Capital to make an
+investment and join the board. The then-recently-formed Silicon Valley venture firm made a
+$6.7 million investment in Omidyar's eBay, valuing the company at $20 million.
+After Benchmark's investment, eBay's growth continued apace, fueled by the engagement
+of a new management team headed by the impressive Meg Whitman. The company soon
+proved ready for prime-time, as the September 1998 launch of eBay's initial public offering
+powered the company's valuation to $700 million. The IPO pricing proved fleeting, as investor
+interest drove the first day's price from the offering level of $18 per share to $47 per share,
+representing the "fifth-highest first-day gain in the market's history."20 At the close of trading
+on September 23, 1998 the market valued eBay at more than $2 billion. Benchmark's $6.7
+million investment exploded to more than $400 million, a breathtaking sixty-fold increase in a
+little more than a year.
+The eBay rocket ship had barely begun its journey. In April 1999, with the stock trading at
+$175 per share, the company's market value totaled in excess of $21 billion. Looking to lock in
+some of the firm's extraordinary gains, Benchmark Capital distributed a portion of its position
+to the limited partners. With Benchmark's $6.7 million investment worth $6.7 billion, the
+investment multiple of 1,000 times qualified eBay as "the Valley's best-performing venture
+investment ever."21
+Far from a flash in the pan, eBay continued to mature, becoming a standard-bearer among
+Internet companies. On July 22, 2002, boasting a market capitalization of $15.7 billion, eBay
+Joined the ranks of the S&P 500, taking the 104th place, just ahead of the venerable BB&T
+Corporation, a North Carolina based financial services concern with a storied past that dated
+to the Civil War. On the last day of trading in 2007, eBay's valuation stood at $45 billion,
+representing a 2,250 multiple of the valuation assigned to the firm by Benchmark Capital's
+original investment.
+Everyone made money. Pierre Omidyar, eBay's founder, created wealth beyond
+imagination. Meg Whitman, along with the rest of eBay's management and employees,
+received a huge payday. Venture capitalists and their financial backers posted staggering
+investment gains. Even public shareholders generated significant holding period returns.
+Venture capital ruled.
+Although eBay stands apart, the venture capital world's other successes, companies such as
+Cisco, Genentech, Amazon.com, Starbucks, and Intel, produced enormous gains for
+entrepreneurs and investors alike. Even start-ups that ultimately failed, such as @home and
+Excite.com, provided opportunities for financial backers to profit as company valuations soared
+to multi-billion-dollar levels, before plummeting back to earth.
+The Harsh Reality of Venture Capital Performance
+Unfortunately for investors, gains from high profile venture-backed successes prove insufficient
+to produce acceptable returns on an industry-wide basis. Over long periods of time, venture
+investors receive no more than market-like returns with demonstrably higher levels of risk. The
+promise of venture capital fails to deliver.
+Venture capital partnerships produced a surprisingly low median return of 3.1 percent for
+the twenty years beginning in 1985. In contrast, the S&P 500 returned 11.9 percent per
+annum. Venture results exhibited a wide dispersion, ranging from 721 percent to -100 percent,
+with a standard deviation of 51.1 percent. First quartile results of 16.9 percent provided much
+better than median results, while third quartile returns of -6.7 percent significantly impaired
+investor capital.22
+Venture capital returns proved disappointing, even when measured at the peak of one of the
+greatest speculative manias. The 2001 Investment Benchmarks Report reported that a sample of
+nearly 950 venture capital funds produced a 19.6 percent rate of return for the twenty-year
+period ending December 31, 2000. In absolute terms, the nearly 20 percent per year over
+twenty years appears handsome indeed.
+Consider, however, if instead of making venture capital investments, investors made
+equivalent investments, in timing and in size, in the S&P 500. The marketable security result of
+20.2 percent per annum outpaces the composite venture capital return. Even at the point of
+maximum return for venture capital, investors in plain-old-large-capitalization common stocks
+enjoyed higher returns with lower risks.
+Aside from the intuitive conclusion that investors in privately held start-up companies face
+materially higher risk than investors in publicly traded large-capitalization corporations, more
+rigorous definition of the risk differential proves difficult. Suffice it to say that venture investors
+must achieve top-quartile or top-decile results to begin to argue that they achieved superior
+risk-adjusted returns.
+Franchise Firms
+Atop the hierarchy of venture capital partnerships stand a relatively small number of venture
+firms that occupy an extraordinary position. This group of eight or ten firms enjoys a
+substantial edge over less-exalted practitioners. Top-tier venture capitalists benefit from
+extraordinary deal flow, a stronger negotiating position, and superior access to capital markets.
+In short, participants in the venture capital process, from the entrepreneur to the investment
+banker, prefer dealing with this small set of franchise firms.
+In no other area of the capital markets does the identity of the source of funds matter in the
+way that it does in the venture capital world. Consider the bond markets. Do the issuers of
+government or corporate debt care about the identity of the bondholders? Consider the equity
+markets. Do the managements of publicly traded companies care about the identity of the
+stockholders? While in certain unusual circumstances, such as in a contested change in
+corporate control, issuers of securities may care about the identity of their holders, generally
+the name, rank, and serial number of security owners prove of little interest to security issuers.
+Consider the real assets markets. Do managers of office buildings, operators of oil wells, or
+caretakers of timberlands care about the identity of the owners? Overwhelmingly, the source of
+funds for investment purchases matters little or nothing to the individuals responsible for
+managing assets.
+In contrast, managers of venture-capital-backed enterprises care enormously about the
+source of funds. A disproportionate share of entrepreneurs secking start-up financing seek out
+venture firms with strong franchises, in the belief that funding from a top-tier firm increases
+the odds of ultimate success. General partners of franchise venture firms constitute a truly
+extraordinary group, bringing exceptional judgment and unequaled company-building skills to
+the board table. Start-up firms benefit from the franchise venture capitalists' accumulated
+wisdom, well-established connections, and hard-won investment insights. Thoughtful
+entrepreneurs often willingly and knowingly accept a discounted valuation to cement a deal
+with a venture capitalist of choice. The reputation of the venture capital elite creates a virtuous
+circle in which investment success begets investment success.
+Academic research supports the notion of franchise firm performance persistence in the
+venture capital arena. Steven Kaplan of the University of Chicago Graduate School of Business
+and Antoinette Schoar of MIT's Sloan School of Management find substantial persistence of
+fund performance, suggesting that "Igleneral partners whose funds outperform the industry in
+one fund are likely to outperform in the next and vice versa." The authors note that their
+"findings are markedly different from the results for mutual funds, where persistence has been
+difficult to detect. "23 While Kaplan and Schoar identify some persistence in buyout returns,
+they find "a statistically and economically strong amount of persistence" particularly in venture
+funds.24
+Recent entrants to the arena of venture investing, as well as longer-term players with run-of-
+the-mill portfolios, face a challenge unique to the venture industry. All of the top-tier venture
+capital partnerships limit assets under management and none of the top-tier partnerships
+currently accept new investors. Consequently, outsiders remain outside, limiting the available
+set of choices for new investors hoping to enter and existing investors hoping to upgrade.
+New participants in the venture market must consider the return prospects of venture firms
+available for new-money investment. Obviously, industry-wide returns suffer with the removal
+of the records of relatively longstanding, relatively large, relatively high performing funds. Since
+the available opportunities for the overwhelming number of investors exclude the top-tier
+venture firms, return expectations require a commensurate downward adjustment. In the
+context of an industry that historically produced returns similar to marketable equity returns,
+even a moderate downward adjustment spells trouble. The inability to access the venture clite
+drives the final nail in the coffin of prospective venture investor aspirations.
+Venture Capital and Inflation
+As with any corporate entity, the venture capital investor's claim on the nominal value of
+company assets ought to provide a positive correlation to inflation. As with other assets that
+exhibit some link to marketable equity prices, the poor short-term relationship between
+marketable equities and inflation calls into question the inflation-hedging ability of venture
+capital.
+Alignment of Interests
+Venture funds share with buyout funds and hedge funds the incentive compensation scheme
+that creates option-like payoffs for the general partner. A high level of co-investment by the
+general partner represents a sure way to align investor interests, creating a salutary symmetry in
+general partners' attitudes toward gains and losses. Unfortunately, in the broader venture
+world, significant general partner co-investment represents the exception, not the rule.
+Interestingly, however, a fair number of the venture capital elite invest substantial amounts of
+personal funds side-by-side with their limited partners.
+Investment success allows fund sponsors to move the terms of trade in the general partners'
+favor. The technology bubble of the late 1990s provides a case in point. Inspired by enormous
+investor demand, venture firms raised bubble-cra funds in the neighborhood of ten times the
+size of funds raised only a decade earlier, moving from a typical 1990-vintage fund size of $100
+million to $150 million to a 2000-vintage fund size of $1 billion to $1.5 billion. Along with the
+increase in fund size came an increase in fee income that far out-paced the growth in the size of
+the professional staff. The dramatic rise in asset-based income transformed fees from an
+overhead recovery mechanism to a partnership profit center.
+More distressing to limited partners, venture partnerships used the huge increase in investor
+interest in all things technological to extract a greater share of fund profits. Prior to the
+technology mania, venture firms operated in a well-defined hierarchy that gave most firms a 20
+percent share of profits, a handful of demonstrably superior firms a 25 percent share of profits,
+and Kleiner Perkins Caufield & Byers-the dean of the industry-a 30 percent share of profits.
+Elite firms double dipped by creating larger profits and keeping a greater share.
+During the Internet bubble, greed prevailed. Seemingly limitless demand for venture capital
+investments allowed the rank and file to move their profits interest from 20 percent to 25
+percent and the superior firms to move from 25 percent to 30 percent. In an extraordinary act
+of selflessness and generosity, Kleiner Perkins, which could have moved its share of profits to 40
+percent or even 50 percent, kept its profit share at 30 percent. The general partners of Kleiner
+Perkins, while acutely aware of their market power, no doubt decided to leave the firm's profit
+share at 30 percent to benefit the institutional missions of the firm's endowment and
+foundation investors.
+Faced with an opportunity to skew deal terms in the general partner's favor, in spite of the
+industry's mediocre record of adding value, venture capitalists reacted with aplomb. In the
+aftermath of the bubble, a number of firms reduced fund sizes to more rational levels,
+mitigating the negative impact of excessive fees, but instances of funds reducing the profits
+interest have yet to come to light. In spite of dismal post-mania venture investment
+performance, the ratchet in profits interest appears to work in one direction only.
+Market Characteristics
+At December 31, 2006, the U.S. venture capital industry controlled approximately $131 billion
+in capital, of which approximately 62 percent was invested in companies, with the remainder
+committed by investors, but undrawn. More than 870 venture partnerships were active in the
+United States at the end of 2006.25
+Summary
+Venture capital investments appeal to a wide range of market participants motivated by the
+prospects of participating in a fundamental driver of the capitalist system, reveling in the
+glamor of high profile start-up successes and benefiting from outsized investment returns. As
+illustrated by the case of eBay, venture investing sometimes produces truly breathtaking results.
+Unfortunately, eBay's corporate achievements and stock market success stand far apart from
+the usual venture investment results. In aggregate, venture investors fare about as well as their
+marketable equity counterparts. After adjustment for risk, the overwhelming majority of
+venture capital fails to produce acceptable risk-adjusted returns.
+The new entrant to the world of private entrepreneurial finance faces an obstacle quite
+apart from the barriers hampering investment success in other asset classes. The top tier of
+venture partnerships, essentially closed to new money, enjoy superior access to deals,
+entrepreneurs, and capital markets. Exclusion from the venture capital clite disadvantages all
+but the most longstanding, most successful limited partners.
+CONCLUSION
+Nontraditional asset classes provide powerful tools for investors who seek to reduce risk by
+constructing well-diversified portfolios and to augment returns by pursuing profitable active
+management opportunities. Absolute return strategies and real assets holdings add diversifying
+power, while private equity investments enhance portfolio return prospects.
+Absolute return investments consist of event-driven and value-driven strategies that exploit
+mispricings in marketable securities. By offsetting market exposure with hedges, investors
+reduce systematic risk and cause results to depend on manager skill. Event-driven positions rely
+on evaluation of events associated with corporate mergers and bankruptcies, while value-driven
+positions depend on identification of misvalued securities. Because absolute return strategies
+generate equity-like returns largely independent of market movements, the asset class
+contributes extremely attractive return and diversification characteristics to portfolios.
+Yale pioneered the use of absolute return as an asset class, first employing it in 1990. As of
+June 30, 2007, inception-to-date returns clocked in at 13.2 percent per annum, with a standard
+deviation of only 4.9 percent (relative to the Wilshire 5000's 11.2 percent return and 14.0
+percent standard deviation). Absolute return fulfilled its mission of producing uncorr ted
+returns, showing monthly correlations of an identical 0.02 with both stocks and bonds.
+Real assets protect investment portfolios against unanticipated increases in inflation, with
+investors paying a price for real assets' diversifying power by accepting expected returns below
+those of marketable equities. Under normal circumstances, high levels of current cash flow
+provide a stabilizing influence, reducing the volatility of portfolio fluctuations. From both a
+risk and a return perspective, Yale's real assets portfolio succeeded, posting a 17.8 percent per
+annum return from inception in July 1978 to June 2007.
+Private equity positions enhance portfolio returns at the price of meaningfully increasing
+portfolio risk, while producing little in terms of diversifying power. Investor experience over
+the past two decades failed to live up to expectations, as funds generally delivered below
+marketable equity returns at above marketable equity risk levels. Burdened by extraordinary
+fees in the form of substantial profit-sharing arrangements, investors face the difficult task of
+selecting top decile funds to realize the promise of private investing,
+Strong alignment of interests marks most private equity arrangements, creating an
+appropriate set of incentives for fund managers. Significant co-investment by partners of
+buyout and venture funds moves investment decisions toward a principal orientation and away
+from a potentially damaging agency perspective. Side-by-side commitment of general partners
+dollars causes all parties to share in the gains and losses, forcing decision makers to consider the
+downside-as well as the upside-of corporate actions. The show of confidence inherent in a
+significant general partner co-investment sends a strong signal to potential investors.
+Strategies for adding value to corporate operations make private equity an interesting
+investment activity, creating the possibility of exploiting less competitive deal-sourcing
+environments and identifying operations-enhancing opportunities. To the extent that private
+asset managers increase corporate value in a substantial way, investment results exhibit
+independence from the forces that drive valuation of marketable equities. Only by adding
+significant increments of value do private fund managers begin to earn the extraordinary fees
+associated with private equity deals. Strong active management-at the investor level, the fund
+level, and the company level-forms the basis for successful private equity programs.
+By selecting high quality partnerships that pursue value-adding strategies, Yale University
+achieved rates of return in excess of 30 percent per annum on private equity investments over
+the thirty years from 1978 to 2007, highlighting the potential contribution to portfolio results
+from a well-managed private equity program. Even after adjusting for the higher risk inherent
+in venture capital and leveraged buyout participations, Yale's results stack up well relative to
+other investment alternatives.
+Successful investors in nontraditional asset classes engage in active management, seeking to
+identify the highest quality people to manage investment funds. In selecting partners, due
+diligence efforts center on assessing the competence and character of the individuals
+responsible for portfolio decisions. Developing partnerships with extraordinary people
+represents the single most important element of alternative investment success.
+I. Absolute return strategies that employ offsetting long and short positions (merger arbitrage and long/short
+investing) earn money market returns in the absence of manager value added (or subtracted). On one side of the
+portfolio, assume a manager invests contributed funds in long positions. On the other side of the portfolio, assume a
+manager executes a short sale. Upon consummating a short sale, the manager receives cash proceeds from the
+transaction. Even though the cash must be posted as collateral with the lender of the security, the short seller earns a
+"rebate," or money market rate, on the proceeds. If the long position and short position both track the market
+precisely, gains (lasses) from the long match losses (gains) from the short, eliminating the systematic market factors
+from performance. Under such circumstances, the investor earns the money market like short rebate on invested assets.
+II. The story of Farallon Capital Management's handling of the MCI Communications/World Com combination
+appears in Harvard Business Case N9-299.020, "Farallon Capital Management: Risk Arbitrage," written by Robert
+Howard and Andre Perold in February 1999. The case study describes the ultimately successful efforts of Tom Steyer,
+David Cohen, and Bill Duhamel in navigating the complexities of an extraordinary merger transaction.
+III. Russell/Mellon Analytical Services produces the manager data used in this section. The Russell 3000 provides the
+passive benchmark employed to measure relative performance.
+IV. Begin with a gross return of 8.9 percent. Subtract the 1.0 percent management fee, leaving a 7.9 percent return.
+Take a 20 percent profits interest (0.2 x 7.9= 1.6) from the remaining return, producing a 6.3 percent net result.
+V. The Sharpe ratio, a measure of excess return generated per unit of risk, for Yale's absolute return portfolio amounted
+to 1.8 over its seventeen year life. In contrast, passive investments in domestic equities and fixed income posted Sharpe
+ratios of 0.9 and 0.7, respectively, over equivalent periods.

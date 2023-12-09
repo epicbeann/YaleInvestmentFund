@@ -1,0 +1,1885 @@
+Investment Philosophy
+Successful investors articulate coherent investment philosophies, consistently applied to
+all aspects of the portfolio management process. Philosophical principles represent time-
+tested insights into investment matters that rise to the level of enduring professional
+convictions. The central tenets of an investor's approach to markets emanate from
+fundamental beliefs regarding the most effective means to generate investment returns to
+satisfy institutional goals.
+Investment returns stem from decisions regarding three tools of portfolio
+management: asset allocation, market timing, and security selection. Investor behavior
+determines the relative importance of each aspect of portfolio management, with careful
+investors consciously constructing portfolios to reflect the expected contribution of each
+portfolio management tool.
+Asset allocation, the starting point for portfolio construction, involves defining the
+asset classes that constitute the portfolio and determining the proportion of the fund that
+resides in each class. Typical institutional asset classes include domestic equities, foreign
+equities, fixed income, absolute return, real assets, and private equities. The policy
+portfolio describes the target allocation to each of the asset classes employed by the fund.
+Market timing consists of short-run deviation from the long-term policy targets. For
+example, assume that a fund's long-term targets are 50 percent stocks and 50 percent
+bonds. A fund manager who identifies stocks as temporarily cheap and bonds as
+temporarily expensive might tactically weight the portfolio 60 percent to stocks and 40
+percent to bonds. The return resulting from the overweighting of stocks and
+underweighting of bonds constitutes the return attributable to market timing.
+Security selection derives from active management of individual asset classes. If a
+manager creates portfolios that faithfully replicate the markets (i.c., passive portfolios),
+that manager makes no active bets. To the extent that a portfolio differs from the
+composition of the overall market, active management accounts for a portion of
+investment results. For example, the security selection return for the U.S. equity asset class
+would be the difference between returns from the U.S. equity portfolio's securities and
+returns from the overall domestic equity market, as defined by a benchmark index of U.S.
+equities, such as the Wilshire 5000.
+The Role of Asset Allocation
+Many investors believe that a law of finance dictates that policy allocation decisions
+dominate portfolio returns, relegating market timing and security selection actions to
+secondary status. In a 2000 study, Roger Ibbotson and Paul Kaplan survey a number of
+articles on the contribution of asset allocation to investment returns. The authors note
+that "[o]n average, policy accounted for a little more than all of total return," implying
+that security selection and market timing make no material contribution to returns.¹ In
+another nod to the centrality of the asset-allocation decision, Ibbotson and Kaplan
+conclude that "... approximately 90 percent of the variability of a fund's return across
+time is explained by the variability of policy returns."
+"2
+Investors often treat asset allocation's central role in determining portfolio returns as a
+truism. It is not. The Ibbotson and Kaplan study describes investor behavior, not finance
+theory. Imagine a buy-and-hold portfolio consisting of one (particularly idiosyncratic)
+stock-portfolio returns follow largely from security selection. Or, consider the strategy
+of aggressively day trading bond futures-market timing dominates returns.
+Obviously, institutional portfolio managers usually buy more than one stock and
+rarely pursue aggressive day trading strategies. Instead, investors hold broadly diversified
+portfolios and avoid market timing, leaving asset allocation to determine investment
+results. Given the difficulties in timing markets and the challenges of security selection,
+such behavior provides a rational foundation for investment management. By avoiding
+extreme allocation shifts and holding diversified portfolios, investors cause asset allocation
+to account for the largest share of portfolio returns.
+Recognizing that decisions regarding the relative importance of asset allocation,
+market timing, and security selection lie within an investor's purview serves as an
+important starting point for policymakers. Instead of passively accepting the
+overwhelming importance of asset allocation, knowledgeable investors consider each
+source of return as a significant independent factor. Ultimately, in articulating a
+philosophy regarding the respective roles of asset allocation, market timing, and security
+selection, investors determine the fundamental character of the investment management
+process.
+By choosing to place asset allocation at the center of the investment process, investors
+ground the decision-making framework on the stable foundation of long-term policy
+actions. Focus on asset allocation relegates market timing and security selection decisions
+to the background, reducing the degree to which investment results depend on mercurial,
+unreliable factors.
+Selecting the asset classes for a portfolio constitutes a critically important set of
+decisions, contributing in large measure to a portfolio's success or failure. Identifying
+appropriate asset classes requires focus on functional characteristics, considering potential
+to deliver returns and to mitigate portfolio risk. Commitment to an equity bias enhances
+returns, while pursuit of diversification reduces risks. Thoughtful, deliberate focus on
+asset allocation dominates the agenda of long-term investors.
+The principles of equity ownership and diversification underlie asset allocation
+deliberations of serious long-term investors. Both historical experience and finance theory
+point to the conclusion that owning equities provides higher returns than owning bonds.
+Investors seeking to generate high rates of return naturally gravitate toward substantial
+allocations to equity assets. At the same time, risks associated with concentrating
+portfolios in a single asset type give investors pause, causing prudent market participants
+to diversify portfolio exposures. Expressing an equity bias and maintaining appropriate
+diversification provide the foundation for building strong investment portfolios.
+The Role of Market Timing
+Market timing, according to Charles Ellis, represents a losing strategy. "There is no
+evidence of any large institutions having anything like consistent ability to get in when the
+market is low and get out when the market is high. Attempts to switch between stocks
+and bonds, or between stocks and cash, in anticipation of market moves have been
+unsuccessful much more often than they have been successful."3
+Market timing causes portfolio characteristics to deviate from those embodied in the
+policy portfolio, producing inevitable differences in risk and return attributes. If market
+timers bet against the stock market by reducing equity holdings and increasing cash
+positions, long-run expected portfolio returns decline as the market timer's position
+decreases risk levels. Because such activity lowers anticipated returns, market timers must
+succeed substantially more than 50 percent of the time to post a winning record. The
+wind in the speculator's face, combined with transactions costs and market impact,
+provide a high hurdle for those who would beat the market by holding abnormally high
+cash positions.
+If market timers increase the risk profile of a portfolio by overweighting a risky asset at
+the expense of lower-risk positions, fiduciaries must consider the advisability of moving
+risk beyond policy portfolio levels. If riskier portfolios produce characteristics consistent
+with institutional goals, portfolio managers ought to consider adopting a higher risk
+policy portfolio. If the market timer's enhanced risk gives fiduciaries pause, then prudence
+demands rejecting even temporary moves to increase risk. Serious investors avoid timing
+markets.
+The Role of Security Selection
+In efficient markets, active portfolio management, like market timing, tends to detract
+from aggregate investment performance. In the context of relative performance, security
+selection constitutes a zero-sum game. Since IBM (and every other tradeable stock)
+represents a finite, measurable proportion of the market value of the U.S. equity market,
+an investor can only hold an overweight position in IBM when other investors hold a
+corresponding underweight position in IBM. The active manager who overweights IBM
+creates market impact and incurs transaction costs in establishing the position; on the
+other side of the trade are other active managers who underweight IBM, incurring those
+same transactions costs and creating that same market impact. Only one of those
+positions can be right in light of IBM's subsequent performance. Measured by the change
+in IBM's price relative to the market, the amount by which the winners win equals the
+amount by which the losers lose. Since active managers pay a high price to play the game,
+in the aggregate active investors will lose by the amount of manager fees, transactions
+costs, and market impact.
+In less efficient markets, active management produces potentially sizable rewards. In
+overwhelming importance of asset allocation, knowledgeable investors consider each
+source of return as a significant independent factor. Ultimately, in articulating a
+philosophy regarding the respective roles of asset allocation, market timing, and security
+selection, investors determine the fundamental character of the investment management
+process.
+By choosing to place asset allocation at the center of the investment process, investors
+ground the decision-making framework on the stable foundation of long-term policy
+actions. Focus on asset allocation relegates market timing and security selection decisions
+to the background, reducing the degree to which investment results depend on mercurial,
+unreliable factors.
+Selecting the asset classes for a portfolio constitutes a critically important set of
+decisions, contributing in large measure to a portfolio's success or failure. Identifying
+appropriate asset classes requires focus on functional characteristics, considering potential
+to deliver returns and to mitigate portfolio risk. Commitment to an equity bias enhances
+returns, while pursuit of diversification reduces risks. Thoughtful, deliberate focus on
+asset allocation dominates the agenda of long-term investors.
+The principles of equity ownership and diversification underlie asset allocation
+deliberations of serious long-term investors. Both historical experience and finance theory
+point to the conclusion that owning equities provides higher returns than owning bonds.
+Investors seeking to generate high rates of return naturally gravitate toward substantial
+allocations to equity assets. At the same time, risks associated with concentrating
+portfolios in a single asset type give investors pause, causing prudent market participants
+to diversify portfolio exposures. Expressing an equity bias and maintaining appropriate
+diversification provide the foundation for building strong investment portfolios.
+The Role of Market Timing
+Market timing, according to Charles Ellis, represents a losing strategy. "There is no
+evidence of any large institutions having anything like consistent ability to get in when the
+market is low and get out when the market is high. Attempts to switch between stocks
+and bonds, or between stocks and cash, in anticipation of market moves have been
+unsuccessful much more often than they have been successful."3
+Market timing causes portfolio characteristics to deviate from those embodied in the
+policy portfolio, producing inevitable differences in risk and return attributes. If market
+timers bet against the stock market by reducing equity holdings and increasing cash
+positions, long-run expected portfolio returns decline as the market timer's position
+decreases risk levels. Because such activity lowers anticipated returns, market timers must
+succeed substantially more than 50 percent of the time to post a winning record. The
+wind in the speculator's face, combined with transactions costs and market impact,
+provide a high hurdle for those who would beat the market by holding abnormally high
+cash positions.
+If market timers increase the risk profile of a portfolio by overweighting a risky asset at
+the expense of lower-risk positions, fiduciaries must consider the advisability of moving
+risk beyond policy portfolio levels. If riskier portfolios produce characteristics consistent
+with institutional goals, portfolio managers ought to consider adopting a higher risk
+policy portfolio. If the market timer's enhanced risk gives fiduciaries pause, then prudence
+demands rejecting even temporary moves to increase risk. Serious investors avoid timing
+markets.
+The Role of Security Selection
+In efficient markets, active portfolio management, like market timing, tends to detract
+from aggregate investment performance. In the context of relative performance, security
+selection constitutes a zero-sum game. Since IBM (and every other tradeable stock)
+represents a finite, measurable proportion of the market value of the U.S. equity market,
+an investor can only hold an overweight position in IBM when other investors hold a
+corresponding underweight position in IBM. The active manager who overweights IBM
+creates market impact and incurs transaction costs in establishing the position; on the
+other side of the trade are other active managers who underweight IBM, incurring those
+same transactions costs and creating that same market impact. Only one of those
+positions can be right in light of IBM's subsequent performance. Measured by the change
+in IBM's price relative to the market, the amount by which the winners win equals the
+amount by which the losers lose. Since active managers pay a high price to play the game,
+in the aggregate active investors will lose by the amount of manager fees, transactions
+costs, and market impact.
+In less efficient markets, active management produces potentially sizable rewards. In
+fact, passive replication of benchmark returns proves impossible in private markets, such
+as venture capital, leveraged buyouts, real estate, timber, and oil and gas. Even were the
+market return obtainable, investors would almost certainly prefer to pursue more selective
+approaches. When examined over reasonably long periods of time, in aggregate, illiquid
+asset classes generally produce mediocre returns relative to less risky marketable security
+alternatives.
+An inverse relationship exists between efficiency in asset pricing and appropriate
+degree of active management. Passive management strategies suit highly efficient markets,
+such as U.S. Treasury bonds, where market returns drive results and active management
+adds little or nothing. Active management strategies fit inefficient markets, such as private
+equity, where market returns contribute very little to ultimate results and investment
+selection provides the fundamental source of return.
+Market participants willing to accept illiquidity achieve a significant edge in seeking
+high risk-adjusted returns. Because market players routinely overpay for liquidity, serious
+investors benefit by avoiding overpriced liquid securities and by embracing less liquid
+alternatives.
+Pursuit of value-oriented strategies enhances opportunities to achieve security
+selection success. Value can either be purchased, by identifying assets trading at below fair
+value, or created, by bringing unusual skills to improve corporate operations. Value
+investors s operate with a margin of safety unavailable to less conservative investors.
+The degree of active management opportunity in various asset classes provides
+important input into the portfolio management process. Emphasizing inefficiently priced
+asset classes with interesting active management opportunities increases the odds of
+investment success. Intelligent acceptance of illiquidity and a value orientation constitute
+a sensible, conservative approach to portfolio management.
+In structuring portfolios, investors make choices, either explicitly or implicitly,
+regarding the respective roles of asset allocation, market timing, and security selection. A
+strong portfolio management framework rests on asset allocation decisions and
+incorporates a bias toward equity assets with an appropriate level of diversification. Since
+market timing actions generally prove unrewarding and always cause portfolios to deviate
+from desired characteristics, serious investors avoid market timing. Security selection
+decisions, while extremely difficult to execute with consistent success, contain the
+potential to add value to portfolio returns. Investors enhance opportunity for beating the
+market by pursuing excess returns where the degree of opportunity appears largest, by
+accepting reasonable degrees of illiquidity, and by maintaining a value orientation.
+ASSET ALLOCATION
+Equity Bias
+Sensible investors approach markets with a strong equity bias, since accepting the risk of
+owning equities rewards long-term investors with higher returns. High returns contribute
+mightily to meeting the goals of preservation of purchasing power and of provision of
+sustainable operating budget support. In fact, the tension between the conflicting goals of
+preserving assets and spending for operations can be relaxed only by increasing
+investment returns.
+Finance theory posits that acceptance of greater risk leads to the reward of higher
+expected returns. In a happy coincidence, historical capital markets data, collected by
+Roger Ibbotson and Rex Sinquefield, support the theoretical conclusion. Consider the
+wealth multiples for investments in various U.S. asset classes and inflation outlined in
+Table 4.1.
+Table 4.1 Equities Generate Superior Returns in the Long Run
+Wealth Multiples for U.S. Asset Classes and Inflation December 1925-December 2005
+Asset Class
+Inflation
+Treasury bills
+Treasury bonds
+Corporate bonds
+Large-capitalization stocks
+Small-capitalization stocks
+Source: Ibbotson Associates, Stocks, Bonds, Bills and Inflation, 2006 Year Book.
+Multiple
+11 times
+18 times
+71 times
+100 times
+2,658 times
+13,706 times
+Historical Evidence
+The data indicate that a dollar invested in Treasury bills at the end of 1925, with all
+income reinvested, would have grown eighteen times by December 31, 2005. At first
+glance, having multiplied the original investment by a factor of 18 appears satisfactory.
+However, given that more than 60 percent of the increase would have been lost to
+inflation, the result loses some luster. The low return of Treasury bills should not come as
+a surprise. On at least two measures Treasury bills have been close to risk free. Investors
+face virtually no credit exposure, as the U.S. government represents, perhaps, the most
+creditworthy entity in the world. In addition, Treasury bills have provided a hedge against
+inflation, with returns that closely track price increases. The price of these attractive
+characteristics has been an extremely low real return. Thus, at least with twenty-twenty
+hindsight, Treasury bills would not have been an appropriate investment for an
+institution investing to earn substantial after-inflation returns.
+Moving farther out the risk spectrum, the same dollar invested in longer-term
+government bonds at the end of 1925 would have multiplied 71 times by the end of 2005.
+Government bonds share with Treasury bills extremely high credit quality. Unlike
+shorter-term instruments, however, bonds have a highly uncertain real return. Twenty-
+year bonds, which are used in the Ibbotson-Sinquefield analysis, face two decades of
+inflation rates, unknown and unknowable at the time of purchase. Not only do real
+returns vary greatly, nominal returns also fluctuate over holding periods of less than the
+term-to-maturity. The higher risks of longer-term bonds have been rewarded with higher
+returns, although such returns fail to provide meaningful support for an institution that
+consumes only after-inflation returns.
+Corporate bonds provide an alternative to investment in government securities. Over
+the eighty-year period, corporate bonds provided a wealth multiple of 100, exceeding the
+multiple of 71 for default-free government bonds. The incremental return reflects
+compensation for credit risk and call risk embodied in corporate obligations. In essence,
+high-grade corporate bonds are a hybrid instrument, combining bond-like characteristics
+with some equity risk and some optionality.
+The 18 multiple for investing in Treasury bills, the 71 multiple for investing in
+Treasury bonds and the 100 multiple for investing in corporate bonds represent long-
+term rewards for lending money. Loans are relatively low risk assets. In the case of
+Treasury obligations, the full faith and credit of the United States Government stand
+behind the commitment to pay interest and return principal in a timely manner. In the
+case of corporate bonds, the instruments have a senior claim on the assets of a
+corporation. That is, payments on bonds take precedence over distributions to the owners
+of a company, its equity holders.
+Obviously, as residual claimants, equity holders face substantially greater risks than do
+bondholders. In extreme cases, when corporations fail to meet fixed obligations, equity
+owners may be wiped out. In spite of (or, perhaps, because of) these risks, in the United
+States, over long periods of time equities have outperformed bonds by impressive
+margins.
+A dollar invested in common stock at the end of 1925 would have multiplied 2,658-
+fold during the eighty-year holding period. An enormous difference exists between the
+return expected from the conservative investment in cash (18 times) or government bonds
+(71 times) and that expected from taking the greater risk in owning equity securities
+(2,658 times).
+The long-term benefits of owning equities increase as investments move farther out
+the risk continuum. When investors assume the risk of investing in smaller capitalization
+equities, the dollar grows 13,706 times during the period, a staggering amount relative to
+returns for other asset classes. While some controversy surrounds the methodology used
+by Ibbotson-Sinquefield's measurement of returns for small stocks, their work gives a
+sense of the long-term rewards for accepting greater equity risk.
+Although eighty years of Ibbotson-Sinquefield data show persuasive results, longer
+periods of time produce even more dramatic conclusions. Wharton Professor Jeremy
+Siegel, in his book Stocks for the Long Run, examines investment returns from[1802 to
+2001. By using Ibbotson's recent data to extend Siegel's return series, over the more than
+two centuries from 1802 to 2005, a dollar in the U.S. stock market grows to $10.3
+million. During the same period, cash investments generate a multiple of only 4.8
+thousand. The return-generating power of equity investment over long periods of time
+dominates the multiples obtained by investing in bills and bonds as shown in Table 4.2.
+As a footnote, gold "bugs" will be disappointed to learn that their favorite precious
+metal returned a multiple of only 27, trailing by a large margin the returns of low risk
+Treasury bills and only modestly exceeding the 16-fold impact of inflation.
+Table 4.2 Equities Provide Astonishing Results in the Very Long Run
+Wealth Multiples for U.S. Asset Classes and Inflation December 1802-December 2005
+81-82/433
+Multiple
+16 times
+4.8 thousand times
+19.5 thousand times
+10.3 million times
+Asset Class
+Inflation
+Treasury bills
+Treasury bonds
+Large-capitalization stocks
+Sources: Ibbotson Associates, Stocks, Bonds, Bills and Inflation, 2006 Year Book; Jeremy Siegel, Stocks for the Long
+Run (New York 2002); Bloomberg.
+These findings suggest that long-term investors maximize wealth by investing in high-
+return, high-risk equity rather than buying debt instruments of governments and
+corporations. As with many broad generalizations, this seemingly obvious conclusion
+requires further examination.
+...
+Market studies focusing only on returns for securities in the United States miss
+important information. Recent academic work by Will Goetzmann and Philippe Jorion
+on investor experience in other countries reduces confidence in the long-run superiority
+of equity investing. At the turn of the twentieth century, active stock markets existed in
+Russia, France, Germany, Japan, and Argentina, all of which have been interrupted "
+for a variety of reasons, including political turmoil, war, and hyper-inflation. Obviously,
+these markets provide little grist for the mill of long-term capital market studies. Even the
+most continuous of markets, those in the United States and United Kingdom, were shut
+down for several months during World War I."5 Studies of long-term returns in the
+United States ignore the fact that investors in foreign markets experienced less favorable
+outcomes, with sometimes dramatically worse results.
+In addition to the possibility that enthusiasm for equities might be based on parochial
+experience, survivorship bias" inflates perceptions of historical returns. One study
+suggests that "... the 5 percent real capital appreciation return on U.S. stocks is
+exceptional, as other markets have typically returned 3 percent less than U.S. equities."
+Were this conclusion to influence expectations for long-run equity returns, the case for
+stock investments becomes considerably less compelling.
+Ultimately, the argument for an equity bias in a long-term investment portfolio rests
+on more than historical experience. Finance theory sensibly teaches that acceptance of
+greater risk accompanies an expectation of greater return. While future stock market
+returns might not be as robust as they have been for U.S. equity investors, long-term
+investors will be well served with an equity bias.
+Diversification
+Even though market return studies indicate that high levels of equity market exposure
+benefit long-term investors, the associated risks come through less clearly. Significant
+concentration in a single asset class poses extraordinary risk to portfolio assets.
+Fortunately, diversification provides investors with a powerful risk management tool. By
+combining assets that vary in response to forces that drive markets, investors create more
+efficient portfolios. At a given risk level, properly diversified portfolios provide higher
+returns than less well diversified portfolios. Conversely, through appropriate
+diversification, a given level of returns can be achieved at lower risk. Harry Markowitz,
+pioneer of modern portfolio theory, maintains that portfolio diversification provides
+investors with a "free lunch," since risk can be reduced without sacrificing expected
+return.
+Yale and the Eagle Bank
+An extraordinary example of the risk in portfolio concentration comes from a
+catastrophic event in the early history of the Yale endowment. An overwhelmingly large,
+ill-advised investment in a single bank nearly bankrupted the college, with consequences
+that lasted for decades.
+In 1811, Yale College treasurer James Hillhouse and his illustrious colleagues, Eli
+Whitney, William Woolsey, and Simeon Baldwin, acquired the charter for the formation
+of the Eagle Bank of New Haven. At that time, only one other bank served New Haven's
+healthy economy and developing merchant class. Hoping to pursue a mission of fostering
+industry and commerce, at its opening the Eagle Bank commanded a significant level of
+public confidence.
+William Woolsey, a shrewd and experienced merchant and banker, served as the bank's
+first president, returning to New Haven from a lucrative business career in New York as a
+speculative sugar trader, hardware merchandizer, and merchant banker. With Woolsey at
+the helm and a roster of New Haven's finest citizens as founders, the financial officers at
+Yale were so convinced of the soundness of the bank that they applied for a special
+dispensation from the State of Connecticut to invest more than the statutory limit of
+$5,000 in the stock of any one bank. Yale not only invested far in excess of the limit, the
+trustees also leveraged the college's investment with borrowed funds. In 1825, with the
+exception of a few shares in municipal projects, the entire endowment was invested in the
+Eagle Bank.
+Sadly, Yale's confidence was misdirected. Upon William Woolsey's return to his
+business ventures in New York in 1825, he selected George Hoadley, a Yale graduate,
+practicing lawyer, and mayor of New Haven, to succeed him as bank president. The
+founders of the bank were too busy with other endeavors to oversee Hoadley. In
+September of 1825, after Hoadley had loaned out nearly the entire value of the bank in
+inadequately collateralized loans, the bubble burst and the Eagle Bank declared
+bankruptcy. Yale College lost over $21,000, bringing the total value of the endowment
+down to $1,800. Unpaid debts for the college at the time amounted to well over $19,000,
+causing Yale president Jeremiah Day to obtain emergency sources of financing. The
+collapse of the bank was catastrophic to the City of New Haven, precipitating a
+depression in the local economy. In disgrace, George Hoadley quietly moved to
+Cleveland, where he finished out his days as a justice.
+The Clark Foundation and Avon
+While Yale's early nineteenth century portfolio exhibited unusual concentration, similar
+situations exist today. Of the fifteen largest foundations in the United States, two (the
+Lilly Endowment and the Starr Foundation) hold nearly all assets in a single stock,
+another (the Robert Wood Johnson Foundation) holds well over half of assets in a single
+stock, and yet another (the Annie E. Casey Foundation) holds over a quarter of assets in a
+single stock. Oblivious to the measure of good fortune that contributed to the
+undiversified portfolio's rise to the top of the charts, trustees use past success to justify
+continuing to ntrate assets in one security. For each institution with a wildly
+successful concentrated portfolio, any number of other institutions with undiversified
+holdings languish in obscurity. Unfortunately, many single-stock foundations ultimately
+experience the costs of holding radically undiversified portfolios.
+Even when investors make good faith efforts to diversify, results sometimes disappoint.
+In the early 1970s, trustees of the Edna McConnell Clark Foundation decided to reduce
+exposure to Avon Products, the company that provided the wherewithal to establish the
+institution. By selling shares of Avon to fund a diversified external equity manager, the
+trustees hoped to reduce heavy dependence on the fortunes of a single security. The
+timing of the decision made exquisite sense, as prices of Avon and other members of the
+"Nifty Fifty" had climbed to unprecedented heights in an extraordinary bull market for
+large-capitalization growth stocks.!!
+The trustees chose J.P. Morgan to manage the portfolio, selecting the era's dominant
+money management firm. Pursuing a strategy that had served the firm and its clients well,
+Morgan promptly diversified the foundation's assets into other high quality growth
+stocks. By exchanging one member of the "Nifty Fifty" for others of the same cohort, the
+Clark Foundation's portfolio received little protection from the subsequent dramatic
+collapse in quality growth stocks.
+Yale's experience with a single security-shares of the Eagle Bank-and the Clark
+Foundation's ill-fated investments in the Nifty Fifty provide cautionary tales regarding
+portfolio concentration. True diversification requires owning assets that respond
+differently to fundamental forces that drive markets.
+Stocks and the Great Crash
+Even broadly defined asset classes sometimes produce risks too great for investors to bear.
+Consider the wealth multiples for small-cap stocks around the time of the Great Crash in
+October 1929 shown in Table 4.3.
+According to the data in Table 4.3, small stock prices peaked in November 1928. Had
+a dollar been invested at the peak, it would have declined 54 percent by December 1929,
+an additional 38 percent by December 1930, an additional 50 percent by December 1931,
+and a final 32 percent by June 1932. From November 1928 to June 1932, market action
+nearly destroyed the original investment. No investor, institutional or individual, could
+tolerate the trauma. As market forces turned dollars into dimes, investors sold small-cap
+stocks, placed the proceeds in Treasury bills, and swore never to invest in the equity
+market again. Of course, selling equities in June of 1932 represented precisely the wrong
+response. Ten cents invested at the depths of the Great Depression in small-capitalization
+stocks would have grown more than 137,000 fold by December 31, 2005.
+85-86/433
+Table 4.3 High Risk Assets Hit Occasional Air Pockets
+Wealth Multiples for Small Capitalization Equities November 1928-June 1932
+Date
+Multiple
+1.00 times
+0.46 times
+0.29 times
+0.14 times
+0.10 times
+November 30, 1928
+December 31, 1929
+December 31, 1930
+December 31, 1931
+June 30, 1932
+Source: Ibbotson Associates, Stocks, Bonds, Bills and Inflation, 2006 Year Book.
+The sense of the skepticism with which investors viewed stocks in the 1930s runs
+through Robert Lovett's "Gilt-Edged Insecurity," which appeared in the April 3, 1937
+edition of The Saturday Evening Post. Lovett begins his examination of historical market
+returns by suggesting that his readers "[c]onsider the absurdity of applying the word
+security to a bond or a stock." Lovett's analysis showed that an investor buying "100
+shares of each of the more popular stocks" at the turn of the century would have turned
+nearly $295,000 into just $180,000 by the end of 1936. He concludes by warning his
+readers to remember: "(1) that corporations... die easily and frequently; (2) to be extra
+careful when everything begins to look good; (3) that you are buying risks and not
+securities; (4) that governments break promises just as businesses do; and (5) that no
+investments worth having are permanent."6 Lovett's commentary vividly illustrates why
+so few investors came up with the dime to invest in small stocks in June of 1932.
+Diversifying Strategies
+Institutions generally respond to the risk in stocks by holding as much domestic equity as
+tolerable, mitigating portfolio volatility by adding significant amounts of bonds and cash
+to the mix. At June 30, 2005, the average educational endowment held 53 percent in
+domestic equity, 23 percent in domestic fixed income, and 5 percent in cash, for a total of
+81 percent in domestic marketable securities.7
+The large concentration of assets in bonds and cash, with fully 28 percent of the
+average portfolio in these low return assets, creates significant opportunity costs. Instead
+of owning equity assets where dollars in the past eighty years grew more than 2,600-fold,
+investors diversifying with fixed income assets held positions that grew 100-fold with
+corporate bonds, 71-fold with Treasury bonds and 18-fold with cash.
+The outsized exposure of more than 80 percent to securities of the U.S. market, with
+fully half of assets invested in domestic equities, violates sensible diversification principles.
+Committing more than fifty percent of a portfolio to a single asset type-domestic stocks
+-exposes investors to unnecessary asset-concentration risk. The significant correlation
+between domestic stocks and bonds further exacerbates the consequences of overreliance
+on domestic equities. Interest rates play an important role in markets. Increasing rates
+definitely cause bond prices to decline and may cause stock prices to decline, eliminating
+or reducing the hoped for diversification effects. The converse also applies. Under many
+circumstances, the average educational institution has more than four-fifths of the
+portfolio driven in the same direction by the same economic factor.
+By identifying high-return asset classes that show little correlation with domestic
+marketable securities, investors achieve diversification without the opportunity costs of
+investing in fixed income. The most common high-return diversifying strategy for a U.S.
+investor involves adding foreign equities to the portfolio. Other possibilities include
+venture capital, leveraged buyouts, real estate, timber, oil and gas, and absolute return. If
+these asset classes provide high equity-like returns in a pattern that differs from the return
+pattern of the core asset (U.S. domestic equities), investors create portfolios that offer
+both high returns and diversification. Although on an asset-specific basis, higher expected
+►
+returns apparently come with the price of higher expected volatility, the lack of
+correlation between individually risky asset classes actually reduces overall portfolio risk.
+Diversification represents "a free lunch" that allows investors to reduce risk without
+sacrificing expected returns.
+The combination of an equity bias and appropriate diversification provides a powerful
+underpinning for establishing policy asset allocation targets. Responding to the tenets of
+equity bias and diversification, sensible institutions identify a variety of high expected
+return assets that derive returns in ways fundamentally dissimilar from one another. By
+spreading assets across a variety of asset types, investors diminish the risk that
+undiversified exposure to a single market will cause significant damage and enhance the
+possibility that well-diversified exposure to a variety of markets will generate high returns
+with low levels of risk.
+MARKET TIMING
+Explicit market timing lies on the opposite end of the spectrum from disciplined
+portfolio management. John Maynard Keynes, in a Kings College Investment Committee
+memo, wrote that "the idea of wholesale shifts is for various reasons impracticable and
+indeed undesirable. Most of those who attempt to, sell too late and buy too late, and do
+both too often, incurring heavy expenses and developing too unsettled and speculative a
+state of mind." Deliberate short-term deviations from long-term policy targets introduce
+substantial risks to the investment process.
+On the surface, arguments used to attack market timing sound uncomfortably similar
+to those advanced when making asset allocation decisions. For example, investors might
+reject market timing because it requires making a few focused, undiversifiable bets. Or,
+investors might avoid market timing because of the insurmountable challenges in
+identifying and predicting the multitude of variables that influence asset prices. While
+similar factors influence both market timing and policy asset allocation, differences in
+time frame clearly separate one from the other.
+Market timing, defined as a short-term bet against long-term policy targets, requires
+being right in the short run about factors that are impossible to predict in the short run.
+Yet investors can reasonably deal with the important drivers of returns in the long run as
+short-term anomalies disappear into predictable long-term patterns. Sensible investors
+avoid concentrated bets against the institution's adopted asset allocation, thereby
+eliminating the risk of inflicting serious damage by holding a portfolio inconsistent with
+long-term objectives.
+Tactical Asset Allocation
+In the 1950s, many investors played a market timing game with stock and bond yields,
+based on "... -practically an article of faith that good stocks must yield more income than
+good bonds..." When dividend yields on stocks exceeded bond yields by a fair margin,
+investors viewed stocks as attractive, overweighting equities relative to bonds. Conversely,
+when bond yields neared stock yields, investors favored bonds. History provided a solid
+foundation for the strategy. "Only for short periods in 1929, 1930, and 1933 [had] stocks
+yielded less than government bonds."10 This valuation-based technique worked well until
+1958, when stock yields last exceeded bond yields. In the late 1950s and early 1960s, as the
+yield advantage of bonds increased relative to stocks, market timers became more invested
+in fixed income and less invested in stocks. Of course, investors incurred significant
+opportunity losses while futilely waiting for stock yields to signal a buying opportunity.
+Ultimately, the failure of the relative yield market timing technique forced its
+practitioners to identify an alternative form of employment.
+A modern, somewhat more sophisticated version of the 1950s relative yield game,
+tactical asset allocation (TAA), moves assets above and below policy weights based on
+recommendations of a sophisticated quantitative model. After gaining institutional favor
+based on strong performance during the crash of 1987, in subsequent years TAA's appeal
+waned, as successes of the late 1980s faded from memory. Even though TAA's
+recommendations stem from superficially sensible quantitative disciplines, the system
+suffers from the faults of other market timing mechanisms.
+A notable problem with standard three-way (stock, bond, and cash) TAA relates to the
+resolution of model identified "mispricings." TAA models tend to prefer cash when
+short-term interest rates equal or exceed long-term rates, that is in flat or inverted yield
+curve environments. When TAA holds significant cash positions, investors receive
+meaningful protection in environments where interest rates increase. The increase in rates
+causes bond prices to decline and may cause stock prices to decline as well. (While the
+relationship between stocks and bonds is complex, higher interest rates generally lead to
+lower stock prices.) By holding cash, TAA practitioners protect portfolio assets from
+interest-rate-induced declines in bond and stock prices.
+In contrast, if investors hold cash as the yield curve moves down sharply, portfolios
+might sustain irreversible opportunity losses. Downward shifts in the yield curve result
+from bond rallies, which generally cause stocks to rally. TAA investors, stuck with
+substantial cash positions, receive modest income returns while bonds and stocks post
+significant gains. In this case, losses are irreversible in the sense that while cash originally
+appeared to be the cheapest asset class, an across-the-board decline in interest rates
+resolved cash's cheapness in a fashion that provided little benefit to holders of cash. In a
+declining rate environment, handsome returns to holders of bonds and stocks make the
+relatively paltry cash returns a bitter pill for TAA investors to swallow.
+Because cash represents a poor asset class for investors with long time horizons, market
+timing strategies employing cash pose particularly great dangers to endowment assets. If
+investors mistakenly over-weight cash and underweight higher expected return assets,
+subsequent rallies in long-term asset prices might cause permanent impairment of value.
+While less severe damage may result from mistakes made in timing one high expected
+return asset class relative to another, the ultimate consequences depend on disciplined
+contrarian responses to initial market timing losses. Such discipline might be a lot to
+expect from parties engaged in market timing in the first place.
+Rebalancing and the 1987 Market Crash
+While relatively few investors admit to explicit pursuit of market timing strategies, most
+portfolios suffer from drift as market forces move actual allocations away from target
+levels. Circumstances surrounding the market crash in 1987 illustrate the meaningful
+costs incurred by failing to conduct disciplined rebalancing activity in the face of dramatic
+market moves.
+During the period surrounding the 1987 stock market collapse endowment portfolios
+first exhibited aspects of disciplined rebalancing in the run up before the crash and then
+showed signs of perverse market timing in the carnage of the crash. In June 1987, the
+average endowment invested slightly more than 55 percent of assets in domestic equities
+and committed almost 37 percent to bonds and cash." The 1987 mid-year allocations
+marked the end of a period of extraordinary portfolio stability, as between 1985 and 1987
+stock allocations ranged from 55.0 percent to 55.4 percent and fixed income allocations
+ranged from 36.7 percent to 36.9 percent. It appears that in the two years prior to June
+1987 endowment investors engaged in rebalancing activity, offsetting market price
+movements. Since equities outperformed bonds by a margin of 70 percent to 25 percent
+for the two-year period, only by leaning against the bull market wind could investors file
+three consecutive fiscal year reports indicating essentially constant allocations to domestic
+stocks and bonds.
+After the October 1987 crash, portfolio stability disappeared as market forces drove
+down allocations to stocks and pushed up allocations to bonds. Responding to the
+collapse in stock prices with fear, the average endowment manager exacerbated the
+market-induced dislocation by selling stocks. Reacting to the rally in high quality bond
+prices with greed, the average endowment manager enhanced the market-induced
+increases by purchasing more bonds. From June 1987 to June 1988, equity holdings
+declined from 55.3 percent to 49.1 percent, more than can be explained by the market
+drop during the year. Roughly offsetting the equity decline, fixed income increased from
+36.7 percent to 41.9 percent, more than can be explained by the market rally. In
+retrospect, educational institutions bought high and sold low, following a poor recipe for
+investment success.
+By reallocating more than 5 percent of assets from domestic stocks to bonds and cash
+in the aftermath of the 1987 market crash, endowment investors incurred significant
+opportunity costs as the market staged a reasonably rapid recovery. Even in the face of
+stronger prices, fear of the U.S. stock market persisted, as endowment bond and cash
+allocations remained above the pre-crash level until 1993. College and university
+portfolios incurred substantial opportunity costs by maintaining lower risk portfolios for
+years after the stock market crash.
+One charitable interpretation of post-crash equity sales involves the possibility that
+institutions inadvertently allowed equity allocations to drift above desired levels in the
+strong stock market of the early 1980s. Perhaps the 1987 crash highlighted the degree to
+which equities dominated institutional portfolios, causing fiduciaries to sell stocks to
+reach a lower desired portfolio risk profile. If so, post-crash reductions in equity
+allocations represent a belated, costly, inelegant response to excessive portfolio risk.
+Another fundamental justification for reduced equity holdings stems from the
+possibility that the 1987 crash caused investors to conclude that risk characteristics of
+equities differed from previous assumptions. Perhaps past assessments of stock market
+variability materially understated true risk. Maybe equity returns exhibit more frequent
+extreme moves than market participants previously believed. Certainly, the
+unprecedented market collapse forced investors to reassess the character of equity return
+patterns, possibly contributing to a portfolio shift from equities to less risky assets.
+Unfortunately for those seeking a reasonable explanation for institutional behavior,
+increases in stock allocations during the 1990s argue against interpreting November and
+December 1987 sales as a rational portfolio adjustment. Investors motivated by greed held
+91-92/433
+high allocations going into the crash, only to reduce holdings significantly thereafter. As
+confidence returned, equity allocations began to rise, reversing the allocation decisions
+made only a short time before. Educational institutions, greedy and fearful in turn,
+damaged portfolios in their perverse response to the crash in October 1987.
+With the benefit of hindsight, post-crash equity purchases made enormous sense,
+enriching those with the courage to go against the crowd. In fact, the apparently easy
+money made by buying common stocks in late 1987 encouraged investors to follow a
+policy of "buying the dips" with increasing enthusiasm.
+As the bull market continued its run through the 1990s, the public saw every modest
+decline in stock prices as an opportunity to buy equities "on sale." Did investors learn an
+important rebalancing lesson from the 1987 stock market crash, or did the relatively
+quick rebound in prices point market participants in the wrong direction?
+Drawing conclusions from the 1987 stock market crash about the easy profits gained
+from "buying the dips" places far too much weight on a shaky foundation, since the
+extraordinary circumstances surrounding the October break in markets constitute a
+unique occurrence. The extreme one-day decline of 23 percent in the S&P 500 represents
+a 25 standard deviation event, an occurrence so rare in a normally distributed variable that
+it staggers the imagination. Basing future behavior on the 1987 crash and subsequent
+market recovery exposes investors to the danger that less extreme market declines contain
+far less information regarding future price behavior. While nearterm profitability of post-
+crash equity purchases illustrate a positive aspect of rebalancing activity, investors face the
+possibility of confusing the important risk control function of rebalancing with the
+unreliable return-oriented activity of "buying the dips."
+Excess Volatility
+Yale economist Robert Shiller argues that markets exhibit excess volatility. ¹2 That is,
+security prices tend to fluctuate more than necessary to respond to fundamental factors,
+such as earnings and interest rates, that determine intrinsic value. In other words, "if price
+movements were rescaled down... so as to be less variable, then price would do a better
+job of forecasting fundamentals." Shiller's self-described "controversial claim" provides
+"evidence of a failure of the efficient markets model."13 Anyone attempting to understand
+October 1987's market crash from a fundamental perspective sees merit in Shiller's
+position.
+In a world with excess volatility, investors care about the direction of security price
+fluctuations. Price declines provide opportunities to buy and price increases provide
+opportunities to sell. Under some circumstances, following a significant decline in price
+an asset actually becomes less risky, since it can be acquired more cheaply. The common-
+sense conclusion of bottom-fishing investors contrasts with the statistician's conclusion
+that a dramatic drop in price increases observed (historical) volatility, implying a higher
+risk level for the asset. Of course, price volatility creates opportunity only when prices
+change more than necessary to reflect changes in underlying fundamentals.
+Real-Time Rebalancing
+Frequent rebalancing activity allows investors to maintain a consistent risk profile and to
+exploit return-generating opportunities created by excess security price volatility.
+Moreover, real-time rebalancing tends to cost less, as trades generally prove
+accommodating to the market. Frequent rebalancers buy in the face of immediate
+declines and sell in the face of immediate increases, in both cases supplying liquidity for
+traders pursuing the opposite, predominant tack. Although few investors commit the
+time and resources necessary to conduct real-time rebalancing, an examination of the
+benefits of intensive rebalancing provides context for understanding the value of the
+strategy.
+Consider Yale University's rebalancing activity. Yale possesses a number of advantages
+unavailable to most investors. The university's endowment enjoys tax-exempt status,
+allowing frequent trading without adverse tax consequences associated with realization of
+gains. A sophisticated team of investment professionals manages the funds on a day-to-
+day basis, providing the staff support needed for management-intensive activities. Yale's
+special tax status and dedicated investment staff permit the university to engage in real-
+time rebalancing activity.
+Yale's trading activity during the fiscal year ending June 30, 2003 provides some insight
+into the potential magnitude of rebalancing profits. During the year, the U.S. equity
+market, as measured by the Wilshire 5000, produced a total return of 1.3 percent.
+Investors undertaking an annual review of portfolio allocations would likely do little to
+rebalance domestic equity holdings (unless returns of other asset classes caused the
+93-94/433 >
+domestic equity allocation to change markedly). In fact, in Yale's case the overall portfolio
+return for the fiscal year amounted to 8.8 percent, implying reasonable stability in
+portfolio allocations and suggesting modest annual rebalancing requirements.
+For Yale's fiscal 2003, the placid surface of the equity market concealed some powerful
+undercurrents. Early in the fiscal year, markets collapsed. In July, the Wilshire 5000 posted
+a peak-to-trough decline of more than 18 percent. The market subsequently rebounded,
+nearly regaining the July peak in late August with a greater than 19 percent return. From
+the August high the market once again fell, declining by more than 19 percent to what
+proved the fiscal-year low on October 9th. The hidden currents continued to roil the
+markets with a 21 percent increase by November followed by a 14 percent decrease
+through March. A powerful surge lifted the market by nearly 27 percent to the fiscal-year
+high in mid June, from which the market drifted down to close the twelve-month period
+essentially where it started.
+The stock market volatility provided numerous opportunities to execute rebalancing
+trades. Every substantial drop and every meaningful increase allowed investors to buy the
+dips and sell the peaks. During the university's fiscal 2003, rebalancing activity produced
+a host of profit-generating transactions.
+As a matter of course, at the beginning of every trading day Yale estimates the value of
+each of the components of the endowment. When marketable securities asset classes
+(domestic equity, foreign developed equity, emerging market equity, and fixed income)
+deviate from target allocation levels, the university's investments office takes steps to
+restore allocations to target levels. In fiscal year 2003, Yale executed approximately $3.8
+billion in domestic equity rebalancing trades, roughly evenly split between purchases and
+sales. Net profits from rebalancing amounted to approximately $26 million, representing
+a 1.6 percent incremental return on the $1.6 billion domestic equity portfolio.
+Even though rebalancing profits produce a nice bonus for investors, the fundamental
+motivation for rebalancing concerns adherence to long-term policy targets. In the context
+of a carefully considered policy portfolio, rebalancing maintains the desired risk level.
+Generating profit while controlling risk represents an unbeatable combination.
+Few institutions and even fewer individuals possess the resources to conduct daily
+rebalancing of investment portfolios. Yet regardless of the frequency of rebalancing,
+fidelity to asset allocation targets proves important as a means of risk control and valuable
+as a tool for return enhancement. Thoughtful investors employ rebalancing strategies to
+maintain policy asset allocation targets.
+Investors hoping to profit in the short run from rebalancing trades face nearly certain
+long-run disappointment. Over long periods of time, portfolios allowed to drift with
+capital markets returns tend to contain ever increasing allocations to risky assets, as higher
+returns cause riskier positions to crowd out other holdings. The fundamental purpose of
+rebalancing lies in controlling risk, not enhancing return. Rebalancing trades keep
+portfolios at long-term policy targets by reversing deviations resulting from asset class
+performance differentials. Disciplined rebalancing activity requires a strong stomach and
+serious staying power. Conducted in a significant bear market, rebalancing appears to be a
+losing strategy as investors commit funds to assets showing continuing relative price
+weakness.
+Contrast the positive rebalancing experience of investors in 1987 or Yale's rebalancing
+experience in 2003 with the fate suffered by investors in the bear market of 1973 and
+1974. Price declines required purchases of equities, followed by further declines that
+impaired asset values, which in turn led to further purchases. Losses incurred on
+rebalancing trades proved particularly painful as investors second-guessed the wisdom of
+buying into a bear market. For investors seeking to maintain long-term targets in the early
+1970s, two years of nearly uninterrupted price deterioration produced seemingly
+relentless incremental losses.
+Rising equity prices provide a similar set of challenges. In a sustained bull market,
+rebalancing appears to be a losing strategy, as investors constantly sell assets showing
+relative price strength. Years go by without reward, other than the knowledge that the
+portfolio embodies the desired risk/reward characteristics.
+The alternative of not rebalancing to policy targets causes portfolio managers to
+engage in a peculiar trend-following market timing strategy. Like many contrarian
+pursuits, rebalancing frequently appears foolish as rum players reap short-term
+rewards from going with the flow. Regardless of potentially negative reputational
+consequences, serious investors maintain portfolio risk profiles through disciplined
+rebalancing policies, avoiding the sometimes expedient appeal of moving with market
+forces.
+Next Page
+Burton Malkiel, in Managing Risk in an Uncertain Era, writes that "we are particularly
+averse to the suggestions that a university try to move in and out of the stock market
+according to its capacity to forecast market trends. Investors who wish to play this timing
+game must possess an unusual degree of prescience about the course of the general
+economy, corporate profits, interest rates, and indeed the entire set of international
+economic, political, and social developments that affect the securities market. The
+existence of such omniscience, to say the least, is hard to document."14 More succinct
+advice to those who wish to time the market comes from a nineteenth century cotton
+trader: "Some think [the market] will go up. Some think it will go down. I do, too.
+Whatever you do will be wrong. Act at once."
+Market timing explicitly moves the portfolio away from long-term policy targets,
+exposing the institution to avoidable risks. Because policy asset allocation provides the
+central means through which investors express return and risk preferences, serious
+investors attempt to minimize deviations from policy targets. To ensure that actual
+portfolios reflect desired risk and return characteristics, avoid market timing and embrace
+rebalancing activity to keep asset classes at targeted levels.
+SECURITY SELECTION
+Market Efficiency
+Investors wishing to beat the market by actively managing portfolios face daunting
+obstacles. While no market prices assets precisely at fair value all of the time, most markets
+price most assets with reasonable efficiency most of the time, providing few opportunities
+for easy gains. Moreover, active management costs increase the hurdle for success as active
+investors pay management fees, incur transactions costs, and create market impact.
+Intelligent investors approach active strategies with a healthy sense of skepticism.
+Sensible active managers favor markets with inefficiently priced asse and avoid those
+markets with efficiently priced assets. Unfortunately, no clear measures for pricing
+efficiency exist. In fact, financial economists engage in a quasi-religious debate regarding
+efficiency, with one end of the spectrum represented by those who believe in the
+impossibility of finding risk-adjusted excess returns and the other end of the spectrum by
+those who argue that human behavior creates a range of active management
+opportunities.
+Degree of Opportunity
+In the absence of direct measures of market efficiency, active manager behavior provides
+clues about the degree of opportunity in various markets. In those markets with limited
+opportunities for active management, managers deviate little from the market portfolio,
+leading to market-like returns. Why do managers in efficient markets tend to "hug" the
+benchmark? In a world of efficiently priced assets, consider the business consequences of
+holding portfolios that differ markedly from the market portfolio. Substantial deviations
+from the market portfolio's security holdings cause a manager's portfolio results to vary
+dramatically from the benchmark. Underperforming managers lose clients and lose assets.
+While overachievers may temporarily gain clients and gain assets (and gain public
+adulation), because efficient markets present no mispricings for active managers to
+exploit, good results stem from luck, not skill. Apparent success proves transitory for
+active managers in efficient markets. As a result, over time, managers in efficient markets
+gravitate toward "closet indexing," structuring portfolios with only modest deviations
+from the market, ensuring both mediocrity and survival.
+In contrast, active managers in less efficient markets exhibit greater variability in
+returns. In fact, many private markets lack benchmarks for managers to "hug,"
+eliminating the problem of closet indexing. Inefficiencies in pricing allow managers with
+great skill to achieve great success, while unskilled managers post commensurately poor
+results. Hard work and intelligence reap rich rewards in an environment where superior
+information and deal flow provide an edge.
+Manager behavior causes the magnitude of active management opportunity to relate
+to the distribution of actively managed returns in a particular asset class. Any measure of
+dispersion provides some sense of the degree of active management opportunity. Table
+4.4 shows the spread between the first and third quartiles of returns for actively managed
+portfolios, illustrating the extent to which more efficiently priced assets provide less
+opportunity for active managers and less efficiently priced assets provide more
+opportunity.
+Table 4.4 Dispersion of Active Management Returns Identifies Areas of
+Opportunity
+Asset Returns by Quartile. Ten Years Ending June 30, 2005
+Third Quartile
+6.9%
+10.2
+6.5
+First Quartile Median
+7.4% 7.1%
+12.1
+11.2
+10.5
+16.1
+11.3
+15.6
+8.5
+17.6
+8.4
+13.3
+-0.4
+-14.5
+28.7
+Asset Class
+U.S. fixed income
+U.S. equity
+International equity
+U.S. small-capitalization equity
+Absolute return
+Real estate
+Leveraged buyouts
+Venture capital
+9.0
+14.0
+12.5
+12.0
+8.0
+-1.4
+Range
+0.5%
+1.9
+4.0
+4.8
+7.1
+9.2
+13.7
+43.2
+Sources: Data for marketable securities are from Russell/Mellon. The absolute return, real estate, leveraged buyout,
+and venture capital data are from Cambridge Associates. Real estate, leveraged buyout, and venture capital data
+represent returns on funds formed between 1995 and 1999, excluding more recent funds so that immature
+investments will not bias results downward.
+High quality fixed income securities, arguably the most efficiently priced asset in the
+world, trade in markets dominated by savvy financial institutions. Since nobody (possibly
+excepting the Federal Reserve) knows where interest rates will be, few managers employ
+interest rate anticipation strategies. Without potentially powerful differentiating bets on
+interest rates, institutional portfolios tend to exhibit market-like interest rate sensitivity,
+or duration. As a result, managers generally limit themselves to modest security selection
+decisions, causing returns for most active managers to mimic benchmark results. The
+spread between first and third quartile results for active fixed income managers measures
+an astonishingly small 0.5 percent per annum for the decade ending June 30, 2005.
+Large capitalization equities represent the next rung of the efficiency ladder, with a
+range of 1.9 percent between top and bottom quartiles. Stocks provide more difficult
+pricing challenges than bonds. Instead of discounting relatively certain fixed income cash
+flows, valuation of equities involves discounting more-difficult-to-project corporate
+earnings. The greater volatility in equity markets contributes to the wider active manager
+spread. Less efficiently priced foreign developed equities exhibit a first-to-third-quartile
+range of 4.0 percent per annum, while small-capitalization stocks in the United States
+show a range of 4.8 percent per annum over the decade. The progression of degree of
+opportunity across types of marketable securities makes intuitive sense.
+The radical break comes when moving from liquid public to illiquid private
+opportunities. Absolute return, real estate, leveraged buyouts, and venture capital exhibit
+dramatically broader dispersions of returns. For the ten-year period, absolute return
+shows a range of 7.1 percent between first and third quartiles, while real estate and
+leveraged buyouts exhibit even more extreme 9.2 percent and 13.7 percent per annum
+spreads. Venture capital captures the dispersion prize with a stunning 43.2 percent first-
+to-third quartile range.
+Selecting top quartile managers in private markets leads to much greater reward than
+in public markets. In the extreme case, choosing a first quartile fixed income manager
+adds a meager 0.3 percent per annum relative to the median result. In contrast, the first
+quartile venture capitalist surpasses the median by 30.1 percent per annum, providing a
+much greater contribution to portfolio results. Ironically, identifying superior managers
+in the relatively inefficiently priced private markets proves less challenging than
+identifying skillful players in the efficiently priced marketable securities markets.
+Active Manager Returns
+Regardless of the scope of active management opportunities, investors face serious
+headwinds in the race to beat the market. In the two most significant institutional asset
+classes, domestic fixed income and domestic equity, fee-adjusted median manager returns
+fall somewhere in the neighborhood of benchmark results. As shown in Table 4.5, in the
+extremely efficiently priced U.S. bond market, the median fixed income manager loses 0.2
+percent per year net of fees relative to the benchmark, while a first quartile manager ekes
+out a gain of only 0.1 percent per annum. Active fixed income management fails
+miserably. Before managing bonds actively, investors should ponder Warren Buffett's
+famous dictum: "Remember, if you are at a poker table and can't identify the patsy, you
+are the patsy."
+Table 4.5 Efficiently Priced Markets Challenge the Average Active Manager
+Median Returns Relative to Benchmark. Ten Years Ending June 30, 2005
+Median Return Benchmark Estimated Fees Net-of-Fee Relative Return
+Asset Class
+U.S. fixed income
+U.S. equity
+U.S. small-
+7.1%
+11.2
+14.0
+6.9%
+9.9
+12.9
+0.4%
+0.8
+0.9
+-0.2%
+0.5
+0.2
+99-100/433
+capitalization equity
+Sources: Data on fees from Cambridge Associates Investment Manager Database, rounded to the nearest ten basis
+points. Benchmarks: Lehman Brothers U.S. Government Credit Index for U.S. Fixed Income, S&P 500 Index for
+U.S. Equity, and S&P 600 Index for U.S. Small Cap Equity.
+Domestic equity markets produce slightly more hopeful results. With fee adjustments,
+the median active manager exceeds the benchmark by 0.5 percent per year. A first quartile
+manager adds real value, however, exceeding the benchmark by 1.4 percent per annum net
+of fees. The median small-capitalization manager beats the market by a scant 0.2 percent
+per annum. In contrast, a first quartile manager adds 2.3 percent per annum, reflecting
+the greater investment opportunity in less efficiently priced securities.
+In the case of domestic marketable securities, the proximity of median returns and
+benchmarks tells the same story for bonds, stocks, and small-cap stocks. Avoid active
+management, or undertake active strategies with great caution and realistic expectations.
+Consider the markets in which the various securities trade. Domestic fixed income
+operates in a market dominated by institutions. The returns contained in the active
+manager universe represent the results of sophisticated investors trading against
+sophisticated investors. Traders gain an advantage with extraordinary difficulty. As a
+result, active managers post results in a narrow range, with median managers losing
+relative to the benchmark and top quartile managers posting exceedingly modest
+incremental returns. The highly efficient, highly competitive fixed income market stands
+at one end of the continuum.
+Domestic equities trade in a brutally competitive environment, but with a greater
+degree of opportunity. As might be expected in the negative sum game of active
+management, the median domestic equity manager produces market-like returns. That
+said, top quartile managers of both large-capitalization and small-capitalization stocks
+appear to add value net of fees, with less efficiently priced small-cap securities offering the
+greater opportunity.
+Greater inefficiency in the market environment may not lead to greater average success.
+Private markets provide a case in point. Median results for venture capital and leveraged
+buyouts dramatically trail those for marketable equities, despite the higher risk and
+greater illiquidity of private investing. Over the decade ending June 30, 2005, deficits
+relative to the S&P 500 amounted to 11.3 percent annually for venture capital, and 1.9
+percent annually for leveraged buyouts, numbers that would be higher after risk
+adjustment. In order to justify including private equity in the portfolio, managers must
+select top quartile managers. Anything less fails to compensate for the time, effort, and
+risk entailed in the pursuit of nonmarketable investments.
+Survivorship Bias
+Although comparisons of active management returns to benchmark results already paint
+a bleak picture, managers hoping to beat the market face a challenge even greater than
+suggested by a first reading of the data. Survivorship bias causes active managers as a
+group to appear more successful than would be indicated by a true picture of reality, since
+current data on manager returns contain only the results of the strong (survivors), having
+purged the returns of the weak (failures).
+Errors of underinclusion and overinclusion bias manager performance data, limiting
+the usefulness of consultant reports in understanding active management results.
+Underinclusion occurs when managers disappear without a trace, while overinclusion
+occurs when new entrants contribute historical results to the database.
+Compilations of return data generally include only results of managers active at the
+time of the study. Discontinued products and discredited managers disappear, coloring
+the return data with an optimistic tint. Were the generally poor results of nonsurvivors
+included in the database, the challenge of beating the market would appear even more
+daunting.
+Even if the data gatherer undertakes to include results of failed managers, the figures
+provide reasonable guidance only when considering returns on a year-by-year basis. The
+shortest time frame produces the highest quality data, because the number of dropouts
+tends to be smaller for the shorter time periods. More serious problems arise when
+examining results spanning several years, since more managers disappear during any given
+multiple-year period. Because managers tend appear after pos
+poor relative
+results, multiple-year comparisons suffer from return inflation driven by the superior
+results of survivors.
+Errors of overinclusion arise when data gatherers add new firms to the database and
+incorporate the new additions' historical records. Since the new entrants necessarily
+produced superior results to attract the attention of the institutional investment
+community, the addition of the new entrants' historical track record (a.k.a. backfill bias)
+provides an artificial boost to reported active management returns.
+An examination of investment return data produced by the Russell Investment Group
+illustrates in high relief the impact of survivorship bias on reported returns. Russell, a
+highly regarded consulting firm, compiles and publishes one of the most widely used
+investment return databases.
+Russell's database suffers significant survivorship bias. Consider the U.S. equity
+median manager returns as recorded in Table 4.6. In 1996, according to Russell, the
+median U.S. equity manager produced a return of 22.4 percent based on reports from a
+sample size of 307. As failing managers departed and up-and-coming managers entered,
+the reported results for 1996 steadily improved. By 2005, the reported median manager
+return for 1996 jumped to 23.5 percent, more than one percentage point above the
+originally recorded result. Strikingly, the 2005 report on 1996 includes only 177
+observations, a full 130 fewer than the 1996 report.
+The Russell data suffer from overinclusion and underinclusion. Note that from 1997
+to 1998, the number of managers increases by nine, indicating some degree of backfill
+bias. Because Russell does not provide year-by-year information on gross additions to and
+gross subtractions from the database, observers do not have the information necessary to
+gauge the relative importance of entries and departures. That said, the more than 40
+percent decline over ten years in the number of firms reporting 1996 results indicates that
+departures of failed managers dominate the survivorship scene.
+Precise assessment of the impact of survivorship bias on the Russell database proves
+impossible. Poor returns of declining managers disappear. Strong returns of rising
+managers appear. Yet some idea of the magnitude of survivorship bias comes from the
+deviations between the originally reported returns and the later-reported, biased returns.
+The deviations, outlined in Table 4.6, range from an increase in the reported median
+return for 2000 of 4.3 percentage points, which transformed an originally reported
+median loss of 3.1 percent into a later revised median gain of 1.2 percent, to no change for
+the median return in 2005, the final year of the analysis. On average, survivorship bias
+increases the reported median returns by 1.6 percent per year.
+Table 4.6 Survivorship Bias Paints an Unrealistic Picture of U.S. Equity Returns
+U.S. Equity Manager Median Returns
+1997 1999 1996
+1942
+1996 22.4%
+1907 22 0% 30.6%
+1%
+1908 23.3% 81.5% 23.0%
+1990 27.4% 31 6% 24.5% 16%
+2000 23.5% 21.0% 25.9% 20.1%
+2001 23.5% 31.7% 21.4% 20.0% -3.3% -10.8%
+2002 23.8% 31.5% 25.9% 211% -2.0%
+2000 27.5% 16% 25.5% 20.5%, 0.7%
+2004 23.5% 15% 23.4% 20.2% 0.1%
+-9.9% 22.1%
+17% -21.3% 300%
+6.3% -21.2% 30.2% 110%
+2005 21.5% 31.5% 25.3% 20.6% 17% -70% 21.0% 302 12.3% 24%
+Difference
+0.0%
+%
+3996
+307
+1997 303
+1996 312
+-1999 278 367
+2000
+255 294
+2001 237 264
+2002 230
+202
+230
+211
+2003 205
+2004 168
+2005 177
+Nel change
+199
+126
+-130 -127
+225 21% LTS
+365
+1334
+323
+200 341
+285
+253
+233
+221
+Number of Reporting Managers
+Year of Return
+190M 1999 20MP3 2001
+-142
+Year of Return
+352
+346 361
+369
+263
+331
+352
+325
+292
+236
+205
+47
+1.2%
+47
+2003 2004 2005
+0.2% 0.4%
+2002 2003
+-23
+793
+398 412
+373 403 424
+401
+423
+767
+361
+389
+2004 2005
+44%
+n
+41
+471
+Source: Frank Russell Company
+One imperfect estimate of the longer term impact of survivorship bias comes from
+linking the annual median returns with and without survivorship bias. The imperfection
+of the measure stems from the fact that linked median returns do not (except by
+coincidence) represent the experience of any individual manager. Even if the linked
+returns by chance reflected an individual manager's record, that manager would not likely
+represent the median. Yet applying the same technique of linking medians both to the
+data with survivorship bias and to the data without survivorship bias produces a rough-
+justice estimate of the magnitude of the impact.
+Fully Loaded Active Manager Hurdles
+The cumulative impact of manager fees, survivorship bias, and backfill bias completely
+transforms the active management picture. The results, contained in Table 4.7,
+disappoint advocates of market-beating strategies. Even in the benchmark-hugging world
+of fixed income, survivorship bias subtracts an estimated 0.2 percent from already
+disappointing ten-year active returns. Adding the survivorship adjustment to the post-fee
+active management deficit of 0.2 percent produces a median active shortfall of 0.4 percent
+103-104/433 >
+managers.
+relative to the benchmark return. The market poses a tough test for active
+After accounting for survivorship bias, the domestic equity net-of-fee active
+management advantage of 0.5 percent morphs into a deficit of 1.2 percent per annum,
+changing an optimistic story into a pessimistic tale. Simple and cheap benchmark
+matching strategies crush most stock market mavens.
+Survivorship bias in distributions of active manager returns fundamentally alters
+investor attitudes toward active management. Data indicating that the majority of
+managers beat the index encourage investors to play the active management game, while
+numbers showing a preponderance of managers failing to match index returns discourage
+active management. The positive bias introduced by survivor-ship bias no doubt leads to
+excessive confidence in active management strategies.
+Table 4.7 Estimated Survivorship Bias Adjustments Reduce Appeal of Active
+Management
+Years Ending June 30, 2005
+Asset Class
+U.S. fixed
+income
+U.S. equity
+Net-of-Fee Relative
+Return
+-0.2%
+Estimated Survivorship
+Impact
+-0.2%
+Estimated Relative
+Return
+-0.4%
+0.5%
+-1.7%
+*Estimated survivorship bias impact represents the difference between: (a) the linked annual median manager
+returns with survivorship bias; and (b) the linked annual median manager returns without survivorship bias.
+-1.2%
+Consider the numbers that institutional investors use to evaluate active managers.
+Shown in Table 4.8, the pre-fee, survivorship-bias-inflated numbers encourage would-be
+market beaters. Active fixed income management appears to be a winning strategy, with
+nearly three-quarters of managers besting the benchmark. Adjustments for fees and
+survivorship bias flip the odds and reduce the chance of winning to less than one-fifth.
+The naïve comparison shows 80 percent of domestic equity managers beating the market.
+Adjustments for fees and survivorship reduce the chance of winning to less than one
+quarter. In the aggregate, fee-collecting asset managers win at the expense of fee-paying
+institutional investors.
+A cynic might argue that the money management industry benefits from inflating
+returns in databases used to assess active managers. Both the active managers and the
+consultants that compile data on active management want to encourage clients to engage
+active managers. Painting an unrealistically rosy picture of past active management
+successes no doubt motivates many investors to pursue the all-too-often-false promise of
+market-beating returns.
+A further note regarding the efficacy of active management relates to the dollar value
+added by purported market-beating strategies. Simple return numbers tend to overstate
+value added since early strong results, necessary to attract institutional interest, generally
+apply to relatively small amounts of money. As size is the enemy of performance, more
+established managers with greater funds under management tend to produce less eye-
+catching results. Because investment management return compilations weight each
+manager equally, the new managers (presumably with smaller portfolios) exert
+disproportionate influence in the manager rankings. A dollar-weighted evaluation of
+active management would no doubt provide even less encouragement to those hoping to
+employ market-beating strategies.
+Table 4.8 Naïve Performance Comparisons Encourage Active Management
+Fully Adjusted Returns Consider Fees and Survivorship Bias Ten Years Ending June 30,
+2005
+Asset Class
+Median Benchmark Percentile
+Return
+Rank
+7.1%
+74
+6.9%
+U.S. fixed
+income
+80
+12.4%
+U.S. equity
+11.2%
+23
+Benchmarks: Lehman Brothers U.S. Government Credit Index for U.S. Fixed Income and S&P 500 Index for U.S.
+Equity.
+Note: Benchmark burdles include estimates for fees and survivorship bias.
+Fully Adjusted Fully Adjusted Benchmark
+Benchmark Hurdle
+Hurdle Rank
+7.5%
+18
+9.9%
+In an ironic twist, survivorship bias causes active managers to appear less successful
+relative to peers than reality would indicate. Consider the U.S. equity manager that
+preserves capital in 2000. According to results reported in 2000, as shown in Table 4.6, a
+zero percent return handily beats the -3.1 percent median result. As survivorship issues
+inexorably alter the landscape, by 2005 the 2000 median return morphs into a gain of 1.2
+percent. As time passed, the erstwhile median-beating zero percent return moves from the
+respectable second quartile to the not-so-respectable third quartile. Survivorship bias
+< 105-106/433
+darkens the relative performance picture.
+Active portfolio managers face high hurdles, which require that investors approach
+purported market-beating strategies with great skepticism. Issues of survivorship bias
+cloud understanding of historical records, causing general problems in evaluating the
+efficacy of active management strategies and specific problems in assessing individual
+manager performance. After adjusting for fees and survivorship bias, investors face long
+odds on winning the domestic marketable securities active management game. In the
+world of marketable securities, passive management provides the obvious low-cost
+alternative to high-cost active management. If investors undertake active approaches,
+focusing on less efficient markets increases the chance of realizing substantial gains. In the
+least efficient private markets, no passive alternative exists. Even were a passive alternative
+available, market-like results would likely disappoint. In sum, sensible investors engage in
+active management with reasonable caution and realistic expectations.
+Liquidity
+Serious managers who attempt to identify inefficiencies frequently gravitate toward
+relatively illiquid markets, since rewarding investments tend to reside in dark corners, not
+in the glare of floodlights. Such out-of-the-way, undiscovered opportunities receive little
+attention from Wall Street, which thrives on markets that generate large trading volumes.
+Market players seek liquid positions, allowing immediate disposition of yesterday's
+loser and rapid acquisition of today's hot prospect. Speculators and asset gatherers pay a
+premium price for liquid assets, expecting markets to accommodate reversal of a trade
+with immediacy and with little or no impact on price.
+Illiquidity induces appropriate, long-term behavior. Rather than relying on liquid
+markets to trade out of mistakes, investors in illiquid securities enter into long-term
+arrangements, purchasing part ownership in a business with which they have to live. As a
+consequence, increased care,
+ness, and discipline represent hallmarks of
+successful investors in less liquid assets.
+By avoiding the highly liquid securities favored by market players, serious active
+investors focus on much more interesting investments. In embracing less liquid assets,
+investors often identify opportunities to establish positions at meaningful discounts to
+fair value.
+Full Faith and Credit Obligations
+Examples of illiquid opportunities in marketable securities abound. In the realm of full
+faith and credit obligations of the U.S. government, otherwise identical bonds trade at
+different prices solely because market liquidity differs. The most actively traded Treasury
+bonds, so-called on-the-run issues, command a price premium, which produces yields as
+much as 5 to 10 basis points below those of off-the-run bonds. Based on current issuance
+patterns by the government, on-the-run offerings carry terms to maturity of two, five, ten,
+and thirty years. When the Treasury auctions a new ten-year bond, market attention shifts
+from the old ten-year instrument to the new. Since the premium enjoyed by on-the-run
+issues relates solely to superior market liquidity, the premium price disappears once a new
+issue supplants the old.
+Regular opportunities exist to purchase full faith and credit instruments of the U.S.
+government at spreads of 40 to 50 basis points above otherwise comparable, but more
+liquid Treasury issues. Because such offerings tend to contain structural complexities,
+cautious investors undertake careful due diligence before committing funds. Moreover,
+opportunities tend to be relatively small, requiring portfolio managers to "fill a bathtub
+with a teaspoon." Nonetheless, dogged pursuit of unusual, illiquid securities can result in
+the accumulation of an attractively priced portfolio of high quality assets.
+Markets occasionally offer extraordinary opportunities to investors willing to accept
+illiquidity. In the aftermath of a market panic in the fall of 1998, less frequently traded
+assets provided enormous returns relative to highly liquid positions. On November 12,
+1998, an intermediate term off-the-run Treasury issue, the 57/s's of February 2004,
+yielded 18¹/2 basis points more than the on-the-run 4¹/4's of November 2003.
+Beyond the extremely high reward for accepting modest illiquidity in an off-the-run
+Treasury issue, in late 1998, investors willing to invest in a private placement backed by
+the full faith and credit of the United States faced incredible opportunity. The Overseas
+Private Investment Corporation, an agency of the United States devoted to promoting
+economic growth in developing nations, offered securities with an effective maturity date
+of March 2004 that carried a spread of more than 100 points over the comparable on-the-
+run Treasury issue. Receiving a full percentage point in yield over Treasuries for simply
+bearing the illiquidity of a private placement raises serious questions about rationality of
+107-108/433
+markets.
+Even in times of normalcy, investors receive unreasonably large incremental returns in
+illiquid securities. For example, in early 2006, investors could consider bonds issued by
+National Archives Facility Trust, acting through the National Archives and Records
+Administration, an independent government agency devoted to preservation, appraisal,
+and regulation of the disposition of the permanently valuable records of the United States
+government. The bonds, with an effective maturity date of September 2019 and a coupon
+of 8.5 percent, carried a spread of more than 45 basis points over the comparable on-the-
+run Treasury issue. The National Archives issued approximately $300 million of bonds, a
+small figure relative to a comparably timed ten-year U.S. Treasury issue of approximately
+$22.5 billion. Yet patient investors received a reward of almost a half of a percentage point
+in yield over Treasuries for simply bearing the illiquidity of a small issue of the United
+States government.
+Emerging Market Debt
+In emerging markets, U.S. dollar-denominated debt of sovereign issuers frequently trades
+at a substantial premium to non-dollar debt of the same issuer. This phenomenon
+presents itself most dramatically in times of crisis, when investors place extraordinary
+value on the greater liquidity of U.S. dollar-denominated instruments. To arbitrage this
+discrepancy investors require only a set of currency forward contracts to eliminate the
+foreign exchange risk. Arbitrageurs can buy relatively cheap non-dollar debt, sell relatively
+expensive dollar debt, and eliminate currency risk with forward foreign exchange
+transactions. Investors paying a premium for dollar-denominated debt create an attractive
+opportunity for harder working investors.
+Throughout 1998, investors found some extraordinary investments amid dislocations
+caused by the collapse in Asian markets. While the successful resolution of many
+investments depended on market recovery, other positions promised almost certain
+rewards to investors. Samsung, a highly leveraged Korean diversified electronics
+manufacturer, issued debt in a variety of currencies including U.S. dollars, Korean won,
+Japanese yen, and German marks. Dollar-denominated bonds generally traded at
+premium prices, reflecting superior liquidity characteristics. In the fall, pricing
+discrepancies reached an extreme with Samsung 9.75 percent dollar bonds due May 2003
+trading at a yield to maturity of 16 percent (approximately 1,200 basis points over U.S.
+Treasuries), and Samsung 3.3 percent yen bonds due April 2003 trading at a yield of 18
+percent (approximately 1,700 basis points over Japanese government bonds). Investors
+could create a stream of dollar cash flows by buying the relatively cheap yen bond and
+swapping all future yen flows for dollars. By using the forward currency markets to
+translate the Samsung yen cash flows into dollars, investors created a synthetic dollar asset
+with a yield to maturity of 21 percent. The spread between the synthetic bond yield of 21
+percent and the Samsung dollar bond yield of 16 percent rewarded arbitrageurs who
+purchased the relatively cheap synthetic dollar asset cash flows and sold the relatively
+expensive dollar bond.VI If spreads narrow, the investor unwinds the trade with a profit; if
+not, the investor collects a stream of payments until the bonds mature. By applying
+modest amounts of leverage to the trade, investors could expect holding period returns in
+the neighborhood of 24 percent, while without leverage the position carried an 18
+percent return.
+Sallie Mae Stock
+Different classes of equity frequently trade at prices reflecting, inter alia, liquidity
+differences. The Student Loan Marketing Association ("Sallie Mae"), established in 1973
+to provide liquidity for entities involved in programs supporting the credit needs of
+students, originally raised equity capital from institutions participating in the Federal
+Government's Guaranteed Student Loan Program. In 1983, creation of a new class of
+more broadly held nonvoting stock increased the company's equity base, funding a
+corporate growth program designed to meet the needs of hundreds of thousands of
+students. The newly issued nonvoting stock traded at a premium that generally ranged
+between 15 percent and 20 percent, a spread attributed by market participants to the
+illiquidity of the original shares. In an attempt to reduce the discount, Sallie Mae made
+regular offers to convert the cheaper, less liquid voting stock to the more expensive, more
+liquid nonvoting stock. The discount persisted despite annual conversion of between 28
+percent and 41 percent of shares tendered from 1984 to 1989. Curiously, a substantial
+number of shareholders who owned voting shares failed to take advantage of the
+opportunity. During the final tender offer in March 1989, at the height of market
+participant familiarity with the program, of the 8.7 million shares outstanding, 1.5
+109-110/433 >
+million shares ignored an offer of $91.875 in cash for shares trading at $83.50, exhibiting
+behavior difficult to reconcile with notions of market efficiency. In 1991, Congress
+authorized creation of a single class of stock for Sallie Mae, eliminating the discount and
+removing a trading opportunity for arbitrageurs willing to play in less liquid markets.
+Illiquidity and Information
+Less information tends to be available on illiquid securities, creating an opportunity to be
+rewarded for uncovering insights that are not reflected in a stock's market price. Highly
+liquid large-capitalization stocks receive widespread coverage, generating enormous
+amounts of publicly available information. During calendar year 2006, Exxon Mobil, the
+largest stock by capitalization, was covered by twenty-two Wall Street analysts and was
+mentioned 659 times in the Wall Street Journal. In contrast, Avistar Communications,
+the 5,000th company by market capitalization, had no research analysts and Wall Street
+Journal references totaled only three.
+Table 4.9 Large Companies Receive More Intense Research Scrutiny
+Small Companies Offer Opportunities to Develop an Information "Edge"
+Companies Capitalization Average Market
+Average Number Average Number of Wall
+Rank
+Capitalization of Analysts Street Journal Citations
+Exxon Mobil Corp
+General Electric
+Co
+Microsoft Corp
+Citigroup Inc
+Bank of America
+Corp
+US Bancorp
+United
+Technologies Corp
+Qualcomm Inc 50-54
+Medtronic Inc
+Tyco International
+Ltd
+1-5
+Capital One
+Financial Corp
+114
+$327.5
+Billion
+$62.2
+Billion
+25
+24
+954
+119
+Valero Energy Corp
+Carnival Corp/Plc (Usa)
+Navistar International Corp
+Teleflex Inc
+Dresser-Rand Group Inc
+Aspen Insurance Holdings Ltd
+Big Lots Inc
+Avistar Communications Corp
+Daily Journal Corp
+Beverly National Corp
+Antares Pharma Inc
+JI Halsey Corp
+Sources: Bloomberg and The Wall Street Journal Online
+1000-1004
+5000-5004
+Billion
+$2.5
+Billion
+$63.7
+Million
+7 10
+01
+At first glance, Exxon Mobil, which operates a complex set of global businesses,
+appears to present a great opportunity for active managers. In fact, security analysts face a
+tough challenge in developing an "edge" in light of competition from other analysts, all of
+whom benefit from mountains of publicly available information. With Avistar
+Communications, the bottom-up stock analyst finds greater opportunity. Information
+will no doubt be harder to obtain, but its value will be enhanced by its proprietary nature.
+Obviously, private markets present more extreme information advantages. Wall Street
+research analysts do not follow private companies. Press coverage tends to be less intense,
+in part because less information becomes public through government-mandated
+regulatory filings. The lack of easily obtainable information about private companies
+poses a challenge and creates an opportunity. Superior information flows lie at the heart
+of private investing, contributing to the results of all successful partnerships.
+Liquidity's Ephemeral Nature
+Investors prize liquidity because it allows trading in and out of securities. Unfortunately,
+liquidity tends to evaporate when most needed. The crash of October 1987, described in
+the Report of the Presidential Task Force on Market Mechanisms, provides a case in point:
+"as the rate of decline accelerated on October 19, the efficiency with which the equity
+market functioned deteriorated markedly. By the late afternoon of October 19, market
+makers on the major stock exchanges appear to have largely abandoned serious attempts
+to stem the downward movement in prices. In the futures and options markets, market
+makers were not a significant factor during that time.... Price changes and trading
+activity were highly erratic from late Monday afternoon through most of the day on
+Tuesday, October 20, as market makers were overwhelmed by selling.... Realistically, in
+the face of October's violent shifts in selling demand for equity-related securities, a
+rational downward transition in stock prices was not possible. Market makers possessed
+neither the resources nor the willingness to absorb the extraordinary volume of selling
+demand that materialized."15 Just when investors most needed liquidity, it disappeared.
+John Maynard Keynes argues in The General Theory that "[o]f the maxims of
+orthodox finance none, surely, is more antisocial than the fetish of liquidity, the doctrine
+that it is a positive virtue on the part of investment institutions to concentrate their
+resources upon the holding of "liquid" securities. It forgets that there is no such thing as
+liquidity of investment for the community as a whole."16
+Keynes toyed with the idea of reducing market liquidity to increase the prevalence of
+long-term investing. He writes "[t]he spectacle of modern investment markets has
+sometimes moved me towards the conclusion that to make the purchase of an investment
+permanent and indissoluble, like marriage, except by reason of death or other grave cause,
+might be a useful remedy for our contemporary evils. For this would force the investor to
+direct his mind to the long-term prospects and to those only."17
+Success matters, not liquidity. If private, illiquid investments succeed, liquidity follows
+as investors clamor for shares of the hot initial public offering. In public markets, as once-
+illiquid stocks produce strong results, liquidity increases as Wall Street recognizes
+progress. In contrast, if public, liquid investments fail, illiquidity follows as investor
+interest wanes. Portfolio managers should fear failure, not illiquidity.
+Value Orientation
+Investment success follows most reliably from pursuing value-based strategies, in which
+investors acquire assets at prices below fair value, "buying dollars for fifty cents." Investors
+who wish to implement value oriented programs require unusual skill, intelligence, and
+energy. Without a significant edge relative to other market participants, investors face
+likely failure. Moreover, value opportunities tend to be out of favor with mainstream
+investors, demanding courage of conviction to initiate and maintain positions.
+Tobin's "q"
+John Maynard Keynes in The General Theory articulated this concept of value: "... there
+is no sense in building up a new enterprise at a cost greater than that at which a similar
+existing enterprise can be purchased; whilst there is an inducement to spend on a new
+project what may seem an extravagant sum, if it can be floated off... at an immediate
+profit."18 James Tobin and William Brainard formalized this concept as "q," the ratio of
+market value to replacement cost.
+In equilibrium, under a reasonable set of conditions, Tobin-Brainard "q" equals one as
+the market value of assets equals replacement cost. If market value exceeds replacement
+cost, a "q" greater than one encourages entrepreneurs to create companies, offering them
+for sale at an immediate profit in the public markets. If replacement cost exceeds market
+value, a
+of less than one leads entrepreneurs to acquire corporate assets in the public
+market instead of building enterprises from the ground up. Value investors thrive in
+environments where "q" measures less than one.
+Margin of Safety
+Renowned investor Benjamin Graham distills the central tenet of value investing into a
+single concept-margin of safety-the cushion in value created by owning shares of a
+company with "expected earning power considerably above the going rate for bonds."
+Graham notes: "The margin-of-safety idea becomes [most] evident when we apply it to
+the field of undervalued or bargain securities. We have here, by definition, a favorable
+difference between price on the one hand and indicated or appraised value on the other.
+That difference is the safety margin. It is available for absorbing the effect of
+miscalculations or worse than average luck. The buyer of bargain issues plates particular
+emphasis on the ability of the investment to withstand adverse developments. For in most
+such cases he has no real enthusiasm about the company's prospects. True, if the
+prospects are definitely bad the investor will prefer to avoid the security no matter how
+low the price. But the field of undervalued issues is drawn from the many concerns-
+perhaps a majority of the total-for which the future appears neither distinctly promising
+nor distinctly unpromising. If these are bought on a bargain basis, even a moderate
+113-114/433
+decline in the earning power need not prevent the investment from showing satisfactory
+results. The margin of safety will then have served its proper purpose."
+"19
+In today's highly efficient securities markets, few opportunities exist to acquire assets
+at less than a fair price. Even with twenty-twenty hindsight, investors may not know
+whether positions were purchased below intrinsic value. Adjusting for risk and assessing
+the impact of subsequent external events, positive or negative, complicate evaluation of
+the initial acquisition decision. Because of the difficulty of proving the efficacy of value-
+investing strategies, investors accept the approach almost as an article of faith.
+Perhaps the most compelling argument for value-based investment approaches rests on
+contrarian principles. Markets frequently move to extremes, with high valuations for the
+popular and low valuations for the out-of-favor. By looking for opportunity in neglected
+securities, contrarian investors increase the likelihood of identifying profitable
+investments.
+Yet mindless contrarian investing poses dangers to portfolios. Sometimes popular
+companies deserve premium valuations. Sometimes out-of-favor companies deserve
+discounted valuations. Identifying out-of-favor assets serves as a starting point for serious
+investors, leading to further analysis. Only if careful analysis confirms expectations of
+superior future performance should investors purchase securities.
+Purchasing stocks with low price-to-earnings ratios or price-to-book ratios represents a
+naïve strategy. Simply selecting the cheapest stocks, measured relative to current earnings
+or book value, neglects important factors such as the quality of a business's management
+and future earnings prospects.
+Historically, naïve value strategies have delivered superior rates of return, while
+exposing investors to relatively high levels of fundamental risk.20 Jeremy Grantham of
+Grantham Mayo Van Otterloo warns of the "sixty year flood" that may wipe out years of
+gains garnered by simply purchasing the cheapest stocks. True value can be acquired by
+purchasing assets at prices below fair value, a forward-looking concept that considers
+anticipated cash flows with adjustment for the level of risk.
+Value investors need not limit choices to low growth or distressed companies. Even
+high growth industries contain companies with appealing valuations. One technology
+stock manager, Sy Goldblatt of S Squared, when attending industry conferences, avoids
+the rooms crowded with analysts pursuing the "flavor of the month." Instead, operating
+out of the mainstream, he meets with companies that cannot attract an audience. While
+many find the concepts of value and technology strange bedfellows, combining the two
+creates a powerful combination. Value investors seek to purchase companies at a discount
+to fair value, not to purchase low growth or distressed assets per se.
+Benjamin Graham recognized that careful investors might identify value in unusual
+precincts. He writes: "... the growth-stock approach may supply as dependable a margin
+of safety as is found in the ordinary investment-provided the calculation of the future is
+conservatively made, and provided it shows a satisfactory margin in relation to the price
+paid. The danger in a growth-stock program lies precisely here. For such favored issues the
+market has a tendency to set prices that will not be adequately protected by a conservative
+projection of future earnings. The margin of safety is always dependent on the price paid.
+It will be large at one price, small at some higher price, nonexistent at some still higher
+price. If, as we suggest, the average market level of most growth stocks is too high to
+provide an adequate margin of safety for the buyer, then a simple technique of diversified
+buying in this field may not work out satisfactorily. A special degree of foresight and
+judgment will be needed, in order that wise individual selections may overcome the
+hazards inherent in the customary market level of such issues as a whole. "21 While
+Graham recognizes the occasional opportunity to identify growth stocks exhibiting a
+margin of safety, value oriented investors choosing among out-of-favor securities face a
+richer set of attractive portfolio alternatives.
+Contrarian Investing
+Superb opportunities to purchase assets at prices significantly below fair value tend to be
+hidden in deeply out-of-favor market segments. At market bottoms, the broad consensus
+so loathes certain asset types that investors brave enough to make commitments find their
+sanity and sense of responsibility questioned. In fact, Keynes writes of the contrarian
+investor that "... it is in the essence of his behavior that he should be eccentric,
+unconventional, and rash in the eyes of average opinion."22 Managers searching among
+unloved opportunities face greater chances of success, along with almost certain tirades of
+criticism.
+The real estate market in the early 1990s provided obvious opportunities to acquire
+dollars at a discount. In January 1994, Yale participated in the purchase of a real estate
+115-116 / 423
+asset with a lease that promised a rate of return of 14.8 percent. Over the term of the lease
+the return would be fully realized in cash, paying back the entire investment along with a
+profit and leaving a valuable asset in the partnership's possession. Even without ascribing
+any residual value to the property, the real estate return of nearly 15 percent exceeded, by a
+dramatic margin, comparable returns on U.S. Treasury Notes of approximately 5.75
+percent. Based on the above facts, the transaction may or may not have represented good
+value. Perhaps the risk of nonperformance by the tenant justified the large spread between
+the lease payments and the riskless Treasury rate. In reality, the responsibility of the U.S.
+government for lease payments rendered the quality of the rental stream equivalent to the
+U.S. Treasury Note. Rarely do investors face clearer opportunities to buy dollars at a
+discount. (Ironically, the opportunity to purchase a risk-free stream of cash flows at a
+bargain price came from an agency of the U.S. Government, the Resolution Trust
+Corporation (RTC). While the RTC generally did an effective job of disposing of assets,
+attractive deals occasionally surfaced.)
+The opportunity to purchase real estate assets at bargain basement prices had its seeds
+in the excesses of the late 1980s. Real estate was an institutional favorite, topping the list
+of attractive categories in asset allocation studies. Investors characterized regional malls as
+"irreplaceable assets" with "monopoly positions," purchasing them at cash yields below 5
+percent. Downtown office buildings were treated with similar reverence.
+In the early 1990s the story changed dramatically. The overbuilding, over-leveraging
+and overpaying of the previous decade became apparent as real estate prices went into free
+fall. Regional malls, in reverse evolution, became dinosaurs, threatened by competition
+from "power centers" and other new retailing concepts. Central business district office
+buildings, too, were headed for extinction, as working at home was about to replace
+commuting to the city.
+Value-oriented investors recognized that circumstances were not as good as they
+seemed in the late 1980s and were not as bad as they appeared in the early 1990s. By
+simply looking at the relationship between market value and replacement cost, an investor
+would be a late 1980s seller and an early 1990s buyer. Buying low and selling high beats
+the alternative.
+Performance Chasing Behavior
+Far from exhibiting the courage required to take contrarian stands, most investors follow
+the crowd down the path to comfortable mediocrity. Investor cash flows into and out of
+actively managed funds provide a case in point. Ideally, serious investors would provide
+funds to managers after a period of understandable underperformance and before a
+period of expected outperformance. In fact, investors consistently do the opposite.
+Stunning evidence, compiled by Russel Kinnel, Morningstar's Director of Fund
+Research, shows remarkably consistent dismal decision making by mutual fund investors.
+The Morningstar study, summarized in Table 4.10, compares mutual fund industry
+returns that appear in offering documents and advertisements (time-weighted returns)
+with mutual fund investor returns that consider cash inflows and outflows (dollar-
+weighted returns). The analysis looked at ten years of results, covered all domestic equity
+funds and divided them into seventeen categories. In each instance actual experience fell
+short of reported results. In other words, investors put money into funds after good
+performance (and before bad performance) and took money out of funds after bad
+performance (and before good performance).
+Kinnel notes that "volatility adds to the problem." Technology funds show a stunning
+13.4 percent per annum gap between reported results and actual experience. Sector funds
+specializing in communications and health care along with small, mid, and large growth
+stock funds round out the list of failure-prone investment vehicles.
+Table 4.10 Mutual Fund Investors Consistently Chase Performance
+Returns for Ten Years Ending April 30, 2005
+Dollar-Weighted Return
+Time-Weighted Return
+7.7%
+8.4
+12.5
+7.8
+8.4
+8.8
+11.3
+12.4
+13.6
+Category
+Technology
+Communications
+Health
+Large growth
+Small growth
+Mid growth
+Small blend
+Natural resources
+Small value
+Real estate
+Mid value
+-5.7%
+3.0
+8.5
+4.4
+5.4
+6.3
+9.0
+10.3
+11.6
+13.4
+10.4
+15.4
+12.2
+Gap
+-13.4%
+-5.4
+-4.0
+-3.4
+-3.1
+-2.5
+-2.4
+-2.1
+-2.0
+-2.0
+-1.7
+< 117-118/433 >
+Large Blend
+Financials
+Moderate allocation
+Mid blend
+Large value
+Conservative allocation
+Note: Figures may not add due to rounding
+Source: Morningstar Fund Investor. July 2005, Volume 13 Number 11.
+7.5
+12.8
+7.3
+10.6
+9.6
+7.2
+9.1
+14.4
+8.4
+11.4
+10.0
+7.5
+-1.6
+-1.6
+-1.2
+-0.8
+-0.4
+-0.3
+While all fund groups show poor investor decision making, less volatile funds produce
+less gruesome results. The conservative allocation group boasts the best record, posting
+the smallest, but still disappointing gap of 0.3 percent per annum. Other low volatility
+offerings in which investors behave relatively well include large value, mid blend, and
+moderate allocation.
+The Morningstar study indicates that individual investors exhibit return-damaging
+performance-chasing behavior with remarkable consistency. Adding the effects of
+persistently perverse cash flows to the costs of active management leaves little room for
+individual investor success.
+Unfortunately, no comparable comprehensive data exist on institutional flows to
+active managers. That said, available evidence indicates that institutions suffer from
+precisely the same performance-chasing problem as do individuals. Consider the case of
+Grantham Mayo Van Otterloo (GMO), an extraordinary Boston-based institutional
+money manager. Despite boasting one of the best long-term records in the funds
+management business, when the firm hit a rough patch clients deserted in droves.
+GMO's rational, valuation-oriented systematic style failed to keep pace with the late
+1990s' manic markets. Investors panicked. Between 1998 and 1999 GMO's asset base
+declined from $30 billion to $20 billion even as stock markets raced ahead.23 Departing
+investors lost thrice: once, by selling GMO at a low point; once, by redeploying assets to
+momentum-driven managers destined to fail; and once, by failing to participate in
+GMO's recovery. In a stunning indictment of active management, investors intelligent
+enough to choose GMO in the first place exhibited the stupidity to abandon the firm's
+disciplined approach at the point of maximum opportunity.
+Consider the specific story of GMO's quantitatively driven International Intrinsic
+Value Strategy. From inception in early 1987 to the end of 2006, the fund produced
+returns of 11.1 percent per annum, generating a significant excess return relative to the
+EAFE index result of 7.0 percent per annum. Long-term investors in International
+Intrinsic Value fared extremely well.
+Yet, in the aggregate, investor behavior managed to turn success into failure. Superb
+returns in the early 1990s attracted investor interest, as shown in Table 4.11. Average
+annual excess returns of 8.7 percent from 1990 to 1993 boosted assets in the strategy from
+$378 million to $2.6 billion! As long as trailing three-year performance showed market-
+beating returns, inflows continued, increasing assets under management to a peak of $2.8
+billion at the end of 1996. Supposedly rational institutions chased GMO's performance.
+In 1997, after the trailing three-year performance numbers turned negative, the exodus
+began. Client withdrawals took assets in International Intrinsic Value from the 1996 peak
+of $2.8 billion to the 2002 low point of $578 million. GMO's poor relative returns from
+1994 to 1999 caused fickle clients to abandon a sensible active strategy.
+Of course, exiting clients failed to benefit from GMO's dramatic recovery. As
+rationality returned to markets after the early 2000 collapse of the Internet bubble, GMO
+posted average excess returns of 9.5 percent per annum in the ensuing five years. Buying
+high and selling low, as practiced by so many of GMO's clients, produced permanent
+damage to portfolios.
+Table 4.11 GMO's Institutional Investors Buy High and Sell Low
+International Intrinsic Value Strategy
+Year Return EAFE
+Index
+Excess
+Return
+1990 -8.1% -23.2%
+1991
+14.4
+12.5
+1992 -1.1
+-11.9
+1993 39.9
+32.9
+1994 4.2
+8.1
+1995
+10.3
+11.6
+1996
+9.6
+6.4
+1997 0.9
+2.1
+1998 13.6
+20.3
+1999 14.6
+27.3
+2000 -1.4
+-14.2
+Client Flows (millions of Assets Under Management (millions
+dollars)
+of dollars)
+15.1%
+1.9
+10.7
+7.0
+-3.9
+-1.2
+3.2
+-1.1
+-6.7
+-12.7
+12.8
+256
+503
+182
+471
+(23)
+307
+85
+(1,257)
+(784)
+(190)
+(220)
+378
+990
+1,218
+2,595
+2,234
+2,606
+2,838
+1,607
+1,095
+1,057
+802
+2001
+2002
+2003
+2004
+2005
+-12.1
+-0.6
+43.5
+25.3
+14.3
+-21.4
+-15.9
+38.6
+20.2
+13.5
+9.3
+15.4
+4.9
+5.0
+0.7
+(27)
+(7)
+1,116
+597
+886
+Source: GMO.
+Note: This does not include accounts where GMO has discretion to allocate across multiple strategies.
+647
+578
+1,981
+3,162
+4,680
+Over the period from 1993 to 2003, GMO's International Intrinsic Value Strategy
+beat the market by 2.8 percent per year. Client cash flows turned GMO's stellar results on
+their head. On a dollar-weighted basis, clients underperformed by 2.0 percent per year.
+Poorly considered commitments to and withdrawals from GMO's International Intrinsic
+Value Strategy transformed a winning investment vehicle into a losing investment
+alternative.
+In the closed world of marketable security investing, simple logic dictates that a
+majority of assets fail to beat the market, as the impact of management fees and
+transaction costs guarantee poor results for most participants. Widespread active
+management failure makes the unusual success all the more valuable. When foolish clients
+of high quality managers destroy value by responding perversely to past performance, the
+already tough case for active management becomes tougher still.
+Value investing provides a sturdy foundation for building an investment portfolio, as
+the acquisition of assets below fair value provides a margin of safety. In many instances,
+value investing proves fundamentally uncomfortable, as the most attractive opportunities
+lurk in unattractive or even frightening areas. As a result, many investors abandon sensible
+strategies to pursue the fashion du jour. If pursued in a steadfast manner, value strategies
+provide a measure of stability to investment programs, reducing dependence on the
+vicissitudes of the market and serving to mitigate risks faced by portfolio managers.
+CONCLUSION
+Investment philosophy defines an investor's approach to generating portfolio returns,
+describing in the most fundamental fashion the tenets that permeate the investment
+process. Market returns stem from three sources-asset allocation, market timing, and
+security selection-with each source of return providing a tool for investors to use to
+satisfy institutional goals. Sensible investors employ the available tools in a manner
+consistent with a well defined, carefully articulated investment philosophy.
+Investor behavior causes policy asset allocation to dominate portfolio returns, since
+institutions tend to hold stable commitments to broadly diversified portfolios of
+marketable securities. Creating a diversified portfolio with a range of equity-oriented asset
+classes that respond to drivers of returns in fundamentally different fashion provides
+important underpinning to the investment process.
+Market timing causes investors to hold portfolios that differ from policy targets,
+jeopardizing a fund's ability to meet long-term objectives. Often driven by fear or greed,
+market timing tends to detract from portfolio performance. Many institutions practice an
+implicit form of market timing by failing to maintain allocations at long-term policy
+targets. Risk control requires regular rebalancing, ensuring that portfolios reflect
+institutional preferences.
+Active security selection plays a prominent role in nearly all institutional investment
+programs despite the poor relative results posted by the overwhelming majority of
+investors. Fund managers increase their probability of success by focusing on inefficient
+markets that present the greatest range of opportunities. Accepting illiquidity pays
+outsized dividends to the patient, long-term investor, while approaching markets with a
+value orientation provides a margin of safety. Even if investors execute active management
+programs with intelligence and care, efficiency in pricing assets poses a significant
+challenge to identifying and implementing market-beating strategies. In the all-too-
+frequent situation where investors chase strong returns and abandon weak performance,
+the odds of beating the market lengthen dramatically. Reasonable market efficiency and
+unreasonable investor behavior combine to make security selection a tough game.
+I. Call risk represents the risk that an issuer will redeem bonds at a fixed price prior to maturity. Bondholders
+generally suffer when issuers call bonds, since calls usually occur in an environment in which interest rates have
+declined.
+II. Survivorship bias occurs when data exclude markets (or investment funds or individual securities) that
+disappear. Since lower returning, higher-risk markets (or investment funds or individual securities) tend to fail at
+a higher rate than their higher-returning, lower-risk counterparts, the sample of survivors describes an
+environment that overstates the real world return and understates the real world risk.
+III. A phenomenon of the early 1970s, the "Nifty Fifty" consisted of approximately fifty high quality growth
+< 121-122/433 >

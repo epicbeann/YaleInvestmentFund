@@ -1,0 +1,1113 @@
+5
+Asset Allocation
+The process of asset allocation illustrates the importance of combining art and science in
+investment decision making, as neither informed judgment nor quantitative analysis alone
+produces consistently successful results. At one extreme, seat of the pants decisions lack rigor,
+omitting some information and either underemphasizing or overemphasizing the information
+that remains. At the other extreme, mechanistic application of quantitative tools produces
+naïve, sometimes dangerous, conclusions. Marrying the art of seasoned judgment with the
+science of numeric analysis creates a powerful approach to allocating portfolio assets.
+Defining and selecting asset classes constitute initial steps in producing a portfolio. Many
+investors simply allocate among the asset classes popular at the time in proportions similar to
+those of other investors, creating uncontroversial portfolios that may or may not address
+institutional needs. By relying on the decisions of others to drive portfolio choices, investors fail
+to take responsibility for the most fundamental fiduciary responsibility-designing a portfolio
+to meet institution-specific goals.
+Asset Classes and Fashion
+The asset classes from which investors construct portfolios change over time. Snapshots of
+Yale's portfolio throughout the past 150 years provide an impression of the evolution of
+portfolio structure. Real estate constituted nearly half of the 1850 portfolio, with "bonds and
+notes mostly secured by mortgages" and stocks making up the remainder. At the turn of the
+twentieth century, dominant asset categories included mortgage bonds, railroad bonds, and
+real estate, with relatively small allocations to "stocks in sundry corporations" and "corporation
+bonds other than railroad." In the 1950s, the university held domestic bonds, domestic
+common stocks, preferred stocks, and real estate. At the turn of the twenty-first century, Yale's
+well-diversified portfolio included domestic bonds, domestic common stocks, foreign common
+stocks, absolute return, real assets, and private equity.
+Just as sartorial styles change, investment fashions cbb and flow. Railroad bonds earned
+special consideration in asset allocation discussions in the late nineteenth and early twentieth
+centuries because of the dominant role railroads played in the developing U.S. economy.
+Investors willingly lent money for hundred-year terms to ostensibly secure rail companies,
+knowing that even if a particular concern failed, valuable rail-bed right of way provided
+unimpeachable security.
+Imagine the surprise of an 1890s-vintage portfolio manager upon learning the fate of the
+Lehigh Valley Railroad 41/2's duc 1989. Offered at 1021/2 in January 1891 by the distinguished
+syndicate of Drexel, J.P. Morgan, and Brown Brothers, the bonds attracted little notice for the
+next four decades as required payments arrived in full and on time. Widespread economic
+distress in the 1930s hurt the Lehigh Valley Railroad, leading to relief in the form of the 1938
+Debt Adjustment Plan. Initial concessions failed to put the rail line on sound financial footing,
+leading to further negotiations that resulted in the 1949 Debt Adjustment Plan. Ultimately,
+restructuring proved insufficient to solve the Lehigh Valley's woes, culminating in failure to
+meet the October 1, 1970 interest payment. Bondholders, beneficiaries of a first lien on 14.4
+miles of track (7.9 miles from Hazle Creek Junction to Hazleton, Pennsylvania and 6.5 miles
+from Ashmore to Highland Junction, Pennsylvania) received little comfort from the security
+interest, seeing the obligations trade as low as 5 percent of face value in 1972. Although not all
+railway debt suffered the fate of the Lehigh Valley bonds, railroad obligations generally failed to
+meet expectations.!
+Railroad bonds no longer constitute a separate institutional asset class, since the rail industry
+proved less enduringly robust than investors of the 1890s believed. With a heavy concentration
+in railway debt, late nineteenth century investors allocated relatively little to domestic common
+stocks, missing an opportunity to create portfolios with vastly superior return potential.
+Twenty-twenty hindsight provides obvious conclusions regarding what would have produced
+profits in the past. The basic challenge for investors lies in fashioning portfolios positioned to
+succeed in the environment to come.
+Investors begin by selecting asset classes and combining them in a way that promises to meet
+fundamental investment goals. Institutional portfolios require assets likely to generate equity-
+like returns, such as domestic and foreign cquitiès, absolute return strategies, real assets, and
+private equities. To mitigate asset-class-specific risks, investors diversify aggressively, holding
+assets in proportions that allow the asset class to matter, but not matter too much. By
+understanding and articulating the role played by each asset class, investors create a strong
+foundation for an institutional investment program.
+Asset Class Definition
+Purity of asset class composition represents a rarely achieved ideal. Carried to an extreme, the
+search for purity results in dozens of asset classes, creating an unmanageable multiplicity of
+alternatives. While market participants disagree on the appropriate number of asset classes, the
+number should be small enough so that portfolio commitments make a difference, yet large
+enough so that portfolio commitments do not make too much of a difference. Committing less
+than 5 percent of 10 percent of a fund to a particular type of investment makes little sense; the
+small allocation holds no potential to influence overall portfolio results, Committing more
+than 25 percent or 30 percent to an asset class poses the danger of overconcentration. Most!
+portfolios work well with around a half a dozen asset classes.
+Functional attributes play the dominant role in defining asset classes, with structural and
+legal characteristics taking secondary positions. Asset class distinctions rest on broad sweeping
+differences in fundamental character: debt versus equity, domestic versus foreign, inflation
+sensitive versus deflation sensitive, private versus public, liquid versus illiquid. Ultimately
+investors attempt to group like with like, creating relatively homogeneous groups of
+investments that provide fundamental building blocks for the portfolio construction process.
+Fixed income represents an interesting case. If investors want fixed income assets to provide
+a hedge against financial accidents, then only high quality, long-terms, noncallable bonds satisfy
+the requirement. Although from a legal and structural perspective below-investment-grade
+bonds (a.k.a. junk bonds or high-yield bonds) belong to the fixed income family, they lack
+important crisis-hedging attributes. Junk bonds contain equity-like risks, as payments depend
+mightily on the financial health of the issuer. Even if the high-yield obligor meets contractual
+obligations, holders may lose bonds through a mandatory call, as lower interest rates or
+improved corporate health allow issuers to redeem bonds at a fixed price prior to maturity.
+Ironically, junk bondholders may lose if corporate prospects deteriorate or if they improve! In
+any case, below-investment-grade bonds provide little protection against a period of severe
+financial distress, since at a time of economic disruption high-yield bondholders might suffer
+from a corporate default.
+Government bonds dominate portfolios designed to hedge against financial trauma,
+providing high quality portfolio protection. Not all Treasury issues make the grade, however.
+Treasury Inflation-Protected Securities have no place in a properly defined fixed income
+portfolio. Traditional fixed income assets respond to unanticipated inflation by declining in
+price, as the future stream of fixed payments becomes worth less. In contrast, inflation-indexed
+bonds respond to unexpected price increases by providing a higher return. When two assets
+respond in opposite fashion to the same critically important variable, those assets belong in
+different asset classes.
+Many investors include foreign bonds in portfolios as part of a broadly defined fixed income
+asset class or as a separate asset class. Neither choice makes fundamental sense. First, foreign
+bonds have no role in a fixed income portfolio designed to protect against deflation or financial
+trauma. Investors cannot know how foreign bonds might respond to a domestic financial
+crisis, since conditions overseas may differ from the environment at home. Moreover, foreign
+exchange translations influence returns in a substantial, unpredictable manner. Second, as a
+separate asset class, high quality foreign bonds hold little interest. The combination of low,
+nai
+al
+bond-like expected returns and foreign exchange exposure negates any positive attributes
+associated with nondomestic fixed income. If investors pay the price (in terms of low expected
+returns) by buying bonds for disaster insurance, the payoff must be clear and direct.
+Careful investors define asset classes in terms of function, relating security characteristics to
+the role expected from a particular group of investments. In the case of fixed income,
+introduction of credit risk, call risk, and currency risk diminish disaster-hedging attributes. Yet
+in reaching for return or seeking an easy way to beat the benchmark, most institutional
+portfolios contain disproportionate allocations to bonds lacking the purity of U.S. Treasury
+obligations. The net result leads to a portfolio that meets neither the goal of producing equity-
+like returns nor the goal of protecting against market trauma.
+Judgment plays a critical role in defining and shaping asset classes. Unless the statistical
+analysis employed in the asset allocation process rests on reasonable asset class definitions, the
+resulting portfolio stands little chance of meeting institutional needs.
+QUANTITATIVE AND QUALITATIVE ANALYSIS
+Establishing policy asset allocation targets requires a combination of quantitative and
+qualitative inputs. Financial markets invite quantification. Return, risk, and correlation lend
+themselves to numerical measurement. Statistical methods allow analysis of possible portfolio
+combinations through a number of frameworks, including the capital asset pricing model
+(CAPM), arbitrage pricing theory (APT), and modern portfolio theory (MPT). Quantitative
+analysis provides essential underpinnings to the portfolio structuring process, forcing investors
+to take a disciplined approach to portfolio construction. Systematic specification of inputs for
+an asset allocation model clarifies the central issues in portfolio management.
+Nobel laureates Harry Markowitz and James Tobin developed mean-variance optimization,
+one of the most useful and most widely used analytical frameworks. The process identifics
+efficient portfolios, which for a given level of risk have the highest possible return or for a given
+level of return have the lowest possible risk. Using inputs of expected return, expected risk, and
+expected correlation, the optimization process evaluates various combinations of assets,
+ultimately identifying superior portfolios. Those portfolios that cannot be improved represent
+the efficient frontier, a set of points from which rational investors will choose.
+Identifying Efficient Portfolios
+The mere phrase mean-variance optimization intimidates many investors, conjuring images of
+complicated quantitative methods beyond the grasp of the intelligent lay public. In fact, the
+optimization process rests on several basic concepts, accessible to even casual students of
+finance.
+Mean-variance optimization identifies efficient portfolios. An efficient portfolio dominates
+all others producing the same return or exhibiting the same risk. other words, for a given risk
+level, no other portfolio produces higher returns than the efficient portfolio. Similarly, for a
+given return level, no other portfolio exhibits lower risk than the efficient portfolio. Note that
+the definition of efficiency relates entirely to risk and return; mean-variance optimization fails
+to consider other asset class attributes.
+Practitioners generally assume that normal, or bell-curve-shaped, distributions describe
+asset class returns, allowing complete specification of the distribution of returns with only a
+mean and a variance. Although using normal distributions facilitates implementation of mean-
+variance analysis, real-world security returns include significant nonnormal characteristics,
+limiting the value of the conclusions.
+Correlations specify the manner in which returns of one asset class tend to vary with
+returns of other asset classes, quantifying the diversifying power of combining asset classes that
+respond differently to forces that drive returns. Correlation supplies a third means through
+which asset class characteristics influence portfolio construction, supplementing the return
+and risk factors.
+After specifying expected returns, risks, and correlations for the set of investable asset
+classes, the search for efficient portfolios begins. Starting with a given risk level, the model
+examines portfolio after portfolio, ultimately leading to identification of a combination of
+assets that produces the highest return. The superior portfolio takes a place on the efficient
+frontier. The process then continues by identifying the highest return portfolio for a range of
+risk levels, with the resulting combination of superior portfolios defining the efficient frontier.
+At its core, mean-variance optimization is a simple process. Employing specified capital
+markets characteristics, a quantitative model uses iterative techniques to search for efficient
+portfolios. When considering combinations of assets positioned on the efficient frontier,
+investors choose from a superior set of portfolios.
+Limitations of Mean-Variance Analysis
+Unconstrained mean-variance optimization often provides solutions unrecognizable as
+reasonable portfolios. Richard Michaud, in his critique of mean-variance optimization, writes
+"[t]he unintuitive character of many optimized' portfolios can be traced to the fact that mean-
+variance optimizers are, in a fundamental sense, estimation-error maximizers."... Mean-
+variance optimization significantly overweights (underweights) those securities that have large
+(small) estimated returns, negative (positive) correlations and small (large) variances. These
+securities are, of course, the ones most likely to have large estimation errors." Although
+Michaud's comments pertain to a portfolio of securities, his critique applies equally to a
+portfolio of asset classes.
+Several fundamental problems limit the usefulness of mean-variance analysis. Evidence
+suggests that security returns do not correspond to a normal distribution, with markets
+exhibiting more extreme events than would be consistent with a bell curve distribution.
+Richard Bookstaber, author of A Demon of Our Own Design, states that a "general rule of
+thumb is that every financial market experiences one or more daily price moves of four
+standard deviations or more each year. And in any year, there is usually at least one market that
+has a daily move that is greater than ten standard deviations."31 If extreme price changes occur
+substantially more frequently than predicted by a normal distribution, then mean-variance
+analysis fails to consider some extremely important information. In fact, investors care more
+about extraordinary situations in the tails of the distribution, such as the 1987 stock market
+crash, than about ordinary outcomes represented by the heart of the distribution.
+The way in which asset classes relate to one another may not be stable. For example, market
+crises often cause otherwise distinct markets to behave in a similar fashion. In October 1987,
+equity markets all over the world collapsed, disappointing those portfolio managers who
+expected foreign diversification to cushion a drop in domestic equity prices. Although
+correlations among individual country stock markets before and after October 1987 measured
+substantially less than one, the highly correlated behavior of markets in the period immediately
+following the 1987 crash caused many investors to wonder what happened to the hoped-for
+diversification. Most investors rely heavily on historical experience in estimating quantitative
+inputs; yet continuous structural evolution reduces the predictive value of historical returns,
+risks, and correlations. Quantitative modelers face the daunting task of assigning an
+appropriate weight to historical data and an appropriate weight to well-considered intuitive
+projections.
+Mean-variance optimization defines return distributions completely in terms of expected
+return and risk. The framework fails to consider other important attributes, such as liquidity
+and marketability. In fact, the inclusion of less liquid assets in a mean-variance frame-work
+raises material issues. Most frequently, mean-variance optimization involves analysis of annual
+capital markets data, implicitly assuming annual rebalancing of portfolio allocations. That is, if
+stocks have moved above target and bonds below, then on the relevant anniversary date
+investors sell stocks and buy bonds in sufficient quantities to restore target allocations. Clearly,
+less marketable assets, such as private equity and real estate, cannot be rebalanced in a low cost,
+efficient manner. The inability to manage illiquid assets in a manner consistent with model
+assumptions reduces the applicability of mean-variance analysis.
+Another problem with mean-variance optimization relates to investor time horizon. In
+many cases, investors care about multiple objectives that span different time horizons. For
+instance, endowment managers seek intermediate-term spending stability even as they pursue
+long-term purchasing power preservation. A mean-variance time period of three to five years
+might serve the spending stability criterion, while a time period spanning decades might serve
+the purchasing power criterion. The almost universally employed one-year time period serves
+neither. The rigidity of mean-variance optimization fails to accommodate real-world concerns
+of endowment investors.
+In the final analysis, both the fundamental shortcomings and the basic attraction of
+quantitative methods stem from reducing a rich set of asset class attributes to a neat, compact
+package of precisely defined statistical characteristics. Because the process involves materially
+simplifying assumptions, unconstrained asset allocation point estimates produced by mean-
+variance optimization represent simply a starting point for further work.
+Qualitative Judgments
+The limitations of mean-variance analysis argue for inclusion of qualitative considerations in
+the asset allocation process. Judgment might be incorporated by applying reasonable
+constraints to particular asset class allocations. For example, an investor could express a
+preference for diversification by limiting any individual asset class to no more than 30 percent
+of assets. Such a constraint ensures that no single asset class dominates a portfolio. In addition,
+prospective allocations to private equity could logically be limited to a modest increase over the
+current allocation. Since illiquidity and lumpiness of opportunities limit prudent expansion of
+private equity holdings, incremental changes make sense.
+Gradualism represents a virtue in and of itself. Substantial uncertainty surrounds the asset
+allocation process. Keynes's "dark forces of time and ignorance" cloud the future, causing even
+the most thoughtful estimates of capital markets characteristics to prove unreliable.+ Deciding
+to make radical changes based on highly uncertain data places too much weight on a shaky
+foundation. Limiting asset allocation changes by constraining asset class movements represents
+a sensible modification of the optimization process.
+Care must be taken, however, to avoid using asset class constraints simply to fashion a
+reasonable-looking portfolio. Taken to an extreme, placing too many constraints on the
+optimization process causes the model to do nothing other than to reflect the investor's
+original biases, resulting in the GIGO (garbage-in/garbage-out) phenomenon well known to
+computer scientists.
+Alternatively, investors might identify superior, yet reasonable, portfolios by choosing from
+a set of portfolios that lay near (but perhaps not directly on) the efficient frontier. In fact,
+unless the current portfolio sits directly on the efficient frontier, a host of alternatives promise
+higher expected returns (at the same or lower risk) or lower expected risk (for the same or
+higher return). Some of the superior choices likely appear more reasonable than the portfolios
+that define the frontier, giving the investor a more comfortable, yet still superior, alternative.
+Quantitative modeling proves particularly helpful in focusing investor attention on
+potentially rewarding asset allocation changes. By analyzing the existing portfolio using mean-
+variance optimization and measuring the degree to which the optimizer prefers to move in a
+particular direction, investors understand the relative attractiveness of prospective portfolio
+moves. Attractive asset classes strain at the constraints, while unattractive holdings may not
+even reach current allocation levels. The degree to which the optimizer "likes" a particular asset
+class suggests increasing or decreasing allocations, providing a starting point for qualitative
+assessment of the quantitative conclusion. Using informed judgment to modify and interpret
+mean-variance results improves the asset allocation process.
+CAPITAL MARKET ASSUMPTIONS
+Return and risk expectations constitute the heart of quantitative assessment of portfolio
+alternatives. While historical experience represents a reasonable starting point, investors seeking
+to create truly useful conclusions must move beyond simply plugging historical numbers into
+the mean-variance optimizer.
+Developing a set of quantitative inputs for portfolio optimization poses some difficult
+issues. Most troubling may be the forward-looking nature of the estimates. While past patterns
+provide important input for assumptions about the future, historical data must be modified to
+produce a set of numbers consistent with expected market realities. Thoughtful investors strike
+a balance between respect for history and concern for analytical consistency.
+Historical capital markets data require adjustment. Mean-reverting behavior in security
+prices implies that periods of abnormally high returns follow periods of abnormally low
+returns, and vice versa. Jeremy Grantham, a prominent money manager, believes reversion to
+the mean constitutes the most powerful force in financial markets.5 If prices tend to revert to
+the mean, then return expectations must be adjusted to dampen expectations for recent high
+fliers and boost forecasts for recent poor performers.
+Period-specific data frequently suggest counterintuitive conclusions. Relatively risky asset
+classes may show returns below those of obviously less risky investments. Assets that have little
+in common may move together for no apparent reason. Adjusting assumptions to reflect
+appropriate risk and return relationships proves critical to sensible quantitative analysis.
+Structural changes in markets force analysts to weight recent data more heavily
+deemphasizing numbers posted in previous, sometimes dramatically different, environments.
+Introduction of new classes of securities, such as the U.S. Treasury issuance of thirty-year
+bonds beginning in February 1977, may alter asset class characteristics in so fundamental a
+manner as to render earlier data far less relevant in reaching conclusions regarding future asset
+class behavior.
+Some practitioners seem daunted by the task of fashioning precise point estimate
+predictions of future asset class characteristics. Comfort comes from the realization that great
+value stems from producing a set of forecasts with reasonable relative relationships among and
+between the various asset classes. Capital markets assumptions with sensible relative
+relationships enable identification of a set of useful portfolio alternatives. Even if point
+estimates of risk and return variables fail to match the subsequent reality, insofar as inputs stem
+from well-grounded interrelationships, the mean-variance optimization process produces
+valuable insight into efficient portfolio alternatives.
+Unfortunately, point estimates of asset class returns remain necessary for some purposes. In
+evaluating the ability of various portfolio combinations to support specified spending
+requirements, the precise levels of forecast returns come into play. When deciding whether a
+portfolio can reasonably produce returns sufficient to satisfy a 4 percent, 4.5 percent, or 5
+percent target rate of spending, fiduciaries face the difficult challenge of relying on forecasts of
+future capital markets returns. Fortunately, in the case of evaluating a portfolio's ability to
+support a particular level of spending, fiduciaries require reasonably accurate forecasts of long-
+term returns, which prove much less daunting than fashioning forecasts of short-term returns.
+In mean-variance optimization, data on expected returns provide the most powerful
+determinant of results, demanding the greatest share of quantitative modelers attention.
+Forecasts of variances place second in importance, while assumptions regarding correlations
+prove least crucial. Fortunately, the most intuitive variables-expected returns and variances-
+play a more central role in the model than the less intuitive correlations.
+Marketable Security Characteristics
+Past returns for domestic stocks and bonds provide a sensible starting point for developing
+capital markets assumptions, based on the centrality of marketable securities in portfolio
+construction and on the availability of a lengthy series of high quality data. Choosing an
+appropriate time period poses interesting trade-offs. On the positive side, longer time frames
+provide a more robust picture of asset class returns and interrelationships with other asset
+classes. On the negative side, a trality of marketable securities in portfolio construction and on
+the availability of a lengthy series of high quality data. Choosing an appropriate time period
+poses interesting trade-offs. On the positive side, longer time frames provide a more robust
+picture of asset class returns and interrelationships with other asset classes. On the negative
+side, a long time series includes results from periods with fundamentally different structural
+characteristics. For instance, Jeremy Siegel's Stocks for the Long Run begins its study of U.S.
+equity and bond market returns with data from the turn of the nineteenth century. During
+significant portions of Siegel's study period, the United States was an emerging market, the
+Federal Reserve System did not exist, and long-term government bonds were not available.
+What relevance do stock and bond returns from the nineteenth century have to expectations
+for stock and bond returns today?
+Table 5.1 Historical Capital Markets Data Provide a Starting Point for Quantitative
+Analysis
+Historical Data Inflation Adjusted Using the Higher Education Price Index
+U.S.
+Bonds
+Observations 80
+U.S. Developed Emerging
+Equity Equity
+Equity
+21
+36
+Absolute
+Return
+17
+Private
+Equity
+25
+Real
+Assets
+25
+Cash
+80
+Arithmetic return
+Standard deviation
+Growth rate
+Expected return
+Standard
+deviation
+2.5%
+2.3%
+2.0% 6.0%
+10.0% 20.0%
+1.5%
+Expected
+growth
+Source: Yale University Investments Office.
+Table 5.2 Quantitative Model Inputs Rely on Modified Risk and Return Assumptions
+Model Data Inflation Adjusted Using Higher Education Price Index
+U.S. Developed Emerging Absolute
+Bonds Equity Equity
+Equity
+Equity
+U.S.
+4.1%
+10.6%
+22.4%
+8.2%
+8.3%
+22.1%
+6.1%
+6.0%
+20.0%
+11.9%
+9.9%
+12.8%
+6.2%
+30.0% 8.2% 23.1% 6.8%
+8.1% 9.6% 10.9% 6.0%
+8.0%
+25.0%
+5.1%
+6.0%
+10.0%
+5.5%
+0.7%
+4.0%
+0.6%
+Private Real
+Equity Assets
+12.0% 6.0% 0.0%
+30.0% 15.0% 5.00%
+8.1%
+Cash
+4.9% 0.1%
+Recognizing the arbitrary nature of choosing any particular subset of data to use as a
+foundation for estimating future returns, one sensible starting point involves the landmark
+Ibbotson-Sinquefield study, first published in 1976.7 Beginning at the end of 1925, the period
+contains a sufficient number of observations to provide a rich set of data, but encompasses a
+short enough span to limit the impact on markets of significant structural changes.
+Using historical data (such as those contained in Table 5.1) as a foundation, sensible
+investors build on that base to create a coherent set of capital markets assumptions (such as
+those presented in Table 5.2). Since prudently managed endowments consume only post-
+inflation returns, all capital markets assumptions reflect an appropriate inflation adjustment.
+Domestic Bonds
+Domestic bond market returns provide a logical baseline for building a matrix of capital
+markets assumptions. Over the long sweep of time, as fixed income investors found returns
+croded by spells of unanticipated inflation, bonds provided mediocre real returns of 2.5
+percent per annum with risk of 6.8 percent. The October 1979 Federal Reserve decision to
+target monetary aggregates instead of interest rates caused bond markets to trade with greater
+volatility. Placing more weight on recent experience leads to an assumed expected return of 2
+percent with risk of 10 percent.
+Marketable Equities
+Discussion of the difference in expected returns for bonds and stocks, more succinctly
+described as the risk premium, fills many volumes of finance journals. Even while recognizing
+the complexities surrounding estimation of the risk premium, asset allocators must deal with
+the issue explicitly or implicitly. The historical risk premium of 8.1 percent appears to be
+excessive, resulting in large part from the extraordinary performance of U.S. equities over the
+past twenty-five years. Moreover, the time series of equity and bond returns suggests that the
+risk premium has declined through time. Combining the tendency of a high risk premium to
+mean revert with the observation that the equity risk premium seems to decline secularly,
+Justifies an assumption for U.S. cquity returns of 6 percent real with standard deviation of 20
+percent.
+Making appropriate geographic groupings of various national equity markets poses
+interesting analytical questions. Approaches range from global to regional to single country. A
+global equity asset class fails to recognize the critical contribution that currency movements
+make to investment returns, while individual country asset classes create too many variables for
+reasonable analysis. Separating domestic equities from foreign allows investors to account for
+critical home country characteristics, particularly with respect to currency. A further
+distinction between developed and emerging markets groups assets with respect to important
+differentiating risk and return characteristics.
+Developed economics tend to share similar economic and market fundamentals. In the long
+run, stock markets in Germany, Japan, and the United Kingdom ought to generate returns
+similar to those of the United States, while exposing investors to similar risk levels. Assumed
+foreign developed market returns of 6 percent with risk of 20 percent match expectations for
+U.S. equities,
+Relative to other marketable equities, emerging market equities expose investors to
+substantially greater fundamental risks, causing rational investors to expect higher rewards and
+higher volatility. Expected real returns of 8 percent compensate holders of emerging market
+equities for accepting high levels of risk, represented by a 25 percent standard deviation of
+returns.
+Alternative Asset Characteristics
+Nontraditional asset classes pose interesting challenges to the financial model builder. Unlike
+traditional marketable securities, alternative assets exist outside established markets. No
+benchmark returns guide investors seeking to model asset characteristics. Past data, limited in
+scope, generally describe active manager returns, with results sometimes inflated by
+survivorship bias. Without reliable historical information upon which to base forecasts,
+investors must produce estimates of expected return and risk by considering alternative asset
+classes from a fundamental perspective.
+Absolute Return
+Absolute return investing, first identified as a distinct asset class by Yale University in 1990,
+relies on active management for its very existence. Dedicated to exploiting inefficiencies in
+pricing marketable securities, absolute return managers attempt to produce equity-like returns
+uncorrelated to traditional marketable securities through investments in event-driven and
+value-driven strategies. Event-driven strategies, including merger arbitrage and distressed
+security investing, depend on the completion of a corporate finance transaction such as a
+merger or corporate restructuring. Value-driven strategics employ offsetting long and short
+positions to eliminate market exposure, relying on market recognition of mispricings to
+generate returns. Generally, absolute return investments involve transactions with relatively
+short time horizons, ranging from several months to a year or two.
+From the perspective of the late 1980s, observers might have concluded that absolute return
+investing produces returns in the neighborhood of 20 percent per annum. Hedge funds had
+produced impressive historical records, showing high returns with low risk and with little
+correlation to traditional marketable securities. Yet if investors take no systematic risk, they
+deserve a money market rate of return. In an environment with a 4 percent cost of funds, 20
+percent returns from a market neutral portfolio imply excess returns of 16 percent! The high
+observed returns stem from survivorship bias, a case of past performance raising the profile of
+successful firms and causing less successful firms to languish in obscurity. Survivorship-bias-
+infected data provide little help in fashioning market forecasts.
+Bottom-up evaluation of value-driven absolute return investments leads to better
+understanding of future performance. In value-driven transactions, managers often take long
+and short positions in marketable equities, eliminating the impact of the market and creating
+two opportunities to generate excess returns. Assume a manager in the top quartile in domestic
+equities generates 2.6 percent excess returns. If the manager earns the same excess return on
+both sides of the portfolio, long and short, gross returns total 8.9 percent, resulting from
+adding a 3.7 percent short-term rate of return to a 2.6 percent alpha for long positions and 26
+percent alpha for short positions. Based on past experience, producing 2.6 percent excess
+returns represents a substantial achievement, suggesting that this analysis relies on aggressive
+assumptions. After paying management fees and incentive compensation, the investor nets
+approximately 6.3 percent. On a bottom-up basis, justifying return expectations of 20 percent
+proves difficult. In fact, the long/short investor needs to produce excess returns of more than
+10 percent on both sides of the portfolio to deliver 20 percent net returns to investors.
+Producing such performance over extended periods of time would literally put a manager off
+the charts.
+In the early years of an asset class, historical data suffer from extreme survivorship bias,
+causing forward-looking assumptions to differ dramatically from past statistics. In 1997, Yale's
+absolute return data, which reflected a combination of actual experience and market returns,
+showed a staggering 17.6 percent return with impressively low volatility of 11.8 percent. If
+credible, the absolute return numbers indicated returns nearly double those of domestic
+equities with a risk level of nearly one half. Yale responded by using a conservative approach to
+determine absolute return asset class characteristics, assuming expected returns of 7 percent
+real with risk of 15 percent. Even with this substantial adjustment the numbers suggested that
+absolute return investments would generate higher returns than domestic stocks with less risk.
+As asset classes mature, the issue of survivorship bias wanes. Consultants collect current
+returns from a critical mass of participants, reducing the impact of a few attention grabbing
+records. With a larger base of managers, the return inflating addition of new entrants' historical
+records, a.k.a. backfill bias, plays less of a role. As a result, Yale's current absolute return
+assumptions correspond more closely to historical experience, with equity-like real returns of 6
+percent and below-equity-like risk of 10 percent.
+Private Equity
+Private equity includes venture capital and leveraged buyout participations, assets that respond
+to market influences in a manner similar to marketable equities. In fact, both venture and
+buyout investments resemble high-risk equity assets, raising the possibility of classifying the
+private assets with marketable securities.
+Private managers pursuing purely financial strategies lay the weakest claim to managing a
+separate asset class. In the buyout arena, simply adding leverage to a company's balance sheet
+does little to distance the private investment from the public corporation. In the case of
+venture investing, a provider of late stage pre-IPO equity finance owns assets nearly identical to
+small-capitalization, publicly traded equity securities. Since private investments created
+through financial engineering strongly resemble their marketable security counterparts, the
+argument for segregating such private assets from public securities rests primarily on
+differences in liquidity.
+A stronger justification for treating private equity as a distinct asset class stems from value-
+added management by investment principals. To the extent that venture capitalists contribute
+to the process of bringing a company from an idea with no revenues to a reality with tens of
+millions of dollars in revenues, value creation occurs independent of market activity. A buyout
+specialist who produces meaningful operating improvements generates similarly noncorrelated
+returns. Superior opportunities for value creation, combined with liquidity and structural
+differences, support treatment of private equity as a distinct asset class.
+Historical data provide limited guidance in fashioning forwardlooking capital markets
+assumptions. Infrequent marks-to-market cause private assets to appear less volatile than the
+underlying reality. Startup companies held in a venture capitalist's partnership receive only
+occasional valuations, leading to relatively low levels of observed risk. Subsequent to an initial
+public offering, when a company begins day-to-day trading, measured volatility increases
+dramatically. Obviously, truc risk tends to decrease as companies mature, suggesting that the
+observed volatility level understates risk for privately held assets. Historical data on buyout
+returns suffer from the same problem of unnaturally low levels of observed historical risk. The
+combination of infrequent reporting and market insensitive valuation policies serve to disguise
+true risk levels.
+Guidance for specifying private equity risk and return attributes comes from the expected
+relationship with marketable equity investments. Illiquidity and higher risk in private assets
+demand a substantial premium over domestic equity's expectations of 6 percent returns with
+20 percent risk. Assuming that private equity investments generate 12 percent returns with a
+risk level of 30 percent represents an appropriately conservative modification of the historical
+record of 12.8 percent returns with a 23.1 percent risk level.
+Real Assets
+The real assets category includes real estate, oil and gas, and timber-land, which share the
+common characteristics of sensitivity to inflationary forces, high and visible current cash flow,
+and opportunity to exploit inefficiencies. Real assets provide attractive return prospects,
+excellent portfolio diversification, and a hedge against unanticipated inflation.
+Despite important similarities, the three subasset classes differ from one another, showing
+only modest correlations, as supply of and demand for each depends on fundamentally
+different factors. For example, recent history indicates that oil and gas investments exhibit
+negative correlation to real estate and timber. Such diversification within real assets helps to
+produce steady returns through a variety of economic environments.
+Real estate constitutes the core of Yale's real assets portfolio with a weight of 50 percent.
+Real estate markets provide dramatically cyclical returns. Looking in the rearview mirror in the
+late 1980s, investors rushed into real estate lured by returns that dominated those for
+traditional stocks and bonds. A few years later, after the market collapse, those same investors
+saw nothing other than dismal prospects for real estate. Poor returns nearly eliminated interest
+in real estate as an institutional investment asset. Reality lay somewhere between the extremes
+of wild enthusiasm and deep despair.
+Real estate embodies characteristics of both debt and equity. Lease payments, the
+contractual responsibility of tenants, resemble fixed income obligations, while the property's
+residual value contains equity-like attributes. In extreme cases, real estate investments become
+nearly bond-like. For example, properties subject to long-term, triple-net leases provide cash
+flows that resemble bond coupon payments. In contrast, some real estate consists almost
+entirely of residual value. For example, hotel properties, with daily leases, provide nearly pure
+equity characteristics. Most real estate falls in the middle of the continuum, containing
+elements of debt and equity.
+Oil and gas investments range from relatively conservative reserve purchases to relatively
+risky wildcat drilling. The real assets class focuses on acquisitions of producing properties,
+because in place cash flows assure inflation sensitivity. The riskier exploration activities belong
+in the private equity arena, at least until reserves are discovered (or not).
+Oil and gas reserves generate extraordinary cash flows as production depletes reservoirs,
+causing investors to receive a combination of return on capital and return of capital. The
+reserve cash flows exhibit extremely high correlation to published energy prices, although
+variations in geography and quality produce differentials.
+Timber investments round out the real assets trio. Although timber shares the characteristic
+of inflation sensitivity with real estate and oil and gas, because timber plays less of a role in the
+general economy, timber prices exhibit less correlation with general price levels. Financially
+astute timber owners manage holdings on a sustainable basis, cutting the amount of wood
+produced each year through biological growth. When managed on a sustainable basis, the
+productive capacity of the forest remains intact, preserving value across generations.
+Sustainable forest management does not require lockstep harvesting of a single year's
+biological growth. If timber prices appear to be relatively low, the cutting program can be
+curtailed, deferring current year harvests to future years. In fact, the forestland owner receives a
+bonus in the form of an additional year's biological growth as the payment for patience. Pay for
+patience in the timber arena contrasts with the depletion characteristic of oil and gas
+investments.
+Real assets returns might be expected to fall between the expected return for stocks and the
+expected return for bonds, consistent with the expectation that real assets risk falls between
+that for stocks and that for bonds. In fact, inefficiencies in pricing of real assets argue for higher
+expected returns, suggesting parity in return expectations for real assets and for stocks and
+leading to an assumption of 6 percent real returns.
+As in the case of absolute return data, historical real assets volatility numbers require
+modification. With marketable equity risk at 20 percent and bond risk at 10 percent, observed
+real assets risk of 6.8 percent seems inconsistent with the asset class's fundamental
+characteristics. Because real assets data come predominantly from infrequently conducted
+appraisals, reported returns fail to capture true economic volatility. Not only does infrequent
+sampling reduce opportunity to observe price fluctuations, the appraisal process tends to
+perpetuate whatever biases influenced past appraisals. Expected real assets risk of 15 percent lies
+between bond risk of 10 percent and stock risk of 20 percent. Developing capital markets
+assumptions by evaluating fundamental asset class characteristics allows investors to create a
+reasonable framework for portfolio assessment independent of cyclical market conditions.
+Correlation Matrix Assumptions
+The correlation matrix is the most difficult set of mean-variance optimization variables to
+specify. Less intuitive than either means of variances, correlations indicate the degree to which
+asset class returns tend to move with one another.
+Considering the relationship between bond and stock returns in various economic scenarios
+highlights the difficulties in specifying correlations. Under normal circumstances, bond returns
+exhibit high positive correlation to stock returns. When interest rates fall, bond prices rise as a
+result of the inverse relationship between prices and yields. When interest rates decline, stock
+prices tend to rise as investors subject future earnings streams to lower discount rates. Strong
+positive correlations between stocks and bonds in normal environments produce little
+diversifying power.
+In the case of unanticipated inflation, bonds suffer. Inflationary price increases crode
+purchasing power of fixed nominal bond payments, causing investors to push bond prices
+down. While inflation may have negative short-term consequences for stocks, in the long run
+stocks react positively to inflation. With unexpected inflation, the long-term correlation
+between stocks and bonds proves to be low, providing substantial diversification to the
+portfolio.
+Table 5.3 Historical Correlation Matrix Provides a Starting Point for Defining the
+Relationship Between Asset Classes
+U.S.
+Historical Correlation Matrix
+Developed
+Bonds Equity
+Emerging Absolute
+Equity
+Return
+U.S.
+Equity
+U.S.equity 1.00
+U.S. bonds 0.01
+Developed 0.58
+equity
+1.00
+0.04 1.00
+0.22 10.57
+1.00
+Emerging 0.40
+0.11
+equity
+Absolute return 0.69
+Private equity 0.41
+Real assets
+Cash
+0,38 10.27
+0.17
+-0.12
+1.00
+0.01
+0.10
+-0.06 0.50
+Sourver Historical Data Sources: U.S. Equity: 70 percent weight on the S&12500 (1926-2005) plus 30 percent weight
+on the Russell 2000 (1979-2005) or DFA Small Companies Deciles 6-10 (1926-1978). US Bonds Lehman Brothers
+Government Bond Index (1973-2005) and Ibbotson Intermediate Term Government Bond Index (1926-1972).
+Developed Equity: MSCI EAFE Index. Emerging Equity: DFC Emerging Markets Index (1985-1997), MSCI
+Emerging Markers Free (1998-2003) and MSCI Emerging Markets (2004-2005). Absolute Return: Weighted Average
+Composite of Cambridge Associates' Data (1989-1993) and Tremont composite indexes (1994-2005). Private
+Equity: Cambridge Associates. Real Assets: Cambridge Associates and NCREIF
+0.53
+0.32
+0.07
+-0.15
+Private
+Equity
+1.00
+0.61
+-0.22
+10.09
+Reall
+Assets
+1.00
+0.13
+-0.18
+1.00
+0.06
+Cash
+In a deflationary environment stocks perform poorly as economic woes cause earnings to
+suffer. In contrast, bonds generate handsome returns since fixed payments appear increasingly
+attractive as price levels decline. During periods of deflation, low or negative correlation
+between stocks and bonds provides strong diversification.
+The fundamentally different behavior of stock returns and band returns in environments of
+met and unmet inflationary expectations poses a conundrum to the financial modeler. Should
+the expected nondiversifying correlation apply or should the unexpected diversifying
+correlation apply? The fact that investors care more about the diversifying role of bonds in
+unexpected (particularly deflationary) circumstances magnifies the dilemma.
+Data specification techniques for quantitative models evolve over time. When Yale began
+using mean-variance optimization in 1986, the university employed unadjusted historical data
+for risk, return, and correlation assumptions. Calendar year 1986 returns provided a wakeup
+call. When the time series of data incorporated the S&P 500 return of 18.5 percent and the
+EAFE return of 69.9 percent, relative historical returns moved in favor of foreign equities.
+Recognizing the perversity of assuming that what has done well will continue to do well, in
+1987 the Investments Office modified expected return data to create an internally consistent set
+of return assumptions. In 1988, risk levels underwent the same type of judgmental scrubbing
+that had been applied to return data the year before. Finally, in 1994, the Investments Office
+adjusted the correlation matrix to reflect the staff's informed judgments regarding expected
+correlations. Table 5.3 shows an unadjusted set of historical data and Table 5.4 depicts Yale's
+modified set of correlation assumptions. As investors accumulate experience with
+implementing quantitative models, the process becomes more intuitive, increasing the richness
+of the analysis and conclusions.
+Table 5.4 Modified Correlation Matrix Reflects Assumptions About Future
+Interrelationships
+Modified Correlation Matrix
+U.S.
+Equity
+€1.00
+0.40
+0.70
+U.S.
+Bonds
+0.60
+U.S.equity
+U.S. bonds
+Developed
+equity
+Emerging
+equity
+0.25
+0.15
+0.15
+0.20
+0.60
+0.10
+Absolute return 0.30
+Private equity 070
+Real assets 0.20
+Cash
+0.10
+0.50
+0.00
+Source: Yale University Investments Office.
+1.00
+0.25
+Developed
+Equity
+0.20
+1.00
+0.75
+Emerging Absolute
+Equity
+Return
+1.00
+0,20
+0.25
+CL15
+0.00
+1.00
+0.20
+0.15
+0.35
+Private
+Equity
+1.00
+10.30
+0.00
+Real
+Assets
+1.00
+10.30
+Cash
+1.00
+A reasonable set of capital markets assumptions serves as the basis for serious quantitative
+portfolio analysis. Developing sensible relative relationships produces a group of efficient
+portfolios, helping investors select superior asset allocation strategies. The more difficult-to-
+estimate specific levels of future returns provide necessary input in assessing the capacity of
+portfolios to support specified spending levels. A thoughtful set of capital markets assumptions
+contributes to a rigorous disciplined framework for the analysis of fundamental investment
+issues.
+Misuse of Mean-Variance Optimization
+Despite mean-variance optimization's potential for making a positive contribution to portfolio
+structuring, dangerous conclusions result from poorly considered forecasts. Some of the most
+egregious errors committed with mean-variance analysis involve inappropriate use of historical
+data. Consider allocations to real estate in the late 1980s. Real estate provided extremely strong
+returns during the 1980s with relatively low volatility and relatively low correlation to
+traditional marketable securities. Not surprisingly, naive application of mean-variance analysis
+led to recommendations of extraordinary allocations to real estate.
+The spring 1988 Journal of Portfolio Management study by Paul Firstenberg, Stephen Ross,
+and Randall Zisler, "Real Estate: The Whole Story" concluded that institutional allocations to
+real estate should be increased dramatically from the then current average of under 4 percent of
+portfolio assets. The authors based their conclusions on data showing government bonds with
+returns of 7.9 percent and risk (standard deviation) of 11.5 percent, common stocks with
+returns of 9.7 percent and risk of 15.4 percent, and real estate with returns of 13.9 percent and
+risk of 2.6 percent. Although, for purposes of their study, the authors increased real estate risk
+levels from historical levels to more reasonable levels, their mean variance results were anything
+but sensible. Efficient portfolio mixes included between 0 and 40 percent in government
+bonds, between 0 and 20 percent in stocks, and between 49 and 100 percent in real estate.
+Fortunately, the authors tempered their enthusiasm in taking the "pragmatic perspective...
+that pension funds should seek initial real estate allocations of between 15 to 20 percent."8
+The mean-variance optimizer favored real estate because of past high returns, past low risk,
+and past low correlation with other asset classes. The return expectation for real estate exceeded
+that for stocks by 4.2 percent. Although historical real estate risk levels measured only 2.6
+percent standard deviation of returns, Firstenberg used a valuation model to justify increasing
+risk levels to 11.3 percent, slightly below the assumed volatility of government bonds. The
+authors' favored real estate time series showed negative correlation with both domestic stocks
+(-0.26) and government bonds (-0.38). When the highest returning asset class exhibits the
+lowest risk and negative correlation with other asset classes, mean-variance optimizers reach the
+obvious conclusion.
+The fundamental flaw in the Firstenberg study stems from failure to examine critically the
+real estate capital markets assumptions. Why should real estate be expected to return more than
+stocks and bonds? Why should real estate have lower risk than stocks and bonds? Why should
+real estate exhibit negative correlation with stocks and bonds? Real estate contains
+characteristics of both debt and equity. The stream of contractual lease payments resembles
+fixed income, while the residual value shows equity-like characteristics. Hence, return and risk
+expectations logically flow from and fall between those for stocks and bonds. Similarities in
+factors driving valuations of real estate and traditional marketable securities lead to the
+conclusion that correlations might be expected to be positive, albeit less than one. Instead of
+focusing only on adjusting the risk level of real estate, Firstenberg and his co-authors should
+have adjusted return and correlation levels as well.
+Had an investor followed the Firstenberg advice and overweighted real estate in 1988,
+portfolio results would have disappointed because both stocks and bonds dramatically
+outperformed real estate in subsequent years. From 1988 to 1997, real estate returned an
+annualized 4.4 percent with stocks and bonds generating annual results of 18.0 percent and 8.3
+percent, respectively. When relying on historical data, after a bull market run, asset classes
+appear most attractive just when future prospects prove bleakest.
+Investors relying on historical data in cyclical markets invite whipsaw. In the early 1990s,
+after a period of disastrous real estate performance, the asset appeared less appealing as poor
+results were incorporated into past returns. Investors employing the Firstenberg approach
+increased real estate holdings in the late 1980s and avoided real estate investments in the early
+1990s, buying high and selling low. In the deeply cyclical real estate market, historical data
+suggest high allocations at market peaks (when returns have been high and risks low) and low
+allocations at market troughs (when returns have been low and risks high). Past returns provide
+perverse signals to backward looking investors.
+TESTING THE ALLOCATION
+For many investors, defining the efficient frontier represents the ultimate goal of quantitative
+portfolio analysis. Choosing from the set of portfolios on the frontier ensures that, given the
+underlying assumptions, no superior portfolio exists. Unfortunately, mean-variance
+optimization provides little useful guidance in choosing a particular point on the efficient
+frontier. Academics suggest specifying a utility function and choosing the portfolio at the
+point of tangency with the efficient frontier. Such advice proves useful only in the unlikely
+event that investors find it possible to articulate a utility function in which utility relates solely
+to the mean and variance of expected returns.
+Identifying a set of a mean-variance-efficient portfolios fails to finish the task at hand. After
+defining the efficient frontier, investors must determine which combination of assets best
+meets the goals articulated for the endowment fund. Successful portfolios must satisfy the two
+goals of endowment management: preservation of purchasing power and provision of
+substantial, sustainable support for operations. To assess the ability of a portfolio to meet these
+goals, creative modelers fashion quantifiable tests.
+Preserving purchasing power represents a long-term goal. Endowed institutions promise
+donors that gifts to endowment will support designated purposes in perpetuity. Evaluating
+success or failure in meeting the endowment preservation goal requires a long-term measure,
+spanning generations. For example, Yale quantifies failure to maintain endowment value as
+losing one-half of purchasing power over fifty years.
+Providing stable operating budget support represents an intermediate-term goal. Because
+university operations require stable sources of support, dramatic short-term declines in
+endowment income prove difficult to accommodate. Yale defines spending trauma as a 10
+percent reduction in real endowment distributions over five years.
+The quantitative descriptions of failure to maintain purchasing power and failure to
+provide spending stability necessarily vary from institution to institution. In fact, the metrics
+may change over time. In the late 1980s, when Yale began using quantitative tools to assess
+portfolio efficacy, the endowment provided approximately 10 percent of revenues. At that
+time, Yale defined spending trauma as a 25 percent real decline over five years. As the
+importance of the endowment to the budget grew, the consequences of a material decline in
+endowment spending grew commensurately. In 2001, when the endowment provided
+approximately one-third of revenues, the university redefined spending trauma as a 10 percent
+real decline in revenues over five years.
+Unfortunately, a clear, direct trade-off exists between preserving purchasing power and
+supplying stable support for operations. Although obvious challenges preclude fashioning
+precisely equivalent measures of failure to preserve endowment assets and failure to provide
+stable operating budget support, obtaining rough equivalence between the two measures
+proves helpful in evaluating trade-offs between the two goals. The challenge for fiduciaries lies
+in selecting the portfolio best suited to satisfy, to the extent possible, both goals. Quantitative
+performance tests facilitate portfolio choice.
+Simulating the Future
+Once goals have been articulated and quantified, statistical simulations provide a mechanism
+for evaluating investment and spending policies. Investors begin with a spending policy,
+specifying a target rate and an averaging process. The spending policy remains constant as
+various investment portfolios undergo the simulation process.IV
+Simulations employ the capital markets assumptions developed for the mean-variance
+optimization. Returns for each asset class, based on assumed returns, risks, and correlations
+and drawn from the specified distributions, determine portfolio returns for the initial period.
+The spending rule dictates the amount withdrawn from endowment, leaving the residual to be
+invested in the second period. After rebalancing the portfolio to long-term policy weights,
+repeating the return generating process provides data on endowment value and spending level
+for the subsequent year. The process continues, creating a time series of spending and
+endowment values.
+The simulation process described above creates one specific path, a far-from-robust test of
+portfolio characteristics. To increase the information content of the test, analysts conduct
+literally thousands of simulations, providing reams of data on future spending and endowment
+levels. The collective results produce a vivid picture of the future, allowing calculation of
+probabilities of failure to preserve assets and failure to provide stable budgetary support.
+Interpreting the simulated results requires a combination of quantitative and qualitative
+judgment. Some portfolios fall from consideration on the basis that they are dominated by
+portfolios that have lower probabilities of failing to meet each of the goals. Other portfolios fail
+because they skew too much toward satisfying one goal at the expense of the other. Once
+investors eliminate clearly inferior portfolios, decision makers assess the qualitative trade-offs
+between reducing risk on one measure while increasing risk on another. In the final analysis,
+portfolio selection involves careful subjective assessment of trade-offs between conflicting goals.
+One significant benefit of running simulations lies in the direct link between the
+quantitative analysis and the goals articulated for endowment management Mean-variance
+optimization, run in isolation, produces a set of efficient portfolios. The fund manager, faced
+with a set of efficient combinations of assets, chooses between them with little idea which
+portfolio might best address the fund's needs. How should investors choose between Figure
+5.1's portfolio A with an expected return of 5.75 percent and standard deviation of 10.0
+percent, and portfolio B with an expected return of 7.1 percent and standard deviation of 14.5
+percent? Economists might suggest that a utility function be employed to identify the
+appropriate asset allocation. Since few market participants would have any idea how to specify
+such a function, this technique proves remarkably unhelpful.
+In contrast, simulation data address directly the issue facing fiduciaries, describing the trade-
+off between the conflicting goals of endowment management. Figure 5.2 shows the set of
+choices identi through a program of simulations. In selecting either portfolio A with 28.4
+percent probability of a disruptive spending drop and 29.6 percent probability of long-term
+purchasing power impairment, or portfolio B with 24.9 percent probability of a disruptive
+spending drop and 27.0 percent probability of purchasing power impairment, investors express
+preferences on the trade-off between two goals central to an endowment's mission. Instead of
+wondering about the impact on institutional goals of a mean-variance efficient portfolio with
+certain expected risk and return characteristics, simulations allow investors to examine the
+degree to which spending and investment policies serve articulated goals. Simulations build on
+the foundation of mean-variance optimization, allowing direct assessment of goals identified by
+fund fiduciaries.
+Figure 5.1 Mean Variance Optimization Fails to Provide Clear Guidance to Decision-
+Makers
+Expected Return (mare)
+13%
+7.0%
+4.2%
+Pur
+5.3%
+3P%
+Spending Drop (DSD)
+Portfolio A
+Expected Retum= 5.75%
+Standard Deviation - 100%
+80% 100%
+30.0%
+26.
+20.04
+21.5%
+Source: Yale Investments Office
+Figure 5.2 Simulations Allow Decision Makers to Understand Trade-Off's Between
+Critical Goals
+24.0%
+27.3%
+279%)
+20%
+11.06
+zaurs
+12.0% 131%
+Standard Deviation
+Portfolio B
+DSD Probability = 24.9%
+PPI Probability = 27.0%
+25.05
+Portfolio D
+Expected Return = 7.1%
+Standard Deylation=14.3%
+27.4%
+340%
+150%
+2405
+Probability of Purchasing Power Imprint (PPT)
+Partiolie A
+DSD Probability - 20.4%
+PPT Probabiry-206%
+K
+16 0%
+50%
+Source: Yale Investments Office
+Simulations liberate mean-variance analysis from another of its practical limitations: the use
+of a single, frequently one-year investment period. Forward-looking simulations address the
+problem by allowing the use of any desired time frame. The intermediate-term issue of
+providing stable operating budget support can be analyzed in an intermediate-term context.
+The long-term issue of preserving purchasing power can be evaluated in a long-term context.
+By employing simulations, the mean-variance abstraction of a set of portfolios that provide the
+highest expected return for a given level of risk gives way to concrete measures of the degree to
+which portfolios meet investor goals.
+Results of Disciplined Portfolio Management
+The use of quantitative tools makes a difference. For example, Figure 5.3 shows the
+improvement in Yale's portfolio from 1985 to 2005 as the university applied quantitative asset
+allocation techniques to endowment management. The improvements in expected spending
+stability and prospective purchasing power preservation came in spite of three increases in the
+spending rate.
+Some observers question the robustness of conclusions based on a set of institution-specific
+capital markets assumptions. While far from dispositive, examining the results of portfolios
+managed using mean-variance optimization provides some insight into the answer.
+Among college and university endowments, Yale, Harvard, Princeton, and Stanford have a
+particularly long history of using quantitative portfolio management tools. Although minor
+variations in conclusions result from differences in data inputs and investment preferences
+among the four institutions, specific portfolio recommendations tend to be supported by all
+four sets of assumptions. As illustrated in Table 5.5, the independently derived sets of capital
+markets assumptions produce reasonably similar results.
+The largest university endowments pursue asset allocation strategies dramatically different
+from those of other educational institutions. Yale, Harvard, Princeton, and Stanford exhibit
+substantially greater diversification than the average endowment. Domestic equities dominate
+most endowment portfolios, averaging 42 percent of assets, while the better-diversified large
+institutional portfolios commit only 15 percent to domestic equities. Domestic bonds account
+for 20 percent of the average endowment's portfolio in contrast to an allocation of 11 percent
+by Yale, Harvard, Princeton, and Stanford. Private assets, including venture capital, leveraged
+buyouts, real estate, timber, and oil and gas, which barely register among the broad group of
+educational institutions and account for less than 10 percent of assets, play an important role
+for the major endowments with an allocation of 40 percent. Disciplined quantitative modeling
+techniques encourage investors to create well-diversified portfolios.
+Figure 5.3 Yale Reduces Spending Volatility and Risk to Purchasing Power
+U.S. equity
+U.S. bonds
+Foreign equity
+Absolute return
+Probability that Haal Vale of
+Endowment Halves in Pilty Years
+Private equity
+Real assets
+Cash
+US
+1PM
+11%
+20%
+Source: Yale University Investments Office.
+Table 5.5 Large University Endowments Pursue More Diversified Investment
+Approaches
+Target Asset Allocation, Expected Return, and Standard Deviation of Yale, Harvard, Princeton,
+and Stanford Universities, Compared to University Mean, June 30, 2006
+Yale Harvard Princeton Stanford
+12% 15%
+4
+21
+15
+15
+25
+12
+25%
+Probability of 100% Real Spending Drog Over Year Perled
+0
+6.9%
+118
+Expected return
+Standard deviation
+Source Yale University Investments Office
+13
+29
+$
+6.3%
+11.7
+12%
+7
+25
+20
+12.1
+20%
+12
+15
+20
+10
+23
+10
+6.2%
+11.3
+Mean
+15%
+11
+16
+21
+15
+25
+-1
+6.6%
+114
+CONCLUSION
+Endowment Mean
+42,6
+20
+15
+11
+4
+5
+2
+5.5%
+13.2
+The largest university endowments pursue higher return strategies, causing expected returns
+for the funds to exceed the average by 1.1 percent, a substantial increment relative to the
+broader group's expected return of 5.5 percent. In spite of producing greater expected returns,
+large institution portfolio risk levels actually fall below risk estimates for the less well-diversified
+endowments. Employing rigorous quantitative portfolio analysis contributes to the
+construction of diversified, high-return portfolios.
+Built on the philosophical principles of equity orientation and diversification, asset allocation
+decisions provide the framework that supports creation of effective investment portfolios.
+Placing policy allocation targets at the center of the investment process lends a measure of
+stability to funds invested in an uncertain world.
+Purely statistical descriptions of various asset allocation alternatives provide little guidance
+for decision makers. The widely used Markowitz mean-variance optimization process produces
+a set of efficient portfolios, fully described by two parameters: expected return (mean) and
+expected risk (standard deviation). Academics identify optimal portfolios by specifying an
+institutional utility function that produces a point of tangency with the mean-variance
+efficient frontier. Even in the unlikely event the academic approach proves helpful, decision
+makers wonder how the chosen portfolio will interact with the institution's spending policy.
+A number of problems implicit in most applications of mean-variance analysis limit its
+usefulness in evaluating portfolios. Incorporating sensible qualitative considerations into the
+asset allocation process represents a critical factor in reaching reasonable conclusions. Informed
+judgment plays a significant role in selecting and defining asset classes, as well as in constructing
+a coherent set of capital markets assumptions. Combining powerful quantitative tools and
+sensible qualitative decisions provides a starting point for asset allocation decisions.
+The use of simulations to test portfolios created through mean-variance optimization allows
+assessment of the effectiveness of investment and spending policies over appropriate time
+horizons. Employing the same capital markets assumptions used in mean-variance analysis, the
+simulations allow examination of longer time frames, consideration of interaction between
+spending and investment policies, and translation of statistical capital market and portfolio
+characteristics into relevant quantitative criteria for decision makers.
+Failure to achieve investment goals defines portfolio risk in the most fundamental way.
+Goals, and risks following therefrom, must be described in a manner allowing investment
+fiduciaries to understand trade-off's between various portfolios. By evaluating portfolios in
+terms of probabilities of maintaining purchasing power and providing stable spending streams,
+fiduciaries understand and choose among alternatives defined in the context of criteria directly
+relevant to institutional objectives.
+Portfolios generated through a combination of mean-variance optimization and forward-
+looking simulation suffer from a number of limitations. The results depend on assumptions
+regarding future returns, risks, and covariances. While precise levels of return estimates are
+certain to be wrong, much of the power of the analysis stems from evaluating casier-to-assess
+relative relationships. If the quality of the capital markets return and risk assumptions
+represented the greatest hurdles, conclusions reached through quantitative analysis would be
+quite robust.
+More serious problems stem from instability in the risk and covariance characteristics of
+asset classes. The tendency of markets for risky assets to move together in times of crisis reduces
+the value of diversification, at least in the short run. Questions regarding the nature of
+distributions of securities returns and the stability of relationships between asset classes pose
+serious challenges to quantitative modeling of asset allocation. Nonetheless, the process of
+quantifying portfolio analysis provides discipline lacking in less rigorous approaches to
+portfolio construction.
+A systematic, quantitative portfolio construction process lies at the heart of portfolio
+management activity, providing a disciplined framework within which qualitative judgments
+inform portfolio decisions. By recognizing and affirming the centrality of policy asset allocation
+targets, fund managers sensibly focus on the most powerful investment management tool.
+Ultimately, thoughtful asset allocation work provides the basis for building a successful
+investment program.

@@ -1,0 +1,943 @@
+3
+Investment and Spending Goals
+Endowment
+Endowment managers pursue the conflicting goals of preserving purchasing power of assets
+and providing substantial flows of resources to the operating budget. If fiduciaries produce
+spending and investment policies that deal successfully with the tension between the goals, the
+institution receives a sustainable contribution from endowment assets to support academic
+programs. Asset preservation and stable budgetary support, if achieved, satisfy the purposes of
+endowment accumulation-maintaining independence, providing stability, and creating a
+margin of excellence.
+Benjamin Franklin observed that death and taxes represent life's only certainties. Managers
+of endowment assets suspend those certainties, as educational institutions aspire to exist in
+perpetuity and endowment assets enjoy exemption from taxes. The perpetual nature of colleges
+and universities makes endowment management one of the investment world's most
+fascinating endeavors. Balancing the tension between preserving long-run asset purchasing
+power and providing substantial current operating support provides a rich set of challenges,
+posing problems unique to endowed educational institutions.
+Purchasing power preservation represents a long-term goal, spanning generations.
+Successfully managed endowments retain forever the ability to provide a particular level of
+institutional support, justifying the classification of endowment funds as permanent assets.
+Pursuit of long-term asset preservation requires seeking high returns, accepting the
+accompanying fundamental risk and associated market volatility.
+Stable operating support constitutes an intermediate-term goal, reflecting the demands of a
+shorter-term budgetary planning cycle. Since academic programs contract only with great
+difficulty, institutions rely on reasonably predictable flows of funds from endowment to
+support operations. Supplying stable distributions for current operations requires dampening
+portfolio volatility, suggesting lower levels of fundamental risk with the accompanying lower
+levels of expected returns.
+The high risk, high return investment policy best suited to serve asset preservation conflicts
+with the low risk, low return investment approach more likely to produce stable distributions
+to the operating budget. Spending policies deal with the conflict, in part by dampening the
+transmission of portfolio volatility to budgetary distributions. Further, by specifying
+institutional preferences regarding the trade-off between purchasing power preservation and
+stability of flows to fund operations, spending policies determine the degree to which
+endowments meet the needs of current and future generations.
+INVESTMENT GOALS
+The late Yale economist James Tobin captured the essence of the investment problem facing
+fiduciaries:
+The trustees of an endowed institution are the guardians of the future against the claims
+of the present. Their task is to preserve equity among generations. The trustees of an
+endowed university like my own assume the institution to be immortal. They want to
+know, therefore, the rate of consumption from endowment which can be sustained
+indefinitely.... In formal terms, the trustees are supposed to have a zero subjective rate
+of time preference.
+Consuming endowment income so defined means in principle that the existing
+endowment can continue to support the same set of activities that it is now supporting.
+This rule says that the current consumption should not benefit from the prospects of
+future gifts to endowment. Sustained consumption rises to encompass and enlarge the
+scope of activities when, but not before, capital gifts enlarge the endowment.1
+Tobin's concept of intergenerational equity comports with the goals of purchasing power
+preservation and stable operating budget support. By preserving endowment assets adjusted
+for inflation, the institution retains the ability to "support the same set of activities that it is
+now supporting." In supplying a stable flow of resources for operations, the endowment
+provides continuity of support, avoiding disruptive interruptions in distributions to academic
+programs.
+Gifts and Endowment
+When making an endowment gift, donors intend to provide permanent support for the
+designated activity. If financial managers maintain only the nominal value of gifts, inflation
+ultimately reduces to insignificance the impact of the fund. Yale's oldest surviving endowment
+fund dedicated to the support of teaching, the Timothy Dwight Professorship Fund
+established in 1822, entered the university's books at an historical cost basis slightly in excess of
+$27,000. Because price levels rose nearly twenty-seven fold in the intervening 185 years, a 2007
+distribution from an endowment of $27,000 pales in comparison to an 1822 distribution from
+the same size fund. While during the Dwight Professorship's existence, the fund grew more
+than eighteen times to nearly $500,000, the current value falls short of the inflation-adjusted
+target by nearly one-third. Even though the university continues to benefit from the Timothy
+Dwight Professorship in the early twenty-first century, after accounting for inflation the fund
+fails to provide the same level of support available in the early nineteenth century. While
+fiduciary principles generally specify only that the institution preserve the nominal value of a
+gift, to provide true permanent support institutions must maintain the inflation-adjusted
+value of a gift.
+Explicitly stating that new gifts allow an institution to "enlarge the scope of activities,"
+Tobin recognizes a principle important to endowment benefactors. Some institutions factor
+gifts into spending considerations, targeting a consumption level equal to the portfolio's
+expected real return plus new gifts. Harvard University, in fashioning its 1974 spending policy,
+assumed that "university expense growth would exceed [the long-term inflation] rate by two
+points. 2 Yet the institution's targeted reinvestment rate offset only the general level of
+inflation, not the higher university expense growth. Obviously, supporting the "same set of
+activities required keeping pace with university expense growth, not general inflation,
+rendering the reinvestment rate inadequate to its purpose. To maintain endowment
+purchasing power, Harvard articulated a goal of accumulating sufficient new capital gifts to
+offset the difference between the general inflation rate and university expense growth. In so
+doing, the university explicitly employed new gifts to replenish inflationary losses.3
+Using new gifts to offset part of the impact of inflation on asset values fails to "enlarge the
+scope of activities supported by endowment. If a fund devoted to supporting a chair in the
+economics department loses purchasing power, establishing a new chair in the law school does
+nothing to replenish the economics department's loss. From a bottom-up basis, donors have
+the right to expect that each individual endowment fund will retain purchasing power through
+time.
+Trade-off Between Today and Tomorrow
+Fund managers charged only with preserving portfolio purchasing power face a
+straightforward task. Simply accumulating a portfolio of Treasury Inflation Protected
+Securities (TIPS) allows investors to generate inflation-sensitive returns guaranteed by the
+government. Unfortunately, the excess of university inflation over general price inflation may
+well consume any incremental returns from TIPS, providing almost no real return to the
+institution. Such single-minded focus on asset preservation fails to meet institutional needs, as
+merely accumulating a portfolio of assets with stable purchasing power provides little, if any,
+benefit to the academic enterprise.
+Endowment assets benefit educational institutions primarily by generating substantial
+reliable distributions to support operations. Fund managers with a narrow focus on providing
+A
+generous predictable spending flows face little problem, particularly when operating with an
+intermediate time horizon. By holding assets that promise low levels of volatility, managers
+create a stable portfolio that allows budget planners to forecast payouts with reasonable
+certainty. Unfortunately, low risk investment portfolios deliver returns insufficient both to
+support substantial distributions and to preserve purchasing power. Exclusive pursuit of stable
+support for current operations favors today's generation of scholars over tomorrow's
+beneficiaries
+A clear direct trade-off exists between preserving assets and supporting operations. To the
+extent that managers focus on maintaining purchasing power of endowment assets, substantial
+volatility influences the flow of resources delivered to the operating budget. To the extent that
+managers emphasize providing a sizable and stable flow of resources to the operating budget,
+substantial volatility influences the purchasing power of endowment assets.
+Consider two extreme policies to determine the annual spending from an endowment. One
+extreme, placing maintenance of asset purchasing power at center stage, requires spending each
+year only the real returns generated by the portfolio. Assume a particular year produces
+investment returns of 10 percent and inflation of 4 percent. Distributing 6 percent of assets to
+the operating units provides substantial support to operations, while reinvesting 4 percent in
+the endowment offsets inflation and maintains purchasing power. The following year, in an
+environment with 2 percent investment returns and 7 percent inflation, the institution faces a
+serious problem. Compensation for inflation requires a 7 percent reinvestment in the
+endowment, but the fund generated a return of only 2 percent. The endowment manager
+cannot ask the operating units for a 5 percent rebate to maintain portfolio purchasing power.
+At best, the institution can declare no distribution, hoping to generate positive real returns in
+following years to replenish lost purchasing power and, perhaps, to provide operational
+support. From an operating budget perspective, a policy that places year-by-year maintenance
+of purchasing power above all else proves unacceptable.
+The other policy extreme, pursuing a goal of providing a completely stable flow of resources
+to the operating budget, requires spending amounts that increase each year by the amount of
+inflation. In the short term, the policy provides perfectly stable inflation-adjusted distributions
+from the endowment to the operating budget. While under normal market conditions such a
+policy might not harm the endowment, serious damage results when faced with a hostile
+financial environment. In a period of high inflation accompanied by bear markets for
+investment assets, spending at a level independent of the value of assets creates the potential to
+permanently damage the endowment fund.
+Spending policies specify the trade-off between protecting endowment assets for
+tomorrow's scholars and providing endowment support for today's beneficiaries. Cleverly
+crafted rules for determining annual endowment distributions reduce the tension between the
+objectives of spending stability and asset preservation, increasing the likelihood of meeting the
+needs of both current and future generations.
+SPENDING POLICY
+Spending policies resolve the tension between the competing goals of preservation of
+endowment and stability in spending. Sensible policies cause current-year spending to relate
+both to prior-year endowment distributions and to contemporaneous endowment values, with
+the former factor providing a core upon which planners can rely and the latter factor
+introducing sensitivity to market influences.
+Yale's Spending Policy
+Based on a structure created by economists James Tobin, William Brainard, Richard Cooper,
+and William Nordhaus, Yale's policy relates current year spending both to the previous level of
+spending from endowment and to the previous endowment market value. Under Yale's rule,
+spending for a given year equals 80 percent of spending in the previous year plus 20 percent of
+the long-term spending rate applied to the endowment's market level at the previous fiscal year
+end. The resulting figure is brought forward to the current year by using an inflation
+adjustment. Since previous levels of spending depend on past endowment market values,
+present spending can be expressed in terms of endowment levels going back through time. The
+resulting lagged adjustment process averages past endowment levels with exponentially
+decreasing weights.
+The accompanying chart, Figure 3.1, shows weights applied to endowment values of
+previous years (ignoring the inflation adjustment). Multiplying the weights by the endowment
+values for the respective years and summing the results determines spending for the current
+year. Note that years farther in the past have less influence on the calculation than more recent
+years. In contrast, a simple four-year average would apply equal 25 percent weights to each of
+the four most recent years.
+By reducing the impact on the operating budget of inevitable fluctuations in endowment
+value caused by investing in risky assets, spending rules that employ an averaging process
+insulate the academic enterprise from unacceptably high year-to-year swings in support.
+Because sensible spending policies dampen the consequences of portfolio volatility, portfolio
+managers gain the freedom to accept greater investment risk with the expectation of achieving
+higher return without exposing the institution to unreasonably large probabilities of
+significant budgetary shortfalls.
+Figure 3.1 Yale's Spending Policy Insulates the Budget from Market Fluctuations
+Influence of Past Endowment Levels in Determining Current Spending
+10%-
+11
+Source Yale University Investments Office
+By doing a particularly effective job of smoothing contributions to the operating budget,
+Yale's elegant spending rule contributes an important measure of flexibility to the university'
+investment policy. Instead of employing a simple averaging process that unceremoniously
+drops the oldest number in favor of the new, as time passes Yale's exponentially declining
+weights gradually squeeze out the influence of a particular year's endowment value. The
+superior smoothing characteristics reduce the transmission of investment volatility to the
+operating budget, allowing pursuit of portfolio strategies promising higher expected returns.
+The 80 percent weight on previous year's spending and the 20 percent weight on current
+target spending reflect institutional choices regarding the trade-off between spending stability
+and purchasing power preservation. Different institutions may well exhibit different
+preferences. Moreover, institutional preferences may change over time. In fact, as Yale's
+endowment support moved from one-tenth of revenues in the mid 1980s to one-third of
+revenues in the mid 2000s, the university opted for greater stability in operating budget
+support. By changing the weight on previous year's spending from 70 percent to 80 percent,
+Yale reduced the likelihood of a disruptive spending drop (at the expense of greater risk to
+purchasing power preservation).
+Other Spending Policies
+Throughout most of the twentieth century, institutions typically followed a practice of
+distributing for current expenditure only income generated in the form of interest, dividends
+and rents. Yale, which in 1965 began spending "a prudent portion of the appreciation in
+market value," noted two reasons for adopting the new policy
+First, it is only by coincidence that Yield will be a correct balance between the present
+and the future.... Second, when Yield is the sole measure of what can be spent for
+present needs, a situation of annually increasing needs, such as has obtained for many
+years and seems likely to continue for many more, forces investment policy to seek to
+improve current Yidd. But this, in turn, under market conditions prevailing most of the
+time since World War II, could only be done at the loss of some potential Gain
+Concerns about "invading principal no doubt underlic the policies of institutions that
+base spending on the income generated by a portfolio. As Yale recognized, the distinction
+between current income and capital appreciation proves too easily manipulated to provide a
+sound foundation for spending policy.
+Consider the spending implications of discount, par, and premium bonds with comparable
+levels of sensitivity to changes in interest rates, as set forth in Table 3.1. Although these bonds
+exhibit remarkably similar investment attributes, spending implications differ dramatically for
+an institution pursuing a policy of consuming all current income. The zero coupon bond
+provides no current cash flow, the par bond generates a 6 percent yield, and the premium bond
+pays out a well-above-market rate of 12 percent. Naturally, holding low coupon bonds leads to
+lower current spending and higher future portfolio value, while the opposite consequences
+stem from owning high coupon bonds. Fortunately, income-based spending rules determine
+spending for far fewer institutions today than in the late 1980s, when nearly one in five of
+educational institutions followed a policy of spending portfolio yield.
+Table 3.1 Otherwise Similar Bonds Generate Dramatically Different Cash Flows
+Coupon, Duration, Price, and Yidd for Three Different Types of Bonds
+Coupon
+Price
+Duration
+10 years
+55.4
+10 years
+100.0
+10 years
+166.5
+The maturity of the zero coupon bond is 10 years, the par bond 15 years, and the premium bond 18.5 years.
+Zero coupon
+Par
+Premium
+Yield
+Today, seven in ten educational institutions determine spending by applying a prespecified
+percentage to a moving average of endowment values. Including past endowment values
+provides stability, because those past values determined in part the previous year's spending.
+Incorporating the current endowment value ensures that spending responds to market
+conditions, avoiding potential for damage caused by spending at levels unrelated to
+endowment value.
+Some institutions spend a prespecified percentage of beginning endowment market value,
+thereby transmitting portfolio volatility directly to the operating budget. On the opposite end
+of the spectrum, some colleges and universities spend a prespecified percentage of the previous
+year's spending potentially threatening endowment purchasing power preservation with
+market insensitive spending levels.
+A number of institutions decide each year on an appropriate rate, or have no established
+rule. This practice, although superficially appealing, fails to instill the financial discipline
+provided by a rigorous spending rule. In the absence of a well-defined spending policy,
+budgetary balance becomes meaningless. Spend enough to bridge the gap between revenues
+and expenses to produce a balanced budget. Spend less to create a deficit. Spend more to
+fashion a surplus. Balance, distress, and prosperity rest in the hands of the spending committee.
+Fiscal discipline disappears.
+Target Spending Rate
+The target rate of spending plays a critical role in determining the degree of intergenerational
+equity. Spending at levels inconsistent with investment returns either diminishes or enhances
+future endowment levels. Too much current spending causes future endowment levels to fall,
+benefiting today's scholars; too little current spending causes future endowment levels to rise,
+benefiting tomorrow's scholars. Selecting a distribution rate appropriate to the endowment
+portfolio balances the demands of today with the responsibilities of tomorrow.
+Target spending rates among endowed institutions range from a surprisingly low 0.1
+percent to an unsustainably high 15.5 percent. More than 70 percent of institutions employ
+target rates between 4.0 percent and 6.0 percent, with about one in six using a 5.0 percent
+rate. The appropriate rate of spending depends on the risk and return characteristics of the
+investment portfolio, the structure of the spending policy, and the preferences expressed by
+trustees regarding the tradcoff between stable budgetary support and asset preservation.
+Analysis of investment and spending policies leads to the conclusion that distribution rates
+for educational institutions generally exceed the return-producing capacity of endowment
+assets. According to a series of simulations conducted by the Yale Investments Office, the
+average endowment faces a nearly 20 percent intermediate-term probability of a disruptive
+decline in operating budget support. More troubling may be the almost 40 percent long-run
+likelihood of losing one-half of endowment purchasing power. High probabilities of
+intermediate-term spending volatility and long-term purchasing power decline indicate an
+inconsistency between expected portfolio returns and projected spending rates. Institutions
+faced with likely failure to meet the central goals of endowment management need to consider
+reducing spending levels or increasing expected portfolio returns.
+In contrast to the average institution's high probability of failing to achieve endowment
+goals, institutions that follow sensible investment and spending policies face much better
+probabilities of success. For example, Yale has a long history of implementing well-articulated,
+disciplined policies. The university currently projects a 5 percent probability of a disruptive
+spending drop (as opposed to nearly 20 percent for the broader universe of institutions) and a
+15 percent probability of purchasing power impairment (as opposed to 40 percent for the
+broader universe). Superior investment and spending policies lead to dramatically higher
+chances for success.
+Endowment spending policies balance the competing objectives of providing substantial
+stable budgetary flows to benefit today's scholars and preserving portfolio assets to support
+tomorrow's academicians. Responsible fiduciaries face the challenging task of evaluating the
+ability of investment and spending policies to meet the long-term goal of purchasing power
+preservation and the intermediate-term goal of stable operating budget support. Employing
+the tools of portfolio construction and spending rules, trustees ultimately select policies based
+on preferences regarding the trade-off between the central goals of endowment management.
+PURCHASING POWER EVALUATION
+Preserving purchasing power requires that each individual gift to endowment forever maintain
+its ability to "support a specific set of activities." In aggregate, then, after deducting spending
+distributions, endowment assets must grow by the rate of educational inflation and increase by
+the amount of new gifts.
+Appropriate measurement of inflation allows institutions to assess the continuing ability to
+consume a basket of goods and services peculiar to higher education. Since expenses of colleges
+and universities differ dramatically from those of individuals, and from those of the economy
+as a whole, inflation measures appropriate to individuals (the Consumer Price Index) or the
+broad economy (the GNP deflator) work poorly for higher education.
+The Higher Education Price Index (HEPI) measures costs specific to educational
+institutions. Heavily weighted toward salaries and other personnel costs, over its forty-six-year
+history HEPI advanced at a rate approximately 1.4 percent per annum in excess of the GNP
+deflator. Lack of productivity gains in education accounts for the greater inflation in academic
+costs. A labor-intensive enterprise, teaching cannot be made more efficient without impairing
+the process. For example, applying technology by using video terminals to replace in-person
+lectures improves productivity in a superficial sense, but diminishes the educational experience.
+Likewise, increasing class sizes improves productivity, but undoubtedly reduces quality at the
+same time. As long as productivity gains disproportionately accrue to the rest of the economy,
+costs for higher education can be expected to grow at a rate higher than the general level of
+inflation.
+Yale's Endowment Purchasing Power
+Figure 3.2 illustrates the Yale endowment's purchasing power from 1950 to 2006. The analysis
+begins in 1950, because prior to that date the university lacks clean data on gifts, spending, and
+investment performance. Throughout much of the twentieth century, financial statements
+FE
+J
+1
+recorded only book values of financial assets, providing little information for students of
+markets. Unit accounting, which enables institutions to distinguish between various inflows
+and outflows, gained wide acceptance only in the early 1970s, causing carlier data to be
+disentangled only with great difficulty.
+Purchasing power analysis starts with the 1950 endowment value and subsequent inflation
+rates. Increasing the 1950 portfolio value by the amount of inflation in each subsequent year
+creates a series of purchasing power targets. Since gifts "enlarge the scope of activities
+supported by endowment, each year the purchasing power target increases by the amount of
+new gifts, which in subsequent years undergo a similar adjustment for inflation.
+Note the importance of new gifts to the endowment, with nearly three-quarters of 2006's
+targeted value stemming from gifts made since 1950. In other words, in the absence of new
+gifts over the preceding fifty-six years, Yale's 2006 endowment would likely total only about
+one-quarter of its actual value
+Figure 3.2 Endowment Values Vastly Exceed 1950 Purchasing Power Target
+Yale University Endowment Growth, 1950-2006
+824
+11
+114 174
+Actual Endowment Value
+1994 1994 199 200
+Post 1050 Endowmmi Cits inflated
+1950 Endowment Inflated
+Indowment Maket Ustion
+Sources: Yale Financial Statements. Higher Education Price Index data from Research Associates of
+Washington.
+A comparison of actual endowment values with targeted levels illustrates the degree of
+success in meeting purchasing power goals. Based on the difference between the June 30, 2006
+market value of $18.0 billion and the purchasing power goal of $6.7 billion, Yale succeeded
+admirably in increasing asset values. Yet the bottom line success includes periods in which the
+overall picture appeared far less rosy.
+The 1950s witnessed a rough balance between endowment growth and purchasing power
+preservation, with a surplus of approximately 17 percent shown by 1959. After keeping pace
+through most of the 1960s, the endowment began to suffer as inflationary pressures grew
+setting the stage for serious problems to come. During the 1970s, disastrous markets for
+financial assets and high inflation caused the endowment to end the decade 56 percent below
+its target level. By 1982, Yale's endowment reached a low point, with assets representing only
+42 percent of the targeted purchasing power goal. Fortunately, the 1980s bull market reversed
+the problems of the 1970s, ultimately allowing the 1994 endowment to achieve the targeted
+level of the 1950 endowment inflated and adjusted for gifts. Extraordinary market returns
+subsequently boosted the June 30, 2006 endowment to a 170 percent surplus over the target.
+Recent dramatic increases in endowment purchasing power cause some to question
+whether by accumulating assets, Yale's fiduciaries favor future generations of scholars at the
+expense of the current generation. While the question of the appropriate spending level
+generates spirited debate, the current increase in assets results from a combination of strong
+markets and reasonable spending rules, creating a cushion that will be drawn down in tough
+times to come.
+Dramatic swings in purchasing power relative to targeted levels come as little surprise to
+veteran market observers. In 1982, Yale's endowment registered a nearly 60 percent deficit
+versus the desired level. Twenty-four years later, the portfolio shows a 170 percent surplus.
+Even though market swings cause institutions to feel alternately poor and rich, sensible
+portfolio managers base investment and spending decisions on assumptions regarding long
+term capital market characteristics. Evaluating purchasing power preservation requires
+appreciation of the positive and negative consequences of market volatility, considered within
+the perspective of a distinctly long time frame.
+Human nature reacts to unexpectedly handsome investment returns by looking for ways to
+consume newfound wealth. Responding to strong markets by increasing spending rates creates
+the potential for long-term damage to endowment. First, increases in the rate of spending
+following extraordinary investment returns put the institution at risk of consuming part of the
+cushion designed to protect against a less robust future. Second, increases in spending soon
+become part of an institution's permanent expense base, reducing operational flexibility. If the
+rate of spending rises in a boom, an institution facing a bust loses the benefit of a cushion and
+suffers the burden of a greater budgetary base.
+Target spending rates sit at the center of fiscal discipline, leading responsible fiduciaries to
+alter rates with great reluctance. Rather than seeing strong recent performance as an
+encouragement to increase payouts, skeptical managers wonder about the sustainability of past
+good fortune and prepare for the possibility of a less rewarding future. Only fundamental
+improvements in an institution's investment and spending policies justify altering target
+spending rates.
+Evaluating maintenance of purchasing power requires an extremely long time horizon.
+Reacting to a decade of disastrous losses by reducing payout formulas or responding to a
+decade of extraordinary returns by increasing distribution rates may harm the academic
+enterprise. Bear market-induced cuts in programs and bull market-driven expansions of
+offerings needlessly buffet the institution, causing the endowment to fail in its mission of
+buffering university operations from financial market volatility. Responsible fiduciaries look
+past the inevitable short-run swings in endowment value caused by market gyrations, keeping
+attention firmly focused on the long-run preservation of asset purchasing power.
+SPENDING SUSTAINABILITY EVALUATION
+Stewards of endowment assets strive to provide a substantial, sustainable flow of resources to
+support the academic enterprise. In Tobin's words, to "support the same set of activities
+throughout time, distributions must grow by at least the rate of inflation for the goods and
+services consumed by endowed institutions. When new gifts "enlarge the scope of activities,
+distributions from endowment must increase to support and sustain the new activities.
+In contrast to the long-term nature of the purchasing power preservation goal, providing a
+sustainable flow of support to the operating budget constitutes an intermediate-term objective.
+Since large fluctuations in endowment spending flows wreak havoc with a budgetary process
+that thrives on stability, endowment managers strive to deliver reasonably predictable
+distributions to support operations.
+Yale's Endowment Distributions
+A spending sustainability analysis, portrayed in Figure 3.3, mirrors the purchasing power
+evaluation illustrated earlier. Beginning with 1950 spending from endowment as a base, the
+targeted spending levels increase each year by inflation and by the amount of spending from
+new gifts. For purposes of analysis, 4.5 percent represents the assumed spending rate on new
+gifts, a level consistent with Yale's long-run spending pattern.
+Over the fifty-six years covered in the spending analysis, Yale managed to increase or
+maintain nominal spending year-in and year-out. Inflation-adjusted spending does not boast
+the same unblemished record. After keeping pace with the inflation-adjusted target in the
+1950s and 1960s, Yale's spending failed to keep up with the virulent inflation of the 1970s.
+Beginning in the mid 1980s, spending flows grew rapidly, posting sizable real gains and closing
+the gap between actual distributions and inflation-adjusted goals. In spite of extraordinary
+growth in the 1980s and 1990s, not until 1996 did Yale's spending from endowment exceed the
+inflation-adjusted target.
+Figure 3.3 Spending Growth Surpasses Inflation
+Yale University Spending Growth, 1950-2006
+L
+B
+Sources: Yale University Financial Statements. Higher Education Price Index data from Research Associates
+of Washington.
+The two-year lag between the endowment's recapture of the 1950 gift-adjusted purchasing
+power level in 1994 and the spending flow's achievement of the same goal in 1996 stems largely
+from the dampening effect of the spending policy's smoothing mechanism. As endowment
+values rose rapidly beginning in the early 1980s and continuing through the 1990s, the
+averaging process in the spending rule kept endowment distributions from adjusting fully to
+the endowment's price appreciation.
+More evidence of the impact of the smoothing mechanism comes from the spending level
+for 2006. Even though applying the target spending rate of 5.25 percent to the endowment's
+$15.2 billion value (as of June 30, 2005) results in a projected distribution of $799 million
+(ignoring the inflation adjustment), the actual spending level for fiscal 2006 amounted to only
+$618 million. As time passes, the spending rule causes actual payouts to move toward the
+targeted level, implying that if Yale were to maintain a $15.2 billion endowment, spending
+would approach $799 million within a few years.
+While current beneficiaries of endowment distributions sometimes complain about the lag
+between endowment growth and spending increases, the smoothing mechanism performs a
+necessary function in muting the transmission of volatility in endowment values to spending
+flows. Yale's policies dampen volatility effectively, as evidenced by the fact that over the past
+fifty-six years the dispersion of year-over-year percentage changes in endowment value (12.4
+percent standard deviation) exceeds by a fair margin the dispersion of changes in spending level
+(6.9 percent standard deviation). Effective spending rules allow assumption of greater
+investment risk, without transmitting the associated volatility to budgetary distributions.
+At times, even the most effective set of policies provides little protection against turbulent
+markets. The greatest failure in providing stable budgetary support occurred in the 1970s.
+Operating in an environment where the rate of inflation exceeded returns on domestic stocks
+and bonds, endowment managers faced a grim set of choices. In spite of beginning the decade
+with actual spending comfortably ahead of the adjusted 1950 target level, by 1980 actual
+spending amounted to less than one-half the inflation-adjusted goal. In the face of hostile
+financial market conditions from 1970 to 1980 the university managed only to maintain the
+nominal payout, which proved woefully inadequate in the face of the decade's inflation. Even
+though nominal spending flows began to rise after 1980, the target level rose faster, causing
+actual spending at 1984's nadir to represent only 44 percent of the goal.
+Viewed from the perspective of individual, but not independent, five-year periods, Yale
+experienced real spending declines of more than 25 percent six times in a succession of
+miserable years from 1971 to 1981. Such significant drops represent a failure to provide a stable
+flow of resources to support operations.
+Providing stable, substantial, sustainable flows of resources to support operations represents
+the ultimate test of the effectiveness of endowment investment and spending policies. Even
+though at times financial market conditions preclude reasonable satisfaction of endowment
+objectives, by fashioning a sensible package of asset management and distribution policies,
+investors increase the likelihood of achieving reasonable balance between the competing goals
+of protecting endowment assets from inflation-induced crosion and providing high, reliable
+levels of current budgetary support.
+FOUNDATION INVESTMENT GOALS
+Foundations share some characteristics with educational endowments. Along with their
+counterparts at colleges and universities, trustees of foundation assets often ignore Ben
+Franklin's certainties of life, enjoying favorable tax status and operating with a perpetual
+horizon. For many foundations, however, permanency constitutes a choice, not an obligation.
+If a foundation pursues a mission with a particular sense of urgency, for example, funding
+research to cure a terribly virulent disease, the trustees may decide to expend all available
+resources in an attempt to reach the goal with deliberate speed. Even without a time-sensitive
+mission, spending at rates designed to extinguish foundation assets constitutes a legitimate
+option for trustees.
+A number of characteristics separate academic institutions from foundations. College and
+university endowment managers control both the management of assets, by determining the
+portfolio allocation, and the specification of liabilities, by defining the spending policy. The
+lack of constraints on investment and spending strategies provides great flexibility for
+fiduciaries, increasing the likelihood of meeting institutional goals.
+Foundations exercise complete control over asset-allocation policies, similar to the flexibility
+enjoyed by educational institutions. On the spending side, however, foundations must achieve
+a minimum payout of five percent of assets to support charitable purposes, or face tax
+penalties. The mandated distribution level causes foundations to face an investment problem
+materially different from the challenge facing educational endowment managers.
+While academic institutions benefit enormously from high levels of endowment
+distributions, in the event of a serious disruption in endowment support other revenue sources
+play a compensating role in the budgetary base. Endowment distributions generally support
+only a modest portion of educational institution operating budgets, with major research
+universities relying on endowment payout to fund an average of 12.5 percent of expenditures.7
+For most such institutions, a significant decrease in spending from endowment poses difficult
+problems, but fails to threaten institutional viability
+Foundations rely almost exclusively on investment income to support operations. In 2006,
+eight of the ten largest grant-making foundations received essentially 100 percent of total
+revenues from investment portfolios. Even though grant programs grow and shrink somewhat
+more readily than academic operations, foundations require reasonably stable flows of funds to
+avoid disruption, particularly when activities involve multiyear commitments. The great
+reliance of foundations on distributions from investment assets calls for structuring portfolios
+with lower risk profiles.
+Colleges and universities benefit from the generosity of alumni and friends, with gifts
+providing an important source of support for academic programs. In difficult times, inflows
+from donors serve to dampen shortfalls in endowment support for operations. In prosperous
+times, gifts allow educational institutions to expand the scope of their activities. Over time, the
+cumulative impact of giving makes an enormous difference to colleges and universities.
+The Impact of Gifts
+The experience of Harvard, Yale, and the Carnegie Institution over the course of the twentieth
+century provides insight into the importance of donor support. The Carnegie Institution of
+Washington, one of Andrew Carnegie's many philanthropies, pursues pure, cutting-edge
+scientific research in astronomy, plant biology, embryology, global ecology, and earth sciences.
+Carnegie established the Institution in 1902 with a $10 million gift, increased the endowment
+by a further $2 million in 1907, and added $10 million in 1911. Carnegie's $22 million
+endowment nearly equaled Harvard's 1910 fund balance of $23 million and vastly exceeded
+Yale's $12 million.
+Over the course of nearly a century, the Carnegie Institution endowment more than kept
+pace with inflation, with June 30, 2006 assets of $720 million comfortably ahead of the $490
+million needed to match the rise in price levels. But the formerly comparable Harvard
+endowment, with a June 30, 2006 value of $29.2 billion, and the previously smaller Yale
+Sources: Yale University Financial Statements. Higher Education Price Index data from Research Associates
+of Washington.
+The two-year lag between the endowment's recapture of the 1950 gift-adjusted purchasing
+power level in 1994 and the spending flow's achievement of the same goal in 1996 stems largely
+from the dampening effect of the spending policy's smoothing mechanism. As endowment
+values rose rapidly beginning in the early 1980s and continuing through the 1990s, the
+averaging process in the spending rule kept endowment distributions from adjusting fully to
+the endowment's price appreciation.
+More evidence of the impact of the smoothing mechanism comes from the spending level
+for 2006. Even though applying the target spending rate of 5.25 percent to the endowment's
+$15.2 billion value (as of June 30, 2005) results in a projected distribution of $799 million
+(ignoring the inflation adjustment), the actual spending level for fiscal 2006 amounted to only
+$618 million. As time passes, the spending rule causes actual payouts to move toward the
+targeted level, implying that if Yale were to maintain a $15.2 billion endowment, spending
+would approach $799 million within a few years.
+While current beneficiaries of endowment distributions sometimes complain about the lag
+between endowment growth and spending increases, the smoothing mechanism performs a
+necessary function in muting the transmission of volatility in endowment values to spending
+flows. Yale's policies dampen volatility effectively, as evidenced by the fact that over the past
+fifty-six years the dispersion of year-over-year percentage changes in endowment value (12.4
+percent standard deviation) exceeds by a fair margin the dispersion of changes in spending level
+(6.9 percent standard deviation). Effective spending rules allow assumption of greater
+investment risk, without transmitting the associated volatility to budgetary distributions.
+At times, even the most effective set of policies provides little protection against turbulent
+markets. The greatest failure in providing stable budgetary support occurred in the 1970s.
+Operating in an environment where the rate of inflation exceeded returns on domestic stocks
+and bonds, endowment managers faced a grim set of choices. In spite of beginning the decade
+with actual spending comfortably ahead of the adjusted 1950 target level, by 1980 actual
+spending amounted to less than one-half the inflation-adjusted goal. In the face of hostile
+financial market conditions from 1970 to 1980 the university managed only to maintain the
+nominal payout, which proved woefully inadequate in the face of the decade's inflation. Even
+though nominal spending flows began to rise after 1980, the target level rose faster, causing
+actual spending at 1984's nadir to represent only 44 percent of the goal.
+Viewed from the perspective of individual, but not independent, five-year periods, Yale
+experienced real spending declines of more than 25 percent six times in a succession of
+miserable years from 1971 to 1981. Such significant drops represent a failure to provide a stable
+flow of resources to support operations.
+Providing stable, substantial, sustainable flows of resources to support operations represents
+the ultimate test of the effectiveness of endowment investment and spending policies. Even
+though at times financial market conditions preclude reasonable satisfaction of endowment
+objectives, by fashioning a sensible package of asset management and distribution policies,
+investors increase the likelihood of achieving reasonable balance between the competing goals
+of protecting endowment assets from inflation-induced erosion and providing high, reliable
+levels of current budgetary support.
+FOUNDATION INVESTMENT GOALS
+Foundations share some characteristics with educational endowments. Along with their
+counterparts at colleges and universities, trustees of foundation assets often ignore Ben
+Franklin's certainties of life, enjoying favorable tax status and operating with a perpetual
+horizon. For many foundations, however, permanency constitutes a choice, not an obligation.
+If a foundation pursues a mission with a particular sense of urgency, for example, funding
+research to cure a terribly virulent disease, the trustees may decide to expend all available
+resources in an attempt to reach the goal with deliberate speed. Even without a time-sensitive
+mission, spending at rates designed to extinguish foundation assets constitutes a legitimate
+option for trustees.
+A number of characteristics separate academic institutions from foundations. College and
+university endowment managers control both the management of assets, by determining the
+portfolio allocation, and the specification of liabilities, by defining the spending policy. The
+lack of constraints on investment and spending strategies provides great flexibility for
+fiduciaries, increasing the likelihood of meeting institutional goals.
+Foundations exercise complete control over asset-allocation policies, similar to the flexibility
+enjoyed by educational institutions. On the spending side, however, foundations must achieve
+a minimum payout of five percent of assets to support charitable purposes, or face tax
+penalties. The mandated distribution level causes foundations to face an investment problem
+materially different from the challenge facing educational endowment managers.
+While academic institutions benefit enormously from high levels of endowment
+distributions, in the event of a serious disruption in endowment support other revenue sources
+play a compensating role in the budgetary base. Endowment distributions generally support
+only a modest portion of educational institution operating budgets, with major research
+universities relying on endowment payout to fund an average of 12.5 percent of expenditures.
+For most such institutions, a significant decrease in spending from endowment poses difficult
+problems, but fails to threaten institutional viability
+Foundations rely almost exclusively on investment income to support operations. In 2006,
+eight of the ten largest grant-making foundations received essentially 100 percent of total
+revenues from investment portfolios. Even though grant programs grow and shrink somewhat
+more readily than academic operations, foundations require reasonably stable flows of funds to
+avoid disruption, particularly when activities involve multiyear commitments. The great
+reliance of foundations on distributions from investment assets calls for structuring portfolios
+with lower risk profiles.
+Colleges and universities benefit from the generosity of alumni and friends, with gifts
+providing an important source of support for academic programs. In difficult times, inflows
+from donors serve to dampen shortfalls in endowment support for operations. In prosperous
+times, gifts allow educational institutions to expand the scope of their activities. Over time, the
+cumulative impact of giving makes an enormous difference to colleges and universities.
+The Impact of Gifts
+The experience of Harvard, Yale, and the Carnegie Institution over the course of the twentieth
+century provides insight into the importance of donor support. The Carnegie Institution of
+Washington, one of Andrew Carnegie's many philanthropies, pursues pure, cutting-edge
+scientific research in astronomy, plant biology, embryology, global ecology, and earth sciences.
+Carnegie established the Institution in 1902 with a $10 million gift, increased the endowment
+by a further $2 million in 1907, and added $10 million in 1911. Carnegie's $22 million
+endowment nearly equaled Harvard's 1910 fund balance of $23 million and vastly exceeded
+Yale's $12 million.
+Over the course of nearly a century, the Carnegie Institution endowment more than kept
+pace with inflation, with June 30, 2006 assets of $720 million comfortably ahead of the $490
+million needed to match the rise in price levels. But the formerly comparable Harvard
+endowment, with a June 30, 2006 value of $29.2 billion, and the previously smaller Yale
+O
+H
+Sources: Yale University Financial Statements Higber Education Price Index data from Research Associates
+of Washington.
+The two-year lag between the endowment's recapture of the 1950 gift-adjusted purchasing
+power level in 1994 and the spending flow's achievement of the same goal in 1996 stems largely
+from the dampening effect of the spending policy's smoothing mechanism. As endowment
+values rose rapidly beginning in the early 1980s and continuing through the 1990s, the
+averaging process in the spending rule kept endowment distributions from adjusting fully to
+the endowment's price appreciation.
+More evidence of the impact of the smoothing mechanism comes from the spending level
+for 2006. Even though applying the target spending rate of 5.25 percent to the endowment's
+$15.2 billion value (as of June 30, 2005) results in a projected distribution of $799 million
+(ignoring the inflation adjustment), the actual spending level for fiscal 2006 amounted to only
+$618 million. As time passes, the spending rule causes actual payouts to move toward the
+targeted level, implying that if Yale were to maintain a $15.2 billion endowment, spending
+would approach $799 million within a few years.
+While current beneficiaries of endowment distributions sometimes complain about the lag
+between endowment growth and spending increases, the smoothing mechanism performs a
+necessary function in muting the transmission of volatility in endowment values to spending
+flows. Yale's policies dampen volatility effectively, as evidenced by the fact that over the past
+fifty-six years the dispersion of year-over-year percentage changes in endowment value (12.4
+percent standard deviation) exceeds by a fair margin the dispersion of changes in spending level
+(6.9 percent standard deviation). Effective spending rules allow assumption of greater
+investment risk, without transmitting the associated volatility to budgetary distributions.
+At times, even the most effective set of policies provides little protection against turbulent
+markets. The greatest failure in providing stable budgetary support occurred in the 1970s.
+Operating in an environment where the rate of inflation exceeded returns on domestic stocks
+and bonds, endowment managers faced a grim set of choices. In spite of beginning the decade
+with actual spending comfortably ahead of the adjusted 1950 target level, by 1980 actual
+spending amounted to less than one-half the inflation-adjusted goal. In the face of hostile
+financial market conditions from 1970 to 1980 the university managed only to maintain the
+nominal payout, which proved woefully inadequate in the face of the decade's inflation. Even
+though nominal spending flows began to rise after 1980, the target level rose faster, causing
+actual spending at 1984's nadir to represent only 44 percent of the goal.
+Viewed from the perspective of individual, but not independent, five-year periods, Yale
+experienced real spending declines of more than 25 percent six times in a succession of
+miserable years from 1971 to 1981. Such significant drops represent a failure to provide a stable
+flow of resources to support operations.
+Providing stable, substantial, sustainable flows of resources to support operations represents
+the ultimate test of the effectiveness of endowment investment and spending policies. Even
+though at times financial market conditions preclude reasonable satisfaction of endowment
+objectives, by fashioning a sensible package of asset management and distribution policies,
+investors increase the likelihood of achieving reasonable balance between the competing goals
+of protecting endowment assets from inflation-induced erosion and providing high, reliable
+levels of current budgetary support.
+FOUNDATION INVESTMENT GOALS
+Foundations share some characteristics with educational endowments. Along with their
+counterparts at colleges and universitics, trustees of foundation assets often ignore Ben
+Franklin's certainties of life, enjoying favorable tax status and operating with a perpetual
+horizon. For many foundations, however, permanency constitutes a choice, not an obligation.
+If a foundation pursues a mission with a particular sense of urgency, for example, funding
+research to cure a terribly virulent disease, the trustees may decide to expend all available
+resources in an attempt to reach the goal with deliberate speed. Even without a time-sensitive
+mission, spending at rates designed to extinguish foundation assets constitutes a legitimate
+option for trustees.
+A number of characteristics separate academic institutions from foundations. College and
+university endowment managers control both the management of assets, by determining the
+portfolio allocation, and the specification of liabilities, by defining the spending policy. The
+lack of constraints on investment and spending strategies provides great flexibility for
+fiduciaries, increasing the likelihood of meeting institutional goals.
+Foundations exercise complete control over asset-allocation policies, similar to the flexibility
+enjoyed by educational institutions. On the spending side, however, foundations must achieve
+a minimum payout of five percent of assets to support charitable purposes, or face tax
+penalties. The mandated distribution level causes foundations to face an investment problem
+materially different from the challenge facing educational endowment managers.
+While academic institutions benefit enormously from high levels of endowment
+distributions, in the event of a serious disruption in endowment support other revenue sources
+play a compensating role in the budgetary base. Endowment distributions generally support
+only a modest portion of educational institution operating budgets, with major research
+universities relying on endowment payout to fund an average of 12.5 percent of expenditures.
+For most such institutions, a significant decrease in spending from endowment poses difficult
+problems, but fails to threaten institutional viability.
+Foundations rely almost exclusively on investment income to support operations. In 2006,
+eight of the ten largest grant-making foundations received essentially 100 percent of total
+revenues from investment portfolios. Even though grant programs grow and shrink somewhat
+more readily than academic operations, foundations require reasonably stable flows of funds to
+avoid disruption, particularly when activities involve multiyear commitments. The great
+reliance of foundations on distributions from investment assets calls for structuring portfolios
+with lower risk profiles.
+Colleges and universities benefit from the generosity of alumni and friends, with gifts
+providing an important source of support for academic programs. In difficult times, inflows
+from donors serve to dampen shortfalls in endowment support for operations. In prosperous
+times, gifts allow educational institutions to expand the scope of their activities. Over time, the
+cumulative impact of giving makes an enormous difference to colleges and universities.
+The Impact of Gifts
+The experience of Harvard, Yale, and the Carnegie Institution over the course of the twentieth
+century provides insight into the importance of donor support. The Carnegie Institution of
+Washington, one of Andrew Carnegie's many philanthropies, pursues pure, cutting-edge
+scientific research in astronomy, plant biology, embryology, global ecology, and earth sciences.
+Carnegie established the Institution in 1902 with a $10 million gift, increased the endowment
+by a further $2 million in 1907, and added $10 million in 1911. Carnegie's $22 million
+endowment nearly equaled Harvard's 1910 fund balance of $23 million and vastly exceeded
+Yale's $12 million.
+Over the course of nearly a century, the Carnegic Institution endowment more than kept
+pace with inflation, with June 30, 2006 assets of $720 million comfortably ahead of the $490
+million needed to match the rise in price levels. But the formerly comparable Harvard
+endowment, with a June 30, 2006 value of $29.2 billion, and the previously smaller Yale
+O
+endowment, with a value of $18.0 billion, dwarf the Carnegie fund. While differences in
+investment and spending policies no doubt explain some of the gap, the absence of gift inflows
+constitutes the fundamental reason for Carnegie's failure to keep pace with Yale and Harvard
+In desiring to supply a stable flow of operating income, hoping to exist forever and wishing
+to comply with minimum IRS distribution requirements, foundation fiduciaries face a
+fundamentally conflicting set of goals. Without a safety net of external sources of support,
+foundations feel the impact of poor investment results. Short-term stability in distributions
+argues for a less volatile portfolio, while long-run maintenance of purchasing power and high
+payout rates point toward a higher risk allocation. Foundations generally opt for lower risk
+portfolios, sensibly providing stable flows of resources to support the institutional mission. As
+a result, the foundation community spends at rates inconsistent with preservation of capital,
+suggesting that in the long run the role of most foundations will diminish as purchasing power
+crodes.
+In spite of superficial similarities, endowments and foundations differ in important ways,
+including the amount of control over spending streams, the degree of programmatic reliance
+on portfolio distributions, and the availability of continuing external support. While
+endowments and foundations share some important characteristics, dissimilarities between the
+two types of funds lead to articulation of meaningfully different purposes and goals. That
+investment objectives of such closely related organizations differ so significantly highlights the
+importance of careful consideration of the relationship between investment funds and
+institutional objectives. Understanding the raison d'etre of a fund and expressing the related
+institutional aspirations serve as an important starting point in the fund's management
+process.
+THE SKEPTICAL VIEWPOINT
+In a healthy academic community, controversy abounds. In the case of endowments, debate
+generally revolves around intergenerational issues, with some current beneficiaries suggesting
+that endowment payout levels provide insufficient support for university operations!
+Henry Hansmann, the Augustus E. Lines Professor of Law at Yale Law School, questions
+the advisability of any endowment accumulation, raising issues that go far beyond the question
+of appropriate payout rates. In an August 2, 1998 New York Times interview, Hansmann
+suggests that "a stranger from Mars who looks at private universities would probably say they
+are institutions whose business is to run large pools of investment assets and that they run
+educational institutions on the side that can expand and contract to act as buffers for
+investment pools." Hansmann suggests that trustees pursue a "real objective of accumulating
+a large and growing endowment, viewing the educational operations as a constraint to
+unfettered financial asset accumulation. Administrators and faculty seek endowments to
+provide job security, a light workload, and a pleasant physical environment, while alumni focus
+on reputational capital, hoping to bask in the reflected glory of a wealthy educational
+institution.
+In a paper entitled "Why Do Universities Have Endowments?" Hansmann uses the
+experience of the 1960s and 1970s to bolster his argument. He notes the "financial crisis of the
+1970s damaged higher education as "private demand declined, government support abruptly
+stopped its former upward trajectory, and energy costs increased dramatically."2 Recognizing
+that universities found themselves squeezed between costs that were continuing to rise and
+income sources that were shrinking, Hansmann observes "little affirmative evidence that
+universities have viewed their endowments principally as buffers for their operating budgets. "10
+Yale's Endowment Buffer
+An analysis of the behavior of Hansmann's own institution belies his claims. His employer,
+Yale University, used endowment spending policy to dampen growth in the boom times of the
+1960s and to cushion the financial trauma of the 1970s. During the decade of the 1960s, Yale
+released an average of 4.4 percent of the endowment to support the academic enterprise.
+Strong budgetary results and superior investment performance accompanied endowment
+distributions that provided support at levels consistent with long-term sustainability.
+In contrast, during the 1970s, spending from endowment averaged 6.3 percent, as Yale
+sought to offset, at least in part, the impact of hostile economic forces. Despite following a
+policy that released support for the operating budget at unsustainable rates, Yale posted deficits
+in every year of the decade. The policy of "leaning against the wind" cost the endowment
+dearly, as the purchasing power of assets declined by more than 60 percent between 1968 and
+1982, in spite of the infusion of substantial amounts of new gifts.
+The historical record indicates that Yale uses endowment assets to shield the operating
+budget from disruptive fluctuations in income streams. Sustainable spending rates in the range
+of 3.8 percent to 4.4 percent in the 1950s, 1960s, 1980s and 1990s correspond to reasonably
+stable operating environments. In contrast, the deficit-plagued 1970s saw spending peak at the
+stunning rate of 7.4 percent in 1971. Without extraordinary endowment support in the 1970s,
+Yale's operational troubles would have been magnified, perhaps causing long-term damage to
+the institution.
+Not only does historical experience suggest that Yale employed endowment assets to
+insulate academic programs from economic stress, but the very nature of the university's
+spending policy places budgetary stability in a prominent place. Each year Yale spends 80
+percent of last year's spending adjusted for inflation plus 20 percent of the targeted long-term
+spending rate applied to the previous year's endowment market value adjusted for inflation. By
+emphasizing budgetary stability, the university expresses a strong preference for using the
+endowment to reduce the impact of financial shocks.
+Spending Policy Extremes
+Examining Yale's spending decisions in the context of policy extremes favoring, on the one
+hand, spending stability and, on the other hand, endowment preservation, highlights the
+university's substantial bias toward providing reliable support for operations. If universities
+treat academic operations as a sideshow to endowment accumulation, spending distributions
+would correspond to levels consistent with maintenance of asset purchasing power. In the
+extreme case, institutions would distribute only returns in excess of inflation, placing
+preservation of investment assets above even a modicum of stability in supporting academic
+programs. At the other end of the spectrum, if universities focus exclusively on consistent
+payouts from endowment, spending would rise with inflation, tracing a pattern independent
+of fluctuations in the market value of endowment assets.
+Figure 3.4A illustrates the spending patterns resulting from two extreme spending policies
+using market returns from the 1960s and 1970s. The first panel shows the constant flows from
+maintaining inflation-adjusted spending, while the second depicts the volatile flows from
+maintaining inflation-adjusted endowment values. Note that an exclusive focus on endowment
+purchasing power stability fails to allow any distribution to support operations in more than
+one-half of the simulated periods.
+Figure 3.4B shows the impact of the extreme spending policies on endowment levels.
+Pursuing stable spending flows, as illustrated in the first panel, produces enormous volatility in
+real endowment values. In contrast, preserving endowment purchasing power promotes
+stability in asset values, as depicted by the relatively smooth pattern in the second panel.
+Policies designed to provide a constant level of inflation-adjusted support for operations,
+illustrated in the top panels of Figures 3.4A and 3.4B, depend on benign financial markets to
+operate successfully. Consider the dramatically different results from simulations conducted
+using financial data from the 1960s and the 1970s.
+The 1960s provided substantial rewards to investors. Stocks returned 7.8 percent per
+annum and bonds 3.5 percent in an environment where inflation grew by only 2.5 percent.
+Investors pursuing stable spending policies did little damage to endowments, causing a
+purchasing power decline of only around 10 percent.
+In contrast, economic and financial conditions in the 1970s posed grave threats to endowed
+institutions, as high inflation and poor marketable securities returns exacted a terrible toll.
+Inflation, consuming 7.4 percent annually, exceeded returns on domestic stocks at 5.9 percent
+per annum, bonds at 7.0 percent, and cash at 6.3 percent. Investors found no place to hide.
+Simulations show that in 1970, if a traditional portfolio followed a stable spending policy,
+more than 60 percent of the purchasing power of a fund evaporated by the end of the decade.
+E
+O
+A
+endowment, with a value of $18.0 billion, dwarf the Carnegie fund. While differences in
+investment and spending policies no doubt explain some of the gap, the absence of gift inflows
+constitutes the fundamental reason for Carnegie's failure to keep pace with Yale and Harvard.
+In desiring to supply a stable flow of operating income, hoping to exist forever and wishing
+to comply with minimum IRS distribution requirements, foundation fiduciaries face a
+fundamentally conflicting set of goals. Without a safety net of external sources of support,
+foundations feel the impact of poor investment results. Short-term stability in distributions
+argues for a less volatile portfolio, while long-run maintenance of purchasing power and high
+payout rates point toward a higher risk allocation. Foundations generally opt for lower risk
+portfolios, sensibly providing stable flows of resources to support the institutional mission. As
+a result, the foundation community spends at rates inconsistent with preservation of capital
+suggesting that in the long run the role of most foundations will diminish as purchasing power
+crodes
+In spite of superficial similarities, endowments and foundations differ in important ways,
+including the amount of control over spending streams, the degree of programmatic reliance
+on portfolio distributions, and the availability of continuing external support. While
+endowments and foundations share some important characteristics, dissimilarities between the
+two types of funds lead to articulation of meaningfully different purposes and goals. That
+investment objectives of such closely related organizations differ so significantly highlights the
+importance of careful consideration of the relationship between investment funds and
+institutional objectives. Understanding the raison d'etre of a fund and expressing the related
+institutional aspirations serve as an important starting point in the fund's management
+process.
+THE SKEPTICAL VIEWPOINT
+In a healthy academic community, controversy abounds. In the case of endowments, debate
+generally revolves around intergenerational issues, with some current beneficiaries suggesting
+that endowment payout levels provide insufficient support for university operations.
+Henry Hansmann, the Augustus E. Lines Professor of Law at Yale Law School, questions
+the advisability of any endowment accumulation, raising issues that go far beyond the question
+of appropriate payout rates. In an August 2, 1998 New York Times interview, Hansmann
+suggests that "a stranger from Mars who looks at private universities would probably say they
+are institutions whose business is to run large pools of investment assets and that they run
+educational institutions on the side that can expand and contract to act as buffers for
+investment pools." Hansmann suggests that trustees pursue a "real objective of accumulating
+a large and growing endowment, viewing the educational operations as a constraint to
+unfettered financial asset accumulation. Administrators and faculty seek endowments to
+provide job security, a light workload, and a pleasant physical environment, while alumni focus
+on reputational capital, hoping to bask in the reflected glory of a wealthy educational
+institution.
+In a paper entitled "Why Do Universities Have Endowments?" Hansmann uses the
+experience of the 1960s and 1970s to bolster his argument. He notes the "financial crisis of the
+1970s damaged higher education as "private demand declined, government support abruptly
+stopped its former upward trajectory, and energy costs increased dramatically."2 Recognizing
+that universities found themselves squeezed between costs that were continuing to rise and
+income sources that were shrinking, Hansmann observes "little affirmative evidence that
+universities have viewed their endowments principally as buffers for their operating budgets. "10
+Yale's Endowment Buffer
+An analysis of the behavior of Hansmann's own institution belies his claims. His employer,
+Yale University, used endowment spending policy to dampen growth in the boom times of the
+1960s and to cushion the financial trauma of the 1970s. During the decade of the 1960s, Yale
+released an average of 4.4 percent of the endowment to support the academic enterprise
+Strong budgetary results and superior investment performance accompanied endowment
+distributions that provided support at levels consistent with long-term sustainability
+In contrast, during the 1970s, spending from endowment averaged 6.3 percent, as Yale
+sought to offset, at least in part, the impact of hostile economic forces. Despite following a
+policy that released support for the operating budget at unsustainable rates, Yale posted deficits
+in every year of the decade. The policy of "leaning against the wind" cost the endowment
+dearly, as the purchasing power of assets declined by more than 60 percent between 1968 and
+1982, in spite of the infusion of substantial amounts of new gifts.
+The historical record indicates that Yale uses endowment assets to shield the operating
+budget from disruptive fluctuations in income streams. Sustainable spending rates in the range
+of 3.8 percent to 4.4 percent in the 1950s, 1960s, 1980s and 1990s correspond to reasonably
+stable operating environments. In contrast, the deficit-plagued 1970s saw spending peak at the
+stunning rate of 7.4 percent in 1971. Without extraordinary endowment support in the 1970s,
+Yale's operational troubles would have been magnified, perhaps causing long-term damage to
+the institution.
+Not only does historical experience suggest that Yale employed endowment assets to
+insulate academic programs from economic stress, but the very nature of the university's
+spending policy places budgetary stability in a prominent place. Each year Yale spends 80
+percent of last year's spending adjusted for inflation plus 20 percent of the targeted long-term
+spending rate applied to the previous year's endowment market value adjusted for inflation. By
+emphasizing budgetary stability, the university expresses a strong preference for using the
+endowment to reduce the impact of financial shocks.
+Spending Policy Extremes
+Examining Yale's spending decisions in the context of policy extremes favoring, on the one
+hand, spending stability and, on the other hand, endowment preservation, highlights the
+university's substantial bias toward providing reliable support for operations. If universities
+treat academic operations as a sideshow to endowment accumulation, spending distributions
+would correspond to levels consistent with maintenance of asset purchasing power. In the
+extreme case, institutions would distribute only returns in excess of inflation, placing
+preservation of investment assets above even a modicum of stability in supporting academic
+programs. At the other end of the spectrum, if universities focus exclusively on consistent
+payouts from endowment, spending would rise with inflation, tracing a pattern independent
+of fluctuations in the market value of endowment assets.
+Figure 3.4A illustrates the spending patterns resulting from two extreme spending policies
+using market returns from the 1960s and 1970s. The first panel shows the constant flows from
+maintaining inflation-adjusted spending, while the second depicts the volatile flows from
+maintaining inflation-adjusted endowment values. Note that an exclusive focus on endowment
+purchasing power stability fails to allow any distribution to support operations in more than
+one-half of the simulated periods.
+Figure 3.4B shows the impact of the extreme spending policies on endowment levels.
+Pursuing stable spending flows, as illustrated in the first panel, produces enormous volatility in
+real endowment values. In contrast, preserving endowment purchasing power promotes
+stability in asset values, as depicted by the relatively smooth pattern in the second panel.
+Policies designed to provide a constant level of inflation-adjusted support for operations,
+illustrated in the top panels of Figures 3.4A and 3.48, depend on benign financial markets to
+operate successfully. Consider the dramatically different results from simulations conducted
+using financial data from the 1960s and the 1970s.
+The 1960s provided substantial rewards to investors. Stocks returned 7.8 percent per
+annum and bonds 3.5 percent in an environment where inflation grew by only 2.5 percent.
+Investors pursuing stable spending policies did little damage to endowments, causing a
+purchasing power decline of only around 10 percent.
+In contrast, economic and financial conditions in the 1970s posed grave threats to endowed
+institutions, as high inflation and poor marketable securities returns exacted a terrible toll.
+Inflation, consuming 7.4 percent annually, exceeded returns on domestic stocks at 5.9 percent
+per annum, bonds at 7.0 percent, and cash at 6.3 percent. Investors found no place to hide.
+Simulations show that in 1970, if a traditional portfolio followed a stable spending policy,
+more than 60 percent of the purchasing power of a fund evaporated by the end of the decade.
+Policies focused solely on endowment preservation, shown in the middle panels of Figures
+3.4A and 3.4B, failed to release any distribution to the operating budget in twelve of the
+twenty years between 1960 and 1979, highlighting the impracticality of a single-minded focus
+on asset protection. Even in the hospitable environment of the 1960s, investment results
+provided no support for current operations in three of ten years. So hostile were the 1970s that
+even with only one meaningful distribution to the budget, stable endowment policies failed to
+preserve assets, as purchasing power declined by nearly 24 percent.
+Figure 3.4A: Spending Flow Comparison Illustrates Impact of Extreme Policies
+Stable Spending Policy Simulation Provides Consistent Inflation-Adjusted Budgetary Support
+Spending Flows, 1960-1979 Spend 5% of Market Value, Increased by Inflation
+Stable Spending Polic
+Levels, 198

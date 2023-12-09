@@ -1,0 +1,1548 @@
+9
+Asset Class Management
+Active managers compete in an extremely tough arena, since markets tend to price assets
+accurately. Enormous sums of money deployed by highly motivated investors seck to exploit
+perceived mispricings at a moment's notice. Winning at the game of active management
+requires great skill and, perhaps, more than a little good fortune. Serious investors consider
+carefully the certain results of low cost passive management before opting for the uncertain
+returns of high cost active management.
+Significant costs raise the hurdle for active strategies. Identifying a portfolio that merely
+beats the market fails to define success, as managers must build portfolios that beat the market
+by a sufficient margin to cover management fees, transactions costs, and market impact.
+Because of the leakage of fees and costs from the system, a staggeringly large percentage of
+money invested in marketable securities falls short of producing index-like returns.
+Overcoming the costs of active management presents a formidable challenge.
+In the context of an extraordinary complex, difficult investing environment, fiduciaries tend
+to be surprisingly accepting of active manager pitches. Institutions all too often pursue the
+glamorous, exciting (and ultimately costly) hope of market-beating strategies at the expense of
+the reliable, mundane certainty of passive management. Instead of examining critically the
+factors that drove past performance, investors frequently simply associate superior historical
+results with investment acumen.
+Because of the nearly insurmountable hurdles in beating the market, prudent investors
+approach active strategies with great skepticism. Beginning with the presumption that markets
+price assets correctly places the burden of proof on the manager who promises risk-adjusted
+excess returns. Only when compelling evidence suggests that a strategy possesses clear potential
+to beat the market should investors abandon the passive alternative.
+Active managers worth hiring possess personal attributes that create reasonable expectations
+of superior performance. In selecting external managers, investors must identify individuals
+committed to placing institutional client goals ahead of personal self-interest. Alignment of
+interests occurs most frequently in independent investment management firms run in an
+entrepreneurial fashion by energetic, intelligent, ethical professionals. Engaging investment
+advisors involves consequences beyond issues of financial returns, as fiduciaries entrust both
+the institution's assets and reputation to the external management firm.
+Even after identifying a promising investment management firm, the job remains
+uncompleted until the investor and advisor negotiate satisfactory deal terms. The fundamental
+goal in establishing contractual arrangements consists of aligning interests to encourage
+investment advisory agents to behave as institutional fiduciary principals. Slippage between
+what the investor wishes and what the advisor does imposes substantial costs on institutions,
+reducing the likelihood of meeting basic investment goals and objectives.
+THE GAME OF ACTIVE MANAGEMENT
+The thrill of the chase clouds objectivity in assessing active management opportunities. Playing
+the game provides psychic rewards, generating grist for the mill of cocktail party conversation.
+Keynes likens active investment to children's entertainment: "For it is, so to speak, a game of
+Snap, of Old Maid, of Musical Chairs-a pastime in which he is the victor who says snap
+neither too soon nor too late, who passes the Old Maid to his neighbor before the game is over,
+who secures a chair for himself when the music stops. These games can be played with zest and
+enjoyment, though all the players know that it is the Old Maid which is circulating, or that
+when the music stops some of the players will find themselves unscated."! Fiduciaries must
+ensure that active management leads to higher expected portfolio returns, not just higher
+investment manager job satisfaction.
+The willingness to believe t superior performance comes from intelligent hard work
+clouds clear judgment. The investment world worships success, deifying the market scer du
+Jour. Instead of wondering whether a manager at the top of the performance charts made a
+series of lucky picks, observers presume that good results stem from skill. Conversely, in public
+perception, poor results follow from lack of ability. Market participants rarely wonder whether
+high returns came from accepting greater than market risk, or whether low returns resulted
+from lower than market risk. The investment community's lack of skepticism regarding the
+source and character of superior returns causes strange characters to be elevated to market guru
+status.
+Joe Granville
+Of all the individuals who moved markets with their predictions, Joe Granville may be among
+the strangest. In the late 1970s and early 1980s, the technical analyst made a series of "on the
+money" predictions. Strikingly, on April 21, 1980 when the market fell to a two-year low of
+759, Granville issued a buy signal, anticipating a powerful rally that took the average over 1000
+within three months. In January 1981, Granville's next major market call, a sell signal,
+prompted "waves of selling," causing markets to decline sharply on record volume. The next
+day his picture appeared on the front page of the New York Times, while Washington Post
+headlines read "One Forecaster Spurs Hysteria-Markets Sink in Panic Selling."Granville
+predicted he would win the Nobel Prize, crowing that he had "solved the 100-year enigma,
+calling every market top and bottom."
+Granville's technically driven forecasts came replete with costumes and props. His routine
+included dressing as Moses to deliver the Ten Commandments of investing, dropping his
+trousers to read stock quotations from his boxers, and appearing on stage in a coffin filled with
+ticker tape.
+Such antics did nothing to diminish his following. In late 1981, markets fell worldwide,
+sometimes in apparent response to Granville's calls. According to Rhoda Bramner of Barron's
+"while Granville strutted across the investment stage, the market pretty much followed his
+bearish script."2
+Unfortunately for Granville, he missed the turn of the market in 1982. Stubborn
+bearishness kept his followers out of the early stages of one of history's greatest bull markets. In
+a crucl twist of fate, Granville turned "wildly bullish" prior to the 1987 crash. As a result, a
+1992 study by Hulbert's Financial Digest concluded that Granville ranked last among an
+undistinguished group of investment newsletter writers, down 93 percent over the twelve-year
+period.
+Joe Granville's one-time prominence in the investment world provides evidence of the
+investing public's association of superior returns with investment skill. Granville's
+methodology relied on technical factors with absolutely no predictive power. Yet he moved
+markets, fooling large numbers of people into following his absurd predictions.
+The Beardstown Ladies
+In the early 1990s, the Beardstown Ladies captured the investing public's attention. Based on
+an impressive historical record of beating the S&P 500 by 8.5 percent per year for the ten years
+ending in 1993, the matrons of Beardstown parlayed their success into a lucrative writing and
+lecturing career. Their first book, The Beardstown Ladies Common-Sense Investment Guide:
+How We Beat the Stock Market-And How You Can Too, sold more than 800,000 copies. The
+group followed with four more books, The Beardstown Ladies' Pocketbook Guide to Picking
+Stocks; The Beardstown Ladies' Guide to Smart Spending for Big Savings: How to Save for a
+Rainy Day Without Sacrificing Your Lifestyle; The Beardstown Ladies Stitch-in-Time Guide to
+Growing Your Nest Egg: Step-by-Step Planning for a Comfortable Future, and Cookin' Up Profits
+on Wall Street. The Beardstown empire, which in addition to books included lectures, videos,
+and cassettes, rested on the public's belief in the solid foundation of the Beardstown Ladies'
+extraordinary investment success.
+All of the hoopla surrounding the Beardstown Ladies met with relatively little skepticism.
+Assertions of superior performance provided prima facie evidence of the efficacy of their
+investment approach. No further analysis needed.
+Unfortunately, the Beardstown Ladies possessed so little analytical ability that calculating
+investment returns challenged their capabilities. Because the investment club's treasurer erred
+when using a computer program, she reported a two-year return as applying to a ten-year
+period. In fact, upon critical examination, the extended record of reported strong relative
+performance turned out to be worse than mediocre. Figures compiled by Price Waterhouse
+concluded that the Beardstown Ladies produced returns of only 9.1 percent per annum, falling
+short of the S&P 500 return by 5.8 percent per year and failing to meet previously reported
+results by a staggering 14.3 percent per year. In short, the investment record merits not even a
+modest magazine article.
+The fundamental lesson from the Beardstown Ladies' saga relates to the attitude investors
+take toward performance records, Markets price securities efficiently enough that when
+presented with a superior performance record, the initial reaction ought to be that strong
+performance most likely resulted from a series of favorable draws from the distribution of
+potential outcomes. Only when managers articulate a compelling, coherent investment
+philosophy should fiduciaries begin to consider the active management opportunity.
+Jim Cramer
+Jim Cramer deserves a prominent place in the pantheon of investment anti-heroes. Educated at
+Harvard College and Harvard Law School, Cramer squanders his extraordinary credentials and
+shamelessly promotes stunningly inappropriate investment advice to an all-too-gullible
+audience.
+Cramer made a name as an unabashed cheerleader for tech stocks during the Internet
+bubble. He rationalized the purchase of absurdly valued securities by asserting that the
+professionals "got it wrong" and the public is "much, much smarter than you realize."3 Near
+the peak of the market in January 2000, Cramer articulated six "commonsensical rules" that
+allow the "average individual" to "routinely beat the professionals." Included in his list of rules
+were "buy stocks of companies you like," "buy expensive stocks," and "buy stocks that move in
+chunks." Cramer's inane rules proved perfectly timed to inflict the maximum damage to his
+readers' portfolios.
+Cramer never minces words. He described the "momentum/growth camp" as a group of
+investors that would rather buy stocks that have both earnings and technical momentum,
+regardless of price. In other words, it doesn't matter how expensive they are, as long as they
+execute. "5 Not content simply to promote an irresponsible momentum strategy amid a market
+bubble, Cramer took the then long-suffering value managers to task. He registered palpable
+contempt for the "value/contrarian camp," contending that "denial is the basis of the value
+thesis." He accused value investors of exhibiting "systematic blindness to all things tech,"
+chiding Warren Buffett for his "preposterous" preference for "Coke over Microsoft."6
+In February 2000, Cramer wrote about the arrogance of value mutual fund managers,
+lamenting that "InJot only do they have the guts to tell us that we are wrong to own our Ciscos
+and our Yahoo's, they also insist that they are the only authority on what to buy." Cramer
+asserted that value managers holding Philip Morris "should have to answer to their dereliction
+of duty and added that "the worst are the managers who bought the Cokes and Pepsis..." He
+followed with a piece of advice for mutual fund investors in "growth-turned-value stories":
+"Take control. Fire these guys.
+Of course, Cramer's advice missed the mark by a wide margin. In the year following the
+publication of his anti-value rant, Coke gained 10 percent, Pepsi, 36 percent and Philip Morris,
+a stunning 171 percent. Meanwhile, Cramer's favorites collapsed, with Cisco down 57 percent
+and Yahoo! declining by a staggering 84 percent.
+If Cramer's early 2000 preference for Cisco and Yahoo! over Philip Morris and Coke laid
+waste to his adherents' portfolios, his calls on the grocery business destroyed even more valuc.
+In February 2000, Cramer suggested that "the death knell for value investing may very well be
+sounding right now because of technological innovation." He asserted that old economy grocer
+Albertsons was "being hit by a fundamental paradigm shift," which will only get worse as
+Urban Fetch, Kozmo and Webvan expand." Cramer unequivocally placed his bet on Internet-
+cra firms.
+Nine months after Cramer's prognostication, Fetch discontinued its consumer delivery
+business. Even though Kozmo never executed its hoped-for public offering (sparing Cramer's
+readers an opportunity to lose money), the firm managed to muddle through until April 2000
+when it ceased operations. Webvan, which boasted a market capitalization of more than $5
+billion at the time of Cramer's February 2000 call, filed for bankruptcy in July 2001.
+Meanwhile, Albertsons, the dinosaur doomed to extinction, posted profits of more than $500
+million on nearly $38 billion of 2001 revenues. Ultimately, on May 30, 2006 Albertsons
+succumbed to a takcover by a group led by SuperValu. Scorekeepers note that from the time of
+Cramer's misguided, top-of-the-market advice to the date of merger consummation,
+Albertsons returned an annualized 0.5 percent per annum, beating the S&P 500's 0.2 percent
+per annum and trouncing the NASDAQ's-9.1 percent per annum.
+In spite of Jim Cramer's massively misguided top-of-the-market advice, in March 2005,
+CNBC gave him his own TV show, Mad Money. On Mad Money, Cramer makes a mockery
+of the investment process, throwing chairs, shoving toy bears in meat grinders, wearing
+sombreros, and decapitating bobble-head dolls (made in his own likeness). Betwixt and
+between his sophomoric antics, Cramer throws out hundreds of stock recommendations. In
+fact, according to an August 2007 Barron's article, a database covering six months of Cramer's
+picks contained an astounding 3,458 stocks. Barron's concludes that "the credible evidence
+suggests that the telestockmeister's picks aren't beating the market. Did you really expect more
+from a call-in host who makes 7,000 stock picks a year?" To make a dismal story worse, Cramer
+failed to beat the market in spite of a post-broadcast surge of an average of 2 percent for his
+picks. Barron's negative assessment would be even more dire were transaction costs and taxes
+included.
+Aside from Cramer's unsurprising inability to choose thousands of stock market winners in
+any given year, he seems to have admitted to market manipulation when he ran a hedge fund in
+the late 1990s. In a December 23, 2006 interview with Wall Street Confidential, Cramer flat
+out said "... a lot of times when I was short at my hedge fund... I would create a level of
+activity beforehand that could drive the futures." He further noted that "it doesn't take much
+moncy...." In the interview he goes on to describe ways to manipulate the prices of individual
+stocks. 10 According to Barron's, Cramer later "said he'd only been talking hypothetically."11
+Surely the Harvard-educated Cramer, who served a stint as editor in chief of the Harvard
+Crimson, knows that there is nothing hypothetical in the clause "when I was short at my hedge
+fund. Does Jim Cramer need a lesson in the subjunctive?
+Joc Granville, the Beardstown Ladies, and Jim Cramer provide compelling evidence that
+market participants frequently and uncritically accept simple prominence as proof of sound
+underlying investment strategy. The falls from grace suffered by Joe Granville and the
+Beardstown Ladies (and perhaps a future fall from grace for Jim Cramer) should encourage
+investors to adopt skeptical attitudes when evaluating active management opportunities.
+PERSONAL CHARACTERISTICS
+Real estate investors invoke the mantra "location, location, location." Sensible investors seeking
+to engage an active manager focus on "people, people, people." Nothing matters more than
+working with high quality partners.
+Integrity tops the list of qualifications. Aside from the fact that moral behavior represents a
+fundamentally important standard for human interaction, working with ethical advisors
+increases the likelihood of investment success. Choosing external advisors of high integrity
+reduces the gap between the actions of the advisors and the interests of an institutional fund.
+Inevitable differences exist between the interests of an endowment and an outside money
+manager. The more profound issues might include differences in financial goals, time horizon,
+tax status, and various forms of business risk. Regardless of the structure of contractual
+arrangements, external advisors tend to respond to personal incentives. Employing individuals
+with high moral standards reduces the severity of conflicts of interest, as ethical managers
+consider seriously the goals of the institutional client when resolving conflicts.
+Loyalty plays an important part in investment management relationships, allowing longer
+term thinking to dominate decision making. In the best of circumstances, the interdependence
+of institutional investors and external advisors creates a spirit of partnership, enhancing
+opportunities to create successful, lasting relationships.
+Loyalty flows both ways. Investors owe external advisors the opportunity to pursue
+investment activities within a reasonable time frame. Firing a poorly performing manager
+simply to remove an embarrassing line item from a quarterly investment report fails t meet the
+test of reasonableness. Likewise, an investment advisor abandoning reliable partners simply to
+pursue a lower cost source of capital follows a short-sighted strategy.
+Obviously, loyalty does not require permanent maintenance of the status quo.
+Relationships between fiduciaries and external managers come to an end for a variety of
+compelling reasons. Far too frequently, however, investors abandon good partners for trivial
+reasons, imposing unnecessary costs and needlessly disrupting portfolio management activities.
+Investment advisors and institutional fund managers operating with a presumption of loyalty
+enhance opportunities for long-term success.
+Top-notch managers invest with a passion, working to beat the market with a nearly
+obsessive focus. Many extraordinary investors spend an enormous amount of time
+investigating investment opportunities, working long after rational professionals would have
+concluded a job well done. Great investors tend to have a "screw loose," pursuing the game not
+for profit, but for sport. Markets fascinate successful investors.
+The best investors care about risk. Diligence and hard work take an investment manager
+only so far, as even the most carefully researched decisions ultimately face the vicissitudes of
+market forces. Because so much lies beyond a portfolio manager's control, superior investors
+seek to know as much as can be known, limiting uncertainty to the irreducible minimum. Well-
+researched investment ideas tend to be the least risky, since, as Yale's great economist Irving
+Fisher observed, "risk varies inversely with knowledge."12
+Moncy provides an obvious motivation, bringing enormous wealth to successful investment
+advisors. Yet money managers seeking to maximize income constitute a poor group from
+which to choose. Profit maximizing business plans involve unbridled asset growth and
+unimaginative benchmark hugging strategies, factors at odds with investment success.
+Appealing money managers limit assets under management and make aggressive,
+unconventional security choices, incurring substantial risks for their money management
+business with the hope of generating superior investment returns.
+Warren Buffett produced his own set of desirable money manager characteristics in a March
+2007 announcement of the search for his successor as Berkshire Hathaway's chief investment
+officer:
+Picking the right person(s) will not be an easy task. It's not hard, of course, to find smart
+people, among them individuals who have impressive investment records. But there is far
+more to successful long-term investing than brains and performance that has recently
+been good.
+Over time, markets will do extraordinary, even bizarre, things. A single, big mistake
+could wipe out a long string of successes. We therefore need someone genetically
+programmed to recognize and avoid serious risks, including those never before
+encountered. Certain perils that lurk in investment strategies cannot be spotted by use of
+the models commonly employed today by financial institutions.
+Temperament is also important. Independent thinking, emotional stability, and a
+keen understanding of both human and institutional behavior is vital to long-term
+investment success. I've seen a lot of very smart people who have lacked these virtues.
+Finally, we have a special problem to consider: our ability to keep the person we hire.
+Being able to list Berkshire on a resume would materially enhance the marketability of an
+investment manager. We will need, therefore, to be sure we can retain our choice, even
+though he or she could leave and make much more money elsewhere. 13
+Even Warren Buffett worries about losing a colleague to a better economic opportunity!
+Due diligence on the principals of an investment management organization provides critical
+input into the manager selection process. Spending time with manager candidates, both in
+business and social settings, allows assessment of whether the manager exhibits characteristics
+of a good partner. Questioning individuals on manager-supplied reference lists confirms or
+negates impressions gathered in the due diligence process. Contacting people not included on
+an official reference list, including past and present colleagues, competitors, and others,
+provides opportunities to evaluate the quality of a prospective manager's business dealings and
+integrity level.
+In the intensely competitive investment management arena, only a small percentage of
+managers overcome the enormous burden of fees to post market-beating records. Identifying
+members of the small group that will prove to be successful requires an intense focus on
+personal characteristics. Only the best of the best will succeed.
+ORGANIZATIONAL CHARACTERISTICS
+The right people tend to create the right organization, reinforcing the centrality of selecting
+strong partners. However, finding great people, while necessary, marks only a starting point in
+the search for a money manager, for strong people in a poorly structured organization face the
+markets with a significant, unnecessary handicap. In a world rich with alternatives,
+compromising on structural issues makes little sense.
+Attractive investment management organizations encourage decisions directed toward
+creating investment returns, not toward generating fee income. Such principal-oriented
+advisors tend to be small, entrepreneurial, and independent.
+Size and Client Base
+Appropriate size depends on the nature of the investment opportunity. In general, smaller
+tends to be better. Market size matters little when trading highly liquid securities such as U.S.
+Treasury bonds and large-capitalization domestic equities. Of course, such markets provide few
+opportunities to generate excess returns. Interesting active management situations reside in
+smaller, less liquid markets, requiring managers to exercise discipline in limiting assets under
+management.
+Constraints related to the number of clients limit rational firm growth as severely as do
+constraints related to asset size. While routine communication might be conducted through
+broad-based mailings or by client service personnel, informed clients inevitably require
+meaningful amounts of an investment principal's time and energy. An investment advisor
+opting for less involved, less burdensome clients makes a potentially serious mistake. First, high
+quality clients occasionally provide useful input into the investment process. Second, in the
+event that the firm experiences an explicable stretch of poor performance, high quality clients
+continue to support the manager's activities. Less sophisticated clients control unreliable
+money, oftentimes exhibiting pro-cyclical tendencies, buying high, selling low, and introducing
+instability into the investment management operation.
+A strong client base creates advantages for both the investment advisor and the clients
+themselves. If a money management firm's client roster contains "weak hands," temporary
+poor relative performance might cause substantial asset withdrawals. Such withdrawals harm
+other clients directly, in the case of transactions costs spread among participants in
+commingled funds, and indirectly, in the case of client defections leading to poor firm morale.
+In contrast, intelligently supportive clients contribute financial and emotional support to
+investment managers experiencing a rough stretch of performance. By adding assets to an
+underperforming manager's account, the client stands to profit from a future reversal of
+fortune, while the manager benefits from the client's vote of confidence.
+Entrepreneurial Attitude
+Small, independent firms operate on the opposite end of the spectrum from large subsidiaries
+of financial services conglomerates. Appropriate firm size and sensible ownership structures
+contribute to superior investment results. The tendency of smaller, principal-oriented firms to
+behave in an entrepreneurial fashion provides critical context to the investment management
+process. Entrepreneurial environments emphasize people, putting them ahead of bureaucracy
+and structure. By placing people first, investment organizations increase chances for success.
+In entrepreneurial organizations, individuals drive decisions, placing great importance on
+selecting partners with attractive behavioral characteristics. Great people provide the core of a
+strong entrepreneurial operation, according to venture capitalist Len Baker, because they
+"execute better, respond better to surprise, and attract other great people." He suggests that
+managers "be out there, be obsessive, and be bottom up."14
+Entrepreneurial capitalism rests on three driving forces: innovation, ownership, and
+adaptation. Each characteristic contributes to successful money management organizations.
+Innovation
+According to Schumpeter, innovators "see things which only subsequently prove to be true."15
+By building an investment process that promotes foresight, investment advisors lay the
+groundwork for success. Excess returns stem from out-of-the-mainstream positions that
+subsequently achieve recognition, often in startling surprise to ordinary market observers. By
+identifying the unexpected consequence before the fact, successful investment managers realize
+superior returns from exploiting superior insights. Without creative portfolio choices,
+investment managers face dismal prospects, since the old combination represents the consensus
+view. Market efficiency drives returns on market-like portfolios to the average, causing
+conventional portfolios with conventional ideas to produce conventional results, a poor
+outcome for active investment managers.
+In efforts to innovate, entrepreneurs encourage experimentation, accepting occasional
+shortfalls as the price paid for potential gains. Repeated failure precedes success in many
+entrepreneurial endeavors, requiring an organizational culture that encourages
+experimentation and accepts mistakes. By explicitly permitting failure, but holding down its
+costs, investment organizations create an environment allowing managers to construct truly
+novel, high-potential investment portfolios.
+Ownership
+Financial and psychic ownership leads to superior results. Strong investment management
+firms reward contributions monetarily while engaging the hearts and minds of staff members.
+Widely distributed ownership enhances organizational stability, facilitating long-term thinking.
+Carefully structured financial incentives elicit appropriate behavior from investment
+personnel, discouraging fee-driven activity and encouraging return-generating behavior.
+Psychic ownership provides a powerful complement to financial rewards. By causing investors
+to "buy in" to the process, interests of manager and client come together.
+Adaptation
+Adaptation involves careful selection, amplifying the strong and eliminating the weak. In
+choosing a portfolio of attractive positions from a large universe of potential opportunities,
+successful investors express unusual insights ahead of the herd. Strong ideas command
+meaningful portions of assets, magnifying the impact of high conviction positions, while weak
+positions disappear. When circumstances change, managers reconfigure portfolios to reflect
+new realities. Not only does adaptation influence the tactics of security selection, but as
+markets evolve, adaptation may lead to new investment strategies. If inefficiencies disappear in
+a particular niche, the entrepreneur leaves the unattractive market and secks new mispricings to
+exploit. Both tactically and strategically, adaptation plays an important role in money
+management.
+Contrast the flexibility of entrepreneurial organizations with bureaucracies. Bureaucratic
+structures deal effectively with repetitive, regular, slow-to-change environments. Control-
+oriented processes emphasize structure, subordinating the role of people. Bureaucracies employ
+conventional wisdom and seek consensus, punishing failure quickly and ruthlessly. By
+pursuing safety and avoiding controversy, bureaucratic structures systematically screen out the
+market opportunities likely to yield superior returns. Bureaucracies deal poorly with constantly
+changing market environments and fail to address even clementary active investment
+management problems.
+Many bureaucratic functionaries pursue investment with "name brand" money managers,
+reducing career risk by choosing widely recognized firms blessed by an external consultant.
+Large, process-driven entities that produce consistent results provide a safe haven for the timid
+client. Well-respected firms develop franchises, using their good name to attract and retain
+assets. In the realm of marketable investments, the franchise provides no benefit to the
+portfolio management process. The value of the franchise lies solely in the comfort level
+provided to clients.
+Comfortable investment decisions fail to generate exciting results. Discomfort represents a
+necessary, albeit not sufficient, condition of success. Because entrepreneurial firms tend to be
+newer and smaller, track records may be harder to define and interpret. Less process-driven
+strategies depend heavily on individuals, reducing the fiduciary's ability to rely on the franchise
+for results. While backing an entrepreneurial group takes more courage than serving up a
+"name brand" recommendation, investment success may require backing managers without
+standard institutional credentials.
+Unfortunately, once-attractive investment partners sometimes mature into unattractive
+bureaucracies. Schumpeter's concept of creative destruction takes hold, as organizations evolve
+from small entrepreneurial "craft shops" to large enterprises with characteristics that
+undermine the premise that supported forming the firm in the first place. As the organization
+grows, mutation "... incessantly revolutionizes the economic structure from within,
+incessantly destroying the old one, incessantly creating a new one."16 Institutional acceptability
+threatens the very characteristics that made the firm interesting in the first place. As time and
+size crode the entrepreneurial enthusiasm that brought initial success to the firm, the fund
+manager needs to reject the old partners and seek new partners to provide superior
+management capabilities. The process of creative truction, which Schumpeter concludes is
+"the essential fact about capitalism," poses challenges for investment management
+organizations. 17
+Investment Guerrillas
+Miles Morland, formerly general partner of Blakeney Management, captured the essence of the
+strengths of an entrepreneurial investment management organization in a letter describing why
+he did not proceed with a contemplated Joint venture involving a much larger financial services
+conglomerate. Blakeney manages assets in Africa and the Middle East.
+I am afraid we are not going to go ahead with our merger.... Blakeney is a small group
+of guerrillas. Our success comes from our ability to fight and forage in places too small
+and too risky for people with more to lose. That is also what makes it such an
+exhilarating place to work. We are focused completely on getting and doing business
+with no thought for our supply lines or on whose territory we are trespassing. [Your
+firm] is a big and powerful uniformed army. Thanks to you it has retained its
+entrepreneurial spirit more than any other large American firm but that is like saying
+that the parachute troops are more entrepreneurial than the tank battalions. Big firms by
+their nature need disciplines and chains of command. Their sheer size means that when
+they venture overseas they build complex relationships with other powers in other lands
+who speak the same language.....
+Guerrillas cannot be integrated into the regular army without losing what it is that
+makes them effective. All the professionals at Blakeney have previously been officers in
+the regular army and have deserted to join the guerrillas. It is the thought that you
+personally are a guerrilla at heart that has made us go on with the negotiations despite
+the warning signs. If we ask ourselves how will this deal help us do more and better
+business, and how will it make our lives more interesting and more fun, we cannot find
+an answer. Everything points in the opposite direction. This is no criticism of [your
+firm] or the excellent people we have gotten to know there. It is the reality of forming an
+affiliation with someone as big as you. Even if we don't have to put on uniforms we will
+have to run our business in a way that acknowledges the rules that are imposed on you
+and when we go foraging for business we will have to respect your existing alliances. We
+are rustlers by nature not herders. We want to make lightning raids in Zimbabwe and
+Ghana and Egypt while your partners... are holding meetings to decide... about how
+and where they are going to deploy their mighty troops. When they arrive we hope they
+will find a few of the local cattle are missing.
+... I hope we can continue to do things together. All this only started because of the
+respect I have for you personally. I bear the blame for not realizing sooner what the
+implications of the deal were. At the end of the day, we might have been the majority
+shareholder and you the minority one, but if a majority mouse lics down with a minority
+clephant it is not the elephant who is going to end up as a pancake.
+By selecting investment managers with an entrepreneurial orientation, fiduciaries improve
+the chances for investment success. Large, multiproduct, process-driven firms face the daunting
+hurdle of overcoming bureaucratic obstacles. Small, focused, independent firms with excellent
+people provide the highest likelihood of identifying the contrarian path to excellent investment
+results.
+Independent Organizations
+Investors increase the degree of coincidence of interests with fund managers by choosing to
+work with focused, independent firms. Particularly severe conflicts between investor goals and
+money manager actions arise in "financial supermarkets"-large, bureaucratic organizations
+that offer a variety of investment management options. Employees at financial conglomerates
+turn over at substantially greater rates than at independent firms. Compensation explains part
+of the reason. The investment management subsidiary's revenues flow to the financial
+supermarket, which takes some as profit and returns some as salary to the subsidiary's
+principals. Successful portfolio managers employed by supermarkets have the option of simply
+moving across the street, opening up shop, and garnering 100 percent of the revenues
+associated with their efforts. The profit objective of the financial supermarket creates instability
+at the investment management subsidiary, opening a gap between the interests of the firm and
+the client. A desire for independence explains another part of the reason for high employee
+turnover. The opportunity to operate without interference from bureaucrats intent on serving
+corporate interests appeals to the best investment minds. Ill-informed, outside intervention in
+the decision-making process, however well-intentioned, creates the potential for suboptimal
+outcomes and provides incentive to establish an independent firm. A final motivation comes
+from a sense of ownership. Owner operators simply work harder and better than rank-and-file
+employees. Small, independent, entrepreneurial organizations provide greater coincidence of
+interest between firm and client.
+Investment focus improves the chances of satisfying client objectives. A narrow product line
+forces managers to live and die by investment results, creating an enormous incentive to
+produce superior returns. In contrast, a firm with a broad product line anticipates that hoped-
+for gains on winning products more than offset inevitable losses on losing strategies, reducing
+the cost of any single product failure. Even worse, in secking steady streams of income, financial
+supermarket managers fashion broadly diversified portfolios, tracking market benchmarks
+closely enough to avoid termination and too closely to achieve excellence. Investors prefer that
+fund managers place all their eggs in one basket, and watch that basket with great care. By
+selecting concentrated, focused managers, investors increase chances for success.
+In pursuing stable flows of revenues, financial conglomerates seek income growth at the
+expense of investment performance. Investment managers soon recognize that rewards come
+primarily from attracting new cash flows, not generating superior investment returns. Since
+size is the enemy of performance, asset gatherers win at their clients' expense.
+Public ownership of an investment management organization introduces another set of
+issues for the firm's clients. While the goals of a privately held financial supermarket differ
+materially from the interests of the money management clients, in the case of a publicly owned
+money manager the introduction of outside shareholders further exacerbates the conflicts of
+interest. The most obvious, and perhaps the most severe, problem concerns the conflict of
+interest between money management clients and external shareholders.
+Fortress Investment Group
+When an independent investment management firm files to go public, the offering documents
+contain clues regarding the consequences for owners of the firm, their clients, and the public
+shareholders-to-be. But, offering documents frequently fail to address head-on the
+fundamental conflict that arises from introducing public shareholders into the mix. In the
+context of a private firm, the investment manager accepts the responsibility to provide superior
+investment results to clients that entrust assets to the investment manager's care. In the context
+of a public firm, the investment manager retains the responsibility to serve the clients' interests
+and adds a responsibility to public shareholders. The interests of the clients and the public
+shareholders often conflict.
+The public offering of shares in the Fortress Investment Group, a $26 billion manager of
+private equity partnerships, hedge funds, and publicly traded alternative investment vehicles,
+highlights the issues confronting a publicly traded firm's clients. Take the case of dividends.
+The November 2006 registration statement proudly notes that "unlike many publicly traded
+asset managers, we intend to pay out a significant portion... of our annual distributable
+earnings in the form of quarterly dividends. "18 Substantial dividends clearly benefit
+shareholders. In contrast, investors in Fortress's asset management products suffer from the
+firm's dividend policy.
+Consider the source funds for dividend payments. The most reliable income stream
+comes from the management fees that Fortress charges for asset management services. Higher
+fees and increased assets under management benefit the public shareholder. Neither higher fees
+nor increased assets benefit the clients of the Fortress funds. In fact, both factors produce lower
+investment returns. To add insult to injury, some portion of the fees paid by Fortress's clients
+go not to the principals making the investment decisions, but to faccless public shareholders.
+The issue of dividend payments highlights the conflict between clients and shareholders.
+In an attempt to justify the public offering, the offering statement includes a helpful section
+entitled "Why We Are Going Public," that contains the headers People, Permanence, Capital,
+and Currency. With respect to "People," Fortress suggests that publicly traded shares would
+"increase our ability to provide financial incentives to our existing and future employees."19
+The Fortress statement ignores the obvious fact that public shareholders claim a portion of the
+funds that otherwise would have been available for distribution to the firm's investment
+professionals. A public offering diminishes the size of the compensation pool, making
+Fortress's claim disingenuous at best.
+Regarding "Permanence," Fortress expects to benefit from an increase in the proportion of
+capital that institutions and individuals allocate to the firm. No evidence exists that capital
+providers prefer publicly traded firms to privately held firms. In fact, if capital providers seek
+high risk-adjusted returns, the fundamentals support the opposite conclusion.
+As to "Capital" and "Currency", Fortress suggests that publicly traded shares facilitate the
+firm's ability to grow, create new investment products, and finance future strategic
+acquisitions. Increases in assets and numbers of products may well benefit Fortress principals
+and public shareholders, but do nothing to serve the interests of the clients of Fortress funds.
+Strangely absent from the list of reasons to go public is "Greed." Just prior to the IPO, on
+December 18, 2006 the Fortress principals (five in number) sold 15 percent of the firm to
+Japanese securities firm Nomura "for approximately $888 million, all of the proceeds of which
+went to the Principals. "20 Moreover, between September 30, 2006 and the consummation of
+the IPO, the Fortress S-1 registration statement noted that "we distributed $528.5 million to
+our principals. "21 In addition, careful readers who make it to page 80 of the offering circular
+note that shortly prior to the initial public offering, the principals of Fortress entered into a
+$750 million credit agreement, which provided funds for refinancing a prior $175 million
+credit facility and for "investment in various existing and new Fortress Funds, and to make a
+one-time $250 million distribution of capital to our principals,"22 Finally, in a tangle of
+complexity that only a lawyer could love, the registration statement describes a "tax receivable
+agreement," which might produce payments to the principals that "could be material in
+amount. "23
+Between the $888 million Nomura windfall, the $528.5 million of pre-IPO distributions,
+and the $250 million loan distribution, the five principals of Fortress cashed in to the tune of
+$1,666.5 million. Finding the three elements of the Fortress principals' paydays required careful
+reading of pages and pages of legalistic prose in the company's disclosure documents. In a
+straightforward world, the section entitled "Why We Are Going Public" would contain one
+header, "Greed," that transparently outlined the $1.7 billion of payments to the fortunate few.
+The Fortress IPO clearly benefits the senior principals of the firm and just as clearly imposes
+costs on both the Junior Fortress professionals and the firm's clients. By giving a piece of the pic
+to outside shareholders and by cashing out themselves, the senior principals leave far less to
+compensate their subordinates. By introducing a responsibility to serve the interests of public
+shareholders, Fortress creates a conflict with their fiduciary obligation to clients. Public
+offerings of money management firms benefit the few at the expense of many.
+United Asset Management
+United Asset Management (UAM), a once-acquisitive conglomerate of investment advisors,
+illustrates the problems with external ownership of investment managers. At the end of 1998,
+with equity interests in forty-five firms and managing in excess of $200 billion, UAM ranked
+among the world's largest owners of investment management firms. While the firm boasted an
+impressive level of assets under management, UAM operated with a fundamentally flawed
+strategy.
+The UAM investment manager roster included a number of well-known, highly regarded
+groups, including Acadian Asset Management and Murray Johnstone Limited. While superior
+historical performance created UAM manager reputations, their acquisition by UAM dimmed
+prospects for future excess returns. The emphasis on asset gathering, loss of entrepreneurial
+drive, and diversion of revenues to passive shareholders created conditions that led to
+investment mediocrity.
+Even though UAM's 1997 annual report lists the name, address, and investment strategy of
+each of the firm's affiliated managers, no performance data appear. Net client withdrawals of
+$16.0 billion in 1997, representing 9.4 percent of assets at the beginning of the year, pointed to
+the conclusion that managers produced generally unsatisfactory performance. The few textual
+references to investment performance do little to confuse the annual report's clear message:
+manager rewards stem from increasing assets under management, not from generating superior
+investment returns.
+Board chairman Norton Reamer addresses the leakage of assets by identifying "improving
+our firms' net client cash flow [as] our top priority in 1998....24 The report later outlines
+incentive programs to reach the goal, "which is clearly a function of improved client service
+and retention as well as product development and marketing." Where is the reference to
+investment returns? The annual report indicates that new acquisitions will "concentrate on
+firms with the highest growth potential," not on firms most likely to provide superior
+performance.
+In spite of a roaring bull market, UAM failed to increase "net client cash flow." Throughout
+1998, nearly $20 billion
+assets left the money management firms under UAM's umbrella.
+While UAM continued to articulate a goal of increasing assets through improved client
+servicing, the firm announced several investment-oriented initiatives designed to improve
+performance.
+The performance improvement initiatives evidently failed, as 1999 proved no more
+successful than 1998. UAM's annual report noted that assets under management increased a
+scant $1.2 billion during the bull-market year, investment gains of $22.5 billion only slightly
+surpassed client outflows of $21.1 billion.
+On June 16, 2000, UAM threw in the towel, entering into an agreement to sell the firm to
+Old Mutual. The Wall Street Journal noted that the purchase price, which amounted to about
+1.2 percent of assets under management, stood at the low end of the "going rate of 1%-to-5% of
+assets," reflecting some of the restructuring work that lies ahead. "25 Trevor Moss, a London-
+based securities analyst, observed that UAM had "about the same level of assets under
+management that it had about five years ago," a dismal showing in the context of the U.S.
+equity market's nearly threefold increasc.26
+UAM fizzled for a variety of reasons. External ownership of investment firms inevitably
+alters the institutional culture, diminishing the entrepreneurial spirit so critical to successful
+money management organizations. When senior professionals "cash out," the single-minded
+focus on generating strong results dissipates, sapping the vitality of the firm. After the sale of a
+firm, junior professionals face a less rosy future. According to UAM disclosure documents,
+after a typical acquisition, only 50 percent to 70 percent of revenues remain with the
+investment management firm. The diversion of resources to passive external shareholders
+reduces the size of the pic available for distribution to investment professionals, creating
+instability. Employees of professional services firms with substantial outside ownership enjoy
+the option of moving across the street, setting up shop and garnering a greater share of the
+newly formed independent firm's profits.
+In October 2007, Old Mutual's president and chief executive officer Scott Powers
+acknowledged the challenge of external ownership, noting that "[i]t's taken us a while to figure
+out the right mix of short-term and long-term incentives." Five years after the UAM purchase,
+Old Mutual "largely completed the process of changing revenue sharing agreements into
+profit sharing arrangements, a step that reduces incentives to gather assets. In 2007, Powers
+articulated a longer term goal "to get cquity into the hands of our affiliates." While providing
+equity ownership to the principals of investment management subsidiaries moves the
+organizational structure in the right direction, the ultimate sharing of equity necessarily falls
+short of the 100 percent ownership characteristic of an independent investment manager.27
+Pursuit of investment excellence in the context of a conglomerate of investment managers
+proves futile, as the goals of external owners fail to coincide with the aspirations of investors.
+Asset gathering creates discconomies of scale for investors, decreasing the possibility of
+achieving superior performance. The transformation of senior managers from owners to
+employees creates changes in firm culture that disadvantage investors. Finally, compensation
+for external shareholders impairs the money management firm's ability to pay portfolio
+managers at competitive levels, leading to turnover among personnel and posing risks to
+investor assets. Significant external ownership of asset management firms creates barriers to
+investment success.
+Investment Banks and Investment Management
+Conflicts of interest abound in the financial world, with large, complex organizations facing
+the widest range of issues. Investment banks frequently sponsor private equity funds, using
+access to proprietary deal flow as a selling point. Unfortunately, deals originated by the
+investment banking network come with built-in conflicts. When a company engages an
+investment bank to sell a division, alarm bells should ring when the banker suggests that the
+investment bank's private equity fund purchase the division. Is the investment bank serving the
+interest of a good corporate client by paying a rich price for the division? Or, is the investment
+bank serving the interest of the private equity fund by paying a low price? Under such
+circumstances, fairness opinions notwithstanding, no fair price exists.
+Less subtle conflicts permeate the process. Investment banks sometimes put themselves in
+untenable positions, advising companies at the same time as they provide financing. In August
+2007, Lehman Brothers found itself horribly conflicted when its Home Depot Supply
+transaction floundered amid the LBO debt crunch. As reported in the International Herald
+Tribune, Lehman "advised Home Depot on the sale at the same time it was also providing
+financing to the buying group. Suddenly, Lehman was turning around and threatening to
+scuttle a deal it had advised one of its most important clients to accept. "28
+Ultimately, Goldman Sachs replaced Lehman as an advisor and Lehman retraded the deal,
+obtaining more lucrative terms for its financing. Advisory and financing roles always conflict;
+the stresses of the LBO funding crisis brought the conflict into high relief.
+After deals close, investment banks often continue to provide financial advisory and capital
+markets services to portfolio companies. In an unusual public description of the bonanza
+created by captive private equity funds, the December 14, 1990 Wall Street Journal detailed
+fees generated by Morgan Stanley's investment in Burlington Industries.
+Morgan Stanley and Burlington Industries
+In 1987, Morgan Stanley's leveraged buyout fund invested $46 million of equity in the $2.2
+billion purchase of Burlington Industries. Over the next three years, the investment bank
+charged the company more than $120 million in fees for services ranging from underwriting to
+advising on divestitures. Because Morgan Stanley controlled the board of Burlington
+Industries, decisions regarding financing and divestitures were neither arm's length nor
+exposed to market forces. At best, all transactions benefited the company, with Morgan Stanley
+compensated at market rates for services rendered. At worst, unnecessary transactions
+generated above-market fees, disadvantaging the company and Morgan Stanley fund investors.
+When a fund sponsor profits by charging advisory fees at the direct expense of investors,
+serious conflicts of interest ensue.
+Noting that "nearly every time Burlington needed advice, Morgan Stanley turned on the
+meter," Wall Street Journal reporter George Anders suggests that "the story of Burlington
+Industries raises troubling questions about Wall Street's foray into merchant banking. "29 Fees
+generated by Morgan Stanley "for everything from underwriting Burlington's high yield debt
+to overseeing a blizzard of divestitures" dwarf the
+aity investment made by the partners of
+Morgan Stanley in the Burlington transaction, providing handsome returns to the investment
+bank irrespective of the returns delivered to the firm's private equity investors.30
+Goldman Sachs and the Water Street Corporate Recovery Fund
+Goldman Sachs created an even more extensive web of conflicts when in 1990 it established the
+Water Street Corporate Recovery Fund, a $783 million "vulture fund" set up to make
+concentrated investments in distressed securities. Hoping to be viewed as a savior of bankrupt
+companies, instead Goldman stirred up a hornet's nest of conflicts.
+One set of conflicts existed between Goldman's financial restructuring advisory business
+and control investing in distressed situations. Investment banks generally rely on "Chinese
+walls" to contain sensitive data supplied by clients in the course of advisory assignments,
+keeping inside information away from securities analysts and traders. The term Chinese wall
+may be employed because such walls are easily removed at an assignment's end. A cynic (or
+realist) might argue that paper-thin permeability more aptly describes Chinese walls. Because
+Goldman partner Mikael Salovaara both ran the Water Street Fund and continued to advise
+clients on restructuring, any shred of separation between the business disappeared, causing
+"traders at other firms (to joke) that Mr. Salovaara had a 'Chinese wall' in the middle of his
+brain."31
+The Water Street Fund investment in distressed bonds of toy-maker Tonka illustrates several
+strands of the web of conflicts. After accumulating a position in Tonka's debt securities,
+Salovaara competed for an assignment to advise Mattel on a possible acquisition of Tonka, in
+the process, perhaps, picking up potentially valuable non-public information regarding the
+value and salability of Tonka's bonds. Goldman's advantage infuriated Junk bond investors not
+privy to the information, causing several to complain publicly and to suggest they would
+reduce activity with Goldman's trading desk. 32
+Ultimately, Tonka agreed to be acquired by Hasbro, creating yet another problem for
+Goldman. The Water Street Fund owned more than half of Tonka's bonds, having acquired
+the position at less than 50 percent of face value.33 Even though Tonka's board of directors
+wished to sell the company to Hasbro, Goldman played hardball, holding out for more money
+for the firm's bond position. While such tactics raise few eyebrows in the rough and tumble
+world of distressed debt, some clients saw Goldman's actions as inconsistent with the firm's
+avowal to avoid any participation in hostile merger activity. Ultimately, the investment bank's
+tactics worked, increasing payments received for the Tonka bond position by reducing the
+value of other participants Tonka and Hasbro shareholdings. Goldman's investment returns
+came at great expense, tarnishing the firm's reputation for putting clients first.
+A final strand in the conflict web relates to Goldman's junk bond trading activity. To avoid
+competition, the firm limited the high yield trading desk's activity in bonds that interested the
+Water Street Fund. Goldman's trading clients, already concerned about the firm's possible
+informational advantages, faced market makers less able to take positions.
+Goldman's advisory conflict troubles went beyond the Tonka casc. According to an article
+in the June 4, 1991 Wall Street Journal, "nine of twenty-one companies that the Water Street
+Fund selected for restructuring' are or were Goldman clients."34 Perceptions mounted that
+Goldman invested the Water Street Fund with an unfair advantage.
+Faced with a storm of controversy, Goldman shut down the fund in May 1991, several years
+ahead of schedule. Even though the Water Street Fund generated handsome returns during its
+abbreviated life, the fund's enduring legacy may be its rich series of lessons on conflicts of
+interest.
+Goldman Sachs and the Global Equity Opportunities Fund
+In mid August 2007, Goldman Sachs faced unprecedented carnage in its hedge fund portfolio.
+The firm's flagship $7.5 billion Global Alpha Fund, managed by Mark Carhart and Raymond
+Iwanowski, posted a stunning year-to-date decline of 27 percent. 35 The lower profile North
+American Equity Opportunities Fund dropped 25 percent in the first seven and a half months
+of the year. And, for good measure, the Global Equity Opportunities Fund lost a stunning 30
+percent of its value in the second week of August alone.36 In aggregate, the net value of the
+three funds managed by Carhart and Iwanowski declined by an impressive $4.7 billion during
+the first cight months of the calendar year.
+Goldman had no skin in the game. The firm's chief financial officer David Viniar
+characterized Goldman's investments as "nothing substantial; very immaterial, if at all."
+Goldman simply collected fees for mismanaging the hedge funds; the losses belonged to the
+firm's investors. Yet, presented with an extreme market dislocation, Goldman chose to become
+a principal.
+In response to the dramatic price declines, Goldman Sachs arranged a $3 billion injection
+into the Global Equity Opportunities Fund, of which approximately $2 billion came from
+Goldman Sachs itself. On a conference call explaining the move, David Viniar asserted the
+infusion of capital benefited Goldman Sachs and "the current investors in the fund, giving
+them the firepower to take advantage of the opportunities in the market today." In reality,
+Goldman used the bulk of the infusion to play defense. The fund managers employed the cash
+contribution to bring the fund's leverage down from an irresponsible level of approximately 6
+to 1 to a still high (but more defensible) level of around 3.5 to 1.37
+Goldman's move raises a number of questions. If, indeed, the move benefited existing
+clients by reducing leverage and providing firepower, why did Goldman choose to benefit only
+clients of the Global Equity Opportunities Fund? What of the fiduciary responsibility of
+Goldman Sachs to clients invested in the Global Alpha Fund and the North American Equity
+Opportunities Fund? Goldman Sachs's David Viniar noted that the fund managers were
+reducing risk and reducing leverage in both Global Alpha and North American Equity
+Opportunities. Why should Global Equity Opportunities receive a so-called benefit from
+Goldman in the form of a cash contribution that presumably allowed low-cost deleveraging,
+while the unfavored funds faced the market-related costs of selling assets in a hostile trading
+environment?
+The timing of Goldman's investment raises questions about the firm's favored access to
+what senior management characterized as "a good investment opportunity." Instead of
+providing the opportunity to existing clients of the Global Equity Opportunities Fund,
+Goldman took the lion's share for itself and reached out to a select group of investors for the
+rest, ultimately raising $1 billion from the likes of Eli Broad, C.V. Starr (Maurice "Hank"
+Greenberg), and Perry Capital, 38 As a fiduciary for the investors in Global Equity
+Opportunities Fund, should not Goldman first offer the chance to take advantage of the fund's
+opportunities to the existing investors?
+Viewed from another perspective, Goldman's investment in Global Equity Opportunities
+might actually harm the fund's clients, in contrast to the benefit that Goldman claims.
+Goldman and the firm's favored co-investors enjoyed the opportunity to invest $3 billion in the
+Global Equity Opportunities Fund at net asset value on the day of their choosing. Goldman
+got a sweet deal. Had the $3 billion been invested in the securities that comprise the fund, the
+market impact of the sizable trades would no doubt force prices up, increasing Goldman's cost
+basis. Instead, by using the contributed assets to reduce leverage, Goldman bought in at a price
+that otherwise would have been impossible to achieve. Existing investors suffered dilution of
+their position.
+Finally, Goldman Sachs provided the cherry-picking investors better deal terms than those
+accorded the existing Global Equity Opportunities Fund investors. In an analyst conference
+call, Goldman Sachs president and co-chief operating officer Gary Cohen noted that the firm's
+cash infusion put Goldman in an "equal position to all the existing investors." In fact, the new
+money pays no management fee, pays a reduced carry of 10 percent, and benefits from a hurdle
+rate of 10 percent. Because Goldman and the other favored investors received preferential terms
+on their investment, their actions certainly disadvantaged the existing fund investors.
+In any event, Goldman picked an opportune time to make its commitment to the Global
+Equity Opportunities Fund. Bloomberg reported that in the week following the cash infusion,
+the fund rose 12 percent. A September 20th AP release noted that Goldman's investment had
+appreciated 16 percent in little more than a month. At least in the short run, Goldman made
+out well. Global Equity Opportunities Fund clients shared in the rebound, but by dint of
+Goldman's investment, in an attenuated fashion. Presented with an attractive investment
+opportunity, Goldman became a principal, riding roughshod over the interests of the firm's
+hedge fund clients and enriching itself in the process.
+While investors cannot avoid conflicts entirely, fewer differences in interest exist when investing
+with independent investment management organizations. Avoiding affiliates and subsidiaries
+of financial services firms does little to reduce the rich set of investment manager alternatives.
+DEAL STRUCTURE
+Appropriate deal terms play an important role in producing satisfactory investment results.
+After identifying an attractive investment management firm, investors face the issue of
+evaluating (or negotiating) compensation arrangements. The degree of efficiency in asset
+pricing determines in part the nature of the compensation scheme, with passive management
+of efficiently priced securities demanding different treatment from active exploitation of
+anomalously priced assets. All aspects of investment management fee structures contain
+potential for conflict between the interests of investors and investment managers, forcing
+fiduciaries to pay close attention to explicit and implicit incentives embodied in management
+contracts.
+Co-investment
+Co-investment provides a powerful means of aligning fiduciary and fund manager interests. To
+the extent that a manager becomes a principal, issues regarding agency behavior diminish.
+Unfortunately, along with substantial co-investment, issues arise regarding possible differences
+in goals between mortal, taxpaying money managers and immortal, tax-exempt institutional
+investors. That said, co-investment reduces the incentive for investment advisors to profit at the
+expense of clients.
+While any level of co-investment encourages fund managers to act like principals, the larger
+the personal commitment of funds the greater the focus on generating superior investment
+returns. Managers cease to benefit from attracting new capital at the point where the return
+diminution on the manager's personal stake caused by increasing assets under management
+exceeds the opportunity costs of fees foregone by limiting asset growth. Because the easily
+measured level of fees foregone generally eclipses the fuzzy estimate of size-induced
+performance drag, only the wealthiest managers confront a clear trade-off favoring asset growth
+limitations. Even though the numbers might favor asset-gathering strategies for most managers,
+substantial levels of co-investment send strong signals to investors regarding the principal
+orientation of fund managers. The idea that a fund manager believes strongly enough in the
+investment product to put a substantial personal stake in the fund suggests that the manager
+shares the investor's orientation.
+Investment of personal assets side-by-side with client capital creates a powerful alignment of
+interests. While profit participations focus manager attention on the investor goal of generating
+handsome investment returns, a profit sharing arrangement in which managers share only in
+gains creates an option that encourages risk-secking behavior. By making a substantial co-
+investment, managers participate directly in gains and losses, leading to more balanced
+assessment of investment opportunities. To realize the hoped-for behavioral outcome, the co-
+investment commitment must be large relative to the manager's net worth, even though the
+amount might be modest in absolute terms. When writing a check representing a material
+portion of personal assets, the investment manager steps into the role of a principal.
+While co-investment generally improves the investor's position by aligning investment
+interests, differences in goals bear careful scrutiny. Taxpaying fund managers in partnership
+with tax-exempt institutional investors face different after-tax return scenarios. Mortal decision
+makers operate with shorter time horizons than appropriate for an enduring organization's
+permanent funds. Individuals with large fund investments frequently desire greater
+diversification than required by most institutions, which hold an already well-diversified
+collection of assets. Even though differences in tax status, time horizon, and risk tolerance drive
+wedges between the interests of individual fund managers and the goals of institutional
+investors, the benefits of substantial co-investment far outweigh the likely costs.
+Compensation Arrangements for Marketable Securities
+The character of sensible compensation arrangements for investment managers varies with the
+degree of efficiency in asset pricing. Passive management of government bonds demands fee
+arrangements different from those appropriate for active management of private equity. For
+most asset classes investors face well-entrenched fee arrangements, ranging from asset-based fees
+for relatively efficiently priced marketable securities to a combination of asset-based fees and
+incentive payments for less efficiently priced asset types. Because marketplace practices
+frequently deviate from ideal compensation structures, price-taking investors generally take the
+pragmatic approach of choosing the best option from a set of bad alternatives.
+Passive Strategies
+Passive asset management differs fundamentally from active asset management. Size, the enemy
+of active investors, works in favor of index fund managers. For example, passive funds with
+large numbers of investors and sizable pools of assets frequently offer crossing opportunities, in
+which some portion of exiting investor demand for funds matches entering investor supply of
+funds, allowing nearly costless exit from and entrance to the investment pool. Scale improves
+tracking of benchmarks, as large size facilitates full replication of the investment universe,
+reducing the need for tracking-error-inducing sampling procedures. Experience shows that
+funds with billions of dollars track benchmarks with little or no slippage.
+Barclays Global Investors, one of the world's largest index fund managers, offers a wide
+variety of products designed to mirror various marketable security benchmarks, segregated into
+distinct pools for different types of investors. The largest pool of assets, designed to track the
+S&P 500, contained $127 billion on December 31, 2006. Before fees the fund returned 8.46
+percent for the trailing ten years relative to 8.42 percent for the S&P 500 index. The much
+smaller bond pool, with $1.6 billion on December 31, 2006, showed similarly impressive
+results, with ten-year returns of 6.33 percent relative to 6.26 percent for the Lehman Brothers
+Government Corporate Index. The commodity-like nature of passive investing commands
+commodity-like compensation. Index fund managers compete with the alternative of
+internally managed passive portfolios, forcing fees to a paltry two basis points per year for large
+accounts,III By choosing passive alternatives for efficiently priced assets, investors expect
+predictable results at a bargain price.
+While strong arguments support passive management for all marketable securities, two
+factors argue strongly for passive management of bond portfolios in particular. First, to satisfy
+the deflation hedging role of fixed income, investors must hold long-term, high quality, non-
+callable bonds, suggesting the creation of stable duration government bond portfolios. Second,
+the extraordinary efficiency in the pricing of government bonds makes active security selection
+decisions a costly exercise in futility. The need for a stable maturity structure and the futility of
+individual security bets require that investors manage bond portfolios passively.
+While domestic equity investors enjoy more flexibility in structuring portfolios than bond
+investors, the difficulty of identifying material mispricings in the stock market, particularly
+among large-capitalization securities, leads many investors to index common stocks. By
+avoiding high fees and substantial transactions costs, index funds provide long-term results that
+represent a formidable hurdle for investors hoping to outperform. Yet, in spite of the clear
+difficulties in producing risk-adjusted excess returns, most investors pursue active management
+strategies.
+Active Strategies
+Careful active investors pay close attention to fee arrangements, recognizing that fees represent
+a substantial obstacle to market-beating performance. Active managers of marketable securities
+generally receive asset-based fees in exchange for portfolio management services. On one level,
+interests coincide. To the extent that a manager increases assets through superior investment
+performance, both the manager and the investor win as the manager's income increases and the
+investor's return pleases. On other levels, interests conflict. The manager may pursuc a "staying
+in business strategy to protect fee income by closet indexing, holding a market-like portfolio
+unlikely to produce results that would lead to termination. Perhaps even more damaging, the
+manager may conclude that gathering assets provides greater fee income than generating
+superior returns.
+In growing assets, managers simply respond to economic incentives. With asset-based fees,
+income increases as assets under management increase. Frequently, managers find it easier to
+add assets by attracting new accounts than by creating excess returns. With distressingly few
+exceptions, fund managers aggressively pursue marketing activities, attempting to gather as
+many assets as possible. Retaining assets requires avoiding disastrous performance, causing
+money managers to create market-like portfolios that all but eliminate the chance for superior
+performance. Investment management represents, at best, a secondary consideration for most
+institutional fund managers.
+Creating appropriate deal structures allows investors to mitigate many of the conflicts
+inherent in the investment advisory relationship. Sensible fee arrangements contain two
+elements: base compensation that covers reimbursement of reasonable overhead costs and
+incentive compensation that rewards a manager's value added. The incentive compensation, or
+profits interest, represents a share of the returns generated in excess of a benchmark
+appropriate to the investment activity. For example, large-capitalization domestic marketable
+equity managers might be rewarded for returns generated in excess of the S&P 500, while
+foreign equity managers might receive a profits interest in returns above the Morgan Stanley
+Capital International EAFE Index. Fair deal structures, rare in the investment management
+arena, encourage appropriate behavior on the part of money managers.
+Unfortunately, the overwhelming majority of marketable security managers employ asset-
+based fee schemes, causing market gains or losses and portfolio inflows or outflows to
+overwhelm the impact of manager skill. Even though a number of managers offer superficially
+attractive incentive compensation arrangements, three factors diminish the appeal of most
+schemes. First, the vast bulk of marketable security funds generate profits primarily from asset-
+based fees, encouraging managers to emphasize increasing asset totals. In other words, even
+when firms offer incentive arrangements, those incentive arrangements fail to influence fund
+manager behavior because investment firms continue to rely on fee income expressed as a
+percentage of assets under management. Second, investment managers tend to offer terms on
+incentive schemes that involve modest levels of risk to the firm's existing income flows. Instead
+of taking a "blank slate" approach that sets baseline fees at a level that covers reasonable
+overhead, money managers try to structure incentive arrangements that ensure continued
+income flows even with mediocre performance, protecting the profit margins implicit in
+existing fee structures. Finally, investors choosing between a traditional asset-based fee and an
+alternative incentive-oriented structure encounter cognitive dissonance, as the performance
+expectations implicit in hiring an active manager cause expected costs of incentive
+compensation to exceed anticipated payments from a traditional asset-based fee arrangement.
+While the concept of incentive compensation structures for active managers of marketable
+securities carries a great deal of theoretical appeal, the limitations of real-world arrangements
+reduce the effectiveness of incentive schemes in causing fund managers to behave as principals.
+Investment management fees, whether asset-based or incentive-oriented, represent a heavily
+scrutinized term in most contract negotiations, with investors seeking the lowest possible fee
+burden along with a "most-favored-client" clause ensuring advantageous treatment in the
+future. Beneath the open, honest discussion concerning marketable equity fee arrangements lic
+hidden soft dollar payments, representing old-fashioned kickbacks designed to increase
+investment advisor cash flow at the direct expense of investor clients.
+Soft Dollars
+The history of soft dollars provides a worrisome tale. Prior to May 1, 1975, Wall Street
+operated under a system of fixed commissions that set rates far above the costs of executing
+trades. Competitive forces caused brokerage firms to circumvent the fixed prices, by providing
+rebates to favored customers in the form of soft dollars. Soft dollars, in essence a kickback from
+broker to trader, funded the purchase of both investment-related and noninvestment-related
+goods and services.
+Think about the implications of soft-dollar trades for investors. Paying inflated
+commissions to trade securities, for whatever purpose, reduces investment returns. The
+reduction in return comes straight from the investor's pocket. The benefit, in the form of
+goods and services, accrues directly to the fund manager. Because the costs of soft-dollar goods
+and services would otherwise have come from the fund's management foc, soft dollars
+represent nothing other than a well-disguised increase in management fees. Wall Street benefits
+at the investor's expense.
+AT. Rowe Price disclosure document, dated March 1, 2004, describes the soft-dollar game.
+"[U]nder certain conditions, higher brokerage commissions may be paid in return for
+brokerage and research services.... [S]uch services may include computers and related
+hardware. T. Rowe Price also allocates brokerage for research services which are available for
+cash.... [T]he expenses of T. Rowe Price could be materially inc lif it attempted to
+generate additional information through its own staff. To the extent that research services of
+value are provided by brokers or dealers, T. Rowe Price is relieved of expenses it might
+otherwise bear." Investors learn of T. Rowe Price's soft-dollar policies through carefully
+constructed, legally correct prose buried on pages 90 and 91 of an infrequently read disclosure
+document. Even though T. Rowe Price presumably satisfies legal requirements with its
+disclosure, the firm compromises investor interests with its soft-dollar usage.
+After May Day 1975, when the SEC abolished the system of fixed commissions, the raison
+d'être for soft dollars vanished. Price competition would set brokerage commission rates.
+Under-the-table kick-backs could disappear. Unfortunately for investors, fund managers
+realized that soft dollars transferred research-related expenses from their account (management
+fee income) to the investors' account (trading expenses). As a result, the money management
+industry enthusiastically defended the use of soft dollars.
+Instead of banning soft dollars, in 1975 Congress created a safe harbor for their use under
+Section 28(e) of the Securities Exchange Act of 1934. Perverting a piece of legislation originally
+designed to protect the investing public, Congress bowed to pressure from Wall Street and
+explicitly allowed fund managers to deplete investor assets, legitimizing soft dollars by
+instructing the SEC to define appropriate use. Why do market participants tolerate the
+inefficiencies involved in paying inflated prices for trading securities and then receiving rebates
+in the form of goods and services? The answer lies in the lack of transparency of the process,
+which allows money managers to profit in an opaque manner. Were the soft-dollar charges as
+transparent as the highly visible management fees, the investment management industry would
+have no use for soft dollars.
+When the Securities and Exchange Commission examined the soft-dollar issue in the mid
+1980s, the commission not only missed an opportunity to eliminate the scourge of soft dollars,
+it actually expanded the epidemic. In wonderfully bureaucratic prose, the SEC noted that its
+1986 release addressed "[i]ndustry difficulty in applying the restrictive standards" on soft-dollar
+usage by "adopting a broader definition of 'brokerage and research services. In other words, if
+the restrictions bind, loosen the constraints. The SEC's 1986 soft-dollar regulations favored the
+advisor over the advisec.
+SEC Chairman Arthur Levitt described soft dollar conflicts in a February 15, 1995 Wall
+Street Journal article: "Soft-dollar arrangements can create substantial conflicts of interest
+between an advisor and its clients. For example, advisors may cause their clients to pay excessive
+commission rates, or may overtrade their clients' accounts simply to satisfy soft-dollar
+obligations. Soft-dollar arrangements may also result in inferior executions when advisors
+direct trades to the wrong broker to satisfy a soft-dollar obligation."39
+To ameliorate conflicts surrounding brokerage activity, in February 1995, the SEC
+proposed a new rule under the Investment Advisors Act of 1940 that would require
+investment managers to disclose the services they receive for brokerage commissions. The
+report would list the twenty brokers to which the advisor directed the largest amounts of
+commissions during the previous year, the top three execution-only brokers, the aggregate
+amount of commissions directed by the advisor to each broker, and the average commission
+rate paid to each broker. The disclosure would permit a client to assess the costs and benefits of
+the soft-dollar services that the advisor receives, and, consequently, whether the client should
+attempt to limit the advisor's use of soft-dollar brokers. Unfortunately, no action resulted from
+the 1995 SEC rule proposal.
+In spite of Chairman Levitt's public concerns about soft dollars, the SEC again failed to
+protect mutual-fund investors in 1998. The regulator's Inspection Report dryly notes "the
+widespread use of soft dollars," as "almost all advisors obtain products and services other than
+pure execution from broker-dealers and use client commissions to pay for those products and
+services." The report recognizes that "advisors using soft dollars face a conflict of interest
+between their need to obtain research and their clients' interest in paying the lowest
+commission rate available and obtaining the best possible execution." The report details
+instance after instance of questionable use and outright abuse of soft dollars, including
+payment "for office rent and equipm cellular phone services and personal pense
+employee salaries, marketing expenses, legal fees, hotels and car rental costs." Wall Street's
+definition of research bears little correspondence to Merriam-Webster's.
+In spite of the fundamental, irreconcilable conflict of interest in soft-dollar use and in spite
+of the long litany of soft-dollar abuse, the 1998 Inspection Report concludes only that the SEC
+"should reiterate and provide additional guidance, consider adopting recordkeeping
+requirements, require more meaningful disclosure and encourage firms to adopt internal
+controls. Instead of protecting investor interests, the SEC defended Wall Street's gravy train.
+While the substance of the 1998 Inspection Report argued for abolition, the SEC wimped
+out. Faced with a concerted lobbying effort by interested parties-including investment
+managers, Wall Street firms, and the normally sensible trade association of research analysts-
+and a lack of pressure from individual investors, the self-styled "investor's advocate" opted to
+tighten regulation instead of taking the high road of total eradication. A cynic might argue that
+the SEC acts on highly visible, easy-to-understand investor protection issues, while allowing
+low-profile, difficult-to-comprchend abuses to remain.
+One of the most outrageous "legitimate" uses of soft dollars involves payoffs made by
+investment advisors to consulting firms. According to the 1998 SEC report, performance
+attribution services constitute "a significant portion of the total commission dollars used in
+soft dollar transactions. "40 Obviously, any competent investment manager develops internal
+capabilities to understand sources of investment returns, creating evaluation mechanisms
+specific to the firm's particular approach to markets. Purchasing performance attribution from
+consultants serves simply to line the pockets of the consulting firm at the expense of the
+investment manager's clients. Presumably, the consulting firm receiving the payoff places the
+investment management firm in a favored position when making manager recommendations.
+While investment advisors may wish to improve their standing by purchasing useless
+information from consulting firms, using client assets for the purpose turns inanity to
+ignominy.
+Some investment managers need so much assistance in evaluating performance that they
+purchase reports from a variety of consultants. The SEC study cites a large institutional advisor
+that "directed $882,000 in client commissions to pay for 13 separate performance analyses."
+According to a report in Pensions and Investments, J&W Seligman & Co., a moncy
+management firm with $24.3 billion under management, engaged seven consulting firms to
+provide performance attribution reports, using client assets to fund the purchase through soft
+dollars. By paying substantial sums to Callan Associates ($79,000), Evaluation Associates
+($100,000), Frank Russell ($26,789), Madison Portfolio Consultants ($17,500), SEI
+Corporation ($10,000), Wellesley Group ($52,500), and Yanni-Bilkey Investment Consulting
+($25,000), J&W Seligman no doubt expects favorable treatment in the next search conducted
+by the compromised consultants. Payoffs dishonor everyone involved.
+Beyond the "legitimate" use of soft dollars to "curry favor with the consultant in his
+rankings and recommendations of advisors," nearly 30 percent of investment advisors employ
+soft dollars for "non-research products and services. The purchases, which fall outside of the
+safe harbor, include use of soft dollars for office rent, equipment, marketing expenses, phone
+services, and salaries. The SEC observed that "virtually all of the advisors that obtained non
+research products and services had failed to provide meaningful disclosure of such practices to
+their clients."42 Aside from using an illegitimate source of funds for legitimate business
+expenses, many advisors stepped over another line by diverting funds for personal use,
+including purchase of travel, entertainment, theatre tickets, limousine services, interior design,
+Internet website design and construction, and computer hardware and software. In the most
+flagrant abuse of soft dollars, investment advisors defrauded clients by directing "funds
+ostensibly for verbal "regional research' and 'strategic planning' to family members of the
+advisor's principal," by transferring soft dollars through a daisy chain of companies controlled
+by the advisor's president, and by paying "round trip airfare to Hong Kong for the principal's
+son. Even though soft dollars did not cause the theft, the opacity of the arrangement
+facilitated the crimes.
+Some clients benefit from a different aspect of the current system of commission-related
+activity, taking advantage of the murky character of directed brokerage. With directed
+brokerage, plan sponsors cause trades to be executed by specified brokers, paying higher than
+market commission rates. A portion of the above-market rate flows back to the plan sponsor in
+the form of cash rebates or investment-related goods and services. Two factors drive directed-
+brokerage activity-directed-brokerage investors gain an advantage at the expense of clients not
+directing brokerage, and fund sponsors use rebates from directed brokerage to purchase goods
+and services unavailable through normal procurement channels.
+Investment advisors commonly aggregate trades for a number of separate account clients,
+allocating shares to accounts on a pro rata basis. If one client requests that brokerage be
+directed to a particular securities firm, in order to receive a cash rebate, that client accrues an
+unfair benefit relative to other clients. In fact, the client who "steps out of the aggregated
+trade likely benefits implicitly from all of the brokerage conducted by the investment advisor at
+the designated firm. Such arrangements exist only as long as they remain hidden from view. If
+disclosed, disadvantaged clients would demand fair and equitable treatment.
+Some investors, particularly in political or corporate environments, fail to obtain sufficient
+direct support for investment management operations. To augment direct appropriations,
+investments staff sometimes employ directed-brokerage and soft-dollar programs, generating
+resources outside regular appropriations or operational channels.
+Appearing before a Department of Labor Working Group on Soft Dollars and Commission
+Recapture, the former director of the New Jersey Division of Investment openly testified that
+"he utilizes soft dollars to pay for needed administrative expenses," since "he does not receive
+sufficient funding from the New Jersey State Legislature." In fact, the former director urged
+that "the current interpretation of research' should be expanded to include travel and hotel
+expenses."43 Soft dollars provide a convenient mechanism for the New Jersey Division of
+Investment to circumvent constraints imposed by the state legislature, allowing the investment
+operation to thwart the intent of New Jersey's elected representatives.
+In April 2007, SEC Chairman Christopher Cox added his voice to the chorus calling for
+soft-dollar reform. In a speech to the Mutual Fund Directors Forum, Cox asserted that:
+Soft dollars can serve as an incentive for fund managers to disregard their best execution
+obligations, and also to trade portfolio securities inappropriately in order to earn credits
+for research and brokerage. Soft dollars also represent a lot of investors' hard cash, even
+though it isn't reported that way. The total of soft dollars runs into the billions each year
+for all investment funds in the United States.
+An agency focused on ensuring full disclosure to investors has to be very concerned
+about this, because soft dollars make it more difficult for investors to understand what's
+going on with their money. Hard dollars eventually end up being reported as part of the
+management fee the fund charges its investors. But soft dollars provide a way for funds
+to lower their apparent fees-even though, in the end, investors pay for the expense
+anyway.
+The very concept of soft dollars may be at odds with rity in describing fees and
+costs to investors. The 30-year-old statutory safe harbor, in Section 28(e) of the
+Exchange Act, was probably thought to be a useful legislative compromise when it was
+packaged with the abolition of fixed commissions. But surely in enacting Section 28(e)
+Congress meant to promote competition in research, not to create conflicts of interest
+by permitting commission dollars to be spent in ways that benefit investment managers
+instead of their investor clients,44
+In May 2007, SEC Chairman Cox called for repeal or substantial revision of the safe harbor
+that protects soft-dollar arrangements between broker dealers and money managers. Cox noted
+the current system produced a "witch's brew of hidden fees, conflicts of interest and
+complexity in application that is at odds with investors' best interests. "45
+While the SEC attempts to reform soft-dollar practices, the question remains-why do soft
+dollars exist? Powerful market participants in the brokerage community benefit from the
+inherent murkiness of soft-dollar transactions. Third party providers of soft-dollar-eligible
+goods and services maintain a strong vested interest in supporting the current system.
+Investment advisors employing soft dollars increase net income by transferring a portion of
+investment management costs to clients.
+Soft-dollar activity flies in the face of reasonable governance. Investment advisors employ
+soft dollars to pay off consulting firms and increase investment management revenues, relying
+on the technique's opacity to hide from view. Fund managers incur frictional costs to pursue
+initiatives with directed commissions for which "hard" dollars are unavailable, frustrating the
+intentions of fund fiduciaries. Soft dollars and directed brokerage, the slimy underbelly of the
+brokerage world, ought to be banned.
+Compensation Arrangements for Nontraditional Assets
+Fee arrangements in the nontraditional asset arena typically include some form of profits
+interest. In spite of important limitations, when compared to typical marketable security deal
+terms, alternative asset deal structures better align interests of fund managers and fund
+providers, as the profits interest focuses manager attention on generating investment gains.
+Large co-investment by managers provides the strongest force for creating parallel interests,
+causing the manager to share in investment losses as well as in investment gains. Forcing
+managers to pay attention to the downside of an investment mitigates concerns about the one-
+way nature of profit sharing options.
+Without substantial levels of co-investment, deal structures in the alternative arena
+encourage investment managers to expose investor assets to risk, as the managers typically
+receive compensation in the form of an option-like profits interest. Facing a "heads I win, tails
+you lose" arrangement, managers respond by adopting an agent's perspective, focusing on
+achieving personal gains that may or may not correspond to generating risk-adjusted
+investment returns for the providers of capital.
+A particularly troublesome problem results from granting investment managers a profits
+interest without specifying an appropriate benchmark or hurdle rate. By paying 20 percent of
+gains after return of capital, investors give asset managers a windfall in the form of a profit
+participation in market-generated gains over which the manager exercises no control. In
+creating structures without a reasonable measure of the opportunity cost of funds, investors
+diminish the likelihood of realizing superior risk-adjusted returns.
+Alternative asset compensation arrangements consist of fee income, generally calculated on
+portfolio value or committed capital, and incentive schemes, generally calculated as a portion
+of investment gains. In the rarely achieved ideal world, fees offset ordinary costs of pursuing the
+investment business, while profits interests create incentives for adding value to the process. All
+too frequently, fees exceed the level required to cover costs, becoming a profit center, and profit
+participations cover more than value added, rewarding (or penalizing) managers for results
+beyond their control.
+Fee Income
+Reasonable fee income provides sufficient revenue to cover a firm's overhead, allowing
+investors to run the business comfortably. Investment principals deserve fair salaries, nicely
+appointed offices, and sufficient resources to structure and manage the portfolio. Ideally,
+investors would discuss with fund managers the level of resources required to operate the firm,
+setting a budget sufficient to meet the agreed-upon needs. In practice, few firms take a
+budgeted approach to setting fees. Most firms maintain industry-standard fee percentages as
+fund sizes grow and generate enormous cash flows simply from raising ever larger funds.
+Deal fees, paid to private fund managers upon consummation of an acquisition, serve to
+line the pockets of fund managers at the direct expense of investors. Typically found in the
+leveraged buyout arena, such fees motivate firms to do deals and provide an unnecessary
+addition to the more-than-generous compensation package represented by management fees
+and carried interests. Fees in excess of those required to run the business drive a wedge between
+the interests of investors and fund managers, subtly shifting the manager's focus to
+maintaining fees at the expense of generating returns.
+Profits Interests
+Incentive compensation in the form of a share of gains generated by fund investments provides
+a powerful tool to motivate fund managers. A fair and effective arrangement splits the value
+added by the fund manager between the manager and the investor. Both parties deserve to
+share in incremental gains, since without the manager's work there would be no value added,
+while without the investor's capital there would be no deal. Achieving a hurdle rate that reflects
+the investor's opportunity cost of capital represents the point at which a fund manager begins
+to add value. Unfortunately, in much of the private equity world, hurdles do not exist. By
+providing profits interests after return of capital, investors compensate fund managers
+inappropriately. Incentive compensation in the form of sharing value added causes managers to
+pursue the active investor's goal of creating risk-adjusted excess returns.
+A particularly egregious deal structure causes investors to pay incentive compensation to
+fund managers before the return of invested capital. Under some private equity arrangements,
+the investor's capital account declines by the amount of management fees paid. If "gains" are
+calculated off of the reduced base, fund managers may receive a profits interest on a fund that
+fails to return investor capital. At the very least, fund managers ought to return investor capital
+before reaping the significant rewards of incentive compensation.
+Fairness demands that investors earn hard hurdles before profit sharing begins. Hard
+hurdles represent rates of return that investors realize before fund managers participate in
+gains, with only profits above the hurdle rate subject to sharing. Soft hurdles, a popular
+marketing scheme, allow fund managers to "catch up" after exceeding the hurdle rate,
+providing little value for investors (except in the case where a manager produces truly miserable
+returns).
+Identifying an appropriate hurdle rate poses a tricky problem, since alternative markets lack
+a ready benchmark such as the S&P 500 for marketable domestic equities. In the case of
+absolute return, the cost of funds as expressed by a one-year interest rate provides a reasonable
+starting point. Since absolute return managers generally take short duration positions,
+measuring investment success relative to short-term interest rates makes sense. In the case of
+real assets, where expected returns fall between bonds (representing a lower risk measure of an
+institution's opportunity cost of funds) and stocks (representing a higher risk measure of
+opportunity cost), intermediate-term fixed income returns plus a small premium might give us
+an appropriate hurdle. When forming new funds, investors and fund managers revisit the
+question of an appropriate hurdle rate in light of changes in market conditions. For instance, as
+interest rates moved downward throughout the 1990s, appropriate real assets hurdle rates
+declined from high single digits to mid single digits.
+In contrast to reasonable deal structures sometimes available to investors in absolute return
+and real assets, investors in venture capital and leveraged buyouts face generally unattractive
+partnership terms. By compensating private equity managers with 20 percent, 25 percent, or
+30 percent of every dollar generated after return of capital, standard profit sharing
+arrangements fail to consider the opportunity cost of capital. At the very least, private
+managers ought to return a money market rate before collecting a profits interest. The long-
+term return on a marketable equity benchmark provides a hurdle rate more appropriate to the
+risk of private equity. In fact, the higher risk inherent in venture capital and leveraged buyout
+investments suggests using a multiple of long-term equity returns as a threshold for
+benchmarking private equity funds.
+Risk-adjusted marketable security hurdle rates for private investments avoid the problem of
+compensating (or penalizing) fund managers for market moves that they cannot control. In the
+bull market of the 1980s and 1990s, buyout managers "earned" 20 percent of the profits on
+gains attributable to stock-market-induced valuation increases. In a reasonable world, investors
+might compensate private managers with a profits interest in returns exceeding some premium
+over long-run historical results from marketable equity investments, implying a mid-teens
+hurdle rate.
+Fair incentive compensation schemes for alternative asset managers face nearly
+insurmountable obstacles. Under the current conditions of overwhelming demand for high
+quality groups, investors lack power to influence terms, facing the choice of accepting the
+standard deal or walking away. Investors hoping to encourage fund managers to behave as
+principals look to other aspects of deal structure.
+Absolute Return Investment Vehicles
+Absolute return managers, operating in a marketable securities environment, generally allow
+investors to withdraw assets and to make contributions on a reasonably frequent basis.
+Although partnership terms generally restrict the timing and size of inflows and outflows,
+stable investors face the possibility of incurring costs created by other investors' cash moving in
+and out. Cash contributions to an existing partnership dilute the interest of existing investors.
+By buying into an existing commingled fund, new investors participate in an established
+portfolio without paying transactions costs to establish positions. Cash withdrawals pose the
+same free rider problem as departing monies fail to bear the full burden of trading costs
+required to raise the cash necessary to compensate departing investors.
+A more significant problem arises when cash outflows disrupt a manager's investment
+strategy. During the market panic in late 1998, many hedge fund managers worried about the
+magnitude of year-end withdrawals. The threat of potentially large withdrawals posed a
+dilemma, as on the one hand managers needed to prepare to accommodate departing investor
+demands while on the other hand asset sales at depressed prices harm the portfolio. The
+confluence of tough market conditions and concern regarding client withdrawals caused many
+managers to raise cash by selling assets trading at temporarily depressed prices, impairing results
+for the manager and steadfast investors alike.
+Fund managers solve the free rider problem by allocating costs appropriately to entering
+and exiting investors. In the case of easily measured transactions costs, managers simply assess
+entry and exit fees, resulting in a fair allocation of costs. To meet the objective of distributing
+costs fairly, fees must be paid to the fund, not to the manager, as the fees offset costs incurred
+by the fund. More complicated procedures address the issue of allocating less predictable costs,
+particularly charges from transactions conducted in markets with poor liquidity. A rough
+approximation of fairness results from segregating new investor contributions, investing the
+funds, and contributing the resulting assets to the general portfolio at cost. Even though the
+package of securities purchased by the entering investor may not bear precisely the same level of
+transactions costs as would trades in existing portfolio securities, if the manager makes new
+purchases in markets similar to the existing holdings the new entrant bears a fair burden. Upon
+exit, the departing investor receives a pro rata share of the general portfolio in a segregated
+account, incurring the transactions costs associated with the liquidation process and insulating
+continuing investors from any adverse impact. By causing entering and exiting investors to
+absorb costs related to purchases and sales, fund managers avoid unfair treatment of existing
+investors. Most importantly, the process allows managers to invest assets without regard to
+concerns regarding extraordinary withdrawal requests, since departing investors simply receive
+the proceeds of their proportionate share of the fund.
+Private Equity Investment Vehicles
+Private equity managers best serve investor interests by focusing undivided attention on a
+single investment vehicle. With only one place to conduct business, managers avoid the
+inevitable conflicts that arise when managing multiple funds with non-coincident goals.
+For example, if a buyout firm manages an equity pool and a mezzanine debt pool, tensions
+arise in pricing transactions. Better pricing on the mezzanine debt leads to worse results for the
+equity holders, and vice versa. Some firms attempt to deal with pricing issues by creating a
+formula for determining the terms of mezzanine finance. By pre-specifying the relationship
+between the mezzanine coupon level and U.S. Treasury rates, as well as pre-identifying the size
+of the equity kicker for the bondholders, fund managers hope to avoid the tricky issues
+involved in dividing expected returns between competing sets of investors.
+Because dynamic market conditions constantly alter terms of trade for various investment
+tools, formulaic approaches inevitably fail to reflect the current market. If the formula
+determines worse-than-market terms for mezzanine debt, fund managers fail to discharge
+fiduciary duties to mezzanine investors. If the formula results in a better-than-market deal,
+equity investors suffer. The convenience of controlling a captive mezzanine fund comes at the
+cost of a serious conflict between the interests of lenders and owners. In the event of financial
+distress, problems become even more painfully obvious with some members of the firm
+wearing mezzanine hats and others wearing equity hats. If equity owners seek forbearance from
+lenders, fund managers find themselves in a hopelessly conflicted position. The best course for
+bondholders frequently differs from the path preferred by equity owners, posing a dilemma for
+even the best intentioned fund manager. In the case of bankruptcy, the problems worsen as
+interests clash in the zero-sum game of allocating value to debt and equity. By creating and
+managing multiple funds, managers invite exposure to the crossways pull of competing
+interests.
+While debt and equity funds provide a dramatic example of tensions arising from
+management of multiple funds, complementary activities create similar types of issues. Criteria
+that determine which fund receives a particular transaction, carefully delineated in the fund
+offering documents, frequently fail to address subsequent realities, creating messy allocation
+issues for fund managers. Perhaps even more important, the fund manager faces the daily
+problem of deciding which particular activity will receive the manager's time and attention.
+Because multiple funds contain different sets of investors with different interests, in choosing
+which activities to pursue the fund manager decides which set of investors to serve.
+Fund manager investment outside of investment pools deserves careful scrutiny. Investment
+principals must avoid doing private deals for their own account, even if the transactions seem
+too small, too funky, or otherwise inappropriate for the institutional fund. Investors deserve
+the complete dedication of fund manager investment efforts. Undiluted focus of all
+professional energies on the management of a single investment pool forms an important
+starting point in serving investment client needs.
+KKR's Deal Structure Flaws
+Poorly structured private investment deals often produce dramatically misaligned interests.
+The well known buyout firm, Kohlberg, Kravis, & Roberts (KKR), negotiated partnership
+terms in its 1993 fund that enriched the principals regardless of the results for the limited
+partners. Like managers of most private equity funds, KKR received a carried interest of 20
+percent of the partnership's profits. Unlike most funds, KKR did not aggregate investments
+when calculating the profits interest. That is, KKR collected 20 percent of the profits on
+successful deals, with no offset for losses incurred in failed transactions, creating an incentive to
+roll the dice. KKR owned a share of the profits of big wins, but suffered none of the pain of big
+losses. In essence, the deal structure encouraged the firm to take enormous risk by creating
+option-like payoffs for the general partners through use of extreme financial or operating
+leverage.
+KKR's sagreement with the limited partners called for a management fee of 1.5 percent of
+assets, typical of leveraged buyout partnerships. Such management fees, designed to cover the
+cost of running a buyout fund's business, became a profit center for KKR because of the
+enormous size of funds under supervision. Not satisfied with excessive management fees, KKR
+collected deal fees for consummating transactions, monitoring fees for managing positions and
+investment banking fees for subsequent capital market transactions. The overly generous
+management fees, deal fees, monitoring fees, and investment banking fees drive a wedge
+between the interests of the general partners (more is better) and the limited partners (less is
+more). Contrast this with the terms of Warren Buffett's original partnership, in which he
+charged no management fee, believing that he should only profit if his co-investors profited!46
+KKR's August 1995 purchase of Bruno's illustrates the misaligned interests. The $1.2
+billion transaction, which included an equity investment of $250 million, involved the
+acquisition of a chain of supermarkets headquartered in Mississippi. KKR charged an
+acquisition fee of $15 million, which exceeded the general partners' investment by a significant
+margin. Pro-rated management fees, charged on committed capital, amounted to $3.75 million
+on an annual basis. The monitoring fee consumed an additional $1 million annually.
+Moreover, in 1997 KKR charged Bruno's investment banking fees of $800,000. In exchange
+for financing the purchase and paying tens of millions of dollars of fees, in February 1998, the
+limited partners lost their entire investment when Bruno's declared bankruptcy, filing for
+Chapter XI.
+Properly structured deals cause general partners and limited partners to share in both profits
+and losses. If a managing agent shares only in profits, incentives to take risk abound.
+Management fee income that covers only overhead forces investors to perform before receiving
+extraordinary profits. Fees above the basic overhead level represent an undeserved transfer from
+limited partners to general partners. The combination of high levels of fee income and option-
+like payoff structure allowed KKR to profit unreasonably on the Bruno's deal, while the firm's
+investors wrote off the transaction.
+Some aspects of the unusually egregious fee structure employed by KKR disappeared in
+1996, when the firm raised a then-market-leading $5.7 billion fund. Pressured by substantial
+institutional investors, the buyout firm agreed to aggregate the results of all deals in the fund,
+offsetting deficits from losers before taking profits on winners. While KKR's investors expect
+to benefit from the pooling of transaction results, the firm continues to benefit from
+extraordinary levels of fee income, ensuring general partner success regardless of limited partner
+investment results.
+KKR's fee income in 2006 illustrates the role of fees in the stunning transfer of wealth from
+limited partners to general partners. According to the July 3, 2007 preliminary S-1 filed with
+the SEC to facilitate KKR's proposed IPO, in 2006 the firm received $67 million in monitoring
+fees and $273 million in transaction fees. Harvard Business School Professor Josh Lerner
+estimates that fund management fees in 2006 amounted to approximately $350 million.47
+KKR's senior professionals, who reportedly numbered twenty-five, collected an estimated $690
+million in fees simply for showing up, turning on the lights, and going about their day-to-day
+business.
+In spite of KKR's 1996 removal of the deal-by-deal incentive compensation clause, investors
+generally exercise little influence over deal terms, as investment managers hew to an industry
+standard scale that provides higher levels of income at lower risk than would a fair
+compensation structure. Consider an environment where managers receive base fees to cover
+reasonable overhead and earn a portion of excess returns to provide incentive. Since a majority
+of market participants fail to beat a fair risk-adjusted benchmark, most fund managers would
+face a substantial decline in income under a fair deal structure.
+Because profits interests begin to accrue after return of capital, private managers collect
+incentive compensation after investors receive a zero rate of return. If private managers received
+a profits interest in gains only above a risk-adjusted benchmark, based on historical results the
+overwhelming number of managers would fail to earn incentive compensation. Because the
+investment management industry receives compensation far in excess of levels justified by the
+degree of value created, investors encounter enormous resistance to institution of reasonable
+deal structures.
+Unfortunately, when altering the terms of the trade, investors face the challenge of making
+industry-wide changes, since manager-by-manager change introduces the potential for
+instability. If a single private equity manager promoted a fair deal structure, compensation for
+that firm's principals would fall far short of industry standards. Personnel at the firm could
+cross the street, work for a private fund operating under the unfair profit sharing regime,
+thereby increasing personal income dramatically. The innovative private fund, offering a fair
+deal, retains only those principals without other alternatives.
+Investors find terms of trade in the private equity arena moving away from fairness. Fees on
+multibillion-dollar buyout funds generate tens of millions of dollars per annum, far in excess of
+amounts necessary to fund reasonable levels of partnership operating expenses. Buyout fund
+profits interests take 20 percent of returns created by the stock market's upward bias, not to
+mention 20 percent of returns produced by highly leveraged capital structures. After adjusting
+for fees, profits interests, and the risk, no excess return remains for the overwhelming number
+of capital providers.
+Venture capital investors fare little better. In the past, the venture community fell into a neat
+three-tier structure with Kleiner Perkins atop the hierarchy earning a 30 percent profits
+interest, a handful of superb firms receiving a 25 percent carry, and the rest of the industry
+taking home 20 percent of gains. The late 1990s Internet mania turned many solid venture
+capitalists into bull market geniuses, causing them to demand an increase in compensation
+from 20 percent of profits to 25 percent or even 30 percent. While a few making the move
+deserve inclusion in the elite ranks of the industry, most simply say "it's the market" or "we
+need to do it for competitive reasons." Such top-of-the-market increases in compensation
+persisted through the subsequent period of weak venture returns, creating a pattern one-way
+ratcheting of deal terms against investor interests.
+A recent study by two Wharton School academics, Andrew Met-rick and Ayako Yasuda,
+produced some startling results regarding the relationship between fee income and profits
+interests. The authors examined detailed records of 238 funds raised between 1992 and 2006.
+Based on their modeling of the partnership characteristics, "about 60 percent of expected
+revenue comes from fixed-revenue components which are not sensitive to performance."48 The
+conclusion that the majority of general partner compensation takes the form of fee income calls
+in question the basic private equity partnership structure.
+Michael Jensen, professor emeritus at the Harvard Business School, expressed concerns
+about private equity compensation schemes in a September 2007 interview with the New York
+Times's Gretchen Morgenson. Jensen, "the man whom many consider to be the intellectual
+father of private equity," "deplores the newfangled fees that private equity firms are levying on
+their clients." Jensen said, "I can predict without a shred of doubt that these fees are going to
+end up reducing the productivity of the model. And it creates another wedge between the
+outsiders and insiders, which is very, very serious. People are doing this out of some short-run
+focus on increasing revenues, and not paying attention to what the strengths of the model
+are. "49 Investors in private equity fare best with smaller, more entrepreneurial fund managers
+that benefit less from fees and more from profit participation.
+Negotiating Change
+While long established practices limit the ability of investors to negotiate fair deal terms, in the
+early 1990s the real estate industry presented an opportunity for radical restructuring. After
+recklessly throwing staggering amounts of capital into real estate in the 1980s, institutions
+withdrew almost completely from the market after the turn-of-the-decade collapse in prices.
+Those few investors interested in committing funds faced a host of unattractive investment
+management alternatives.
+Large fee-driven advisors dominated institutional real estate activity in the 1980s. Firms
+such as AEW, Copley, Heitman, JMB, LaSalle, RREEF, and TCW amassed billions of dollars
+in assets, driven by the steady stream of acquisition fees, management fees, and disposition fees.
+Not surprisingly, the real estate advisory community adopted a laser-like focus on initiating,
+maintaining and enhancing flows of fee income, often neglecting even to consider the notion
+of generating investment returns for clients.
+JMB's Fee Bonanza
+Headquartered in Chicago and named for Robert Judelson, Judd Malkin, and Neil Bluhm,
+JMB typified the fee orientation of the 1980s advisory crowd. Not content to collect flows of
+income based on the fair value of client assets, the firm went to extraordinary lengths to collect
+its fees even as portfolio assets withered in the 1990s real estate collapse.
+Exhibiting nearly unbelievable greed, JMB retained underwater positions simply to collect
+fees from clients. In July 1986, the firm acquired Argyle Village Square, a retail property in
+Jacksonville, Florida, for $22 million as part of a portfolio of properties held in a commingled
+fund, Endowment and Foundation Realty-JMB II. Encumbered by a mortgage of $12.4
+million, the property generated fees for JMB of 1.25 percent on the gross value of the asset,
+equivalent to nearly 2.3 percent on the original equity investment.
+By 1992, Argyle Village Square declined in value to the extent that the property's mortgage
+exceeded its market price. The anchor tenant, discount department store Zayre's, vacated its
+space, dramatically impairing the property's future prospects. Instead of turning the shopping
+center over to the lender, JMB held the asset on its books at zero equity value, continuing to
+collect fees from investors based on the gross value of the property. With a cash return of 1.1
+percent (after debt service and before fees), Argyle Village Square's fee of 1.25 percent exceeded
+the property's income. To add injury to insult, JMB used investor cash flow from other assets
+to make up the difference, ensuring the continued flow of the full level of fees to the firm. In
+spite of repeated requests from investors to dispose of Argyle Village and stop the diversion of
+portfolio cash flow to pay fees, JMB retained the shopping center and piggily fed at the trough
+of investor assets.
+In the largest real estate acquisition ever," JMB's 1987 purchase of Cadillac Fairview, a
+collection of Canadian retailing properties, generated a fee bonanza for the firm on a
+stupendous scale.50 Continuing its practice of assessing fees on the gross value of transactions,
+JMB's initial fee amounted to one percent of the C$6.8 billion deal, representing a load of 3.4
+percent on original equity contributions of approximately C$2.0 billion. JMB included in the
+gross transaction valuc a portfolio of assets worth approximately C$560 million already under
+contract for sale, causing the firm to "carn" C$5.6 million for acquiring and immediately
+selling assets with absolutely no potential to benefit investors.
+JMB's "feeing" frenzy continued with annual asset management fees of 0.5 percent per year
+on gross fair market value (equivalent to 1.7 percent of initial equity), participation fees of 1.75
+percent per year on cash flow and capital proceeds, and disposition fees of 1.0 percent on gross
+proceeds (with a parenthetical reminder in the Offering Memorandum that gross proceeds
+includes indebtedness," in case the investor forgot).
+In addition to initial fees, annual fees, participation fees, and disposition fees, JMB retained
+the right to provide property management, leasing, insurance brokerage, and other services
+with compensation negotiated on an "arms-length" basis. Not satisfied with the staggering
+array of fee-generating opportunities, JMB contracted to receive incentive fees of 15 percent of
+profits after providing a 9 percent simple annual return to investors.
+Unfortunately for JMB and its co-investors in Cadillac Fairview, in the tough environment
+of the early 1990s, the overpriced, overleveraged buyout suffered. Notwithstanding an
+additional 1992 equity contribution of C$700 million, by 1994 interests representing the
+C$2.7 billion of equity contributed by investors traded at 20 cents to 25 cents on the dollar. As
+pension investors from California, Massachusetts, Illinois, and Iowa watched the relentless
+decline in asset valuc, JMB continued to collect its management fees.
+Responding to outrage over the real estate advisor's insulation from the failure of the
+Canadian mega-deal, JMB voluntarily reduced its annual fee from $30 million to $25 million,
+while noting that the fee compensated the firm for advising Cadillac Fairview, not the
+investors! Judd Malkin highlighted the lack of coincidence of interest with his investors,
+observing that "[i]f I cut my fees by one-half, it still doesn't change their return."51
+Succumbing to the inevitable consequence of too much debt and too little cash flow, in
+December 1994, Cadillac Fairview filed for protection from creditors in Canadian bankruptcy
+court. In spite of the failure of the company and massive losses by its investors, JMB
+aggressively sought to retain the gravy train, suing Cadillac Fairview for C$225 million, of
+which C$180 million represented the future stream of fees for advising the company on its
+Canadian properties. JMB settled the fee claim for C$22.5 million in 1995.
+In spite of the massive failure of Cadillac Fairview and JMB's outrageous treatment of
+investors, Neil Bluhm raised another institutional fund, Walton Street Capital, in 1997. The
+original fund paved the way for a series of funds, which as of 2007 boasted $3.5 billion of
+aggregate equity commitments. Bluhm's asset-gathering ability and fee-charging acumen
+created a net worth sufficient to merit a rank of 215 on the 2006 Forbes' list of the 400
+wealthiest Americans. $2
+While JMB may represent the worst of the fee-driven excesses, in the 1980s all major real
+estate advisors focused on collecting fees, not generating investment returns. Institutions
+hoping to exploit real estate opportunities in the early 1990s faced a collection of discredited
+advisors operating with fundamentally flawed deal structures. Fortunately, an almost total
+withdrawal of capital from the real estate market provided substantial negotiating leverage to
+investors willing to commit funds to the cash-starved asset class.
+The capital drought of the early 1990s placed investors and real estate fund managers on equal
+footing, allowing negotiation of fair deal terms. Providers of funds negotiated management
+fees sufficient to cover overhead, but insufficient to create a profit center. Investors obtained a
+hard hurdle, forcing managers to provide a fair return before earning a profits interest. In cases
+where real estate managers enjoyed a substantial net worth, general partner commitments to
+funds amounted to tens of millions of dollars, often exceeding the contributions made by
+many of the limited partners. When managers exhibited more modest means, recourse loans
+from the partnership provided funds for the manager's co-investment.
+The dearth of capital in the early 1990s created an unusual opportunity for investors to alter
+the compensation arrangements for real estate investing. Moving from the dysfunctional fee-
+driven agency structure of the 1980s to a well-aligned investment-return-oriented principal
+structure in the 1990s promoted the interests of investors and fund managers alike.
+While the return of capital to real estate investing in the late 1990s croded some of the deal
+structure gains, many managers chose to continue employing principal-oriented structures
+even when presented with rich fee-driven opportunities. Aside from purely economic
+considerations, the loyalty engendered by previous successful pursuit of mutually rewarding
+investment activities contributed materially to the decision to continue working with the
+existing structure. The dislocations in the real estate markets contributed to long lasting
+changes in institutional deal terms.
+CONCLUSION
+Market efficiency creates substantial hurdles for investors pursuing active management
+strategies, causing most to fail even to match results of market benchmarks. Although trying to
+beat the market proves tough and costly, fiduciaries frequently accept active manager claims at
+face value, attribute investment success to skill (not luck), and fail to adjust results for risk. In
+the face of active management obstacles, market players respond to the thrills and excitement
+generated by playing a game with scores tallied in the millions, and even billions, explaining the
+nearly universal pursuit of active strategies by institutional investors.
+Thoughtful investors approach active management opportunities with great skepticism,
+starting with the presumption that managers exhibit no skill. Historical performance numbers
+deserve careful scrutiny, with astute observers mindful of the part good fortune plays in
+successful track records. Odds of winning the active management game increase when
+committing funds to managers possessing an "edge" likely to produce superior performance in
+extremely competitive markets.
+Selecting the right people to manage assets poses the single biggest challenge to fiduciaries,
+since integrity, intelligence, and energy influence portfolio outcomes in the most fundamental
+manner. The actions of external managers contribute not only to investment performance, but
+also to the reputation and public perception of the institution itself, forcing fiduciaries to
+embrace extremely high standards in manager selection.
+Appropriate organizational structure plays a part in successful execution of investment
+programs by ensuring sufficient alignment of interest between the institutional fund and the
+external advisor. Independent investment advisors with carefully structured economic
+incentives stand the greatest chance of producing high risk-adjusted returns, as appropriate
+incentives cause managers to place institutional goals ahead of personal agendas. While
+thoughtful deal terms and sensible organizational attributes contribute to the likelihood of
+success, even the most carefully constructed arrangements fail when implemented by the
+wrong people.
+Entrepreneurial firms provide the greatest likelihood of dealing successfully with ever
+changing market dynamics, ultimately increasing the chances of delivering superior investment
+returns. Unfortunately, successful firms contain the seeds of their own destruction, as size
+inhibits performance and age saps energy. Vigilant fiduciaries stand ready to cull the old and
+tired, while identifying the new and energetic.
+Deal structure plays a critical role in shaping the behavior of investment managers and
+determining the fairness of investment gain and loss allocations. By encouraging asset managers
+to behave as principals, appropriate deal terms cause investors to seek investment gains and de-
+emphasize return-reducing streams of fee income.
+Typical compensation arrangements cause asset manager income to depend on factors
+beyond the investment advisor's control. As bull market gains inflate marketable security
+portfolios and increase private fund assets, managers benefit through enhanced management
+fees and profits interests. Bear market losses impose costs unrelated to manager actions. In the
+case of both marketable and private deal structures, investment advisors' compensation waxes
+and wanes with the market's fortunes, resulting in carnings streams not directly tied to the level
+of value created.
+By operating under asset-based compensation arrangements that fail to consider value-
+added measures, investment managers lose focus on return generation, emphasizing instead a
+stay-in-business strategy designed to protect streams of fee income. Partly as a consequence of
+poor deal structure, standard compensation arrangements allocate investment gains and losses
+unfairly, frequently enriching the investment manager while generating substandard risk-
+adjusted returns to providers of funds.
+Appropriate deal terms serve to encourage fund managers to behave as principals, causing
+them to pursue gains while avoiding losses. Structural characteristics that play an important
+role in aligning investment manager and investor interests include the nature of the investment
+vehicle, level of fees, form of incentive compensation, and size of manager co-investment. By
+secking investment arrangements that motivate managers to pursue high levels of risk-adjusted
+portfolio gains, investors encourage a focus on generating satisfactory investment results.
+Investors hoping to beat the odds by playing the game of active management face daunting
+obstacles ranging from the efficiency in pricing of most marketable securities to the burden of
+extraordinary fees in most alternative asset investment vehicles. Only by identifying extremely
+high quality people operating in an appropriately structured organization do active investors
+create an opportunity to add value to the investment process. Painstaking identification,
+careful structuring, and patient implementation of investment management relationships
+provide essential underpinnings to an active management program.
